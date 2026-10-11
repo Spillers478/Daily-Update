@@ -1,0 +1,32 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Plague mystery revives concerns over not-to-secret Russian bioweapons program",
+      "description": "Marshall Billingslea reveals Soviet defector Ken Alibek exposed a massive biological weapons program involving antibiotic-resistant plague research.",
+      "url": "https://www.foxnews.com/politics/plague-mystery-revives-concerns-russian-bioweapons-program",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/anti-plague-institute-2-scaled.jpg",
+      "publishedAt": "2026-10-10T10:00:49Z",
+      "content": "Marshall Billingslea was a Senate Foreign Relations Committee staffer in the 1990s when he sat down with one of the highest-ranking defectors from the Soviet biological weapons program and began lear\u2026 [+5783 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Radaronline.com"
+      },
+      "author": "Ashlyn Walker",
+      "title": "EXCLUSIVE: White House Bomb Threat Suspect's Chilling Anthrax and C4 Messages Exposed in FBI Investigation",
+      "description": "FBI investigators uncovered chilling messages referencing anthrax, C4 explosives and previous government building threats in a White House bomb scare.",
+      "url": "https://radaronline.com/p/white-house-bomb-threat-jacob-aaron-hicks-anthrax-c4-messages-investigation/",
+      "urlToImage": "https://media.radaronline.com/brand-img/jQZ1HAuyn/1200x628/exclusive-white-house-bomb-threat-suspects-chilling-anthrax-and-c4-messages-exposed-in-fbi-investigation-1-1791570196557.jpg",
+      "publishedAt": "2026-10-09T20:30:00Z",
+      "content": "A federal investigation into an alleged White House bombing threat has uncovered disturbing messages referencing anthrax, military-grade explosives, and a suspect's history of threatening to kill peo\u2026 [+3327 chars]",
+      "cocom": "USNORTHCOM"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "groups": {
+    "https://www.thelocal.de/20261010/germany-pursues-new-russia-sanctions-despite-us-diesel-deal": "c",
+    "https://www.nakedcapitalism.com/2026/10/links-10-10-2026.html": "d",
+    "https://www.thejournal.ie/russia-strikes-children-ukraine-city-7188986-Oct2026/": "a",
+    "https://www.tomshardware.com/tech-industry/data-centers/second-russian-data-center-targeted-by-ukrainian-drones-in-just-two-days-as-yandex-reels-from-another-service-outage-russian-state-media-admits-that-multiple-modules-completely-taken-out": "e",
+    "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o": "a",
+    "https://www.abc.net.au/news/2026-10-10/russian-air-strike-ukraine-after-trump-putin-diesel-deal/107251886": "a",
+    "https://www.rte.ie/news/2026/1010/1594829-3-children-among-11-dead-in-russian-strikes-on-ukraine/": "a",
+    "https://www.cbsnews.com/news/russia-strikes-ukraine-trump-diesel-deal/": "a",
+    "https://timesofindia.indiatimes.com/toi-blogs/power-policy/ukraine-russia-war-indias-proposal-for-peace/articleshow/134851330.cms": "f",
+    "https://punchng.com/trump-hails-russia-deal-to-release-diesel-as-midterms-loom/": "b",
+    "https://www.dailymail.com/news/article-16198285/Zelensky-hits-Russian-oil-hub.html": "g",
+    "https://www.irishtimes.com/world/europe/2026/10/10/russian-attacks-kill-seven-in-ukraine-after-trump-strikes-diesel-deal-with-putin/": "a",
+    "https://www.rferl.org/a/ukraine-russia-drone-attack-zaporizhzhya-kyiv/33874079.html": "a",
+    "https://abcnews.com/International/wireStory/russian-attacks-kill-7-ukraine-after-trump-strikes-137153808": "a",
+    "https://www.yahoo.com/news/us/articles/russian-attacks-kill-7-ukraine-071733676.html": "a",
+    "https://biztoc.com/x/ca0ddbe252efb80e": "h",
+    "https://biztoc.com/x/8116eb32deac83ff": "i",
+    "https://www.rferl.org/a/us-ukraine-talks-miami-russian-air-strikes/33873365.html": "j",
+    "https://freerepublic.com/focus/f-news/4398654/posts": "b",
+    "https://www.americanthinker.com/articles/2026/10/europe-and-russia-flirt-with-nuclear-war/": "k",
+    "https://english.khabarhub.com/2026/10/571410/": "b",
+    "https://www.breitbart.com/politics/2026/10/09/trump-putin-deal-russian-diesel-fuel-u-s/": "b",
+    "https://www.commondreams.org/news/trump-diesel": "b",
+    "https://www.mediaite.com/media/news/morally-wrong-trump-sparks-anger-on-left-and-right-by-lifting-russian-sanctions/": "b",
+    "https://en.protothema.gr/2026/10/10/trump-announced-an-energy-deal-with-putin-he-says-that-more-than-4-8-million-tonnes-of-russian-diesel-will-gradually-enter-the-market-and-promises-rapid-price-drops/": "b"
+  },
+  "contradictions": [
+    {
+      "group": "a",
+      "claim_type": "figures",
+      "summary": "Sources give different death tolls for the Russian strikes on Zaporizhzhia on October 10, ranging from 7 to at least 15.",
+      "sources": [
+        {
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o",
+          "says": "Glide bomb attack killed at least 15 people, with more possibly buried in the rubble"
+        },
+        {
+          "source": "TheJournal.ie",
+          "url": "https://www.thejournal.ie/russia-strikes-children-ukraine-city-7188986-Oct2026/",
+          "says": "11 killed, including three children"
+        },
+        {
+          "source": "RTE",
+          "url": "https://www.rte.ie/news/2026/1010/1594829-3-children-among-11-dead-in-russian-strikes-on-ukraine/",
+          "says": "At least 11 killed, including three children"
+        },
+        {
+          "source": "Radio Free Europe/ Radio Liberty",
+          "url": "https://www.rferl.org/a/ukraine-russia-drone-attack-zaporizhzhya-kyiv/33874079.html",
+          "says": "At least 8 killed, including three children, and 16 wounded"
+        },
+        {
+          "source": "Yahoo Entertainment",
+          "url": "https://www.yahoo.com/news/us/articles/russian-attacks-kill-7-ukraine-071733676.html",
+          "says": "At least 8 killed in the Zaporizhzhia region"
+        },
+        {
+          "source": "Abcnews.com",
+          "url": "https://abcnews.com/International/wireStory/russian-attacks-kill-7-ukraine-after-trump-strikes-137153808",
+          "says": "7 killed, including three children, and at least 10 wounded"
+        }
+      ]
+    }
+  ]
+}
