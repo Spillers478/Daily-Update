@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Susie Blann, Elise Morton",
+      "title": "Kyiv pushes back on Trump\u2019s call for a new Ukrainian president as drones hit Russian data hub - AP News",
+      "description": "Ukrainian President Volodymyr Zelenskyy says Russia alone is responsible for the war in Ukraine. He vows to continue strikes on Russian oil refineries despite criticism from U.S. President Donald Trump. Trump blames Zelenskyy for high diesel prices and sugges\u2026",
+      "url": "https://apnews.com/article/russia-ukraine-war-yandex-trump-zelenskyy-f621fa788196f204448e7f75fcc78c68",
+      "urlToImage": "https://dims.apnews.com/dims4/default/a7170fd/2147483647/strip/true/crop/7756x5168+2+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F81%2F3b%2F0bfbf4063c4b93b28da4b83114e5%2F24e40a446d714198af1257d20d08cf1f",
+      "publishedAt": "2026-10-11T11:26:00Z",
+      "content": "KYIV, Ukraine (AP) Only Russia is responsible for the war in Ukraine, Ukrainian President Volodymyr Zelenskyy said Sunday as he vowed to press ahead with strikes on Russian oil refineries, despite cr\u2026 [+4715 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "UK does not support Trump's Russia diesel deal, says Streeting - BBC",
+      "description": "The defence secretary says the US and its allies need to increase pressure on Vladimir Putin to end the war with Ukraine.",
+      "url": "https://www.bbc.com/news/articles/c65yn92nj423o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/231d/live/873e7e90-c563-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-10-11T11:00:49Z",
+      "content": "Earlier this year, John Healey - now the chancellor - resigned as defence secretary accusing Sir Keir Starmer's government of not providing enough money for defence and said the UK had to be spending\u2026 [+78 chars]"
+    }
+  ]
+}

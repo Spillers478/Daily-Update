@@ -1,0 +1,33 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+      "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6204/live/aaaf6ea0-c21d-11f1-b7d8-6f930589c871.jpg",
+      "publishedAt": "2026-10-10T22:13:08Z",
+      "content": "Hpa-An is the latest to be caught in a dragnet that's already ensnared an estimated 100,000 young recruits over the past two-and-a-half years many of them via coercion, extortion and abductions.\r\n\"Se\u2026 [+1886 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Doree Lewak",
+      "title": "Israeli mom whose son was murdered on Oct. 7 nearly lost daughter in hijacked flydubai terrorist attack",
+      "description": "An Israeli mom who lost her son in the Oct. 7 Hamas massacre nearly buried another child when her daughter survived an attempted hijacking aboard a flydubai flight Sept. 30 -- just days before the third anniversary of the attack.",
+      "url": "https://nypost.com/2026/10/10/world-news/israeli-mom-whose-son-was-murdered-on-oct-7-nearly-lost-daughter-in-hijacked-flydubai-terrorist-attack/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/144378426.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-10T11:24:25Z",
+      "content": "An Israeli mom whose son was murdered in the Oct. 7 Hamas massacre cheated a second devastating tragedy when her daughter survived the attempted hijacking aboard a flydubai flight last week.\r\nIm stil\u2026 [+4726 chars]",
+      "cocom": "USCENTCOM"
+    }
+  ]
+}

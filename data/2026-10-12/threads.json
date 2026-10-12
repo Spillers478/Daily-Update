@@ -1,0 +1,3531 @@
+{
+ "date": "2026-10-12",
+ "labels": {
+  "flagship-ru-ua": "Russia / Ukraine",
+  "flagship-ir-il": "Iran / Israel / Middle East",
+  "T15": "Disaster / Access Denial",
+  "T01": "Military Conflict",
+  "T02": "Humanitarian Crisis",
+  "T03": "Bio/Chemical Attack",
+  "T04": "Infectious Outbreak / Pandemic",
+  "T05": "Political Instability / Coup Risk",
+  "T06": "Mass Uprising / Regime-Threatening Unrest",
+  "T07": "Nuclear Weaponry / Attack",
+  "T08": "VEO / Regional Insecurity",
+  "T09": "American Hostage / Kidnapping",
+  "T10": "Military Modernization",
+  "T11": "Military Exercise",
+  "T12": "Large-Scale Cyber Attack / Internet Blackout",
+  "T13": "Migration / Refugee Crisis",
+  "T14": "Threats to US Embassies / Diplomats"
+ },
+ "sections": {
+  "flagship-ru-ua": {
+   "home": [
+    "th-65af1173",
+    "th-81209c73",
+    "th-99875768",
+    "th-3ca16e88",
+    "th-4189e7a7",
+    "th-4f15788b",
+    "th-999eb1be",
+    "th-e4b9be96",
+    "th-ef1c7390",
+    "th-bf33f885",
+    "th-4c853f1b",
+    "th-1b50880c"
+   ],
+   "linked": []
+  },
+  "flagship-ir-il": {
+   "home": [
+    "th-347d4fe6",
+    "th-1364dc7f",
+    "th-59cfdb76",
+    "th-3b6c9be7",
+    "th-edc544e9",
+    "th-a399d997",
+    "th-1952f673",
+    "th-c3992e99",
+    "th-786d27de",
+    "th-62774289",
+    "th-31e13d8b",
+    "th-a6c1071c",
+    "th-a5b6aef5",
+    "th-0d9f1d87",
+    "th-fa81748b",
+    "th-f46bc743",
+    "th-12d3bf1a",
+    "th-0721589d",
+    "th-f78446e1",
+    "th-47328093",
+    "th-ebee11f0",
+    "th-c6f0256b"
+   ],
+   "linked": []
+  },
+  "T15": {
+   "home": [
+    "th-1369f444",
+    "th-54185a5a",
+    "th-2c70347b",
+    "th-4fe99b73"
+   ],
+   "linked": []
+  },
+  "T01": {
+   "home": [
+    "th-e378e34c",
+    "th-43faa1ff"
+   ],
+   "linked": [
+    "th-59cfdb76"
+   ]
+  },
+  "T02": {
+   "home": [
+    "th-259302cd",
+    "th-6451f2a7",
+    "th-1524aece",
+    "th-9c19081a",
+    "th-b92439f9",
+    "th-0e90e5ef",
+    "th-cca11a05"
+   ],
+   "linked": []
+  },
+  "T03": {
+   "home": [],
+   "linked": []
+  },
+  "T04": {
+   "home": [
+    "th-131ef230",
+    "th-f6b7610d",
+    "th-5d740113"
+   ],
+   "linked": []
+  },
+  "T05": {
+   "home": [
+    "th-55a6337c",
+    "th-57c44de3",
+    "th-4631bfa4"
+   ],
+   "linked": []
+  },
+  "T06": {
+   "home": [
+    "th-026cce30",
+    "th-78402a3c",
+    "th-a5fdea54",
+    "th-691401fa",
+    "th-da057a2b",
+    "th-db180186",
+    "th-ddab444c"
+   ],
+   "linked": []
+  },
+  "T07": {
+   "home": [
+    "th-b0700b74",
+    "th-a834e49d"
+   ],
+   "linked": []
+  },
+  "T08": {
+   "home": [
+    "th-4e3ecbab",
+    "th-a976a218"
+   ],
+   "linked": []
+  },
+  "T09": {
+   "home": [],
+   "linked": []
+  },
+  "T10": {
+   "home": [
+    "th-5d53f8f3",
+    "th-c9f1b043",
+    "th-cf7b2446"
+   ],
+   "linked": []
+  },
+  "T11": {
+   "home": [
+    "th-eb684b92"
+   ],
+   "linked": []
+  },
+  "T12": {
+   "home": [],
+   "linked": []
+  },
+  "T13": {
+   "home": [
+    "th-2025f4db",
+    "th-8fa5c851",
+    "th-2bc54134",
+    "th-3a9376a5"
+   ],
+   "linked": []
+  },
+  "T14": {
+   "home": [],
+   "linked": []
+  }
+ },
+ "threads": [
+  {
+   "id": "th-347d4fe6",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 16
+   },
+   "n_articles": 16,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know",
+   "lead_title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know",
+     "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
+     "description": "Saudi coalition blames Houthi group for the missile strike on the main international airport in Riyadh.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-11T10:45:15Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.nbcnews.com/world/middle-east/saudi-airport-attack-trump-us-join-fight-houthis-rcna602744",
+     "title": "Major attack on Saudi airport kills 12 and leads Trump to weigh joining fight",
+     "description": "The deadliest attack on a Gulf Arab state since the start of the Iran war raised new questions Sunday about whether the United States might be about to join another conflict in the region.",
+     "source": "NBC News",
+     "publishedAt": "2026-10-11T10:09:11Z",
+     "domain": "nbcnews.com",
+     "category": "wire_primary",
+     "origin": "nbcnews.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.rte.ie/news/middle-east/2026/1011/1594905-riyadh-attack-reaction/",
+     "title": "Attack on Riyadh 'a dangerous escalation'",
+     "description": "European Commission President Ursula von der Leyen has called the deadly attack on Riyadh airport a \"dangerous escalation\" and said the Iran-backed group must halt strikes on civilian targets.",
+     "source": "RTE",
+     "publishedAt": "2026-10-11T09:42:03Z",
+     "domain": "rte.ie",
+     "category": "wire_primary",
+     "origin": "rte.ie"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.dw.com/en/yemens-houthis-warn-passengers-not-to-use-saudi-airports/a-79632306",
+     "title": "Yemen's Houthis warn passengers not to use Saudi airports",
+     "description": "The warning from the Iran-backed rebels comes a day after a missile attack on Riyadh airport killed 12 people and injured more than 300. The airport will remain closed until at least Sunday night.",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-11T09:35:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://abcnews.com/International/wireStory/missile-attack-airport-saudi-arabias-capital-kills-12-137169649",
+     "title": "Missile attack on airport in Saudi Arabia's capital kills 12 people and injures over 300",
+     "description": "Saudi Arabia has extended the closure of the country\u2019s main international airport a day after a missile attack on the facility killed 12 people from several countries and left more than 300 injured",
+     "source": "Abcnews.com",
+     "publishedAt": "2026-10-11T09:05:49Z",
+     "domain": "abcnews.com",
+     "category": "wire_primary",
+     "origin": "abcnews.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.rte.ie/news/middle-east/2026/1011/1594880-middle-east/",
+     "title": "At least 12 killed in Riyadh airport attack - officials",
+     "description": "At least 12 people were killed and 309 others wounded in a strike on Riyadh's international airport, Saudi Arabia's civil aviation officials said - an attack that a diplomatic source blamed on Yemen's Houthis.",
+     "source": "RTE",
+     "publishedAt": "2026-10-10T23:03:30Z",
+     "domain": "rte.ie",
+     "category": "wire_primary",
+     "origin": "rte.ie"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.rte.ie/news/middle-east/2026/1011/1594880-middle-east-saudi/",
+     "title": "Twelve killed and 300 injured in Riyadh airport attack",
+     "description": "At least 12 people were killed and 309 others wounded in a strike on Riyadh's international airport, Saudi Arabia's civil aviation officials said - an attack that a diplomatic source blamed on Yemen's Houthis.",
+     "source": "RTE",
+     "publishedAt": "2026-10-10T23:03:30Z",
+     "domain": "rte.ie",
+     "category": "wire_primary",
+     "origin": "rte.ie"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.rte.ie/news/middle-east/2026/1010/1594880-middle-east/",
+     "title": "At least 12 killed in Riyadh airport attack - officials",
+     "description": "At least 12 people were killed and 309 others wounded in a strike on Riyadh's international airport, Saudi Arabia's civil aviation officials said - an attack that a diplomatic source blamed on Yemen's Houthis.",
+     "source": "RTE",
+     "publishedAt": "2026-10-10T22:58:30Z",
+     "domain": "rte.ie",
+     "category": "wire_primary",
+     "origin": "rte.ie"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862",
+     "title": "Saudi Arabia: 12 killed, hundreds injured in Riyadh airport attack",
+     "description": "Officials said at least 12 people were killed in a strike on King Khalid International Airport in the Saudi capital, Riyadh. The airport had already been targeted multiple times this week.",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-10T22:07:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862",
+     "title": "Several injured after attack on Saudi Arabia's Riyadh Airport",
+     "description": "Riyadh's King Khalid International Airport has already been targeted multiple times this week amid intensified fighting between Yemen-based Houthi rebels and a Saudi-backed coalition. A number of people were injured in an attack on King Khalid International A\u2026",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-10T16:42:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-arabia-extends-closure-of-airport-after-12-killed-in-suspected-houthi-missile-attack/articleshow/134869031.cms",
+     "title": "Saudi Arabia extends closure of airport after 12 killed in suspected Houthi missile attack",
+     "description": "Saudi Arabia has extended the closure of its main international airport due to Houthi missile threats. A recent missile strike on Riyadh airport resulted in 12 deaths and over 300 injuries, marking a significant escalation. International leaders have condemne\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-11T10:51:30Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://economictimes.indiatimes.com/news/defence/houthis-threaten-more-saudi-airport-strikes-after-riyadh-attack-kills-12-wounds-309/articleshow/134868127.cms",
+     "title": "Houthis threaten more Saudi airport strikes after Riyadh attack kills 12, wounds 309",
+     "description": "A recent attack on Riyadh's King Khalid International Airport has resulted in 12 fatalities and hundreds of injuries. Yemen's Houthis claimed responsibility for escalating the conflict with Saudi Arabia, threatening future strikes on airports. Operations at t\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-11T09:33:48Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.dailymail.com/news/article-16200083/Houthis-attack-Saudi-airports-Streeting-dangerous-escalation.html",
+     "title": "Houthis warn against using Saudi airports after missile attack killed 12 and injured hundreds - as Wes Streeting condemns 'dangerous escalation'",
+     "description": "The Saudi-led coalition accused the Iran-backed group of carrying out a 'full-fledged war crime' on\u00a0King Khalid International Airport as it vowed\u00a0on Sunday to retaliate.",
+     "source": "Dailymail.com",
+     "publishedAt": "2026-10-11T08:56:38Z",
+     "domain": "dailymail.com",
+     "category": "established",
+     "origin": "dailymail.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.thejournal.ie/saudi-arabia-riyadh-airport-strike-houthis-7189611-Oct2026/",
+     "title": "Twelve killed and more than 300 injured in strike on Saudi Arabian airport",
+     "description": "Saudi Arabia has blamed Yemen\u2019s Houthis for the attack, while Donald Trump has suggested the US could join military action against the group.",
+     "source": "TheJournal.ie",
+     "publishedAt": "2026-10-11T06:37:39Z",
+     "domain": "thejournal.ie",
+     "category": "established",
+     "origin": "thejournal.ie"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.israelnationalnews.com/news/434398",
+     "title": "12 killed, 309 wounded in missile attack on Riyadh airport",
+     "description": "At least 12 people killed and 309 wounded in a missile attack on Riyadh's airport, believed to have been carried out by the Houthis.",
+     "source": "Israelnationalnews.com",
+     "publishedAt": "2026-10-10T23:42:16Z",
+     "domain": "israelnationalnews.com",
+     "category": "established",
+     "origin": "israelnationalnews.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://dailycaller.com/2026/10/10/houthis-launch-missile-attack-riyadh-saudi-arabia-king-khalid-international-airport",
+     "title": "Houthis Launch Missile Attack On Riyadh International Airport As Blasts Shock Saudi Capital",
+     "description": "Explosions rocked the Saudi Arabian capital of Riyadh after Iranian-backed Houthi rebels launched missiles Saturday at King Khalid Airport.",
+     "source": "The Daily Caller",
+     "publishedAt": "2026-10-10T21:43:54Z",
+     "domain": "dailycaller.com",
+     "category": "advocacy_opinion",
+     "origin": "dailycaller.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 97.8,
+   "n_independent": 10,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 1.0,
+    "quality": 1.0,
+    "recency": 0.985,
+    "escalation": 1.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T10:51:30+00:00",
+   "rank": 1,
+   "top_rank": 1,
+   "related": [
+    "th-1364dc7f",
+    "th-59cfdb76",
+    "th-edc544e9",
+    "th-a6c1071c"
+   ]
+  },
+  {
+   "id": "th-65af1173",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 6
+   },
+   "n_articles": 6,
+   "lead_url": "https://www.rte.ie/news/world/2026/1011/1594907-russia-data-centre/",
+   "lead_title": "Russian Yandex data centre shut down after drone attack",
+   "lead_source": "RTE",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.rte.ie/news/world/2026/1011/1594907-russia-data-centre/",
+     "title": "Russian Yandex data centre shut down after drone attack",
+     "description": "A drone attack damaged a Russian Yandex data centre east of the capital and disrupted operations at the facility, the technology and AI company has said.",
+     "source": "RTE",
+     "publishedAt": "2026-10-11T10:25:10Z",
+     "domain": "rte.ie",
+     "category": "wire_primary",
+     "origin": "rte.ie"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack",
+     "title": "Russia\u2019s Yandex says data centre in Vladimir shut down after drone attack",
+     "description": "Third strike on Yandex facilities in a week comes as Russia and Ukraine escalate attacks on tech infrastructure.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-11T09:33:03Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://abcnews.com/International/wireStory/ukraine-steps-strikes-russias-tech-infrastructure-damaging-data-137169844",
+     "title": "Ukraine steps up strikes on Russia's tech infrastructure",
+     "description": "A Ukrainian drone attack shut down a data center run by Russian technology giant Yandex, the company said Sunday, the third strike on its facilities in four days as Kyiv widens its campaign against infrastructure inside Russia",
+     "source": "Abcnews.com",
+     "publishedAt": "2026-10-11T08:50:34Z",
+     "domain": "abcnews.com",
+     "category": "wire_primary",
+     "origin": "abcnews.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.business-standard.com/world-news/ukraine-steps-up-strikes-on-russia-s-tech-infra-damages-third-data-centre-126101100315_1.html",
+     "title": "Ukraine steps up strikes on Russia's tech infra, damages third data centre",
+     "description": "A Ukrainian drone attack shut down a data center run by Russian technology giant Yandex, the company said Sunday, the third strike on its facilities in four days as Kyiv widens its campaign against infrastructure deep inside Russia.\nThe attack on the data cen\u2026",
+     "source": "Business Standard",
+     "publishedAt": "2026-10-11T09:55:35Z",
+     "domain": "business-standard.com",
+     "category": "established",
+     "origin": "business-standard.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://economictimes.indiatimes.com/news/defence/ukraine-steps-up-strikes-on-russias-tech-infrastructure-damaging-third-data-center-in-4-days/articleshow/134867593.cms",
+     "title": "Ukraine steps up strikes on Russia's tech infrastructure, damaging third data center in 4 days",
+     "description": "A Ukrainian drone attack targeted a Yandex data center in Vladimir, causing widespread service outages. Users in multiple Russian cities and neighboring countries faced disruptions in accessing various services, including banking. This strike is part of a bro\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-11T08:48:05Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://cryptobriefing.com/drone-attack-disrupts-moscow-data-centre/",
+     "title": "Drone attack disrupts data centre in eastern Moscow, Russia says",
+     "description": "The drone attack highlights the vulnerability of digital infrastructure to physical threats, potentially impacting investor confidence and tech operations.\nThe post Drone attack disrupts data centre in eastern Moscow, Russia says appeared first on Crypto Brie\u2026",
+     "source": "Crypto Briefing",
+     "publishedAt": "2026-10-11T04:14:39Z",
+     "domain": "cryptobriefing.com",
+     "category": "established",
+     "origin": "cryptobriefing.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 85.7,
+   "n_independent": 6,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 1.0,
+    "quality": 1.0,
+    "recency": 0.969,
+    "escalation": 0.528,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T10:25:10+00:00",
+   "rank": 2,
+   "top_rank": 2,
+   "related": []
+  },
+  {
+   "id": "th-81209c73",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 5
+   },
+   "n_articles": 5,
+   "lead_url": "https://www.dw.com/en/germany-rejects-trump-demand-fully-supports-zelenskyy/live-79627811",
+   "lead_title": "Germany rejects Trump demand, 'fully supports' Zelenskyy",
+   "lead_source": "DW (English)",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.dw.com/en/germany-rejects-trump-demand-fully-supports-zelenskyy/live-79627811",
+     "title": "Germany rejects Trump demand, 'fully supports' Zelenskyy",
+     "description": "Germany's foreign minister has said Berlin is behind Ukraine's president and will keep pressuring Russia to end its war. Meanwhile, Deutsche Bank's CEO warned that political extremism is spooking investors. More on DW.",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-11T09:13:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.yahoo.com/news/world/articles/ukraine-steps-strikes-russia-tech-083312470.html",
+     "title": "Ukraine pushes back on Trump's call for a new president as drones hit Russian data hub",
+     "description": "KYIV, Ukraine (AP) \u2014 Only Russia is responsible for the war in Ukraine, Ukrainian President Volodymyr Zelenskyy said Sunday as he vowed to press ahead with strikes on Russian oil refineries, despite criticism from U.S. President Donald Trump, who blamed him f\u2026",
+     "source": "Yahoo Entertainment",
+     "publishedAt": "2026-10-11T08:33:12Z",
+     "domain": "yahoo.com",
+     "category": "wire_primary",
+     "origin": "wire:ap"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.thejournal.ie/zelenskyy-trump-putin-russia-settlement-diesel-7189647-Oct2026/",
+     "title": "After calling for Zelenskyy to be replaced, Trump claims Putin wants peace deal with Ukraine",
+     "description": "The US president accused Volodymyr Zelensky of blocking a settlement with Russia, amid a growing row over Washington\u2019s decision to ease sanctions on Russian diesel.",
+     "source": "TheJournal.ie",
+     "publishedAt": "2026-10-11T09:08:38Z",
+     "domain": "thejournal.ie",
+     "category": "established",
+     "origin": "thejournal.ie"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.dailymail.com/news/article-16200025/Boris-Johnson-Trump-Zelensky-sickening-diesel-deal-Putin-Burnham.html",
+     "title": "Boris Johnson leads fury as Trump demands Zelensky is ousted - after striking 'sickening' diesel deal with Putin to save US midterms",
+     "description": "Donald Trump has followed up the shock agreement with Russia by demanding Volodymyr Zelensky is ousted.",
+     "source": "Dailymail.com",
+     "publishedAt": "2026-10-11T07:17:28Z",
+     "domain": "dailymail.com",
+     "category": "established",
+     "origin": "dailymail.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://sputnikglobe.com/20261011/musk-agrees-with-trump-says-ukraine-needs-new-leader-1124863880.html",
+     "title": "Musk Agrees With Trump, Says Ukraine Needs New Leader",
+     "description": "MOSCOW (Sputnik) - US billionaire Elon Musk agreed on Sunday with US President Donald Trump's opinion on Vladimir Zelensky, saying that Ukraine needs to find a new leader.",
+     "source": "Sputnikglobe.com",
+     "publishedAt": "2026-10-11T09:25:28Z",
+     "domain": "sputnikglobe.com",
+     "category": "state_affiliated",
+     "origin": "sputnikglobe.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 77.0,
+   "n_independent": 5,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.921,
+    "quality": 0.96,
+    "recency": 0.932,
+    "escalation": 0.33,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T09:25:28+00:00",
+   "rank": 3,
+   "top_rank": 3,
+   "related": [
+    "th-0d9f1d87"
+   ]
+  },
+  {
+   "id": "th-1364dc7f",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.channelnewsasia.com/world/suspected-houthi-attack-riyadh-airport-kills-12-wounds-hundreds-6449071",
+   "lead_title": "Suspected Houthi attack on Riyadh airport kills 12, wounds hundreds",
+   "lead_source": "CNA",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.channelnewsasia.com/world/suspected-houthi-attack-riyadh-airport-kills-12-wounds-hundreds-6449071",
+     "title": "Suspected Houthi attack on Riyadh airport kills 12, wounds hundreds",
+     "description": "The attack prompted Saudi health officials to activate a rare mass call-up of doctors to deal with the \"serious emergency\", a medical source said.",
+     "source": "CNA",
+     "publishedAt": "2026-10-10T17:33:00Z",
+     "domain": "channelnewsasia.com",
+     "category": "wire_primary",
+     "origin": "channelnewsasia.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 71.3,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.506,
+    "escalation": 1.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-10T17:33:00+00:00",
+   "rank": 4,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-2025f4db",
+   "home": "T13",
+   "topics": {
+    "T13": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.rte.ie/news/2026/1011/1594911-migrants-dead-djibouti/",
+   "lead_title": "109 people dead in boat wreck off Djibouti, says UN",
+   "lead_source": "RTE",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T13",
+     "url": "https://www.rte.ie/news/2026/1011/1594911-migrants-dead-djibouti/",
+     "title": "109 people dead in boat wreck off Djibouti, says UN",
+     "description": "At least 109 migrants have died, including 15 children, and some 116 went missing when a boat sank off the shores of Djibouti in the early hours of Friday morning, a UN agency has said.",
+     "source": "RTE",
+     "publishedAt": "2026-10-11T10:54:37Z",
+     "domain": "rte.ie",
+     "category": "wire_primary",
+     "origin": "rte.ie"
+    },
+    {
+     "topic": "T13",
+     "url": "https://www.rte.ie/news/2026/1011/1594911-109-migrants-dead-in-boat-wreck-off-djibouti-says-un/",
+     "title": "109 migrants dead in boat wreck off Djibouti, says UN",
+     "description": "At least 109 migrants have died, including 15 children, and some 116 went missing when a boat sank off the shores of Djibouti in the early hours of Friday morning, a UN agency has said.",
+     "source": "RTE",
+     "publishedAt": "2026-10-11T10:54:37Z",
+     "domain": "rte.ie",
+     "category": "wire_primary",
+     "origin": "rte.ie"
+    }
+   ],
+   "contradictions": [],
+   "score": 71.3,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.987,
+    "escalation": 0.793,
+    "severity": 0.6
+   },
+   "latest": "2026-10-11T10:54:37+00:00",
+   "rank": 5,
+   "top_rank": 4,
+   "related": []
+  },
+  {
+   "id": "th-259302cd",
+   "home": "T02",
+   "topics": {
+    "T02": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://abcnews.com/International/wireStory/rights-group-paramilitary-drone-strike-sudan-killed-41-137155407",
+   "lead_title": "Rights group says paramilitary drone strike in Sudan killed 41 near Ethiopian border",
+   "lead_source": "Abcnews.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T02",
+     "url": "https://abcnews.com/International/wireStory/rights-group-paramilitary-drone-strike-sudan-killed-41-137155407",
+     "title": "Rights group says paramilitary drone strike in Sudan killed 41 near Ethiopian border",
+     "description": "A drone strike blamed on Sudan's paramilitaries has killed 41 displaced people near the Ethiopian border",
+     "source": "Abcnews.com",
+     "publishedAt": "2026-10-10T11:26:29Z",
+     "domain": "abcnews.com",
+     "category": "wire_primary",
+     "origin": "abcnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 69.7,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.4,
+    "escalation": 1.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-10T11:26:29+00:00",
+   "rank": 6,
+   "top_rank": 5,
+   "related": []
+  },
+  {
+   "id": "th-55a6337c",
+   "home": "T05",
+   "topics": {
+    "T05": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa",
+   "lead_title": "Pakistan imposes emergency rule in \u200bprovince governed by Imran Khan\u2019s party",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa",
+     "title": "Pakistan imposes emergency rule in \u200bprovince governed by Imran Khan\u2019s party",
+     "description": "PM office says cabinet move follows 'provincial government\u2019s deliberate disengagement from the fight against terrorism'.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-11T08:32:06Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    },
+    {
+     "topic": "T05",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/imran-khans-partys-provincial-government-suspended-by-pakistan-president/articleshow/134867960.cms",
+     "title": "Imran Khan's party's provincial government suspended by Pakistan president",
+     "description": "Pakistan's president suspended the provincial government of Khyber Pakhtunkhwa after declaring a state of emergency. This decision was made following tensions between Prime Minister Shehbaz Sharif's administration and Imran Khan's Pakistan Tehreek-e-Insaf par\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-11T09:27:50Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 67.2,
+   "n_independent": 2,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 0.94,
+    "recency": 0.934,
+    "escalation": 0.378,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T09:27:50+00:00",
+   "rank": 7,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-59cfdb76",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1,
+    "T01": 1
+   },
+   "n_articles": 2,
+   "lead_url": "https://economictimes.indiatimes.com/news/international/world-news/rubio-says-attacks-on-saudi-arabia-must-stop-now-confirms-us-citizen-killed/articleshow/134865737.cms",
+   "lead_title": "US Secretary of State Marco Rubio says Saudi attacks \u2018must stop now\u2019, confirms US citizen killed",
+   "lead_source": "The Times of India",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/rubio-says-attacks-on-saudi-arabia-must-stop-now-confirms-us-citizen-killed/articleshow/134865737.cms",
+     "title": "US Secretary of State Marco Rubio says Saudi attacks \u2018must stop now\u2019, confirms US citizen killed",
+     "description": "A recent attack on King Khalid International Airport in Riyadh led to 12 deaths and over 300 injuries. This incident heightened tensions between Saudi Arabia and Yemen's Houthi group, leading to international condemnation. US Secretary of State Marco Rubio ex\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-11T05:50:26Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    },
+    {
+     "topic": "T01",
+     "url": "https://www.americanthinker.com/articles/2026/10/rubio-a-generational-shift/",
+     "title": "Rubio: \u2018A Generational Shift\u2019",
+     "description": "Photo Credit:\n \n Clarice FBy Clarice FeldmanThis week in Athens, standing in front of the Parthenon, Secretary of State Marco Rubio gave a remarkable speech.",
+     "source": "Americanthinker.com",
+     "publishedAt": "2026-10-11T04:00:00Z",
+     "domain": "americanthinker.com",
+     "category": "unclassified",
+     "origin": "americanthinker.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 66.6,
+   "n_independent": 2,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 0.64,
+    "recency": 0.812,
+    "escalation": 0.667,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T05:50:26+00:00",
+   "rank": 8,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-3b6c9be7",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.foxnews.com/world/inside-israels-plot-kill-hezbollah-chief-netanyahu-warned-biden-aide-would-jump-out-his-skin",
+   "lead_title": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin'",
+   "lead_source": "Fox News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.foxnews.com/world/inside-israels-plot-kill-hezbollah-chief-netanyahu-warned-biden-aide-would-jump-out-his-skin",
+     "title": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin'",
+     "description": "Benjamin Netanyahu warned that Jake Sullivan would \"jump out of his skin\" over Israel's secret plan to assassinate Hassan Nasrallah in Beirut.",
+     "source": "Fox News",
+     "publishedAt": "2026-10-11T10:00:18Z",
+     "domain": "foxnews.com",
+     "category": "wire_primary",
+     "origin": "foxnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 66.2,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.953,
+    "escalation": 0.528,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T10:00:18+00:00",
+   "rank": 9,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-1369f444",
+   "home": "T15",
+   "topics": {
+    "T15": 4
+   },
+   "n_articles": 4,
+   "lead_url": "https://www.cbc.ca/news/world/panama-earthquake-state-of-emergency-9.7377430",
+   "lead_title": "Panama declares state of emergency as powerful quake aftershocks rattle communities",
+   "lead_source": "CBC News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T15",
+     "url": "https://www.cbc.ca/news/world/panama-earthquake-state-of-emergency-9.7377430",
+     "title": "Panama declares state of emergency as powerful quake aftershocks rattle communities",
+     "description": "The government of Panama declared a state of emergency Saturday as the aftershocks of two powerful earthquakes that roiled the country shook communities for hours. Officials did not attribute any deaths to the quakes but reported damages in all 10 of Panama's\u2026",
+     "source": "CBC News",
+     "publishedAt": "2026-10-11T09:20:14Z",
+     "domain": "cbc.ca",
+     "category": "wire_primary",
+     "origin": "cbc.ca"
+    },
+    {
+     "topic": "T15",
+     "url": "https://english.gossiplankanews.com/2026/10/panama-is-still-unstable-due-to-77.html",
+     "title": "Panama is still unstable due to the 7.7 magnitude earthquake and aftershocks.",
+     "description": "On Friday, October 9, 2026, the public park in Tonos\u00ed, Panama, was not the quiet place it usually was. After a massive earthquake of magnitude 7.7 on the Richter scale turned the entire city into rubble, this small park had been transformed into an open-air c\u2026",
+     "source": "Gossiplankanews.com",
+     "publishedAt": "2026-10-11T08:15:23Z",
+     "domain": "gossiplankanews.com",
+     "category": "aggregator",
+     "origin": null
+    },
+    {
+     "topic": "T15",
+     "url": "https://biztoc.com/x/0543bbe20ee31525",
+     "title": "Panama declares state of emergency following earthquake",
+     "description": "Panama's authorities declared on Saturday a state of emergency following the powerful 7.7-magnitude earthquake, which shook the country yesterday. \"The National Government, by instructions from the Pr...",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-10T20:35:40Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    },
+    {
+     "topic": "T15",
+     "url": "https://english.gossiplankanews.com/2026/10/77-magnitude-earthquake-rocks-panama.html",
+     "title": "7.7 magnitude earthquake rocks Panama: Historical churches collapse, \"major disaster\" declared (photos)",
+     "description": "A powerful earthquake with a magnitude of 7.7 was recorded yesterday (09) in the southern region of Panama, a Central American state. The earthquake, which occurred at 12:56 PM local time in Panama (11:26 PM Sri Lanka time), had its epicenter approximately 12\u2026",
+     "source": "Gossiplankanews.com",
+     "publishedAt": "2026-10-10T03:20:20Z",
+     "domain": "gossiplankanews.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 65.1,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.929,
+    "escalation": 0.539,
+    "severity": 0.7
+   },
+   "latest": "2026-10-11T09:20:14+00:00",
+   "rank": 10,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-edc544e9",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.abc.net.au/news/2026-10-11/riyadh-airport-suspends-flights-houthi-attacks-middle-east/107253260",
+   "lead_title": "No flights in or out of Riyadh after spate of Houthi attacks on airports",
+   "lead_source": "ABC News (AU)",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.abc.net.au/news/2026-10-11/riyadh-airport-suspends-flights-houthi-attacks-middle-east/107253260",
+     "title": "No flights in or out of Riyadh after spate of Houthi attacks on airports",
+     "description": "Flights have been suspended in and out of Riyadh, in Saudi Arabia, after three attacks on its main airport. Here's the latest travel advice for the Middle East.",
+     "source": "ABC News (AU)",
+     "publishedAt": "2026-10-11T04:49:01Z",
+     "domain": "abc.net.au",
+     "category": "wire_primary",
+     "origin": "abc.net.au"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.channelnewsasia.com/world/riyadh-airport-suspends-operations-after-attack-leaves-several-wounded-6449071",
+     "title": "Riyadh airport suspends operations after attack leaves several wounded",
+     "description": "Travellers evacuate parts of Riyadh airport after a blast wounds many people, as flights divert or cancel amid a worsening security crisis.",
+     "source": "CNA",
+     "publishedAt": "2026-10-10T17:33:00Z",
+     "domain": "channelnewsasia.com",
+     "category": "wire_primary",
+     "origin": "channelnewsasia.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 64.0,
+   "n_independent": 2,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 1.0,
+    "recency": 0.781,
+    "escalation": 0.295,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T04:49:01+00:00",
+   "rank": 11,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-99875768",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.thejournal.ie/russia-strikes-children-ukraine-city-7188986-Oct2026/",
+   "lead_title": "Three children among 11 killed in Russian air strikes on Ukraine",
+   "lead_source": "TheJournal.ie",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.thejournal.ie/russia-strikes-children-ukraine-city-7188986-Oct2026/",
+     "title": "Three children among 11 killed in Russian air strikes on Ukraine",
+     "description": "Residential buildings in Zaporizhzhia were hit by guided bombs, with rescue workers continuing to search for people trapped beneath the rubble.",
+     "source": "TheJournal.ie",
+     "publishedAt": "2026-10-10T10:47:01Z",
+     "domain": "thejournal.ie",
+     "category": "established",
+     "origin": "thejournal.ie"
+    }
+   ],
+   "contradictions": [],
+   "score": 63.3,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.39,
+    "escalation": 0.992,
+    "severity": 0.8
+   },
+   "latest": "2026-10-10T10:47:01+00:00",
+   "rank": 12,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-131ef230",
+   "home": "T04",
+   "topics": {
+    "T04": 3
+   },
+   "n_articles": 3,
+   "lead_url": "https://www.foxnews.com/politics/plague-mystery-revives-concerns-russian-bioweapons-program",
+   "lead_title": "Plague mystery revives concerns over not-to-secret Russian bioweapons program",
+   "lead_source": "Fox News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T04",
+     "url": "https://www.foxnews.com/politics/plague-mystery-revives-concerns-russian-bioweapons-program",
+     "title": "Plague mystery revives concerns over not-to-secret Russian bioweapons program",
+     "description": "Marshall Billingslea reveals Soviet defector Ken Alibek exposed a massive biological weapons program involving antibiotic-resistant plague research.",
+     "source": "Fox News",
+     "publishedAt": "2026-10-10T10:00:49Z",
+     "domain": "foxnews.com",
+     "category": "wire_primary",
+     "origin": "foxnews.com"
+    },
+    {
+     "topic": "T04",
+     "url": "https://www.dailymail.com/news/article-16186689/biological-Chernobyl-lab-leak-Russia-covered-food-poisoning-dozens-died.html",
+     "title": "The 'biological Chernobyl' lab leak that Russia covered up as 'food poisoning': How dozens died frothing at the mouth after anthrax blunder at bioweapons unit",
+     "description": "When a young lab worker died after developing a mysterious form of pneumonia in Siberia earlier this month, speculation quickly turned to her place of work.",
+     "source": "Dailymail.com",
+     "publishedAt": "2026-10-10T18:34:58Z",
+     "domain": "dailymail.com",
+     "category": "established",
+     "origin": "dailymail.com"
+    },
+    {
+     "topic": "T04",
+     "url": "https://www.dailymail.com/news/article-16196863/It-strikes-suddenly-causing-high-fever-headache-chills-set-body-shaking-No-not-Covid-sweeping-Britain-right-BUBONIC-PLAGUE.html",
+     "title": "It strikes suddenly, causing high fever, headache, and chills that set the body shaking. No, not the Covid sweeping Britain right now... but the BUBONIC PLAGUE",
+     "description": "When Lucinda Marker heard of the suspected death from plague of 28-year-old laboratory technician Darya Shipilova in Russia last week, she was overcome by a sense of recognition.",
+     "source": "Dailymail.com",
+     "publishedAt": "2026-10-10T00:05:13Z",
+     "domain": "dailymail.com",
+     "category": "established",
+     "origin": "dailymail.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 61.2,
+   "n_independent": 2,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 0.94,
+    "recency": 0.526,
+    "escalation": 0.423,
+    "severity": 0.7
+   },
+   "latest": "2026-10-10T18:34:58+00:00",
+   "rank": 13,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-a399d997",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.israelnationalnews.com/news/434400",
+   "lead_title": "Trump: We stopped Iran from obtaining nukes, 18 men did not die in vain",
+   "lead_source": "Israelnationalnews.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.israelnationalnews.com/news/434400",
+     "title": "Trump: We stopped Iran from obtaining nukes, 18 men did not die in vain",
+     "description": "President Trump honors 18 US servicemembers killed in the Iran war, saying their sacrifice helped prevent Tehran from obtaining nuclear weapons.",
+     "source": "Israelnationalnews.com",
+     "publishedAt": "2026-10-11T01:07:10Z",
+     "domain": "israelnationalnews.com",
+     "category": "established",
+     "origin": "israelnationalnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 61.1,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.677,
+    "escalation": 0.73,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T01:07:10+00:00",
+   "rank": 14,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-1952f673",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://rt-english.com/news/647032-houthi-strike-on-riyadh-airport/",
+   "lead_title": "Houthi strike on Riyadh airport kills 12, injures over 300 (VIDEOS)",
+   "lead_source": "Rt-english.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://rt-english.com/news/647032-houthi-strike-on-riyadh-airport/",
+     "title": "Houthi strike on Riyadh airport kills 12, injures over 300 (VIDEOS)",
+     "description": "The Saudi authorities have confirmed that an American citizen was among those killed in the attack claimed by the Yemeni group Read Full Article at RT.com",
+     "source": "Rt-english.com",
+     "publishedAt": "2026-10-10T21:01:02Z",
+     "domain": "rt-english.com",
+     "category": "unclassified",
+     "origin": "rt-english.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 60.2,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.578,
+    "escalation": 0.994,
+    "severity": 0.8
+   },
+   "latest": "2026-10-10T21:01:02+00:00",
+   "rank": 15,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-c3992e99",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.israelnationalnews.com/news/434420",
+   "lead_title": "'Living under conceptzia': Stark warning that a massacre in Judea and Samaria is possible",
+   "lead_source": "Israelnationalnews.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.israelnationalnews.com/news/434420",
+     "title": "'Living under conceptzia': Stark warning that a massacre in Judea and Samaria is possible",
+     "description": "How can Israel prepare for an October 7-style attack originating in Judea and Samaria? Col. (res.) Hezi Nehama answers.",
+     "source": "Israelnationalnews.com",
+     "publishedAt": "2026-10-11T09:33:27Z",
+     "domain": "israelnationalnews.com",
+     "category": "established",
+     "origin": "israelnationalnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 59.0,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.937,
+    "escalation": 0.491,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T09:33:27+00:00",
+   "rank": 16,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-786d27de",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.business-standard.com/markets/commodities/crude-oil-futures-brace-for-volatility-amid-geopolitical-uncertainties-126101100308_1.html",
+   "lead_title": "Crude oil futures brace for volatility amid geopolitical uncertainties",
+   "lead_source": "Business Standard",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.business-standard.com/markets/commodities/crude-oil-futures-brace-for-volatility-amid-geopolitical-uncertainties-126101100308_1.html",
+     "title": "Crude oil futures brace for volatility amid geopolitical uncertainties",
+     "description": "Crude oil futures are likely to remain volatile next week as uncertainty over US-Iran negotiations and escalating tensions in West Asia keep supply risks elevated, even as hopes of a deal to reopen the Strait of Hormuz offer scope for a correction, analysts s\u2026",
+     "source": "Business Standard",
+     "publishedAt": "2026-10-11T09:48:54Z",
+     "domain": "business-standard.com",
+     "category": "established",
+     "origin": "business-standard.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-brace-for-volatility-amid-geopolitical-uncertainties-analysts/article71571069.ece",
+     "title": "Crude oil futures brace for volatility amid geopolitical uncertainties: Analysts",
+     "description": "Crude oil markets face volatility amid US-Iran tensions and Gulf disruption, with potential relief from Hormuz talks and mixed supply signals.",
+     "source": "BusinessLine",
+     "publishedAt": "2026-10-11T09:34:40Z",
+     "domain": "thehindubusinessline.com",
+     "category": "established",
+     "origin": "thehindubusinessline.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 56.6,
+   "n_independent": 2,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 0.7,
+    "recency": 0.946,
+    "escalation": 0.139,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T09:48:54+00:00",
+   "rank": 17,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-62774289",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://rt-english.com/news/647039-pentagon-raises-official-us-death/",
+   "lead_title": "Pentagon raises official US death toll in Iran war",
+   "lead_source": "Rt-english.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://rt-english.com/news/647039-pentagon-raises-official-us-death/",
+     "title": "Pentagon raises official US death toll in Iran war",
+     "description": "The Pentagon raised its Iran war death toll after Secretary of War Pete Hegseth dismissed reports that the official count was incomplete Read Full Article at RT.com",
+     "source": "Rt-english.com",
+     "publishedAt": "2026-10-11T07:20:35Z",
+     "domain": "rt-english.com",
+     "category": "unclassified",
+     "origin": "rt-english.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.rt.com/news/647039-pentagon-raises-official-us-death/",
+     "title": "Pentagon raises official US death toll in Iran war",
+     "description": "The Pentagon raised its Iran war death toll after Secretary of War Pete Hegseth dismissed reports that the official count was incomplete Read Full Article at RT.com",
+     "source": "RT",
+     "publishedAt": "2026-10-11T07:20:35Z",
+     "domain": "rt.com",
+     "category": "state_affiliated",
+     "origin": "rt.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 55.3,
+   "n_independent": 2,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 0.38,
+    "recency": 0.86,
+    "escalation": 0.393,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T07:20:35+00:00",
+   "rank": 18,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-31e13d8b",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://nypost.com/2026/10/10/world-news/significant-activity-detected-at-iran-nuclear-site-that-was-battered-during-early-stages-of-the-war/",
+   "lead_title": "\u2018Significant\u2019 activity detected at Iran nuclear site that was battered during early stages of the war",
+   "lead_source": "New York Post",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://nypost.com/2026/10/10/world-news/significant-activity-detected-at-iran-nuclear-site-that-was-battered-during-early-stages-of-the-war/",
+     "title": "\u2018Significant\u2019 activity detected at Iran nuclear site that was battered during early stages of the war",
+     "description": "Israeli aircraft struck the heavily secured site on March 3, three days after the war in Iran began with joint United States and Israeli strikes that killed Ayatollah Ali Khamenei -- and dozens of his top leaders -- in his Tehran compound.",
+     "source": "New York Post",
+     "publishedAt": "2026-10-10T21:10:02Z",
+     "domain": "nypost.com",
+     "category": "established",
+     "origin": "nypost.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 54.0,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.581,
+    "escalation": 0.503,
+    "severity": 0.8
+   },
+   "latest": "2026-10-10T21:10:02+00:00",
+   "rank": 19,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-a6c1071c",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.dailymail.com/news/article-16198881/Houthis-attack-Saudi-airport-missile-passenger.html",
+   "lead_title": "Houthis launch fresh attack on Saudi airport as missile slams into passenger terminal leaving many wounded",
+   "lead_source": "Dailymail.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.dailymail.com/news/article-16198881/Houthis-attack-Saudi-airport-missile-passenger.html",
+     "title": "Houthis launch fresh attack on Saudi airport as missile slams into passenger terminal leaving many wounded",
+     "description": "King Khalid International Airport in Riyadh was attacked again today, according to officials, as an urgent evacuation was triggered at the international travel hub.",
+     "source": "Dailymail.com",
+     "publishedAt": "2026-10-10T17:02:18Z",
+     "domain": "dailymail.com",
+     "category": "established",
+     "origin": "dailymail.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 53.9,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.496,
+    "escalation": 0.551,
+    "severity": 0.8
+   },
+   "latest": "2026-10-10T17:02:18+00:00",
+   "rank": 20,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-a5b6aef5",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts",
+   "lead_title": "What the Iran war has done to the world\u2019s energy supply, in charts",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts",
+     "title": "What the Iran war has done to the world\u2019s energy supply, in charts",
+     "description": "Fossil fuels produce 81 percent of global energy. We look at Middle East\u2019s role and what happens when supplies are cut.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-11T08:22:02Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 52.1,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.895,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T08:22:02+00:00",
+   "rank": 21,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-3ca16e88",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.cbc.ca/news/world/ukrainian-children-russian-indoctrination-militarization-9.7372530",
+   "lead_title": "'You're Russian now': Ukrainians raised in Crimea share how Russia trained them to become future soldiers",
+   "lead_source": "CBC News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.cbc.ca/news/world/ukrainian-children-russian-indoctrination-militarization-9.7372530",
+     "title": "'You're Russian now': Ukrainians raised in Crimea share how Russia trained them to become future soldiers",
+     "description": "Three Ukrainians who grew up in occupied Crimea describe how Russia trained them to become future soldiers for its war on Ukraine, including school classes on how to handle weapons \u2014 part of a larger pattern of Russian indoctrination of children that has rais\u2026",
+     "source": "CBC News",
+     "publishedAt": "2026-10-11T08:00:00Z",
+     "domain": "cbc.ca",
+     "category": "wire_primary",
+     "origin": "cbc.ca"
+    }
+   ],
+   "contradictions": [],
+   "score": 51.9,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.882,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T08:00:00+00:00",
+   "rank": 22,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-54185a5a",
+   "home": "T15",
+   "topics": {
+    "T15": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.thejournal.ie/sicily-italy-tornado-school-destroyed-injured-7189642-Oct2026/",
+   "lead_title": "Dozens injured and school destroyed as tornadoes tear through Sicily",
+   "lead_source": "TheJournal.ie",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T15",
+     "url": "https://www.thejournal.ie/sicily-italy-tornado-school-destroyed-injured-7189642-Oct2026/",
+     "title": "Dozens injured and school destroyed as tornadoes tear through Sicily",
+     "description": "More than 270 pupils were inside the school when it was struck by one of two tornadoes on Friday.",
+     "source": "TheJournal.ie",
+     "publishedAt": "2026-10-11T08:29:09Z",
+     "domain": "thejournal.ie",
+     "category": "established",
+     "origin": "thejournal.ie"
+    }
+   ],
+   "contradictions": [],
+   "score": 51.7,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.899,
+    "escalation": 0.259,
+    "severity": 0.7
+   },
+   "latest": "2026-10-11T08:29:09+00:00",
+   "rank": 23,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-4189e7a7",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.dw.com/en/ukrainian-prisoners-of-war-and-defectors-have-been-gathered-into-a-russian-battalion-to-face-ukrainian-forces-why-and-how/a-79629555",
+   "lead_title": "Ukrainian prisoners of war and defectors have been gathered into a Russian battalion to face Ukrainian forces \u2014 why? And how?",
+   "lead_source": "DW (English)",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.dw.com/en/ukrainian-prisoners-of-war-and-defectors-have-been-gathered-into-a-russian-battalion-to-face-ukrainian-forces-why-and-how/a-79629555",
+     "title": "Ukrainian prisoners of war and defectors have been gathered into a Russian battalion to face Ukrainian forces \u2014 why? And how?",
+     "description": "Russia has announced a battalion consisting of Ukrainian \"volunteers.\" But veterans and former prisoners of war share very different accounts.",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-11T06:38:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555",
+     "title": "Who are the Ukrainian 'volunteers' under Russian command?",
+     "description": "Russia has announced a battalion consisting of Ukrainian \"volunteers.\" But veterans and former prisoners of war share very different accounts.",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-11T06:38:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 51.2,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.837,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T06:38:00+00:00",
+   "rank": 24,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-4f15788b",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://rt-english.com/russia/647037-melania-alyoski-humanitarian-lantratova/",
+   "lead_title": "Moscow in contact with Melania Trump\u2019s team over Ukrainian blockade \u2013 ombudswoman",
+   "lead_source": "Rt-english.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://rt-english.com/russia/647037-melania-alyoski-humanitarian-lantratova/",
+     "title": "Moscow in contact with Melania Trump\u2019s team over Ukrainian blockade \u2013 ombudswoman",
+     "description": "Melania Trump\u2019s team is ready to help negotiate aid deliveries and evacuations from a town besieged by Ukraine, Russia\u2019s ombudsman has said Read Full Article at RT.com",
+     "source": "Rt-english.com",
+     "publishedAt": "2026-10-11T01:09:45Z",
+     "domain": "rt-english.com",
+     "category": "unclassified",
+     "origin": "rt-english.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.rt.com/russia/647037-melania-alyoski-humanitarian-lantratova/",
+     "title": "Melania Trump ready to help humanitarian efforts in besieged Russian town \u2013 ombudswoman",
+     "description": "Melania Trump\u2019s team is ready to help negotiate aid deliveries and evacuations from a town besieged by Ukraine, Russia\u2019s ombudsman has said Read Full Article at RT.com",
+     "source": "RT",
+     "publishedAt": "2026-10-11T01:09:45Z",
+     "domain": "rt.com",
+     "category": "state_affiliated",
+     "origin": "rt.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 51.0,
+   "n_independent": 2,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 0.38,
+    "recency": 0.678,
+    "escalation": 0.33,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T01:09:45+00:00",
+   "rank": 25,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-8fa5c851",
+   "home": "T13",
+   "topics": {
+    "T13": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.foxnews.com/world/italys-school-veil-ban-exposes-europes-assimilation-fight-expert-warns-us-could-next",
+   "lead_title": "Italy's Schools Decree sparks wider debate over European integration",
+   "lead_source": "Fox News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T13",
+     "url": "https://www.foxnews.com/world/italys-school-veil-ban-exposes-europes-assimilation-fight-expert-warns-us-could-next",
+     "title": "Italy's Schools Decree sparks wider debate over European integration",
+     "description": "The Italian \"Schools Decree\" caps foreign-born pupils at 30% and bans face coverings, but experts question whether forced assimilation works.",
+     "source": "Fox News",
+     "publishedAt": "2026-10-11T10:00:40Z",
+     "domain": "foxnews.com",
+     "category": "wire_primary",
+     "origin": "foxnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 51.0,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.953,
+    "escalation": 0.0,
+    "severity": 0.6
+   },
+   "latest": "2026-10-11T10:00:40+00:00",
+   "rank": 26,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-026cce30",
+   "home": "T06",
+   "topics": {
+    "T06": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.foxnews.com/world/france-devouring-itself-school-riots-reveal-crisis-far-bigger-than-broken-classrooms",
+   "lead_title": "France is devouring itself as school riots reveal a crisis far bigger than broken classrooms",
+   "lead_source": "Fox News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T06",
+     "url": "https://www.foxnews.com/world/france-devouring-itself-school-riots-reveal-crisis-far-bigger-than-broken-classrooms",
+     "title": "France is devouring itself as school riots reveal a crisis far bigger than broken classrooms",
+     "description": "France student protests over crumbling schools expose deep tensions as Jean-Luc M\u00e9lenchon's La France Insoumise allegedly exploits the growing unrest.",
+     "source": "Fox News",
+     "publishedAt": "2026-10-10T10:00:42Z",
+     "domain": "foxnews.com",
+     "category": "wire_primary",
+     "origin": "foxnews.com"
+    },
+    {
+     "topic": "T06",
+     "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186093174",
+     "title": "France is devouring itself as school riots reveal a crisis far bigger than broken classrooms - Fox News",
+     "description": "France is devouring itself as school riots reveal a crisis far bigger than broken classroomsFox News The School Near Paris That Shows Why French Students Are ProtestingThe New York Times The week in 30 photosCNN French policing under scrutiny as student prote\u2026",
+     "source": "Slashdot.org",
+     "publishedAt": "2026-10-10T13:32:59Z",
+     "domain": "slashdot.org",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 50.1,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.434,
+    "escalation": 0.277,
+    "severity": 0.6
+   },
+   "latest": "2026-10-10T13:32:59+00:00",
+   "rank": 27,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-b0700b74",
+   "home": "T07",
+   "topics": {
+    "T07": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://thediplomat.com/2026/10/whither-japans-three-non-nuclear-principles/",
+   "lead_title": "Whither Japan\u2019s Three Non-Nuclear Principles?",
+   "lead_source": "The Diplomat",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T07",
+     "url": "https://thediplomat.com/2026/10/whither-japans-three-non-nuclear-principles/",
+     "title": "Whither Japan\u2019s Three Non-Nuclear Principles?",
+     "description": "A highly contentious debate is in the offing.",
+     "source": "The Diplomat",
+     "publishedAt": "2026-10-10T20:16:00Z",
+     "domain": "thediplomat.com",
+     "category": "established",
+     "origin": "thediplomat.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 49.6,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.562,
+    "escalation": 0.259,
+    "severity": 1.0
+   },
+   "latest": "2026-10-10T20:16:00+00:00",
+   "rank": 28,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-4e3ecbab",
+   "home": "T08",
+   "topics": {
+    "T08": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://nypost.com/2026/10/10/world-news/israeli-mom-whose-son-was-murdered-on-oct-7-nearly-lost-daughter-in-hijacked-flydubai-terrorist-attack/",
+   "lead_title": "Israeli mom whose son was murdered on Oct. 7 nearly lost daughter in hijacked flydubai terrorist attack",
+   "lead_source": "New York Post",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T08",
+     "url": "https://nypost.com/2026/10/10/world-news/israeli-mom-whose-son-was-murdered-on-oct-7-nearly-lost-daughter-in-hijacked-flydubai-terrorist-attack/",
+     "title": "Israeli mom whose son was murdered on Oct. 7 nearly lost daughter in hijacked flydubai terrorist attack",
+     "description": "An Israeli mom who lost her son in the Oct. 7 Hamas massacre nearly buried another child when her daughter survived an attempted hijacking aboard a flydubai flight Sept. 30 -- just days before the third anniversary of the attack.",
+     "source": "New York Post",
+     "publishedAt": "2026-10-10T11:24:25Z",
+     "domain": "nypost.com",
+     "category": "established",
+     "origin": "nypost.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 49.0,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.399,
+    "escalation": 0.451,
+    "severity": 0.7
+   },
+   "latest": "2026-10-10T11:24:25+00:00",
+   "rank": 29,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-a834e49d",
+   "home": "T07",
+   "topics": {
+    "T07": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://doomsdaymachines.net/p/the-speed-of-war",
+   "lead_title": "The speed of war - by Alex Wellerstein - Doomsday Machines",
+   "lead_source": "Doomsdaymachines.net",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T07",
+     "url": "https://doomsdaymachines.net/p/the-speed-of-war",
+     "title": "The speed of war - by Alex Wellerstein - Doomsday Machines",
+     "description": "The short times of nuclear warning and attack (1971)",
+     "source": "Doomsdaymachines.net",
+     "publishedAt": "2026-10-11T05:47:02Z",
+     "domain": "doomsdaymachines.net",
+     "category": "unclassified",
+     "origin": "doomsdaymachines.net"
+    }
+   ],
+   "contradictions": [],
+   "score": 47.8,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.81,
+    "escalation": 0.277,
+    "severity": 1.0
+   },
+   "latest": "2026-10-11T05:47:02+00:00",
+   "rank": 30,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-6451f2a7",
+   "home": "T02",
+   "topics": {
+    "T02": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.christiantoday.com/news/mission-aviation-fellowship-makes-sudan-a-fresh-ministry-priority-amid-humanitarian-crisis",
+   "lead_title": "Mission Aviation Fellowship makes Sudan a fresh ministry priority amid humanitarian crisis",
+   "lead_source": "Christiantoday.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T02",
+     "url": "https://www.christiantoday.com/news/mission-aviation-fellowship-makes-sudan-a-fresh-ministry-priority-amid-humanitarian-crisis",
+     "title": "Mission Aviation Fellowship makes Sudan a fresh ministry priority amid humanitarian crisis",
+     "description": "The Christian aviation charity is ending its ministry in Tanzania after more than six \u201cdecades of transformation\u201d as its humanitarian focus shifts to the Sudan crisis.",
+     "source": "Christiantoday.com",
+     "publishedAt": "2026-10-11T11:15:00Z",
+     "domain": "christiantoday.com",
+     "category": "established",
+     "origin": "christiantoday.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 47.7,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 1.0,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T11:15:00+00:00",
+   "rank": 31,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-2c70347b",
+   "home": "T15",
+   "topics": {
+    "T15": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.un.org/sustainabledevelopment/?p=118954",
+   "lead_title": "Media unite behind \u2018Promise of 1.5\u00b0C\u2019 climate campaign in disaster-prone Japan (2026)",
+   "lead_source": "UN News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T15",
+     "url": "https://www.un.org/sustainabledevelopment/?p=118954",
+     "title": "Media unite behind \u2018Promise of 1.5\u00b0C\u2019 climate campaign in disaster-prone Japan (2026)",
+     "description": "In 2026, the world has been grappling with severe climate disasters\u00a0exacerbated\u00a0by emerging super El Nino, from heat waves to\u00a0wildfires, droughts, glacier\u00a0melting\u00a0and floods. Japan is no exception.\u00a0Severe flooding and landslides, an exceptional summer heatwav\u2026",
+     "source": "UN News",
+     "publishedAt": "2026-10-10T04:09:26Z",
+     "domain": "un.org",
+     "category": "wire_primary",
+     "origin": "un.org"
+    }
+   ],
+   "contradictions": [],
+   "score": 47.7,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.302,
+    "escalation": 0.221,
+    "severity": 0.7
+   },
+   "latest": "2026-10-10T04:09:26+00:00",
+   "rank": 32,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-0d9f1d87",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://economictimes.indiatimes.com/news/international/world-news/trump-warns-iran-may-do-a-little-bit-extra-before-us-midterms-says-conflict-could-end-really-quick/articleshow/134863828.cms",
+   "lead_title": "Trump warns Iran may \u2018do a little bit extra\u2019 before US midterms, says conflict could end \u2018really quick\u2019",
+   "lead_source": "The Times of India",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-warns-iran-may-do-a-little-bit-extra-before-us-midterms-says-conflict-could-end-really-quick/articleshow/134863828.cms",
+     "title": "Trump warns Iran may \u2018do a little bit extra\u2019 before US midterms, says conflict could end \u2018really quick\u2019",
+     "description": "US President Donald Trump warned that Iran could escalate tensions before the November 3 midterm elections, while saying the conflict could end quickly. His remarks came amid ongoing discussions with Tehran and a US blockade on Iran. Trump also said Washingto\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-11T00:52:16Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 47.3,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.671,
+    "escalation": 0.181,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T00:52:16+00:00",
+   "rank": 33,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-e378e34c",
+   "home": "T01",
+   "topics": {
+    "T01": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war",
+   "lead_title": "Has Yemen returned to \u2018full-scale war\u2019?",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T01",
+     "url": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war",
+     "title": "Has Yemen returned to \u2018full-scale war\u2019?",
+     "description": "Fighting is intensifying between Yemeni government forces and Houthi rebel group.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-10T14:10:24Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 47.3,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.444,
+    "escalation": 0.118,
+    "severity": 0.7
+   },
+   "latest": "2026-10-10T14:10:24+00:00",
+   "rank": 34,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-a976a218",
+   "home": "T08",
+   "topics": {
+    "T08": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o",
+   "lead_title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+   "lead_source": "BBC News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T08",
+     "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o",
+     "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+     "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+     "source": "BBC News",
+     "publishedAt": "2026-10-10T22:13:08Z",
+     "domain": "bbc.co.uk",
+     "category": "wire_primary",
+     "origin": "bbc.co.uk"
+    }
+   ],
+   "contradictions": [],
+   "score": 46.8,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.605,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-10T22:13:08+00:00",
+   "rank": 35,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-fa81748b",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.irishtimes.com/ireland/2026/10/10/about-10000-people-march-through-dublin-in-support-of-palestine/",
+   "lead_title": "About 10,000 people march through Dublin in support of Palestine",
+   "lead_source": "The Irish Times",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.irishtimes.com/ireland/2026/10/10/about-10000-people-march-through-dublin-in-support-of-palestine/",
+     "title": "About 10,000 people march through Dublin in support of Palestine",
+     "description": "Taoiseach Miche\u00e1l Martin has failed Gaza, Ireland-Palestine Solidarity Campaign chairwoman Zoe Lawlor says",
+     "source": "The Irish Times",
+     "publishedAt": "2026-10-10T16:48:16Z",
+     "domain": "irishtimes.com",
+     "category": "wire_primary",
+     "origin": "irishtimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 46.1,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.491,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-10T16:48:16+00:00",
+   "rank": 36,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-1524aece",
+   "home": "T02",
+   "topics": {
+    "T02": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://punchng.com/regular-consumption-of-eggs-can-curb-child-malnutrition-experts/",
+   "lead_title": "Regular consumption of eggs can curb child malnutrition \u2014 Experts",
+   "lead_source": "The Punch",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T02",
+     "url": "https://punchng.com/regular-consumption-of-eggs-can-curb-child-malnutrition-experts/",
+     "title": "Regular consumption of eggs can curb child malnutrition \u2014 Experts",
+     "description": "Experts urge Nigerians to make eggs a regular part of their diet, saying their rich nutritional content can help tackle child malnutrition and stunted grow\n\nRead More: https://punchng.com/regular-consumption-of-eggs-can-curb-child-malnutrition-experts/",
+     "source": "The Punch",
+     "publishedAt": "2026-10-11T07:21:50Z",
+     "domain": "punchng.com",
+     "category": "established",
+     "origin": "punchng.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 45.6,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.861,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T07:21:50+00:00",
+   "rank": 37,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-999eb1be",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://unb.com.bd/category/entertainment/whos-afraid-of-a-six-hour-film-on-exiled-russian-journalists/197551",
+   "lead_title": "Who\u2019s afraid of a six-hour film on exiled Russian journalists?",
+   "lead_source": "Unb.com.bd",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://unb.com.bd/category/entertainment/whos-afraid-of-a-six-hour-film-on-exiled-russian-journalists/197551",
+     "title": "Who\u2019s afraid of a six-hour film on exiled Russian journalists?",
+     "description": "Filmmaker Julia Loktev\u2019s nearly six-hour documentary, \u201cMy Undesirable Friends: Part II - Exile,\u201d follows Russian journalists who fled their country after Moscow launched its full-scale invasion of Ukraine in 2022.\r\nOp",
+     "source": "Unb.com.bd",
+     "publishedAt": "2026-10-11T08:13:37Z",
+     "domain": "com.bd",
+     "category": "unclassified",
+     "origin": "com.bd"
+    }
+   ],
+   "contradictions": [],
+   "score": 45.6,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.89,
+    "escalation": 0.221,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T08:13:37+00:00",
+   "rank": 38,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-9c19081a",
+   "home": "T02",
+   "topics": {
+    "T02": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.thejournal.ie/child-marriage-gaza-7184726-Oct2026/",
+   "lead_title": "Child marriage in Gaza: 'Before the war, we wanted our daughters to study, now everything has changed'",
+   "lead_source": "TheJournal.ie",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T02",
+     "url": "https://www.thejournal.ie/child-marriage-gaza-7184726-Oct2026/",
+     "title": "Child marriage in Gaza: 'Before the war, we wanted our daughters to study, now everything has changed'",
+     "description": "As hunger deepens and schools remain closed in Gaza, families facing displacement and poverty are increasingly turning to child marriage.",
+     "source": "TheJournal.ie",
+     "publishedAt": "2026-10-11T06:30:51Z",
+     "domain": "thejournal.ie",
+     "category": "established",
+     "origin": "thejournal.ie"
+    }
+   ],
+   "contradictions": [],
+   "score": 45.2,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.833,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T06:30:51+00:00",
+   "rank": 39,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-f46bc743",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran",
+   "lead_title": "\u2018Anachronism\u2019: Rubio\u2019s civilisational rhetoric prompts pushback from Iran",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran",
+     "title": "\u2018Anachronism\u2019: Rubio\u2019s civilisational rhetoric prompts pushback from Iran",
+     "description": "Rubio says threats to Western civilisation today 'every bit as real as they were on the dramatic stage of antiquity'.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-10T13:09:09Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 45.1,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.427,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-10T13:09:09+00:00",
+   "rank": 40,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-b92439f9",
+   "home": "T02",
+   "topics": {
+    "T02": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://leadership.ng/governors-to-declare-nutrition-emergency-unveil-funding-mechanism/",
+   "lead_title": "Governors To Declare Nutrition Emergency, Unveil Funding Mechanism",
+   "lead_source": "Leadership.ng",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T02",
+     "url": "https://leadership.ng/governors-to-declare-nutrition-emergency-unveil-funding-mechanism/",
+     "title": "Governors To Declare Nutrition Emergency, Unveil Funding Mechanism",
+     "description": "Governors of the 36 states of the federation have declared war on hunger by committing to launch a nationwide nutrition emergency.",
+     "source": "Leadership.ng",
+     "publishedAt": "2026-10-11T02:51:55Z",
+     "domain": "leadership.ng",
+     "category": "unclassified",
+     "origin": "leadership.ng"
+    }
+   ],
+   "contradictions": [],
+   "score": 44.9,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.724,
+    "escalation": 0.295,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T02:51:55+00:00",
+   "rank": 41,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-78402a3c",
+   "home": "T06",
+   "topics": {
+    "T06": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.breitbart.com/europe/2026/10/10/france-student-riots-have-cost-33-million-resulted-in-nearly-7000-arrests/",
+   "lead_title": "France Student Riots Have Cost $33 million, Resulted in Nearly 7,000 Arrests",
+   "lead_source": "Breitbart News",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T06",
+     "url": "https://www.breitbart.com/europe/2026/10/10/france-student-riots-have-cost-33-million-resulted-in-nearly-7000-arrests/",
+     "title": "France Student Riots Have Cost $33 million, Resulted in Nearly 7,000 Arrests",
+     "description": "The youth riots across France have already cost the country at least 30 million euros and have resulted in thousands of arrests, the federal government revealed on Friday.\nThe post France Student Riots Have Cost $33 million, Resulted in Nearly 7,000 Arrests a\u2026",
+     "source": "Breitbart News",
+     "publishedAt": "2026-10-10T16:36:49Z",
+     "domain": "breitbart.com",
+     "category": "advocacy_opinion",
+     "origin": "breitbart.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 44.5,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.488,
+    "escalation": 0.581,
+    "severity": 0.6
+   },
+   "latest": "2026-10-10T16:36:49+00:00",
+   "rank": 42,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-57c44de3",
+   "home": "T05",
+   "topics": {
+    "T05": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.breitbart.com/europe/2026/10/11/investigation-into-arrested-german-spy-boss-considers-alleged-china-link/",
+   "lead_title": "Reputation of German Intelligence in Tatters as Investigation Into Arrested Spy Chief Considers Alleged Chinese Link",
+   "lead_source": "Breitbart News",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "https://www.breitbart.com/europe/2026/10/11/investigation-into-arrested-german-spy-boss-considers-alleged-china-link/",
+     "title": "Reputation of German Intelligence in Tatters as Investigation Into Arrested Spy Chief Considers Alleged Chinese Link",
+     "description": "The case of an arrested spy chief continues to harm Germany's already much-traduced reputation for security.\nThe post Reputation of German Intelligence in Tatters as Investigation Into Arrested Spy Chief Considers Alleged Chinese Link appeared first on Breitb\u2026",
+     "source": "Breitbart News",
+     "publishedAt": "2026-10-11T10:51:33Z",
+     "domain": "breitbart.com",
+     "category": "advocacy_opinion",
+     "origin": "breitbart.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 44.0,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.985,
+    "escalation": 0.181,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T10:51:33+00:00",
+   "rank": 43,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-4fe99b73",
+   "home": "T15",
+   "topics": {
+    "T15": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/us-releases-4-million-barrels-from-strategic-oil-reserves-for-exxonmobil-bp-amid-hurricane-isaias-disruptions/articleshow/134864297.cms",
+   "lead_title": "US releases 4 million barrels from strategic oil reserves for ExxonMobil, BP amid Hurricane Isaias disruptions",
+   "lead_source": "The Times of India",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T15",
+     "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/us-releases-4-million-barrels-from-strategic-oil-reserves-for-exxonmobil-bp-amid-hurricane-isaias-disruptions/articleshow/134864297.cms",
+     "title": "US releases 4 million barrels from strategic oil reserves for ExxonMobil, BP amid Hurricane Isaias disruptions",
+     "description": "The United States authorised the release of up to four million barrels of crude oil from its Strategic Petroleum Reserve to help ExxonMobil and BP maintain refinery operations amid supply disruptions caused by Hurricane Isaias. The companies must replenish th\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-11T02:46:07Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 42.5,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.721,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-11T02:46:07+00:00",
+   "rank": 44,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-12d3bf1a",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.nakedcapitalism.com/2026/10/iran-war-saudi-airports-oil-facilities-blasted-ansar-allah-hormuz-strait-mined.html",
+   "lead_title": "Iran War: Saudi Airports and Oil Facilities Blasted Again and Again",
+   "lead_source": "Nakedcapitalism.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.nakedcapitalism.com/2026/10/iran-war-saudi-airports-oil-facilities-blasted-ansar-allah-hormuz-strait-mined.html",
+     "title": "Iran War: Saudi Airports and Oil Facilities Blasted Again and Again",
+     "description": "Yemen's Ansar Allah pounded Saudi Arabia Saturday, injuring hundreds at the Riyadh airport but also halting flights at King Fahd airport in Dammam while rumors of hits on Saudi oil facilities ran rampant.\u00a0Iran was active in the Strait again.",
+     "source": "Nakedcapitalism.com",
+     "publishedAt": "2026-10-11T10:05:50Z",
+     "domain": "nakedcapitalism.com",
+     "category": "advocacy_opinion",
+     "origin": "nakedcapitalism.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 42.5,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.957,
+    "escalation": 0.139,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T10:05:50+00:00",
+   "rank": 45,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-5d53f8f3",
+   "home": "T10",
+   "topics": {
+    "T10": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346",
+   "lead_title": "Taiwan to boost military spending to 'deter war' with China",
+   "lead_source": "DW (English)",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T10",
+     "url": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346",
+     "title": "Taiwan to boost military spending to 'deter war' with China",
+     "description": "President Lai Ching-te \u2060said in a National Day speech that his country is boosting defense spending to 'deter war' with China. It comes after US President Donald Trump asked Taiwan to pay for US protection. Taiwan plans to boost defense spending to deter war,\u2026",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-10T09:38:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 41.3,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.373,
+    "escalation": 0.0,
+    "severity": 0.5
+   },
+   "latest": "2026-10-10T09:38:00+00:00",
+   "rank": 46,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-a5fdea54",
+   "home": "T06",
+   "topics": {
+    "T06": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.dw.com/en/indian-police-detain-cockroach-movement-founder-and-dozens-of-protesters-in-new-delhi-follow-live/live-79624339",
+   "lead_title": "Indian police detain 'Cockroach' movement founder and dozens of protesters in New Delhi. Follow live.",
+   "lead_source": "DW (English)",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T06",
+     "url": "https://www.dw.com/en/indian-police-detain-cockroach-movement-founder-and-dozens-of-protesters-in-new-delhi-follow-live/live-79624339",
+     "title": "Indian police detain 'Cockroach' movement founder and dozens of protesters in New Delhi. Follow live.",
+     "description": "India's 'Cockroach' party says its leaders have been detained ahead of a major protest called by the collective. Protesters are calling for India's chief election commissioner to resign.",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-10T03:50:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    },
+    {
+     "topic": "T06",
+     "url": "https://www.dw.com/en/indian-police-crack-down-on-cockroach-protesters-in-delhi/live-79624339",
+     "title": "Indian police crack down on 'Cockroach' protesters in Delhi",
+     "description": "India's 'Cockroach' party says its leaders have been detained ahead of a major protest called by the collective. Protesters are calling for India's chief election commissioner to resign.",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-10T03:50:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 41.2,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.298,
+    "escalation": 0.0,
+    "severity": 0.6
+   },
+   "latest": "2026-10-10T03:50:00+00:00",
+   "rank": 47,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-e4b9be96",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://sputnikglobe.com/20261011/russian-forces-hit-data-centers-used-by-ukraines-military--mod-1124863474.html",
+   "lead_title": "Russian Forces Hit Data Centers Used by Ukraine's Military \u2013 MoD",
+   "lead_source": "Sputnikglobe.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://sputnikglobe.com/20261011/russian-forces-hit-data-centers-used-by-ukraines-military--mod-1124863474.html",
+     "title": "Russian Forces Hit Data Centers Used by Ukraine's Military \u2013 MoD",
+     "description": "MOSCOW (Sputnik) - The Russian army struck data centers, Ukrainian port infrastructure facilities, as well as sea vessels involved in the interests of the Ukrainian military overnight, the Russian Defense Ministry said on Sunday.",
+     "source": "Sputnikglobe.com",
+     "publishedAt": "2026-10-11T07:21:09Z",
+     "domain": "sputnikglobe.com",
+     "category": "state_affiliated",
+     "origin": "sputnikglobe.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://biztoc.com/x/2e67d42b6c0dd676",
+     "title": "Russia hits another Ukraine ship in Black Sea",
+     "description": "Russia's Defense Ministry said on Sunday that its forces damaged a cargo ship in an overnight strike on Ukraine's Black Sea port of Chornomorsk, alleging the vessel was carrying military supplies for ...",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-11T06:37:31Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 41.1,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.861,
+    "escalation": 0.139,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T07:21:09+00:00",
+   "rank": 48,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-4631bfa4",
+   "home": "T05",
+   "topics": {
+    "T05": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://newrepublic.com/article/216347/mark-carney-plans-trump-europe-global-game",
+   "lead_title": "Mark Carney\u2019s Plans Are Bigger Than Trump",
+   "lead_source": "The New Republic",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "https://newrepublic.com/article/216347/mark-carney-plans-trump-europe-global-game",
+     "title": "Mark Carney\u2019s Plans Are Bigger Than Trump",
+     "description": "Canada\u2019s last breakup, with Great Britain, took roughly 100 years of painstaking and piecemeal constitutional reform to accomplish. This time, things are moving a little faster. Since President Donald Trump launched his trade war against his closest neighbor \u2026",
+     "source": "The New Republic",
+     "publishedAt": "2026-10-11T10:00:00Z",
+     "domain": "newrepublic.com",
+     "category": "unclassified",
+     "origin": "newrepublic.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 41.0,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.953,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T10:00:00+00:00",
+   "rank": 49,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-c9f1b043",
+   "home": "T10",
+   "topics": {
+    "T10": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.gov.uk/government/news/faster-front-line-delivery-with-new-testing-and-evaluation-programme",
+   "lead_title": "Faster front-line delivery with new Testing and Evaluation programme",
+   "lead_source": "Www.gov.uk",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T10",
+     "url": "https://www.gov.uk/government/news/faster-front-line-delivery-with-new-testing-and-evaluation-programme",
+     "title": "Faster front-line delivery with new Testing and Evaluation programme",
+     "description": "MOD and QinetiQ launch Project Safari, a joint programme opening up access to UK test and evaluation facilities for SMEs.",
+     "source": "Www.gov.uk",
+     "publishedAt": "2026-10-10T08:30:01Z",
+     "domain": "gov.uk",
+     "category": "wire_primary",
+     "origin": "gov.uk"
+    }
+   ],
+   "contradictions": [],
+   "score": 41.0,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.357,
+    "escalation": 0.0,
+    "severity": 0.5
+   },
+   "latest": "2026-10-10T08:30:01+00:00",
+   "rank": 50,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-0721589d",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://sputnikglobe.com/20261011/centcom-admits-striking-cargo-vessel-in-gulf-of-oman-1124863102.html",
+   "lead_title": "CENTCOM Admits Striking Cargo Vessel in Gulf of Oman",
+   "lead_source": "Sputnikglobe.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://sputnikglobe.com/20261011/centcom-admits-striking-cargo-vessel-in-gulf-of-oman-1124863102.html",
+     "title": "CENTCOM Admits Striking Cargo Vessel in Gulf of Oman",
+     "description": "US Central Command says a US fighter jet struck the stern of the Panama-flagged M/V Ocean Molica on October 10 after the crew ignored repeated warnings and attempted to run the naval blockade against Iran.",
+     "source": "Sputnikglobe.com",
+     "publishedAt": "2026-10-11T03:52:00Z",
+     "domain": "sputnikglobe.com",
+     "category": "state_affiliated",
+     "origin": "sputnikglobe.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 40.5,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.753,
+    "escalation": 0.181,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T03:52:00+00:00",
+   "rank": 51,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-f6b7610d",
+   "home": "T04",
+   "topics": {
+    "T04": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.channelnewsasia.com/commentary/russia-siberia-plague-lab-researcher-death-permafrost-6445626",
+   "lead_title": "Commentary: What\u2019s in the melting Russian permafrost may be scarier than plague",
+   "lead_source": "CNA",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T04",
+     "url": "https://www.channelnewsasia.com/commentary/russia-siberia-plague-lab-researcher-death-permafrost-6445626",
+     "title": "Commentary: What\u2019s in the melting Russian permafrost may be scarier than plague",
+     "description": "There is another health threat brewing in Russia that deserves more attention and alarm, says Lara Williams for Bloomberg Opinion.",
+     "source": "CNA",
+     "publishedAt": "2026-10-10T22:00:00Z",
+     "domain": "channelnewsasia.com",
+     "category": "wire_primary",
+     "origin": "channelnewsasia.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 39.7,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.6,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-10T22:00:00+00:00",
+   "rank": 52,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-691401fa",
+   "home": "T06",
+   "topics": {
+    "T06": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.salon.com/2026/10/11/french-students-are-in-the-streets-donald-trump-and-fox-news-are-freaking-out/",
+   "lead_title": "French students are in the streets. Donald Trump and Fox News are freaking out",
+   "lead_source": "Salon",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T06",
+     "url": "https://www.salon.com/2026/10/11/french-students-are-in-the-streets-donald-trump-and-fox-news-are-freaking-out/",
+     "title": "French students are in the streets. Donald Trump and Fox News are freaking out",
+     "description": "A mass uprising against neoliberal budget cuts captures the world's attention \u2014 and fuels right-wing paranoia",
+     "source": "Salon",
+     "publishedAt": "2026-10-11T10:30:38Z",
+     "domain": "salon.com",
+     "category": "unclassified",
+     "origin": "salon.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 39.3,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.972,
+    "escalation": 0.0,
+    "severity": 0.6
+   },
+   "latest": "2026-10-11T10:30:38+00:00",
+   "rank": 53,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-cf7b2446",
+   "home": "T10",
+   "topics": {
+    "T10": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://time.com/article/2026/10/10/understanding-america-defense-spending-paradox/",
+   "lead_title": "Under the Gun: Understanding America\u2019s Defense Spending Paradox",
+   "lead_source": "Time",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T10",
+     "url": "https://time.com/article/2026/10/10/understanding-america-defense-spending-paradox/",
+     "title": "Under the Gun: Understanding America\u2019s Defense Spending Paradox",
+     "description": "\"How is it possible that the most expensive military in the history of the world doesn\u2019t have enough ammunition to fight a war?\" asks Joshua Keating.",
+     "source": "Time",
+     "publishedAt": "2026-10-10T11:00:00Z",
+     "domain": "time.com",
+     "category": "established",
+     "origin": "time.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 38.5,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.393,
+    "escalation": 0.118,
+    "severity": 0.5
+   },
+   "latest": "2026-10-10T11:00:00+00:00",
+   "rank": 54,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-0e90e5ef",
+   "home": "T02",
+   "topics": {
+    "T02": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.thedailystar.net/business/economy/news/subsidised-food-distribution-falls-raising-poverty-concerns-4295331",
+   "lead_title": "Subsidised food distribution falls, raising poverty concerns",
+   "lead_source": "The Daily Star",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T02",
+     "url": "https://www.thedailystar.net/business/economy/news/subsidised-food-distribution-falls-raising-poverty-concerns-4295331",
+     "title": "Subsidised food distribution falls, raising poverty concerns",
+     "description": "Foodgrain distribution at subsidised rates declined in the first quarter of the current fiscal year, mainly because of a fall in open market sales (OMS), raising concerns about the impact on poverty and food security.",
+     "source": "The Daily Star",
+     "publishedAt": "2026-10-11T03:42:48Z",
+     "domain": "thedailystar.net",
+     "category": "unclassified",
+     "origin": "thedailystar.net"
+    }
+   ],
+   "contradictions": [],
+   "score": 37.9,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.748,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T03:42:48+00:00",
+   "rank": 55,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-ef1c7390",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://sputnikglobe.com/20261011/us-journalist-praises-resilience-of-donbass-residents-1124863596.html",
+   "lead_title": "US Journalist Praises Resilience of Donbass Residents",
+   "lead_source": "Sputnikglobe.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://sputnikglobe.com/20261011/us-journalist-praises-resilience-of-donbass-residents-1124863596.html",
+     "title": "US Journalist Praises Resilience of Donbass Residents",
+     "description": "WASHINGTON (Sputnik) - US journalist Sarah Bils told Sputnik that during a trip to Donbass, she was inspired by the resilience of local residents, who maintain hope for the future despite shelling by the Ukrainian armed forces that began back in 2014.",
+     "source": "Sputnikglobe.com",
+     "publishedAt": "2026-10-11T07:27:46Z",
+     "domain": "sputnikglobe.com",
+     "category": "state_affiliated",
+     "origin": "sputnikglobe.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 37.7,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.864,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T07:27:46+00:00",
+   "rank": 56,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-f78446e1",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.juancole.com/2026/10/fragmented-segregated-alternatives.html",
+   "lead_title": "Israel 2026: Fragmented, Divided, Segregated Election with Few Alternatives",
+   "lead_source": "Juancole.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.juancole.com/2026/10/fragmented-segregated-alternatives.html",
+     "title": "Israel 2026: Fragmented, Divided, Segregated Election with Few Alternatives",
+     "description": "with the new segregation of its Arab parties, the fragmented election offers no real change \u2013 except a march toward increasing apartheid",
+     "source": "Juancole.com",
+     "publishedAt": "2026-10-11T04:58:10Z",
+     "domain": "juancole.com",
+     "category": "advocacy_opinion",
+     "origin": "juancole.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 36.5,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.785,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T04:58:10+00:00",
+   "rank": 57,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-43faa1ff",
+   "home": "T01",
+   "topics": {
+    "T01": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://rt-english.com/business/647000-china-us-taiwan-conflict/",
+   "lead_title": "Markets too ready for conflict over Taiwan \u2013 US diplomat",
+   "lead_source": "Rt-english.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T01",
+     "url": "https://rt-english.com/business/647000-china-us-taiwan-conflict/",
+     "title": "Markets too ready for conflict over Taiwan \u2013 US diplomat",
+     "description": "Investors are overestimating the threat of war over Taiwan, a senior US diplomat has said, arguing that Beijing does not want a conflict Read Full Article at RT.com",
+     "source": "Rt-english.com",
+     "publishedAt": "2026-10-10T04:58:42Z",
+     "domain": "rt-english.com",
+     "category": "unclassified",
+     "origin": "rt-english.com"
+    },
+    {
+     "topic": "T01",
+     "url": "https://www.rt.com/business/647000-china-us-taiwan-conflict/",
+     "title": "Markets too ready for conflict over Taiwan \u2013 US diplomat",
+     "description": "Investors are overestimating the threat of war over Taiwan, a senior US diplomat has said, arguing that Beijing does not want a conflict Read Full Article at RT.com",
+     "source": "RT",
+     "publishedAt": "2026-10-10T04:58:42Z",
+     "domain": "rt.com",
+     "category": "state_affiliated",
+     "origin": "rt.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 36.2,
+   "n_independent": 2,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 0.38,
+    "recency": 0.312,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-10T04:58:42+00:00",
+   "rank": 58,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-47328093",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://biztoc.com/x/4084dd2efe3b453c",
+   "lead_title": "Iran vows to hit more ships if attacked again",
+   "lead_source": "Biztoc.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://biztoc.com/x/4084dd2efe3b453c",
+     "title": "Iran vows to hit more ships if attacked again",
+     "description": "Iranian forces will strike vessels in the Strait of Hormuz if any further action is taken against the country, senior military commander and deputy army coordinator Habibollah Sayyari warned, accordin...",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-11T11:08:38Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 35.8,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.996,
+    "escalation": 0.393,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T11:08:38+00:00",
+   "rank": 59,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-da057a2b",
+   "home": "T06",
+   "topics": {
+    "T06": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.naturalnews.com/2026-10-11-migrant-policy-withdrawn-south-africa-after-riots.html",
+   "lead_title": "Migrant Policy Withdrawn in South Africa After Violent Riots",
+   "lead_source": "Naturalnews.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T06",
+     "url": "https://www.naturalnews.com/2026-10-11-migrant-policy-withdrawn-south-africa-after-riots.html",
+     "title": "Migrant Policy Withdrawn in South Africa After Violent Riots",
+     "description": "South Africa\u2019s Department of Home Affairs\u00a0(DHA) said the policy produced serious consequences that could not have been foreseen and placed DHA officials at risk. The decision marks a retreat by the department, which had opposed the court\u2019s order. Constitution\u2026",
+     "source": "Naturalnews.com",
+     "publishedAt": "2026-10-11T06:00:00Z",
+     "domain": "naturalnews.com",
+     "category": "advocacy_opinion",
+     "origin": "naturalnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 34.9,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.817,
+    "escalation": 0.0,
+    "severity": 0.6
+   },
+   "latest": "2026-10-11T06:00:00+00:00",
+   "rank": 60,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-bf33f885",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://biztoc.com/x/235625c8635f687f",
+   "lead_title": "Starving Ukrainians Are Risking Death to Escape Their Front-Line Town",
+   "lead_source": "Biztoc.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://biztoc.com/x/235625c8635f687f",
+     "title": "Starving Ukrainians Are Risking Death to Escape Their Front-Line Town",
+     "description": "All year, food supplies have dwindled as mines and drones made the road increasingly impassable.",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-11T06:07:39Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186100192",
+     "title": "Starving Ukrainians Are Risking Death to Escape Their Front-Line Town - WSJ",
+     "description": "Starving Ukrainians Are Risking Death to Escape Their Front-Line TownWSJ In Russian-Occupied Oleshky, Civilians Struggle to Survive as Hunger DeepensThe Moscow Times People in Russian-occupied Ukrainian town risk 'road of death' to get foodReuters \u2018The smell \u2026",
+     "source": "Slashdot.org",
+     "publishedAt": "2026-10-11T03:32:16Z",
+     "domain": "slashdot.org",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 34.9,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.821,
+    "escalation": 0.465,
+    "severity": 0.8
+   },
+   "latest": "2026-10-11T06:07:39+00:00",
+   "rank": 61,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-eb684b92",
+   "home": "T11",
+   "topics": {
+    "T11": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://en.antaranews.com/news/434877/indonesian-australian-armies-hold-joint-exercise-in-central-java",
+   "lead_title": "Indonesian, Australian armies hold joint exercise in Central Java",
+   "lead_source": "Antaranews.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T11",
+     "url": "https://en.antaranews.com/news/434877/indonesian-australian-armies-hold-joint-exercise-in-central-java",
+     "title": "Indonesian, Australian armies hold joint exercise in Central Java",
+     "description": "Selected officers from Indonesian and Australian armies honed combat skills in the &quot;Wirra Jaya Ausindo 2026&quot; joint military exercise in Semarang, ...",
+     "source": "Antaranews.com",
+     "publishedAt": "2026-10-10T05:56:29Z",
+     "domain": "antaranews.com",
+     "category": "established",
+     "origin": "antaranews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 33.5,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.323,
+    "escalation": 0.0,
+    "severity": 0.4
+   },
+   "latest": "2026-10-10T05:56:29+00:00",
+   "rank": 62,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-cca11a05",
+   "home": "T02",
+   "topics": {
+    "T02": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://activistpost.com/this-is-what-a-perfect-storm-looks-like-a-global-fertilizer-crisis-a-global-fuel-crisis-a-super-el-nino-and-world-war-3-all-at-the-same-time/",
+   "lead_title": "This Is What A \u201cPerfect Storm\u201d Looks Like: A Global Fertilizer Crisis, A Global Fuel Crisis, A Super El Ni\u00f1o And World War 3 All At The Same Time",
+   "lead_source": "Activistpost.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T02",
+     "url": "https://activistpost.com/this-is-what-a-perfect-storm-looks-like-a-global-fertilizer-crisis-a-global-fuel-crisis-a-super-el-nino-and-world-war-3-all-at-the-same-time/",
+     "title": "This Is What A \u201cPerfect Storm\u201d Looks Like: A Global Fertilizer Crisis, A Global Fuel Crisis, A Super El Ni\u00f1o And World War 3 All At The Same Time",
+     "description": "If you think that things are bad now, just wait until food shortages really start to kick in next year. Even the UN is admitting that there isn\u2019t going to be enough food for everyone in 2027. As you will see below, they are preparing for a huge spike in [\u2026]\nT\u2026",
+     "source": "Activistpost.com",
+     "publishedAt": "2026-10-10T16:01:00Z",
+     "domain": "activistpost.com",
+     "category": "advocacy_opinion",
+     "origin": "activistpost.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 31.8,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.477,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-10T16:01:00+00:00",
+   "rank": 63,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-ebee11f0",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://truthout.org/articles/a-shadow-of-fear-hangs-over-gazans-amid-israeli-defense-ministers-threats/",
+   "lead_title": "A Shadow of Fear Hangs Over Gazans Amid Israeli Defense Minister\u2019s Threats",
+   "lead_source": "Truthout",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://truthout.org/articles/a-shadow-of-fear-hangs-over-gazans-amid-israeli-defense-ministers-threats/",
+     "title": "A Shadow of Fear Hangs Over Gazans Amid Israeli Defense Minister\u2019s Threats",
+     "description": "Israel Katz says Israel will forcibly displace 1 million Gazans if \u201ceven one Israeli soldier\u201d is abducted.",
+     "source": "Truthout",
+     "publishedAt": "2026-10-10T13:59:56Z",
+     "domain": "truthout.org",
+     "category": "advocacy_opinion",
+     "origin": "truthout.org"
+    }
+   ],
+   "contradictions": [],
+   "score": 31.3,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.441,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-10T13:59:56+00:00",
+   "rank": 64,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-4c853f1b",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.wnd.com/2026/10/russia-paper-tiger-that-still-bites/",
+   "lead_title": "Russia, the paper tiger that still bites",
+   "lead_source": "Wnd.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.wnd.com/2026/10/russia-paper-tiger-that-still-bites/",
+     "title": "Russia, the paper tiger that still bites",
+     "description": "'The Kremlin is still on the prowl'",
+     "source": "Wnd.com",
+     "publishedAt": "2026-10-10T14:10:25Z",
+     "domain": "wnd.com",
+     "category": "advocacy_opinion",
+     "origin": "wnd.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 31.3,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.444,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-10T14:10:25+00:00",
+   "rank": 65,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-1b50880c",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://sputnikglobe.com/20261010/itu-decisions-needed-amid-interference-via-starlink-in-internal-affairs---russian-diplomat-1124864589.html",
+   "lead_title": "ITU Decisions Needed Amid Interference Via Starlink in Internal Affairs - Russian Diplomat",
+   "lead_source": "Sputnikglobe.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://sputnikglobe.com/20261010/itu-decisions-needed-amid-interference-via-starlink-in-internal-affairs---russian-diplomat-1124864589.html",
+     "title": "ITU Decisions Needed Amid Interference Via Starlink in Internal Affairs - Russian Diplomat",
+     "description": "MOSCOW (Sputnik) - Decisions at the level of the International Telecommunication Union (ITU) are needed to combat the use of Starlink satellite internet systems to interfere in the affairs of other countries, Boris Vasilyev, head of a division in the Russian \u2026",
+     "source": "Sputnikglobe.com",
+     "publishedAt": "2026-10-10T10:02:00Z",
+     "domain": "sputnikglobe.com",
+     "category": "state_affiliated",
+     "origin": "sputnikglobe.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 30.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.379,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-10T10:02:00+00:00",
+   "rank": 66,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-c6f0256b",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://biztoc.com/x/3a49d66d9c1086df",
+   "lead_title": "Israeli airstrike targets southern Lebanon's Nabatieh",
+   "lead_source": "Biztoc.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://biztoc.com/x/3a49d66d9c1086df",
+     "title": "Israeli airstrike targets southern Lebanon's Nabatieh",
+     "description": "An Israeli drone carried out an airstrike in southern Lebanon, the country\u2019s National News Agency (NNA) reported.The drone fired two guided missiles at the al-Hariq neighborhood between the towns of N...",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-10T07:17:19Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 30.4,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.341,
+    "escalation": 0.573,
+    "severity": 0.8
+   },
+   "latest": "2026-10-10T07:17:19+00:00",
+   "rank": 67,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-5d740113",
+   "home": "T04",
+   "topics": {
+    "T04": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.medicaldaily.com/washington-h5n1-bird-flu-dairy-cattle-yakima-county-479786",
+   "lead_title": "Washington Confirms Its First H5N1 Bird Flu Cases in Dairy Cattle, Placing Two Yakima County Farms Under Quarantine",
+   "lead_source": "Medical Daily",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T04",
+     "url": "https://www.medicaldaily.com/washington-h5n1-bird-flu-dairy-cattle-yakima-county-479786",
+     "title": "Washington Confirms Its First H5N1 Bird Flu Cases in Dairy Cattle, Placing Two Yakima County Farms Under Quarantine",
+     "description": "Washington confirmed its first H5N1 bird flu cases in dairy cattle at two Yakima County farms. What it means for milk, farmworkers, and families.",
+     "source": "Medical Daily",
+     "publishedAt": "2026-10-10T02:48:04Z",
+     "domain": "medicaldaily.com",
+     "category": "unclassified",
+     "origin": "medicaldaily.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 30.0,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.287,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-10T02:48:04+00:00",
+   "rank": 68,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-db180186",
+   "home": "T06",
+   "topics": {
+    "T06": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://biztoc.com/x/d0eaebc9b418d43b",
+   "lead_title": "\"We Did Not Follow Your Insane Migration Policies\": Slovak MEP Crushes Brussels Bureaucrats Over Mass Crime, Riots",
+   "lead_source": "Biztoc.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T06",
+     "url": "https://biztoc.com/x/d0eaebc9b418d43b",
+     "title": "\"We Did Not Follow Your Insane Migration Policies\": Slovak MEP Crushes Brussels Bureaucrats Over Mass Crime, Riots",
+     "description": "\"We Did Not Follow Your Insane Migration Policies\": Slovak MEP Crushes Brussels Bureaucrats Over Mass Crime, Riots\n \nAuthored by - Remix News Staff - via Remix News,\nA Slovak member of the European Parliament said Wednesday that street violence, sexual attack\u2026",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-11T11:08:27Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 28.0,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.996,
+    "escalation": 0.161,
+    "severity": 0.6
+   },
+   "latest": "2026-10-11T11:08:27+00:00",
+   "rank": 69,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-ddab444c",
+   "home": "T06",
+   "topics": {
+    "T06": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.breitbart.com/europe/2026/10/09/left-extremist-rioting-spreads-to-brussels-antifa-infiltration-blamed/",
+   "lead_title": "Left-Extremist Rioting Spreads to Brussels With Antifa Infiltration of Protests Blamed",
+   "lead_source": "Breitbart News",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T06",
+     "url": "https://www.breitbart.com/europe/2026/10/09/left-extremist-rioting-spreads-to-brussels-antifa-infiltration-blamed/",
+     "title": "Left-Extremist Rioting Spreads to Brussels With Antifa Infiltration of Protests Blamed",
+     "description": "The French \"student protests\" have spread to Belgium, and just like in France they have been quickly hijacked by extremist left-wing elements.\nThe post Left-Extremist Rioting Spreads to Brussels With Antifa Infiltration of Protests Blamed appeared first on Br\u2026",
+     "source": "Breitbart News",
+     "publishedAt": "2026-10-10T05:00:47Z",
+     "domain": "breitbart.com",
+     "category": "advocacy_opinion",
+     "origin": "breitbart.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 27.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.312,
+    "escalation": 0.0,
+    "severity": 0.6
+   },
+   "latest": "2026-10-10T05:00:47+00:00",
+   "rank": 70,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-2bc54134",
+   "home": "T13",
+   "topics": {
+    "T13": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://freerepublic.com/focus/f-news/4398753/posts",
+   "lead_title": "Andy Burnham's record at stopping the boats worse than Sir Keir Starmer's, figures show, with larger proportion of Channel migrants successfully reaching Britain",
+   "lead_source": "Freerepublic.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T13",
+     "url": "https://freerepublic.com/focus/f-news/4398753/posts",
+     "title": "Andy Burnham's record at stopping the boats worse than Sir Keir Starmer's, figures show, with larger proportion of Channel migrants successfully reaching Britain",
+     "description": "Andy Burnham\u2019s record at stopping the boats is worse than Sir Keir Starmer\u2019s, figures show. Analysis of Channel crossings data found a larger proportion of migrants are successfully reaching Britain under Mr Burnham\u2019s administration, raising fresh questions a\u2026",
+     "source": "Freerepublic.com",
+     "publishedAt": "2026-10-11T02:42:52Z",
+     "domain": "freerepublic.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 19.8,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.72,
+    "escalation": 0.0,
+    "severity": 0.6
+   },
+   "latest": "2026-10-11T02:42:52+00:00",
+   "rank": 71,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-3a9376a5",
+   "home": "T13",
+   "topics": {
+    "T13": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://biztoc.com/x/71489d40337ee0d1",
+   "lead_title": "As German Voters Reject Mass Migration, Politicians And The Media Play The Fool",
+   "lead_source": "Biztoc.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T13",
+     "url": "https://biztoc.com/x/71489d40337ee0d1",
+     "title": "As German Voters Reject Mass Migration, Politicians And The Media Play The Fool",
+     "description": "As German Voters Reject Mass Migration, Politicians And The Media Play The Fool\n \nAuthored by Pawel Styrna via American Thinker,\nThe anti-mass-migration Alternative for Germany (AfD) has won the election to the provincial parliaments in the states of Saxony-A\u2026",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-10T11:02:30Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 14.9,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.394,
+    "escalation": 0.0,
+    "severity": 0.6
+   },
+   "latest": "2026-10-10T11:02:30+00:00",
+   "rank": 72,
+   "top_rank": null,
+   "related": []
+  }
+ ]
+}
