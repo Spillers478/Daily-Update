@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The New Yorker"
+      },
+      "author": "Sudarsan Raghavan",
+      "title": "How a Canadian TV Show May Have Helped Foil the FlyDubai Terrorist Attack",
+      "description": "The documentary series \u201cAir Crash Investigations\u201d has attracted a cult following by obsessively dissecting historic plane crashes. Then a fan of the show found himself aboard a hijacked plane headed for Israel.",
+      "url": "https://www.newyorker.com/culture/the-lede/how-a-canadian-tv-show-may-have-helped-foil-the-flydubai-terrorist-attack",
+      "urlToImage": "https://media.newyorker.com/photos/6ac93e9426e8d232cda55ce1/16:9/w_1280,c_limit/Raghavan-ACI.jpg",
+      "publishedAt": "2026-10-12T10:00:00Z",
+      "content": "By all accounts, the passengers on FlyDubai Flight 1073 narrowly avoided disaster. Even before the plane took off from Dubai International Airport, major security failures had already taken place. Ha\u2026 [+4617 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Associated Press",
+      "title": "Saudi Arabia extends airport closure after 12 killed in suspected Houthi terrorist attack",
+      "description": "Saudi Arabia extended an airport closure after a Houthi strike killed 12 people and injured 300.",
+      "url": "https://nypost.com/2026/10/11/world-news/saudi-arabia-extends-airport-closure-after-12-killed-in-suspected-houthi-terrorist-attack/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/144625434.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-11T11:56:11Z",
+      "content": "Saudi Arabia on Sunday extended the closure of its main international airport as Houthi rebels threatened airstrikes across the kingdom, a day after a missile attack killed 12 people and wounded more\u2026 [+4938 chars]"
+    }
+  ]
+}

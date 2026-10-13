@@ -303,3 +303,20 @@ date,topic_id,topic_label,retrieved,kept_here,moved_out,discarded,unclassified,d
 2026-10-12,T12,Large-Scale Cyber Attack / Internet Blackout,11,0,2,9,0,0,1,ok
 2026-10-12,T13,Migration / Refugee Crisis,11,2,4,5,0,5,1,ok
 2026-10-12,T14,Threats to US Embassies / Diplomats,24,0,19,5,0,0,1,ok
+2026-10-13,flagship-ru-ua,Russia / Ukraine,25,20,1,4,0,28,1,ok
+2026-10-13,flagship-ru-ua-us-lens,Russia / Ukraine — US Media Lens,1,,,,,1,0,not_run
+2026-10-13,flagship-ir-il,Iran / Israel / Middle East,25,15,1,9,0,42,1,ok
+2026-10-13,T15,Disaster / Access Denial,6,3,0,3,0,5,1,ok
+2026-10-13,T01,Military Conflict,8,2,5,1,0,11,1,ok
+2026-10-13,T02,Humanitarian Crisis,25,3,9,13,0,3,1,ok
+2026-10-13,T03,Bio/Chemical Attack,9,0,4,5,0,0,1,ok
+2026-10-13,T04,Infectious Outbreak / Pandemic,4,1,0,3,0,2,1,ok
+2026-10-13,T05,Political Instability / Coup Risk,25,5,7,13,0,5,1,ok
+2026-10-13,T06,Mass Uprising / Regime-Threatening Unrest,5,3,0,2,0,5,1,ok
+2026-10-13,T07,Nuclear Weaponry / Attack,25,0,17,8,0,0,1,ok
+2026-10-13,T08,VEO / Regional Insecurity,2,1,1,0,0,5,1,ok
+2026-10-13,T10,Military Modernization,11,5,4,2,0,8,1,ok
+2026-10-13,T11,Military Exercise,1,1,0,0,0,1,1,ok
+2026-10-13,T12,Large-Scale Cyber Attack / Internet Blackout,18,3,1,14,0,4,1,ok
+2026-10-13,T13,Migration / Refugee Crisis,13,3,4,6,0,3,1,ok
+2026-10-13,T14,Threats to US Embassies / Diplomats,20,1,15,4,0,3,1,ok

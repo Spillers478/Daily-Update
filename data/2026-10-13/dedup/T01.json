@@ -1,0 +1,39 @@
+{
+  "groups": {
+    "https://www.dw.com/en/air-strikes-kill-dozens-of-gold-miners-on-sudan-egypt-border/a-79634889": "a",
+    "https://timesofindia.indiatimes.com/world/rest-of-world/gold-rush-turns-deadly-airstrike-kills-13-miners-in-sudan-egypt-border-zone/articleshow/134875722.cms": "a",
+    "https://www.aljazeera.com/news/2026/10/11/at-least-72-sudanese-miners-killed-in-air-strike-rights-monitor": "a",
+    "https://warontherocks.com/how-china-and-america-can-move-from-competition-to-stability/": "b",
+    "https://www.business-standard.com/world-news/north-korea-fires-multiple-ballistic-missiles-after-seoul-s-hypersonic-test-126101200058_1.html": "c",
+    "https://nypost.com/2026/10/12/world-news/north-korea-fires-multiple-ballistic-missiles-adding-to-streak-of-weapons-tests/": "c",
+    "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea": "c",
+    "https://www.cbsnews.com/news/north-korea-fires-ballistic-missiles-tests/": "c",
+    "https://abcnews.com/International/wireStory/south-koreas-military-north-korea-fired-projectile-sea-137184009": "c",
+    "https://theconversation.com/is-nzs-foreign-policy-realism-working-why-the-next-government-faces-a-real-choice-294041": "d",
+    "https://abcnews.com/International/wireStory/china-sanctions-paraguay-belize-officials-ties-taiwan-137186560": "e"
+  },
+  "contradictions": [
+    {
+      "group": "a",
+      "claim_type": "figures",
+      "summary": "Sources give very different death tolls for the same airstrike: 72 killed versus at least 13 killed and 28 injured.",
+      "sources": [
+        {
+          "source": "DW (English)",
+          "url": "https://www.dw.com/en/air-strikes-kill-dozens-of-gold-miners-on-sudan-egypt-border/a-79634889",
+          "says": "A Sudan-based rights group said 72 people were killed."
+        },
+        {
+          "source": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/gold-rush-turns-deadly-airstrike-kills-13-miners-in-sudan-egypt-border-zone/articleshow/134875722.cms",
+          "says": "At least 13 gold miners were killed and 28 injured, though the toll could rise."
+        },
+        {
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/11/at-least-72-sudanese-miners-killed-in-air-strike-rights-monitor",
+          "says": "At least 72 Sudanese miners were killed, according to a rights monitor."
+        }
+      ]
+    }
+  ]
+}

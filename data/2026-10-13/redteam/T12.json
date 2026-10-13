@@ -1,0 +1,76 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Bill Gates sounds alarm on AI-powered cyberattacks, warns of 'negative surprises' within a year",
+      "description": "Bill Gates warned that AI-powered cyberattacks could disrupt financial systems and fuel extortion schemes, with criminals exploiting unsafeguarded models.",
+      "url": "https://www.foxnews.com/media/bill-gates-sounds-alarm-ai-powered-cyberattacks-warns-negative-surprises-within-year",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/gates-climate-change.jpg",
+      "publishedAt": "2026-10-11T18:51:45Z",
+      "content": "Microsoft co-founder Bill Gates warned Sunday that artificial intelligence could fuel a wave of cyberattacks over the next year, and said that malicious actors are gaining access to increasingly powe\u2026 [+3273 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T03"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Ana-Maria Stanciuc",
+      "title": "Japan steps up cyber warnings as data leaks hit millions of customers",
+      "description": "Japan\u2019s government has told ministries, local authorities and companies to step up their cyber defences. A wave of attacks has exposed the data of millions of customers. The National Cybersecurity Office sent the instructions on Friday, the Associated Press r\u2026",
+      "url": "https://thenextweb.com/news/japan-cyberattacks-warning-data-leaks",
+      "urlToImage": "https://media.thenextweb.com/2026/10/osaka-umeda-skyline-dusk-office-towers.jpg",
+      "publishedAt": "2026-10-12T08:48:37Z",
+      "content": "Japans government has told ministries, local authorities and companies to step up their cyber defences. A wave of attacks has exposed the data of millions of customers. The National Cybersecurity Off\u2026 [+3422 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "Phil Muncaster",
+      "title": "Net Closes Around ShinyHunters with Another FBI Arrest",
+      "description": "The FBI has arrested a Canadian cybersecurity executive as it continues its crackdown on ShinyHunters",
+      "url": "https://www.infosecurity-magazine.com/news/net-closes-shinyhunters-another/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/438124df-2f7e-4997-9ea8-0c7771952104.jpeg",
+      "publishedAt": "2026-10-12T10:00:00Z",
+      "content": "The FBI has arrested a Canadian cybersecurity executive on suspicion of involvement with the ShinyHunters group, which was responsible for a major breach at the bureau last month.\r\nFBI director, Kash\u2026 [+2466 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Ana-Maria Stanciuc",
+      "title": "Japan steps up cyber warnings as data leaks hit millions of customers",
+      "description": "Japan\u2019s government has told ministries, local authorities and companies to step up their cyber defences. A wave of attacks has exposed the data of millions of customers. The National Cybersecurity Office sent the instructions on Friday, the Associated Press r\u2026",
+      "url": "https://thenextweb.com/news/japan-cyberattacks-warning-data-leaks",
+      "urlToImage": "https://media.thenextweb.com/2026/10/osaka-umeda-skyline-dusk-office-towers.jpg",
+      "publishedAt": "2026-10-12T08:48:37Z",
+      "content": "Japans government has told ministries, local authorities and companies to step up their cyber defences. A wave of attacks has exposed the data of millions of customers. The National Cybersecurity Off\u2026 [+3422 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "EditorDavid",
+      "title": "FBI Arrests Cybersecurity Executive Over Data Breach After Contractor Fails to Update Oracle HR Platform",
+      "description": "CNN reports:\n\nThe FBI arrested a Canadian cybersecurity executive and ransomware expert as part of the investigation of a damaging hack that exposed the sensitive data of current and former FBI employees, according to court documents and people familiar the i\u2026",
+      "url": "https://it.slashdot.org/story/26/10/11/0157259/fbi-arrests-cybersecurity-executive-over-data-breach-after-contractor-fails-to-update-oracle-hr-platform",
+      "urlToImage": "https://a.fsdn.com/sd/topics/security_64.png",
+      "publishedAt": "2026-10-11T07:34:00Z",
+      "content": "The FBI arrested a Canadian cybersecurity executive and ransomware expert as part of the investigation of a damaging hack that exposed the sensitive data of current and former FBI employees, accordin\u2026 [+1668 chars]",
+      "cocom": "USNORTHCOM"
+    }
+  ]
+}
