@@ -337,3 +337,18 @@ date,topic_id,topic_label,retrieved,kept_here,moved_out,discarded,unclassified,d
 2026-10-14,T12,Large-Scale Cyber Attack / Internet Blackout,25,13,1,11,0,14,1,ok
 2026-10-14,T13,Migration / Refugee Crisis,20,5,4,11,0,5,1,ok
 2026-10-14,T14,Threats to US Embassies / Diplomats,25,1,21,3,0,1,1,ok
+2026-10-15,flagship-ru-ua,Russia / Ukraine,25,14,0,11,0,19,1,ok
+2026-10-15,flagship-ir-il,Iran / Israel / Middle East,25,13,3,9,0,31,1,ok
+2026-10-15,flagship-ir-il-us-lens,Iran / Israel / Middle East — US Media Lens,1,,,,,1,0,not_run
+2026-10-15,T01,Military Conflict,11,1,3,7,0,6,1,ok
+2026-10-15,T02,Humanitarian Crisis,25,3,8,14,0,5,1,ok
+2026-10-15,T03,Bio/Chemical Attack,11,3,2,6,0,4,1,ok
+2026-10-15,T04,Infectious Outbreak / Pandemic,18,8,0,10,0,11,1,ok
+2026-10-15,T05,Political Instability / Coup Risk,25,7,3,15,0,9,1,ok
+2026-10-15,T06,Mass Uprising / Regime-Threatening Unrest,7,6,0,1,0,8,1,ok
+2026-10-15,T07,Nuclear Weaponry / Attack,25,0,19,6,0,0,1,ok
+2026-10-15,T10,Military Modernization,20,5,6,9,0,12,1,ok
+2026-10-15,T11,Military Exercise,2,1,0,1,0,1,1,ok
+2026-10-15,T12,Large-Scale Cyber Attack / Internet Blackout,25,14,0,11,0,15,1,ok
+2026-10-15,T13,Migration / Refugee Crisis,25,7,5,13,0,8,1,ok
+2026-10-15,T14,Threats to US Embassies / Diplomats,17,1,9,7,0,2,1,ok
