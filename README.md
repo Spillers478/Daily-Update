@@ -1,4 +1,4 @@
-# Global Situation Watch
+# Daily Update
 
 A daily geopolitical and military awareness brief that is automatically generated and published, with no one in the loop.
 
