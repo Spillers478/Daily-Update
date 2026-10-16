@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Iran peace has been made more difficult by taking out Iranian leaders, Trump laments - Fox News",
+      "description": "President Trump says peace with Iran and ending IRGC attacks in the Strait of Hormuz may have been easier without removing key leaders, as Saudi Arabia battles Houthi terrorists amid the Iran war, oil price concerns and rising regional tensions. Get the lates\u2026",
+      "url": "https://www.foxnews.com/live-news/us-iran-war-peace-donald-trump-strait-hormuz-oil-prices-midterms-october-15",
+      "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/60698368954c38bc9d364988554c3f41.jpg",
+      "publishedAt": "2026-10-15T10:22:37Z",
+      "content": "President Donald Trump said the Iran war will end very quickly after the midterms, saying Iranian officials are now seeking assurances that they will be allowed to live.\r\nTheir leaders are gone, Trum\u2026 [+847 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Susannah George",
+      "title": "Iranian attacks sink two ships in Strait of Hormuz - The Washington Post",
+      "description": "October has been one of the most violent months in the strait since the beginning of the war between Iran, the United States and Israel.",
+      "url": "https://www.washingtonpost.com/world/2026/10/14/iranian-attack-sinks-container-ship-strait-hormuz/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/L2WHYHX6OMI7BFKLXAGH5VT7Y4.jpg&w=1440",
+      "publishedAt": "2026-10-14T22:25:14Z",
+      "content": "Two shipssank in the Strait of Hormuz this weekafter being hit by Iranian attacksamid an escalation in violence in the critical waterway.\r\nA Singapore-registered container ship, the GFS Pride, was at\u2026 [+248 chars]"
+    }
+  ]
+}

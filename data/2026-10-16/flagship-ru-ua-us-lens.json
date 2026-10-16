@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Yuliya Talmazan",
+      "title": "\u2018We\u2019re done\u2019: Ukraine resumes strikes on Russian oil refineries as anger mounts with Trump - NBC News",
+      "description": "Ukraine has resumed strikes on Russian oil refineries after President Volodymyr Zelenskyy angrily accused the United States of betraying Kyiv with the \u201cdangerous\u201d withdrawal of support critical to its defense against Russia.",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-resumes-strikes-russian-oil-refineries-trump-starlink-intel-rcna603648",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-zelenskyy-rs-c30342.jpg",
+      "publishedAt": "2026-10-15T10:25:17Z",
+      "content": "Ukraine has resumed strikes on Russian oil refineries after President Volodymyr Zelenskyy angrily accused the United States of betraying Kyiv with the dangerous withdrawal of support critical to its \u2026 [+5082 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lim Hui Jie",
+      "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems - CNBC",
+      "description": "\"Any limits on speed or usage are decided by the US military and ultimately POTUS,\" Musk wrote.",
+      "url": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369735-1790708721611-gettyimages-2297232274-AFP_C9Q39QB.jpeg?v=1790708808&w=1920&h=1080",
+      "publishedAt": "2026-10-15T03:24:00Z",
+      "content": "SpaceX founder and CEO Elon Musk said Wednesday that the U.S. government and President Donald Trump was responsible for any curbs on Ukraine's military-grade Starlink network.\r\nWriting on X, Musk sai\u2026 [+2245 chars]"
+    }
+  ]
+}
