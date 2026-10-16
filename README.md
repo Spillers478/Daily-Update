@@ -4,7 +4,7 @@ A daily geopolitical and military awareness brief that is automatically generate
 
 This is a public, portfolio-scale adaptation of a structured 14-topic military awareness taxonomy. It was built to demonstrate an end-to-end AI/automation pipeline (scheduled ingestion, AI-assisted processing, and automated publishing) using only publicly available data.
 
-**[View today's brief →](https://spillers478.github.io/REPO-NAME/)**
+**[View today's brief →](https://spillers478.github.io/Daily-Update/)**
 
 ## What it does
 
