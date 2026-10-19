@@ -1,0 +1,61 @@
+{
+  "groups": {
+    "https://www.business-standard.com/india-news/cockroach-protests-pose-fresh-challenge-for-modi-govt-amid-voter-roll-row-126101800369_1.html": "a",
+    "https://www.dw.com/en/india-cjp-leader-abhijeet-dipke-released-after-detention/a-79690933": "b",
+    "https://www.dw.com/en/france-reports-almost-2400-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322": "c",
+    "https://www.dw.com/en/france-reports-more-than-1800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322": "c",
+    "https://www.bbc.co.uk/news/articles/c574pdzl0k4no": "c",
+    "https://www.breitbart.com/europe/2026/10/18/nero-fiddles-macron-faces-backlash-over-attending-celine-dion-concert-on-eve-of-fiery-riots/": "i",
+    "https://www.israelnationalnews.com/news/434758": "c",
+    "https://www.dailymail.com/news/article-16218151/French-town-hall-survived-world-wars-incinerated-standing-143-years-bloody-riots-spread-Europe.html": "c",
+    "https://freerepublic.com/focus/f-news/4399567/posts": "d",
+    "https://www.breitbart.com/europe/2026/10/17/unprecedented-levels-of-looting-in-paris-as-over-1200-arrested-during-nationwide-riots/": "c",
+    "https://biztoc.com/x/3957bc927e146d65": "e",
+    "https://fortune.com/2026/10/17/france-debt-crisis-budget-deficit-bond-yields-spread-protests-riots/": "e",
+    "https://biztoc.com/x/7e1fccdba8180d7f": "f",
+    "https://www.dailymail.com/news/article-16217569/Marie-Antoinette-jibes-Macrons-dance-Paris-burns-riots-failing-government.html": "i",
+    "https://biztoc.com/x/fd525071df435bb3": "g",
+    "https://www.breitbart.com/europe/2026/10/17/france-on-fire-government-blames-far-left-for-fuelling-nationwide-riots-looting-and-arson/": "d",
+    "https://biztoc.com/x/4858ff3534062670": "g",
+    "https://abcnews.com/International/wireStory/riots-tirana-enter-day-albanias-anti-government-protests-137349659": "j",
+    "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests": "k",
+    "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584": "k",
+    "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584": "k",
+    "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584": "k",
+    "https://www.breitbart.com/europe/2026/10/17/france-15-arrested-over-arson-that-destroyed-143-year-old-city-hall-building/": "h"
+  },
+  "contradictions": [
+    {
+      "group": "c",
+      "claim_type": "figures",
+      "summary": "Sources give different totals for the number of people arrested in the nationwide French riots.",
+      "sources": [
+        {
+          "source": "DW (English)",
+          "url": "https://www.dw.com/en/france-reports-almost-2400-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322",
+          "says": "almost 2,400 arrests"
+        },
+        {
+          "source": "DW (English)",
+          "url": "https://www.dw.com/en/france-reports-more-than-1800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322",
+          "says": "more than 1,800 arrests"
+        },
+        {
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no",
+          "says": "around 1,800 people arrested"
+        },
+        {
+          "source": "Israelnationalnews.com",
+          "url": "https://www.israelnationalnews.com/news/434758",
+          "says": "1,200 arrested"
+        },
+        {
+          "source": "Dailymail.com",
+          "url": "https://www.dailymail.com/news/article-16218151/French-town-hall-survived-world-wars-incinerated-standing-143-years-bloody-riots-spread-Europe.html",
+          "says": "more than 1,200 arrested"
+        }
+      ]
+    }
+  ]
+}
