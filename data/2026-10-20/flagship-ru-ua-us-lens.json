@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lim Hui Jie",
+      "title": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine - CNBC",
+      "description": "The report comes amid mounting tensions between Ukraine and the United States, its largest military backer.",
+      "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108372989-1791255404749-gettyimages-2229471059-2230320553.jpeg?v=1791572488&w=1920&h=1080",
+      "publishedAt": "2026-10-19T03:56:00Z",
+      "content": "U.S. President Donald Trump (R) greets Russian President Vladimir Putin as he arrives at Joint Base Elmendorf-Richardson on August 15, 2025 in Anchorage, Alaska.\r\nRussian President Vladimir Putin had\u2026 [+4523 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze - Al Jazeera",
+      "description": "The air strike, one of Ukraine\u2019s largest in the war, comes amid rising tensions between Kyiv and Washington.",
+      "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261018__D3M74UK__v1__HighRes__RussiaUkraineConflict-1792313964.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-19T03:01:43Z",
+      "content": "At least one person has been killed, and five others injured after Ukraine launched more than 1,000 drones at Russia, one of Kyivs largest aerial strikes in the war.\r\nSt Petersburg Governor Alexander\u2026 [+4608 chars]"
+    }
+  ]
+}

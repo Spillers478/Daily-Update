@@ -1,0 +1,53 @@
+{
+  "groups": {
+    "http://foreignpolicy.com/2026/10/19/iran-war-effects-world-gulf-china-israel/": "a",
+    "https://www.israelnationalnews.com/news/434835": "b",
+    "https://www.prnewswire.com/news-releases/out-of-hormuz-energy-shocks-the-ingredients-for-a-global-food-crisis-302912525.html": "c",
+    "https://www.channelnewsasia.com/business/oil-slips-five-month-high-hormuz-transits-in-focus-6470481": "d",
+    "https://economictimes.indiatimes.com/news/defence/houthi-rebels-strike-a-government-military-camp-in-southern-yemen-killing-at-least-20-fighters/articleshow/135046959.cms": "e",
+    "https://economictimes.indiatimes.com/news/international/world-news/houthi-rebels-strike-a-government-military-camp-in-southern-yemen-killing-at-least-20-fighters/articleshow/135046959.cms": "e",
+    "https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit": "f",
+    "https://sputnikglobe.com/20261019/araghchi-warns-us-against-renewing-attacks-on-iran-1124901566.html": "g",
+    "https://time.com/article/2026/10/19/trump-netanyahu-israel-election-endorsement/": "h",
+    "https://www.nakedcapitalism.com/2026/10/west-asia-war-egyptian-parliament-delays-vote-on-joining-yemen-war.html": "i",
+    "https://www.businessinsider.com/gas-oil-prices-soar-as-trump-deals-iran-war-inflation-2026-10#article": "j",
+    "https://cryptobriefing.com/houthi-attack-on-yemeni-military-camp-kills-18-escalating-conflict/": "e",
+    "https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak": "k",
+    "https://www.rigzone.com/news/what_will_happen_to_the_oil_price_over_the_next_few_quarters-19-oct-2026-184871-article/?rss=true": "l",
+    "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Oil-Import-Bill-Soars-46-as-Middle-East-Crisis-Drives-Up-Prices.html": "m",
+    "https://www.juancole.com/2026/10/ceasefire-anniversary-promises.html": "n",
+    "https://en.protothema.gr/2026/10/19/rubio-on-greece-a-very-important-country-and-great-ally-that-deserves-a-strong-new-us-ambassador/": "o",
+    "https://theconversation.com/how-gas-prices-became-a-lightning-rod-for-voter-anger-ahead-of-the-us-midterms-294663": "p",
+    "https://www.cnn.com/2026/10/19/middleeast/iran-us-conflict-warning-intl": "q",
+    "https://sputnikglobe.com/20261019/irgc-says-oil-tanker-strikes-mine-in-strait-of-hormuz---reports-1124899608.html": "r",
+    "https://www.breitbart.com/politics/2026/10/18/netanyahu-after-trump-endorsement-together-we-will-complete-the-mission-against-iran/": "h",
+    "https://www.rawstory.com/trump-netanyahu-2678102321/": "h",
+    "https://gcaptain.com/iran-urges-us-to-accept-proposal-to-reopen-strait-of-hormuz/": "s",
+    "https://www.israelnationalnews.com/news/434792": "t",
+    "https://www.israelnationalnews.com/news/434801": "u"
+  },
+  "contradictions": [
+    {
+      "group": "e",
+      "claim_type": "figures",
+      "summary": "Sources give different death tolls and missile counts for the Houthi attack on the Yemeni government military camp.",
+      "sources": [
+        {
+          "source": "The Times of India",
+          "url": "https://economictimes.indiatimes.com/news/defence/houthi-rebels-strike-a-government-military-camp-in-southern-yemen-killing-at-least-20-fighters/articleshow/135046959.cms",
+          "says": "More than 30 killed and over 70 injured by three ballistic missiles hitting al-Alam camp"
+        },
+        {
+          "source": "The Times of India",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/houthi-rebels-strike-a-government-military-camp-in-southern-yemen-killing-at-least-20-fighters/articleshow/135046959.cms",
+          "says": "At least 20 soldiers killed by two ballistic missiles at a camp in Shabwa"
+        },
+        {
+          "source": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/houthi-attack-on-yemeni-military-camp-kills-18-escalating-conflict/",
+          "says": "18 killed in the Houthi attack on the camp"
+        }
+      ]
+    }
+  ]
+}

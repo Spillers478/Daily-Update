@@ -1,0 +1,44 @@
+{
+  "groups": {
+    "https://freerepublic.com/focus/f-bloggers/4399710/posts": "a",
+    "https://www.irishtimes.com/world/europe/2026/10/19/the-war-is-getting-nearer-ukraines-eastern-exodus-accelerates-as-russia-steps-up-attacks/": "b",
+    "https://www.nakedcapitalism.com/2026/10/links-10-19-2026.html": "c",
+    "https://www.npr.org/2026/10/19/nx-s1-6007371/ukraine-and-russia-exchange-strikes-as-relations-between-trump-and-zelenskyy-sour": "d",
+    "https://meduza.io/en/feature/2026/10/19/russia-s-invasion-left-thousands-of-ukrainian-children-stranded-in-russia-for-one-12-year-old-girl-the-only-way-out-of-her-occupied-village-led-away-from-her-mother": "e",
+    "https://www.cbc.ca/news/world/russian-missiles-drones-kyiv-overnight-9.7386357": "f",
+    "https://rt-english.com/business/647377-us-threatens-retaliation-eu-starlink/": "g",
+    "https://rt-english.com/russia/647382-belgorod-wounded-drone-attack/": "h",
+    "https://www.nbcnews.com/world/russia/russia-ukraine-yandex-data-centers-attacks-trump-rcna602753": "i",
+    "https://www.dw.com/en/ukraine-got-no-warning-of-russian-ballistic-strikes-zelenskyy-says/a-79697476": "f",
+    "https://www.hurriyetdailynews.com/ukraine-received-no-early-warning-of-russian-strikes-228309": "f",
+    "https://www.rferl.org/a/rubio-ukraine-peace-us-ties-central-asia/33879304.html": "j",
+    "https://www.aljazeera.com/news/2026/10/19/rubio-says-there-was-no-us-pause-in-intelligence-sharing-with": "k",
+    "https://punchng.com/rubio-says-no-pause-in-us-intel-sharing-with-ukraine/": "k",
+    "https://www.dailymail.com/news/article-16220017/Ukraine-no-early-warning-Russian-attacks-allies.html": "f",
+    "https://abcnews.com/International/wireStory/russian-missiles-drones-hit-kyiv-overnight-killing-1-137371029": "f",
+    "https://www.irishtimes.com/world/europe/2026/10/19/russian-air-strike-kills-woman-in-kyiv-and-hits-subway-station-amid-massive-attack/": "f",
+    "https://rt-english.com/news/647379-bessent-zelensky-russia-conflict/": "l",
+    "https://nypost.com/2026/10/18/us-news/gop-sen-candidate-mike-rogers-breaks-with-trump-over-russia-sanctions/": "m",
+    "https://www.dailymail.com/debate/article-16217335/Putin-declare-war-preparing-battle-late-Philip-Ingram.html": "n",
+    "https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729": "o"
+  },
+  "contradictions": [
+    {
+      "group": "f",
+      "claim_type": "figures",
+      "summary": "Sources report different injury counts for the same Kyiv attack: two injured versus eight injured.",
+      "sources": [
+        {
+          "source": "Dailymail.com",
+          "url": "https://www.dailymail.com/news/article-16220017/Ukraine-no-early-warning-Russian-attacks-allies.html",
+          "says": "One person killed and two more injured in the Russian attack on Kyiv"
+        },
+        {
+          "source": "Abcnews.com",
+          "url": "https://abcnews.com/International/wireStory/russian-missiles-drones-hit-kyiv-overnight-killing-1-137371029",
+          "says": "One person killed and eight others injured in the Russian missile and drone attack on Kyiv"
+        }
+      ]
+    }
+  ]
+}

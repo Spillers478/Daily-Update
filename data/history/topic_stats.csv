@@ -418,3 +418,21 @@ date,topic_id,topic_label,retrieved,kept_here,moved_out,discarded,unclassified,d
 2026-10-19,T12,Large-Scale Cyber Attack / Internet Blackout,11,1,1,9,0,1,1,ok
 2026-10-19,T13,Migration / Refugee Crisis,12,3,4,5,0,4,1,ok
 2026-10-19,T14,Threats to US Embassies / Diplomats,15,0,9,6,0,0,1,ok
+2026-10-20,flagship-ru-ua,Russia / Ukraine,25,17,2,6,0,21,1,ok
+2026-10-20,flagship-ru-ua-us-lens,Russia / Ukraine — US Media Lens,2,,,,,2,0,not_run
+2026-10-20,flagship-ir-il,Iran / Israel / Middle East,25,15,6,4,0,33,1,ok
+2026-10-20,flagship-ir-il-us-lens,Iran / Israel / Middle East — US Media Lens,1,,,,,1,0,not_run
+2026-10-20,T15,Disaster / Access Denial,1,0,0,1,0,0,1,ok
+2026-10-20,T01,Military Conflict,3,1,0,2,0,2,1,ok
+2026-10-20,T02,Humanitarian Crisis,25,9,2,14,0,9,1,ok
+2026-10-20,T03,Bio/Chemical Attack,6,1,0,5,0,1,1,ok
+2026-10-20,T04,Infectious Outbreak / Pandemic,5,0,0,5,0,1,1,ok
+2026-10-20,T05,Political Instability / Coup Risk,25,5,5,15,0,6,1,ok
+2026-10-20,T06,Mass Uprising / Regime-Threatening Unrest,25,25,0,0,0,37,1,ok
+2026-10-20,T07,Nuclear Weaponry / Attack,25,0,16,9,0,0,1,ok
+2026-10-20,T08,VEO / Regional Insecurity,1,1,0,0,0,3,1,ok
+2026-10-20,T10,Military Modernization,10,2,7,1,0,5,1,ok
+2026-10-20,T11,Military Exercise,2,2,0,0,0,2,1,ok
+2026-10-20,T12,Large-Scale Cyber Attack / Internet Blackout,18,0,1,17,0,1,1,ok
+2026-10-20,T13,Migration / Refugee Crisis,20,3,14,3,0,3,1,ok
+2026-10-20,T14,Threats to US Embassies / Diplomats,15,2,8,5,0,2,1,ok
