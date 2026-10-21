@@ -1,0 +1,55 @@
+{
+  "groups": {
+    "https://www.nbcnews.com/world/ukraine/ukraine-us-support-rubio-scandalous-zelenskyy-meeting-trump-oslo-rcna604530": "a",
+    "https://www.salon.com/2026/10/20/putin-has-trump-right-where-he-wants-him/": "b",
+    "https://www.wisn.com/article/russian-missile-drone-blitz-ukraine-zelenskyy-norway/74188566": "c",
+    "https://biztoc.com/x/a4475ecf5357320e": "c",
+    "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending": "d",
+    "https://abcnews.com/Business/wireStory/russian-missile-drone-blitz-kills-7-ukraine-zelenskyy-137405046": "c",
+    "https://time.com/article/2026/10/20/trump-summit-putin-xi-russia-china-ukraine-nuclear-weapons/": "e",
+    "https://biztoc.com/x/732b735876a3d684": "c",
+    "https://www.hurriyetdailynews.com/black-sea-strikes-fueling-global-food-storm-eu-228368": "f",
+    "https://www.rferl.org/a/ukraine-russia-attack-zelenskyy-oslo-meeting/33880037.html": "d",
+    "https://rt-english.com/news/647427-vance-refuses-call-ukraine-ally/": "g",
+    "https://freerepublic.com/focus/f-news/4399860/posts": "h",
+    "https://peoplesreview.com.np/2026/10/20/trump-ready-to-meet-putin-and-xi-in-china/": "e",
+    "https://theconversation.com/what-does-a-starshield-slowdown-really-mean-for-ukraines-war-with-russia-294625": "i",
+    "https://www.bbc.co.uk/news/videos/c3vgx05p149wo": "j",
+    "https://biztoc.com/x/be657f8c33766da8": "j",
+    "https://www.hurriyetdailynews.com/ukraine-races-to-secure-energy-supplies-ahead-of-winter-228346": "k",
+    "https://english.khabarhub.com/2026/20/572656/": "e",
+    "https://economictimes.indiatimes.com/news/international/world-news/trump-open-to-trilateral-talks-with-putin-and-xi-on-ukraine-war-with-or-without-zelenskyy/articleshow/135059133.cms": "e",
+    "https://dailyreckoning.com/a-new-chapter-with-russia/": "l",
+    "https://www.channelnewsasia.com/east-asia/south-korea-withdraw-ukraine-embassy-staff-6474651": "m",
+    "https://meduza.io/en/feature/2026/10/19/russia-s-invasion-left-thousands-of-ukrainian-children-stranded-in-russia-for-one-12-year-old-girl-the-only-way-out-of-her-occupied-village-led-away-from-her-mother": "n"
+  },
+  "contradictions": [
+    {
+      "group": "c",
+      "claim_type": "figures",
+      "summary": "Sources report different death tolls for the same Russian missile and drone attack on Ukraine: at least four versus at least seven.",
+      "sources": [
+        {
+          "source": "WISN Milwaukee",
+          "url": "https://www.wisn.com/article/russian-missile-drone-blitz-ukraine-zelenskyy-norway/74188566",
+          "says": "Russian missile and drone blitz killed at least four people"
+        },
+        {
+          "source": "Biztoc.com",
+          "url": "https://biztoc.com/x/732b735876a3d684",
+          "says": "Russian missile and drone blitz killed at least four people"
+        },
+        {
+          "source": "Biztoc.com",
+          "url": "https://biztoc.com/x/a4475ecf5357320e",
+          "says": "Russian missile and drone attack killed at least seven people"
+        },
+        {
+          "source": "Abcnews.com",
+          "url": "https://abcnews.com/Business/wireStory/russian-missile-drone-blitz-kills-7-ukraine-zelenskyy-137405046",
+          "says": "Russian missile and drone attack killed at least seven people"
+        }
+      ]
+    }
+  ]
+}

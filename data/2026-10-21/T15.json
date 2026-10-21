@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Meenakshi Sinha",
+      "title": "Pipeline damaged during repairs, water supply disrupted in Greater Noida",
+      "description": "Greater Noida Sector 37 water supply disrupted after a contractor damaged a pipeline during road repairs, causing street flooding and resident inconvenience.",
+      "url": "https://timesofindia.indiatimes.com/city/noida/pipeline-damaged-during-repairs-water-supply-disrupted-in-greater-noida/articleshow/135055072.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-135055049,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-19T18:32:44Z",
+      "content": "Follow Us On Social Media"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Andy Mannix, ProPublica",
+      "title": "Officials fear cybersecurity agency meant to protect US elections compromised by Trump",
+      "description": "A few months into President Donald Trump\u2019s second term, political appointees at the Department of Homeland Security made an unusual request of its agency focused on cybersecurity: Secretly acquire a voting machine and hack it.The appointees wanted the Cyberse\u2026",
+      "url": "https://www.rawstory.com/trump-voting-machines-2678105714/",
+      "urlToImage": "https://www.rawstory.com/media-library/file-photo-bartow-county-elections-supervisor-joseph-kirk-demonstrates-a-voting-machine-as-new-strategies-are-being-adopted-to.jpg?id=68485434&width=1200&height=600&coordinates=0%2C167%2C0%2C167",
+      "publishedAt": "2026-10-19T17:27:02Z",
+      "content": "A few months into President Donald Trumps second term, political appointees at the Department of Homeland Security made an unusual request of its agency focused on cybersecurity: Secretly acquire a v\u2026 [+19853 chars]"
+    }
+  ]
+}

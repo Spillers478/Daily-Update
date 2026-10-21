@@ -436,3 +436,22 @@ date,topic_id,topic_label,retrieved,kept_here,moved_out,discarded,unclassified,d
 2026-10-20,T12,Large-Scale Cyber Attack / Internet Blackout,18,0,1,17,0,1,1,ok
 2026-10-20,T13,Migration / Refugee Crisis,20,3,14,3,0,3,1,ok
 2026-10-20,T14,Threats to US Embassies / Diplomats,15,2,8,5,0,2,1,ok
+2026-10-21,flagship-ru-ua,Russia / Ukraine,25,14,1,10,0,22,1,ok
+2026-10-21,flagship-ru-ua-us-lens,Russia / Ukraine — US Media Lens,1,,,,,1,0,not_run
+2026-10-21,flagship-ir-il,Iran / Israel / Middle East,25,11,6,8,0,28,1,ok
+2026-10-21,flagship-ir-il-us-lens,Iran / Israel / Middle East — US Media Lens,1,,,,,1,0,not_run
+2026-10-21,T15,Disaster / Access Denial,2,1,0,1,0,3,1,ok
+2026-10-21,T01,Military Conflict,10,1,5,4,0,2,1,ok
+2026-10-21,T02,Humanitarian Crisis,25,6,6,13,0,9,1,ok
+2026-10-21,T03,Bio/Chemical Attack,8,1,1,6,0,1,1,ok
+2026-10-21,T04,Infectious Outbreak / Pandemic,5,3,0,2,0,3,1,ok
+2026-10-21,T05,Political Instability / Coup Risk,25,5,9,11,0,10,1,ok
+2026-10-21,T06,Mass Uprising / Regime-Threatening Unrest,25,22,0,3,0,36,1,ok
+2026-10-21,T07,Nuclear Weaponry / Attack,25,6,15,4,0,6,1,ok
+2026-10-21,T08,VEO / Regional Insecurity,2,2,0,0,0,4,1,ok
+2026-10-21,T09,American Hostage / Kidnapping,1,1,0,0,0,1,1,ok
+2026-10-21,T10,Military Modernization,18,7,4,7,0,18,1,ok
+2026-10-21,T11,Military Exercise,4,3,1,0,0,3,1,ok
+2026-10-21,T12,Large-Scale Cyber Attack / Internet Blackout,25,6,1,18,0,8,1,ok
+2026-10-21,T13,Migration / Refugee Crisis,25,2,19,4,0,3,1,ok
+2026-10-21,T14,Threats to US Embassies / Diplomats,25,0,18,7,0,0,1,ok
