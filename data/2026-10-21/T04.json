@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 5,
+  "totalResults": 6,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Shaun Wooller",
+      "title": "Grieving families accuse Matt Hancock of telling 'cruel lie' about care homes during pandemic",
+      "description": "Vulnerable care home residents were treated as an 'afterthought' and sacrificed to 'protect the NHS', the Covid-19 inquiry has found.",
+      "url": "https://www.dailymail.com/news/article-16224977/Grieving-families-accuse-Matt-Hancock-telling-cruel-lie-care-homes-pandemic.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/10/20/22/111985773-0-image-m-61_1792533112412.jpg",
+      "publishedAt": "2026-10-20T22:03:25Z",
+      "content": "Vulnerable care home residents were treated as an 'afterthought' and sacrificed to 'protect the NHS', the Covid-19 inquiry has found.\r\nMore than 43,000 residents died after hospitals discharged infec\u2026 [+4876 chars]"
+    },
     {
       "source": {
         "id": null,

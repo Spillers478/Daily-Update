@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 12,
+  "totalResults": 13,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line - BBC",
+      "description": "Ukraine says it carried out first drone airlift of wounded soldier from front lineBBC Ukrainian hexacopter drone executes world-first aerial medevacNew Atlas Ukraine's military evacuates wounded soldier with aerial drone in apparent world-firstCBS News Ukrain\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186385698",
+      "urlToImage": null,
+      "publishedAt": "2026-10-20T16:33:10Z",
+      "content": "\"An organization dries up if you don't challenge it with growth.\"\r\n-- Mark Shepherd, former President and CEO of Texas Instruments"
+    },
     {
       "source": {
         "id": "fox-news",

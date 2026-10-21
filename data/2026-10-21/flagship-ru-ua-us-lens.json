@@ -1,19 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 1,
+  "totalResults": 3,
   "articles": [
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Barak Ravid",
+      "title": "Witkoff to present Putin with peace proposal after talks with Zelensky - Axios",
+      "description": "Trump says it will be \"very bad\" for Ukraine if it doesn't strike a deal.",
+      "url": "https://www.axios.com/2026/10/20/putin-witkoff-russia-ukraine-war",
+      "urlToImage": "https://images.axios.com/fooWvvV7Mrxwv4aVriq0dUL4RSQ=/0x0:3435x1932/1366x768/2026/10/20/1792535020756.jpeg",
+      "publishedAt": "2026-10-20T23:08:19Z",
+      "content": "Driving the news: Witkoff will arrive in Russia after a day of talks in Oslo, Norway with Ukrainian President Volodymyr Zelensky, as well as the leaders of Norway and Finland and representatives from\u2026 [+1431 chars]"
+    },
     {
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Michael Birnbaum, Francesca Ebel, John Hudson",
-      "title": "Trump administration holds up Patriot missiles for Ukraine - The Washington Post",
-      "description": "Delays in approving transfers from partner countries coincide with a worsening rupture between President Donald Trump and Volodymyr Zelensky.",
-      "url": "https://www.washingtonpost.com/politics/2026/10/19/amid-deteriorating-relations-washington-holds-up-patriots-kyiv/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3LP2LOE36UQACTA4NULDTP57UE.JPG&w=1440",
-      "publishedAt": "2026-10-20T00:05:58Z",
-      "content": "The Trump administration has notapproved the transfer ofinterceptor missiles to Ukraine that are needed to protect the country from Russian missile and drone attacks, officials said Monday, a delay t\u2026 [+91 chars]"
+      "author": "Catherine Belton",
+      "title": "Russia, sensing victory, cheers Trump\u2019s latest shift against Ukraine - The Washington Post",
+      "description": "Kremlin officials are crowing that Western support of Ukraine is about to collapse, and Trump\u2019s recent moves are steps to closer alignment between Russia and the United States.",
+      "url": "https://www.washingtonpost.com/world/2026/10/20/russia-sensing-victory-cheers-trumps-latest-shift-against-ukraine/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/2BAULCGOL4GL2WNMT5LOAQOSOM.JPG&w=1440",
+      "publishedAt": "2026-10-20T15:21:07Z",
+      "content": "The Kremlin is counting the Trump administrations latest turn against Ukrainian President Volodymyr Zelensky as a major triumph and, coupled with political upheaval in Europe, a sign that Western sup\u2026 [+37 chars]"
     }
   ]
 }

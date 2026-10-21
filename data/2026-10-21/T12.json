@@ -1,7 +1,111 @@
 {
   "status": "ok",
-  "totalResults": 42,
+  "totalResults": 50,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June",
+      "description": "Unit 42 investigates network compromises across numerous industries",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226",
+      "urlToImage": "https://image.theregister.com/5304250.jpg?imageId=5304250&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-10-20T17:33:26Z",
+      "content": "Multiple ransomware groups, including Qilin and Inc, have been exploiting a high-severity authentication bypass bug in Palo Alto Networks' PAN-OS, with Unit 42 investigating attacks since early June \u2026 [+3113 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Tanveer Singh",
+      "title": "Your Windows laptop has crucial security settings that you're probably ignoring",
+      "description": "Don't ignore basic security features that could protect your data",
+      "url": "https://www.xda-developers.com/windows-laptop-security-settings-you-are-ignoring/",
+      "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/windows-11-laptop-security-settings-1.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-10-20T17:30:19Z",
+      "content": "Unlike your desktop, your laptop is exposed to several threat vectors simply because it leaves the safety of your home, giving attackers many more ways to steal it or compromise your data. That's not\u2026 [+5804 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Amazon.com"
+      },
+      "author": "Dor Shaboy",
+      "title": "How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore",
+      "description": "Learn how Eon replaced per-tool credentials and local MCP processes across AWS, GCP, and Azure with a single authenticated Amazon Bedrock AgentCore gateway, giving more than 100 developers and autonomous agents unified access to production investigation and c\u2026",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore/",
+      "urlToImage": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/20/21741.png",
+      "publishedAt": "2026-10-20T15:57:57Z",
+      "content": "This is a guest post co-written with Roei Zavida from Eon.\r\nIndependent software vendors (ISVs) building AI-powered products need to connect agents and humans to dozens of operational tools across cl\u2026 [+16209 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "description": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting\u00a0 PAN-OS and Prisma Access by ransomware actors.\n\nThe activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that\u2026",
+      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd71tvun8MRT5muo9ZiruSzkyqhGkeh-_5dP4QardwiC54o4wW3PtC7I1jtP_vVX1rPujN_YdrmILFSZw_Ikl6v8Gn2w75v-90aSHpnngi2WE-Ezv6OAO37YY4pJpNwe_DcGWRMgIOUxAEPyVisI3SxXnV30HejoGfGtlXDfAgGkdqrdFJjAI7x6jjFFj-/s1700-nu-rw-lo-l85-e365/palo-ransomware.jpg",
+      "publishedAt": "2026-10-20T15:32:27Z",
+      "content": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors.\r\nThe activity relates to CVE-2026\u2026 [+2933 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Truthout"
+      },
+      "author": "Chris Walker",
+      "title": "Anthropic Proposes AI Bill With 50-Death Threshold Before Models Can Be Halted",
+      "description": "The company has reportedly been working with lawmakers on a lax regulatory model since the start of summer.",
+      "url": "https://truthout.org/articles/anthropic-proposes-ai-bill-with-50-death-threshold-before-models-can-be-halted/",
+      "urlToImage": "https://truthout.org/app/uploads/2026/10/2026-1020-ai.jpg",
+      "publishedAt": "2026-10-20T15:01:35Z",
+      "content": "Support justice-driven, accurate and transparent news make a quick donation to Truthout today!\u00a0\r\nAnthropic, one of the major industry leaders in the development of artificial intelligence (AI), has p\u2026 [+4053 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Github.com"
+      },
+      "author": "coding-maniac",
+      "title": "Show HN: VoidAccess \u2013 open-source dark web OSINT, from query to a graph",
+      "description": "Hi HN! Im Katriel, and im a Security Researcher/Enthusiast and in the wave of AI, i wanted to build that next gen of security tooling that surpasses the current tools, and even the paid industries with an open source engine. I built MailAccess as well, which \u2026",
+      "url": "https://github.com/KatrielMoses/voidaccess",
+      "urlToImage": "https://repository-images.githubusercontent.com/1224778433/52fbf28e-4a75-48ac-ba58-62e653c32d87",
+      "publishedAt": "2026-10-20T14:49:33Z",
+      "content": "Self-hostable OSINT for turning dark-web research queries into structured threat intelligence. Built for security researchers, threat-intelligence teams, and authorized investigators who need collect\u2026 [+7787 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "GlobeNewswire",
+      "title": "Arms Cyber Names Jay Manni Chief Technology Officer",
+      "description": "Brentwood, TN, Oct. 20, 2026 (GLOBE NEWSWIRE) \u2014 Arms Cyber, the leader in stealth-driven endpoint protection for the AI era, is pleased to welcome Jay Manni to our executive leadership team as Chief Technology Officer (CTO). In his role, Mr. Manni will overse\u2026",
+      "url": "https://financialpost.com/globe-newswire/arms-cyber-names-jay-manni-chief-technology-officer",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/arms-cyber-names-jay-manni-chief-technology-officer.jpeg",
+      "publishedAt": "2026-10-20T14:21:19Z",
+      "content": "Brentwood, TN, Oct. 20, 2026 (GLOBE NEWSWIRE) Arms Cyber, the leader in stealth-driven endpoint protection for the AI era, is pleased to welcome Jay Manni to our executive leadership team as Chief Te\u2026 [+4042 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Paul Kunert",
+      "title": "'Password1' and a forgotten test account land Welsh outfits in hot water",
+      "description": "ICO reprimands Ogi Networks and Data Cymru after ransomware breach exposes info of 3,300 people, mostly children",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139",
+      "urlToImage": "https://image.theregister.com/5294336.jpg?imageId=5294336&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-10-20T13:35:00Z",
+      "content": "A test account protected by \"Password1\" helped an intruder steal personal data relating to 3,300 people, mostly children, in a ransomware attack that has drawn regulatory rebukes for two Welsh organi\u2026 [+3145 chars]"
+    },
     {
       "source": {
         "id": null,

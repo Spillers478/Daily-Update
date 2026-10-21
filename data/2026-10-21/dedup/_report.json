@@ -1,31 +1,69 @@
 {
-  "topics": [
-    "flagship-ru-ua",
-    "flagship-ir-il",
-    "T01",
-    "T02",
-    "T04",
-    "T05",
-    "T06",
-    "T08",
-    "T10",
-    "T11",
-    "T12",
-    "T13"
-  ],
+  "topics": [],
   "skipped": [
     "T03",
-    "T09",
-    "T14"
+    "T09"
   ],
   "failed": [
     {
+      "topic": "flagship-ru-ua",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "flagship-ir-il",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
       "topic": "T15",
-      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T01",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T02",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T04",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T05",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T06",
+      "error": "APIConnectionError: Connection error."
     },
     {
       "topic": "T07",
-      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T08",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T10",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T11",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T12",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T13",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T14",
+      "error": "APIConnectionError: Connection error."
     }
   ]
 }

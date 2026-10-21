@@ -2,130 +2,148 @@
   "topics": {
     "flagship-ru-ua": {
       "retrieved": 25,
-      "kept_here": 14,
-      "moved_out": 1,
-      "discarded": 10,
+      "kept_here": 0,
+      "moved_out": 0,
+      "discarded": 0,
       "unclassified": 0
     },
     "flagship-ir-il": {
       "retrieved": 25,
-      "kept_here": 11,
-      "moved_out": 6,
-      "discarded": 8,
+      "kept_here": 0,
+      "moved_out": 0,
+      "discarded": 0,
       "unclassified": 0
     },
     "T15": {
-      "retrieved": 2,
-      "kept_here": 1,
+      "retrieved": 5,
+      "kept_here": 0,
       "moved_out": 0,
-      "discarded": 1,
+      "discarded": 0,
       "unclassified": 0
     },
     "T01": {
-      "retrieved": 10,
-      "kept_here": 1,
-      "moved_out": 5,
-      "discarded": 4,
+      "retrieved": 11,
+      "kept_here": 0,
+      "moved_out": 0,
+      "discarded": 0,
       "unclassified": 0
     },
     "T02": {
       "retrieved": 25,
-      "kept_here": 6,
-      "moved_out": 6,
-      "discarded": 13,
+      "kept_here": 0,
+      "moved_out": 0,
+      "discarded": 0,
       "unclassified": 0
     },
     "T03": {
-      "retrieved": 8,
-      "kept_here": 1,
-      "moved_out": 1,
-      "discarded": 6,
+      "retrieved": 11,
+      "kept_here": 0,
+      "moved_out": 0,
+      "discarded": 0,
       "unclassified": 0
     },
     "T04": {
-      "retrieved": 5,
-      "kept_here": 3,
+      "retrieved": 6,
+      "kept_here": 0,
       "moved_out": 0,
-      "discarded": 2,
+      "discarded": 0,
       "unclassified": 0
     },
     "T05": {
       "retrieved": 25,
-      "kept_here": 5,
-      "moved_out": 9,
-      "discarded": 11,
+      "kept_here": 0,
+      "moved_out": 0,
+      "discarded": 0,
       "unclassified": 0
     },
     "T06": {
       "retrieved": 25,
-      "kept_here": 22,
+      "kept_here": 0,
       "moved_out": 0,
-      "discarded": 3,
+      "discarded": 0,
       "unclassified": 0
     },
     "T07": {
       "retrieved": 25,
-      "kept_here": 6,
-      "moved_out": 15,
-      "discarded": 4,
+      "kept_here": 0,
+      "moved_out": 0,
+      "discarded": 0,
       "unclassified": 0
     },
     "T08": {
       "retrieved": 2,
-      "kept_here": 2,
+      "kept_here": 0,
       "moved_out": 0,
       "discarded": 0,
       "unclassified": 0
     },
     "T09": {
       "retrieved": 1,
-      "kept_here": 1,
+      "kept_here": 0,
       "moved_out": 0,
       "discarded": 0,
       "unclassified": 0
     },
     "T10": {
-      "retrieved": 18,
-      "kept_here": 7,
-      "moved_out": 4,
-      "discarded": 7,
+      "retrieved": 25,
+      "kept_here": 0,
+      "moved_out": 0,
+      "discarded": 0,
       "unclassified": 0
     },
     "T11": {
       "retrieved": 4,
-      "kept_here": 3,
-      "moved_out": 1,
+      "kept_here": 0,
+      "moved_out": 0,
       "discarded": 0,
       "unclassified": 0
     },
     "T12": {
       "retrieved": 25,
-      "kept_here": 6,
-      "moved_out": 1,
-      "discarded": 18,
+      "kept_here": 0,
+      "moved_out": 0,
+      "discarded": 0,
       "unclassified": 0
     },
     "T13": {
       "retrieved": 25,
-      "kept_here": 2,
-      "moved_out": 19,
-      "discarded": 4,
+      "kept_here": 0,
+      "moved_out": 0,
+      "discarded": 0,
       "unclassified": 0
     },
     "T14": {
       "retrieved": 25,
       "kept_here": 0,
-      "moved_out": 18,
-      "discarded": 7,
+      "moved_out": 0,
+      "discarded": 0,
       "unclassified": 0
     }
   },
   "totals": {
-    "kept": 91,
-    "reassigned": 86,
-    "discarded": 98,
+    "kept": 0,
+    "reassigned": 0,
+    "discarded": 0,
     "unclassified": 0
   },
-  "failed_topics": [],
+  "failed_topics": [
+    "T01",
+    "T02",
+    "T03",
+    "T04",
+    "T05",
+    "T06",
+    "T07",
+    "T08",
+    "T09",
+    "T10",
+    "T11",
+    "T12",
+    "T13",
+    "T14",
+    "T15",
+    "flagship-ir-il",
+    "flagship-ru-ua"
+  ],
   "incomplete_topics": []
 }

@@ -1,7 +1,462 @@
 {
   "status": "ok",
-  "totalResults": 64,
+  "totalResults": 99,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "author": "News On Japan",
+      "title": "Debate on Nuclear-Powered Submarines Intensifies",
+      "description": "Japan is considering whether to introduce nuclear-powered submarines as part of a broader review of its national defense strategy, with Defense Minister Shinjiro Koizumi signaling on October 9 that the government would not rule out any options as it seeks to \u2026",
+      "url": "https://newsonjapan.com/article/151109.php",
+      "urlToImage": "https://i2.ytimg.com/vi/n0a6FFRKx5A/maxresdefault.jpg",
+      "publishedAt": "2026-10-20T23:08:37Z",
+      "content": "TOKYO -\r\n Japan is considering whether to introduce nuclear-powered submarines as part of a broader review of its national defense strategy, with Defense Minister Shinjiro Koizumi signaling on Octobe\u2026 [+12103 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crooksandliars.com"
+      },
+      "author": "Conover Kennard",
+      "title": "'Ohio State Owes That Boy A Refund': El-Sayed Unloads On Vance",
+      "description": "Michigan's Democratic U.S. Senate candidate Abdul El-Sayed took harsh aim at JD Vance during a CNN interview, mocking the vice president's education and arguing that the Trump administration dragged the United States into an unnecessary war with Iran.\n\"First \u2026",
+      "url": "https://crooksandliars.com/2026/10/ohio-state-owes-boy-refund-el-sayed",
+      "urlToImage": "https://crooksandliars.com/files/mediaposters/2026/10/59981.jpg",
+      "publishedAt": "2026-10-20T22:46:04Z",
+      "content": "Michigan's Democratic U.S. Senate candidate Abdul El-Sayed took harsh aim at JD Vance during a CNN interview, mocking the vice president's education and arguing that the Trump administration dragged \u2026 [+2184 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Caller"
+      },
+      "author": "Jack McGeever",
+      "title": "Defense Giants Post Record Backlogs As Iran War Drains America\u2019s Missile Stockpiles",
+      "description": "RTX and Northrop Grumman report record backlogs as the Pentagon races to replenish missile stockpiles amid the Iran war.",
+      "url": "https://dailycaller.com/2026/10/20/defense-giants-cash-in-as-us-scrambles-to-rebuild-missile-stockpiles",
+      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/GettyImages-1869885.jpg",
+      "publishedAt": "2026-10-20T21:44:17Z",
+      "content": "Two of Americas largest defense contractors reported record order backlogs Tuesday, with RTX securing nearly $23 billion in Tomahawk cruise missile contracts as the Pentagon faced mounting costs to r\u2026 [+5077 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Webb Wright",
+      "title": "OpenAI Says Its Models Can Give the Financial Sector a Coding Makeover",
+      "description": "Banks, government agencies, and other critical institutions run largely on antiquated programming languages. Can AI help bring them up to date?",
+      "url": "https://gizmodo.com/openai-says-its-models-can-give-the-financial-sector-a-coding-makeover-2000828398",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GPT-6-Astra-1200x675.jpg",
+      "publishedAt": "2026-10-20T20:45:10Z",
+      "content": "Artificial intelligence has deciphered ancient scrolls and could even help humans communicate with other animals, but now OpenAI is using the technology for another difficult translation taskone that\u2026 [+3365 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Elad Benari",
+      "title": "Trump weighs next move against Iran: The nice way or the not nice way",
+      "description": "President Trump says the US must decide how to secure victory over Iran, declines to provide details on Hegseth's meetings in Israel.",
+      "url": "https://www.israelnationalnews.com/news/434918",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1227547.jpg",
+      "publishedAt": "2026-10-20T20:41:15Z",
+      "content": "US President Donald Trump said Tuesday that Washington was making progress in its confrontation with Iran but had not yet decided how to secure a final victory, suggesting that further military actio\u2026 [+3068 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Haaretz"
+      },
+      "author": "Reuters",
+      "title": "Hegseth confirms Israel visit, declines to discuss private talks with Netanyahu",
+      "description": "Pentagon did not announce the visit, which comes as Israel and the United States are discussing the possibility of renewed fighting with Iran, in advance",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-20/ty-article/u-s-defense-secretary-hegseth-confirms-israel-trip-declines-to-detail-talks/000001a1-5ad9-d551-a3b5-fefd96680000",
+      "urlToImage": "https://img.haarets.co.il/bs/000001a1-5ad9-d551-a3b5-fefd96680000/31/2a/1babc63a49fb8ba6e4f2e3128a3e/hvcqfnywoaa8uug.jpeg?&width=1200&height=630&cmsprod",
+      "publishedAt": "2026-10-20T20:08:34Z",
+      "content": "U.S. Defense Secretary Pete Hegseth confirmed Tuesday that he visited American troops in Israel during an unannounced trip this week, but declined to discuss what he described as a private conversati\u2026 [+2283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pypi.org"
+      },
+      "author": "bbooth@utexas.edu",
+      "title": "neutron-os 1.17.3",
+      "description": "Nuclear facility digital operations platform \u2014 extends Axiom",
+      "url": "https://pypi.org/project/neutron-os/1.17.3/",
+      "urlToImage": null,
+      "publishedAt": "2026-10-20T19:52:20Z",
+      "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Diplomat"
+      },
+      "author": "Gulya Nur",
+      "title": "Rubio Gets a Medal. Russia Gets Military Drills. Karakalpakstan Gets Silence.",
+      "description": "Washington celebrates closer ties as Tashkent strengthens its Russian alliance\u2014and offers no announced relief for Karakalpak political prisoners.",
+      "url": "https://thediplomat.com/2026/10/rubio-gets-a-medal-russia-gets-military-drills-karakalpakstan-gets-silence/",
+      "urlToImage": "https://thediplomat.com/wp-content/uploads/2026/10/sizes/td-story-s-2/thediplomat_2026-10-21-033109.jpg",
+      "publishedAt": "2026-10-20T18:30:00Z",
+      "content": "On October 19, Uzbekistans President Shavkat Mirziyoyev awarded U.S. Secretary of State Marco Rubio the Order of Outstanding Merit. On October 20, UzDaily reported the arrival of Russian troops for j\u2026 [+15140 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Mayank Parmar",
+      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+      "description": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/10/13/openai-listening-device.jpg",
+      "publishedAt": "2026-10-20T18:11:03Z",
+      "content": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages.\r\nThe company lists programming languages such as COBOL, Fortran, and Visual Ba\u2026 [+1953 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nakedcapitalism.com"
+      },
+      "author": "Haig Hovaness",
+      "title": "Coffee Break: Armed Madhouse \u2013 Weapons Fetishism: When the Tools of War no Longer Serve Strategic Ends",
+      "description": "Modern military institutions continue to invest enormous resources in tanks, crewed aircraft, aircraft carriers, and missile defense systems even as technological change challenges their strategic utility. Cultural prestige, reputational inertia, and institut\u2026",
+      "url": "https://www.nakedcapitalism.com/2026/10/coffee-break-armed-madhouse-weapons-fetishism-when-the-tools-of-war-no-longer-serve-strategic-ends.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/10/Triad-of-Modern-Military-Power.png",
+      "publishedAt": "2026-10-20T18:00:16Z",
+      "content": "A fetish is an object invested with powers or significance beyond its actual properties. In its original anthropological sense, the term describes an object believed to possess supernatural powers. M\u2026 [+38008 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Openai.com"
+      },
+      "author": null,
+      "title": "Advanced coding in low-resource programming languages",
+      "description": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "url": "https://openai.com/index/low-resource-programming-languages/",
+      "urlToImage": "https://images.ctfassets.net/kftzwdyauwt9/1wQpFFie9sKfVWvApPYyn5/db28adb6a2dfdfdef39fb548fca8913d/low_resource_programming__SEO_Card__3_.png?w=1600&h=900&fit=fill",
+      "publishedAt": "2026-10-20T17:43:11Z",
+      "content": "Our latest model advances bring stronger capabilities for building and migrating software in low-resource programming languages such as COBOL, Fortran, and Visual Basic. These languages have less cod\u2026 [+6591 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Universe Today"
+      },
+      "author": "Evan Gough, Evan Gough (https://www.universetoday.com/authors/ion23drive)",
+      "title": "The Gas Near Sagittarius A-star is Enriched in Metals, Probably from Supernovae Explosions",
+      "description": "The region near Sagittarius A-star, the Milky Way's supermassive black hole, is enriched in metals, although only modestly. The likely cause is supernovae explosions, which synthesize elements heavier than hydrogen and helium. Over time, this metal-rich gas f\u2026",
+      "url": "https://www.universetoday.com/articles/the-gas-near-sagittarius-a-star-is-enriched-in-metals-probably-from-supernovae-explosions",
+      "urlToImage": "https://www.universetoday.com/article_images/galactic_center_cropped_20261020_170023.png",
+      "publishedAt": "2026-10-20T17:34:46Z",
+      "content": "The heart of the Milky Way is dominated byeven defined byits supermassive black hole (SMBH). It's named Sagittarius A-star (Sgr A*), and it has about 4 million solar masses. Its gargantuan gravitatio\u2026 [+5210 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Itch.io"
+      },
+      "author": "xdbx",
+      "title": "Show HN: Megapop \u2013 a Populous-style god game in the browser, WebGPU, no engine",
+      "description": "Article URL: https://waldtier.itch.io/megapop\nComments URL: https://news.ycombinator.com/item?id=50169128\nPoints: 2\n# Comments: 0",
+      "url": "https://waldtier.itch.io/megapop",
+      "urlToImage": "https://img.itch.zone/aW1nLzMwODg5NzAzLnBuZw==/original/h8lkwb.png",
+      "publishedAt": "2026-10-20T16:45:39Z",
+      "content": "PROJECT MEGAPOP is a pixel-art god game in the spirit of Populous and Mega-lo-Mania. You don't command units or place buildings. Your followers farm, mine, research, build, trade, migrate and fight o\u2026 [+2056 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "BL Mumbai Bureau",
+      "title": "Rubio defends Russia oil waiver, calls Iran\u2019s shipping attacks \u2018Nazi U-boat tactics\u2019",
+      "description": "Rubio defends Russia sanctions relief, deflects Iran\u2019s threats as 'Nazi U-boat tactics', and stresses US-Pakistan ties amid global tensions.",
+      "url": "https://www.thehindubusinessline.com/news/rubio-defends-russia-oil-waiver-calls-irans-shipping-attacks-nazi-u-boat-tactics/article71605291.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/2a2iqs/article71605296.ece/alternates/LANDSCAPE_1200/20261020192L.jpg",
+      "publishedAt": "2026-10-20T16:34:57Z",
+      "content": "US Secretary of State Marco Rubio defended the President Donald Trump administrations decision to ease the implementation of Russia-related sanctions and argued that Washington must continue engaging\u2026 [+2644 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Substack.com"
+      },
+      "author": "Lawrence Lessig",
+      "title": "The Harms Of Zombie Copyright",
+      "description": "Fifty years ago today, copyright law in America changed fundamentally. That change was an accidental disaster for both creators and the culture they create. \u2013 Lawrence Lessig",
+      "url": "https://lessig.substack.com/p/zombie-copyright-deja-vu-all-over",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!ZpFe!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30b61e31-4954-4a18-9453-1d6206374b8d_1536x1024.png",
+      "publishedAt": "2026-10-20T16:15:00Z",
+      "content": "Fifty years ago today, copyright law in America changed fundamentally. That change was an accidental disaster for both creators and the culture they create.\r\nThats not to say that the culture and cre\u2026 [+24350 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wnd.com"
+      },
+      "author": "Daily Caller News Foundation",
+      "title": "\u2018Things are about to get spicy\u2019: Pete Hegseth quietly meets Netanyahu as Trump weighs massive new Iran offensive",
+      "description": "'As always, it was an honor to visit our warfighters in CENTCOM today. The best of our country, on a historic mission. Godspeed.'",
+      "url": "https://www.wnd.com/2026/10/things-are-about-get-spicy-pete-hegseth-quietly/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2026/10/pete-hegseth-israel-warrors-troops-pentgon-military-defense-1200x630.jpg",
+      "publishedAt": "2026-10-20T16:09:41Z",
+      "content": "U.S. Secretary of War Pete Hegseth talks with American troops in Israel on Monday, Oct. 19, 2026 (X / @SecWar)\r\nDefense Secretary Pete Hegseth quietly traveled to Israel on Monday to meet with Prime \u2026 [+6208 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Rohail Saleem",
+      "title": "Elon Musk Says There Is A 50 Percent Chance That We Are Living In A Simulation, And Calls OpenAI\u2019s Sam Altman \u201cSo Deceptive, It\u2019s Crazy\u201d",
+      "description": "Whatever else you might think of Elon Musk, he is certainly not boring. In fact, he takes pains to act in such a way, firmly believing that this modus operandi is a necessary ingredient for the longevity of a potential simulation that all of us might be livin\u2026",
+      "url": "https://wccftech.com/elon-musk-says-there-is-a-50-percent-chance-that-we-are-living-in-a-simulation-and-calls-openais-sam-altman-so-deceptive-its-crazy/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/09/Elon-Musk-Tesla-xAI.webp",
+      "publishedAt": "2026-10-20T16:07:28Z",
+      "content": "Whatever else you might think of Elon Musk, he is certainly not boring. In fact, he takes pains to act in such a way, firmly believing that this modus operandi is a necessary ingredient for the longe\u2026 [+3640 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "gcaptain.com"
+      },
+      "author": "Reuters",
+      "title": "Iran\u00a0Prolongs\u00a0Talks in Stalemate to Influence US Midterms",
+      "description": "Iran\u00a0has deliberately prolonged talks with the US to try to weaken Donald Trump politically ahead of November's US midterm elections,\u00a0senior officials say,\u00a0while fears of renewed military action and deep distrust of Washington have reinforced Tehran's relucta\u2026",
+      "url": "https://gcaptain.com/iran-prolongs-talks-in-stalemate-to-influence-us-midterms/",
+      "urlToImage": "https://gcaptain.com/wp-content/uploads/2026/10/2026-09-28T112819Z_711172295_RC26SNAHFL5K_RTRMADP_3_IRAN-CRISIS-HORMUZ-800x533.jpg",
+      "publishedAt": "2026-10-20T16:03:56Z",
+      "content": "DUBAI, Oct 20 (Reuters)\u00a0\u2013\u00a0Iran\u00a0has deliberately prolonged talks with the US to try to weaken Donald Trump politically ahead of November\u2019s US midterm elections,\u00a0senior officials say,\u00a0while fears of re\u2026 [+5488 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Radio Free Europe/ Radio Liberty"
+      },
+      "author": "Kian Sharifi",
+      "title": "With War In Limbo, Influential Iranian Officials Openly Call For A Nuclear Bomb",
+      "description": "Ali Khamenei's death may not have invalidated his nuclear fatwa, but it has weakened the political taboo surrounding the bomb. Debate is now growing over whether the Islamic republic should abandon its long-standing position against developing nukes.",
+      "url": "https://www.rferl.org/a/iran-nuclear-weapon-bomb-us-war/33880169.html",
+      "urlToImage": "https://gdb.rferl.org/1fac091e-29c6-4d86-5b9e-08decd277110_cx0_cy4_cw0_w1200_h630.jpg",
+      "publishedAt": "2026-10-20T16:03:23Z",
+      "content": "It was once taboo in Iran to publicly speak about developing nuclear weapons. The authorities would often point to former Supreme Leader Ayatollah Ali Khamenei's religious edict barring the developme\u2026 [+7182 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Evan Semones",
+      "title": "\u2018You have to sacrifice\u2019: Trump voters stay loyal as US midterms approach",
+      "description": "Rising economic pain confronting US voters has not translated into a loss of faith among Trump\u2019s most loyal supporters.",
+      "url": "https://www.aljazeera.com/news/2026/10/20/you-have-to-sacrifice-trump-voters-stay-loyal-as-us-midterms-approach",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26234001993765-1791303198.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-20T15:57:47Z",
+      "content": "McConnellsburg, Pennsylvania, USA Calvin Ott, the owner of a landscaping business in a consistent stronghold for United States President Donald Trump, is one of several so-called MAGA voters whose su\u2026 [+13921 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crooksandliars.com"
+      },
+      "author": "John Amato",
+      "title": "'Dimwit Tom Emmer Cl'wns Trump: ''I F*cking Hate You!': Trump Gets An Earful In Kansas",
+      "description": "Speaking on Newsmax, Republican Congressman Tom Emmer thought he was bashing President Macron, with an unsubstantiated claim that the French president blames the US for civil unrest in France, when instead he clowned Donald Trump.\nNewsmax claimed Macron used \u2026",
+      "url": "https://crooksandliars.com/2026/10/tom-emmer-clowns-trump-failed-leaders",
+      "urlToImage": "https://crooksandliars.com/files/mediaposters/2026/10/59976.jpg",
+      "publishedAt": "2026-10-20T15:42:41Z",
+      "content": "Speaking on Newsmax, Republican Congressman Tom Emmer thought he was bashing President Macron, with an unsubstantiated claim that the French president blames the US for civil unrest in France, when i\u2026 [+844 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Israel National News",
+      "title": "Netanyahu: 'We must complete the elimination of the Iranian regime'",
+      "description": "Prime Minister Netanyahu says he discussed toppling the Iranian regime with US President Donald Trump, declaring that the move would lead to Hezbollah's elimination and peace with Lebanon.",
+      "url": "https://www.israelnationalnews.com/news/434905",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1191648.jpg",
+      "publishedAt": "2026-10-20T15:38:56Z",
+      "content": "Prime Minister Benjamin Netanyahu declared on Tuesday that Israel remains committed to toppling the Iranian regime, revealing that he had discussed the issue with US President Donald Trump as recentl\u2026 [+3890 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fair Observer"
+      },
+      "author": "Duncan Ritchie",
+      "title": "Will America\u2019s Democratic Flaws Be Its Undoing?",
+      "description": "Kayce Atencio was 19 when he suffered a heart attack caused by an undiagnosed congenital defect. It nearly killed him. The medical bills that followed devastated his finances and impacted his credit, making it difficult for Atencio to secure a lease or mortga\u2026",
+      "url": "https://www.fairobserver.com/world-news/us-news/will-americas-democratic-flaws-be-its-undoing/",
+      "urlToImage": "https://www.fairobserver.com/wp-content/uploads/2026/10/United-States.jpg",
+      "publishedAt": "2026-10-20T15:30:25Z",
+      "content": "Kayce Atencio was 19 when he suffered a heart attack caused by an undiagnosed congenital defect. It nearly killed him. The medical bills that followed devastated his finances and impacted his credit,\u2026 [+39142 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Diplomat"
+      },
+      "author": "Khang Vu",
+      "title": "Weapons to Russia, Wigs to China: How North Korea Balances Its Allies",
+      "description": "A clear division of labor ensures North Korea\u2019s alliances with Russia and China are complementary, not competitive with each other.",
+      "url": "https://thediplomat.com/2026/10/weapons-to-russia-wigs-to-china-how-north-korea-balances-its-allies/",
+      "urlToImage": "https://thediplomat.com/wp-content/uploads/2024/10/sizes/td-story-s-2/thediplomat_2024-10-30-145727.jpg",
+      "publishedAt": "2026-10-20T15:07:00Z",
+      "content": "North Koreas balancing act is back in the spotlight. In September, it opened its first road bridge with Russia. Just last week, North Korea opened a similar one with China. Pyongyangs land bridge wit\u2026 [+12676 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Abid Hussain",
+      "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+      "description": "With new talk of escalation, Islamabad is trying to revive negotiations without alienating Tehran, Riyadh or Washington.",
+      "url": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a11f11148bb-1779560721.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-20T14:39:50Z",
+      "content": "Islamabad, Pakistan \u00a0Pakistans army chief, Field Marshal Asim Munir, arrived in Tehran on Tuesday evening for talks with Iranian officials, as diplomatic efforts ramp up to prevent a new round of fig\u2026 [+9976 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Joe Wilkins",
+      "title": "Google\u2019s DeepMind Quietly Hiring Nuclear Physicists",
+      "description": "The ideal candidate will be familiar with policy related to \"stockpile stewardship, nonproliferation, arms control, or threat reduction.\"\nThe post Google\u2019s DeepMind Quietly Hiring Nuclear Physicists appeared first on Futurism.",
+      "url": "https://futurism.com/artificial-intelligence/google-deepmind-nuclear-physicists-weapon-ai-lab",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/google-deepmind-nuclear-physicists-weapon-ai-lab.jpg?w=1200",
+      "publishedAt": "2026-10-20T14:09:15Z",
+      "content": "Can\u2019t-miss innovations from the bleeding edge of science and tech\r\nTop AI labs have been hiring subject matter experts across academic disciplines for years at this point often turning them into glor\u2026 [+2339 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Common Dreams"
+      },
+      "author": "Jeffrey D. Sachs",
+      "title": "A Framework for Peace in Ukraine",
+      "description": "The war in Ukraine can be ended permanently on terms that protect Ukraine's statehood, meet Russia's security concerns, and lay the foundation for a durable European security order. As another round of negotiations gears up in Norway, I propose a settlement c\u2026",
+      "url": "https://www.commondreams.org/opinion/framework-for-peace-in-ukraine",
+      "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=68492642&width=1200&height=600&coordinates=0%2C167%2C0%2C167",
+      "publishedAt": "2026-10-20T13:55:53Z",
+      "content": "The war in Ukraine can be ended permanently on terms that protect Ukraine's statehood, meet Russia's security concerns, and lay the foundation for a durable European security order. As another round \u2026 [+6036 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Diego Almada Lopez",
+      "title": "Meta\u2019s AI spending plans point to a bigger Big Tech capex race",
+      "description": "Meta's aggressive AI investment could reshape tech infrastructure, but uncertain returns may strain investor confidence and sector stability.\nThe post Meta\u2019s AI spending plans point to a bigger Big Tech capex race appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/meta-ai-spending-big-tech-capex/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/20091528/library-meta-s-ai-spending-plans-point-to-a-bigger-big-tech-cape-800x450.png",
+      "publishedAt": "2026-10-20T13:15:32Z",
+      "content": "Meta's 2026 capex guidance of $130 billion to $145 billion puts AI infrastructure at the center of its strategy and sets the tone for its peers Meta is spending on AI like the bill will never come du\u2026 [+2304 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Diplomat"
+      },
+      "author": "Sangsoo Lee",
+      "title": "North Korea Wants Security Talks With the US, Not Nuclear Talks",
+      "description": "For decades, Washington tried to change Pyongyang\u2019s nuclear policy. Now North Korea is trying to do the reverse: use its nuclear weapons to change U.S. policy.",
+      "url": "https://thediplomat.com/2026/10/north-korea-wants-security-talks-with-the-us-not-nuclear-talks/",
+      "urlToImage": "https://thediplomat.com/wp-content/uploads/2019/03/sizes/td-story-s-2/thediplomat-52842347_2103463743074681_5647657805537083392_n.jpg",
+      "publishedAt": "2026-10-20T13:08:00Z",
+      "content": "Since the start of his second administration, U.S. President Donald Trump has repeatedly proposed renewed talks with North Korea. Pyongyang has said that relations could improve if Washington respect\u2026 [+19630 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vulture"
+      },
+      "author": "Kathryn VanArendonk",
+      "title": "The Diplomat Has a Villain Problem",
+      "description": "After several seasons of a delicate balancing act between so many motives and so much asymmetrical information, The Diplomat does something it\u2019s never done so blatantly before: It turns President Grace Penn into an outright villain.",
+      "url": "http://www.vulture.com/article/the-diplomat-season-4-ending-explained-grace-penn-villain-problem.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/651/738/fc5ea66b21500497823a4e4554d9a6704b-the-diplomat.1x.rsocial.w1200.jpg",
+      "publishedAt": "2026-10-20T13:00:00Z",
+      "content": "Spoilers follow for The Diplomats fourth season, including the ending.\r\nSeason four of The Diplomatpicks up at exactly the sort of place a new season of The Diplomat would begin. A crisis just happen\u2026 [+8025 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Activistpost.com"
+      },
+      "author": "Editor",
+      "title": "Empire of Lies: Restoring the History the Warlords Need Us to Forget",
+      "description": "Charles Goyette, Empire of Lies: Fragments from the Memory Hole. Edited by Mike Dworski and Ben Parker. Austin, Texas: The Libertarian Institute, 2025. 275 numbered pages, plus preliminary matter. ISBN 979-8-9942002-0-9. What happens to a republic when its go\u2026",
+      "url": "https://activistpost.com/empire-of-lies-restoring-the-history-the-warlords-need-us-to-forget/",
+      "urlToImage": null,
+      "publishedAt": "2026-10-20T12:56:00Z",
+      "content": "Charles Goyette, Empire of Lies: Fragments from the Memory Hole. Edited by Mike Dworski and Ben Parker. Austin, Texas: The Libertarian Institute, 2025. 275 numbered pages, plus preliminary matter. IS\u2026 [+18736 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Education",
+      "title": "Supreme Court SPA recruitment 2026: Apply for 65 posts, check eligibility and salary",
+      "description": "Supreme Court SPA recruitment 2026: The Supreme Court of India has announced 65 tentative vacancies for Senior Personal Assistant posts under its 2026 recruitment drive. Online applications open on October 20 and close on November 10, 2026. Eligible graduates\u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/supreme-court-spa-recruitment-2026-apply-for-65-posts-check-eligibility-and-salary/articleshow/135065017.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-135065141,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-20T12:09:30Z",
+      "content": "Follow Us On Social Media\r\nOFFSIDE | Sir Alex Ferguson's new book 'Games of My Life' is a cruel time machine for Man Utd fansIn 1867, San Francisco minted a $5 gold coin that passed down through a fa\u2026 [+2152 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ibtimes.com.au"
+      },
+      "author": "Anthony Will",
+      "title": "Kim Jong Un Health Rumors Persist Despite New Photos as Daughter Kim Ju Ae's Rise Fuels Succession Talk",
+      "description": "New photographs appear to counter unverified claims that Kim Jong Un has died, but secrecy over his health and the rising profile of his daughter continue to fuel succession concerns.",
+      "url": "https://www.ibtimes.com.au/kim-jong-un-health-death-rumours-succession-1877043",
+      "urlToImage": "https://d.ibtimes.com.au/en/full/1665537/kim-jong-un-repeatedly-apologised-mistakes-economic-management-promising-greater-prosperity.jpg",
+      "publishedAt": "2026-10-20T12:08:30Z",
+      "content": "SEOUL, South Korea Days after North Korea released photographs appearing to rebut viral claims that Kim Jong Un had died, questions about the North Korean leader's health and the future of his regime\u2026 [+5606 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Opiniojuris.org"
+      },
+      "author": "Fl\u00f3ra Mer\u00e9sz",
+      "title": "Civilian Protection in the Age of Deepfakes",
+      "description": "[Fl\u00f3ra Mer\u00e9sz is a Public International LL.M. graduate from Leiden University, a former intern in the \u2018Regulation in the public interest: Disruptive technologies in peace and security\u2019 strand of the T.M.C. Asser Institute, currently working as a Legal Fellow \u2026",
+      "url": "http://opiniojuris.org/2026/10/20/civilian-protection-in-the-age-of-deepfakes/",
+      "urlToImage": "https://i2.wp.com/opiniojuris.org/wp-content/uploads/221215-IP-theft-report-cover.jpeg?fit=1200%2C673",
+      "publishedAt": "2026-10-20T12:00:29Z",
+      "content": "[Fl\u00f3ra Mer\u00e9sz is a Public International LL.M. graduate from Leiden University, a former intern in the Regulation in the public interest: Disruptive technologies in peace and security strand of the T.\u2026 [+14690 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Diplomat"
+      },
+      "author": "Takahashi Kosuke",
+      "title": "Japan Has Considered Nuclear-Powered Submarines Since 1958. Why Has It Never Built One?",
+      "description": "From a 1958 design study to reported approaches to the U.S. Navy, Japan has repeatedly examined nuclear-powered submarines without making an acquisition decision.",
+      "url": "https://thediplomat.com/2026/10/japan-has-considered-nuclear-powered-submarines-since-1958-why-has-it-never-built-one/",
+      "urlToImage": "https://thediplomat.com/wp-content/uploads/2025/10/sizes/td-story-s-2/thediplomat_2025-10-14-120916.jpg",
+      "publishedAt": "2026-10-20T11:57:00Z",
+      "content": "Japan is once again considering acquiring nuclear-powered submarines. As Prime Minister Takaichi Sanaes government prepares to revise its three key national security documents by the end of 2026, pro\u2026 [+12106 chars]"
+    },
     {
       "source": {
         "id": null,
