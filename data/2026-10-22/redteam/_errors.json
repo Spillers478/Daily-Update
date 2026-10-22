@@ -1,0 +1,529 @@
+{
+  "failures": [
+    {
+      "topic": "flagship-ru-ua",
+      "articles": 25,
+      "error": "no classifications obtained after all attempts",
+      "attempts": [
+        {
+          "attempt": 1,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 1,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        }
+      ]
+    },
+    {
+      "topic": "flagship-ir-il",
+      "articles": 25,
+      "error": "no classifications obtained after all attempts",
+      "attempts": [
+        {
+          "attempt": 1,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 1,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        }
+      ]
+    },
+    {
+      "topic": "T15",
+      "articles": 3,
+      "error": "no classifications obtained after all attempts",
+      "attempts": [
+        {
+          "attempt": 1,
+          "requested": 3,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 3,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 3,
+          "error": "APIConnectionError: Connection error."
+        }
+      ]
+    },
+    {
+      "topic": "T01",
+      "articles": 8,
+      "error": "no classifications obtained after all attempts",
+      "attempts": [
+        {
+          "attempt": 1,
+          "requested": 8,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 8,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 8,
+          "error": "APIConnectionError: Connection error."
+        }
+      ]
+    },
+    {
+      "topic": "T02",
+      "articles": 25,
+      "error": "no classifications obtained after all attempts",
+      "attempts": [
+        {
+          "attempt": 1,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 1,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        }
+      ]
+    },
+    {
+      "topic": "T03",
+      "articles": 7,
+      "error": "no classifications obtained after all attempts",
+      "attempts": [
+        {
+          "attempt": 1,
+          "requested": 7,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 7,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 7,
+          "error": "APIConnectionError: Connection error."
+        }
+      ]
+    },
+    {
+      "topic": "T04",
+      "articles": 5,
+      "error": "no classifications obtained after all attempts",
+      "attempts": [
+        {
+          "attempt": 1,
+          "requested": 5,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 5,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 5,
+          "error": "APIConnectionError: Connection error."
+        }
+      ]
+    },
+    {
+      "topic": "T05",
+      "articles": 25,
+      "error": "no classifications obtained after all attempts",
+      "attempts": [
+        {
+          "attempt": 1,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 1,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        }
+      ]
+    },
+    {
+      "topic": "T06",
+      "articles": 25,
+      "error": "no classifications obtained after all attempts",
+      "attempts": [
+        {
+          "attempt": 1,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 1,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        }
+      ]
+    },
+    {
+      "topic": "T07",
+      "articles": 25,
+      "error": "no classifications obtained after all attempts",
+      "attempts": [
+        {
+          "attempt": 1,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 1,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        }
+      ]
+    },
+    {
+      "topic": "T08",
+      "articles": 1,
+      "error": "no classifications obtained after all attempts",
+      "attempts": [
+        {
+          "attempt": 1,
+          "requested": 1,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 1,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 1,
+          "error": "APIConnectionError: Connection error."
+        }
+      ]
+    },
+    {
+      "topic": "T09",
+      "articles": 5,
+      "error": "no classifications obtained after all attempts",
+      "attempts": [
+        {
+          "attempt": 1,
+          "requested": 5,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 5,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 5,
+          "error": "APIConnectionError: Connection error."
+        }
+      ]
+    },
+    {
+      "topic": "T10",
+      "articles": 25,
+      "error": "no classifications obtained after all attempts",
+      "attempts": [
+        {
+          "attempt": 1,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 1,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        }
+      ]
+    },
+    {
+      "topic": "T11",
+      "articles": 1,
+      "error": "no classifications obtained after all attempts",
+      "attempts": [
+        {
+          "attempt": 1,
+          "requested": 1,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 1,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 1,
+          "error": "APIConnectionError: Connection error."
+        }
+      ]
+    },
+    {
+      "topic": "T12",
+      "articles": 25,
+      "error": "no classifications obtained after all attempts",
+      "attempts": [
+        {
+          "attempt": 1,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 1,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        }
+      ]
+    },
+    {
+      "topic": "T13",
+      "articles": 25,
+      "error": "no classifications obtained after all attempts",
+      "attempts": [
+        {
+          "attempt": 1,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 1,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        }
+      ]
+    },
+    {
+      "topic": "T14",
+      "articles": 25,
+      "error": "no classifications obtained after all attempts",
+      "attempts": [
+        {
+          "attempt": 1,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 1,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 2,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 15,
+          "error": "APIConnectionError: Connection error."
+        },
+        {
+          "attempt": 3,
+          "requested": 10,
+          "error": "APIConnectionError: Connection error."
+        }
+      ]
+    }
+  ],
+  "incomplete": []
+}

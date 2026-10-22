@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Exclusive | Musk Ordered Starlink Slowdown That Blindsided Ukraine - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/world/ukraine-starlink-elon-musk-trump-dbc49193",
+      "urlToImage": null,
+      "publishedAt": "2026-10-21T08:13:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Francesca Ebel",
+      "title": "U.S. restores intelligence sharing with Ukraine, Zelensky says - The Washington Post",
+      "description": "After meeting with the Ukrainian president in Oslo, Trump envoy Steve Witkoff heads to Russia on Wednesday to push Vladimir Putin for three-way talks.",
+      "url": "https://www.washingtonpost.com/world/2026/10/20/us-restores-intelligence-sharing-with-ukraine-zelensky-says/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L5BS2QT3MF6ZSNFBIUXNKFYJWM_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-10-21T04:38:17Z",
+      "content": "KYIV Ukrainian President Volodymyr Zelensky said that U.S. intelligence sharing with Ukraine had been restored Tuesday, following a meeting with U.S. envoy Steve Witkoff in Oslo.\r\nIm speaking about t\u2026 [+196 chars]"
+    }
+  ]
+}

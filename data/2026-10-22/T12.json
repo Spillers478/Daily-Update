@@ -1,0 +1,396 @@
+{
+  "status": "ok",
+  "totalResults": 30,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Sinisa Markovic",
+      "title": "Ransomware gangs have been exploiting Palo Alto GlobalProtect VPN flaw since June",
+      "description": "Several ransomware groups are exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks\u2019 PAN-OS GlobalProtect patched in May, to break into organizations in sectors ranging from healthcare and education to government and energy. CVE-2026-0257 s\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/10/21/ransomware-groups-exploit-palo-alto-globalprotect-cve-2026-0257/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/04/17164810/palo_alto_networks-2-1500.webp",
+      "publishedAt": "2026-10-21T11:13:39Z",
+      "content": "Several ransomware groups are exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks PAN-OS GlobalProtect patched in May, to break into organizations in sectors ranging from healthc\u2026 [+3466 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "James Coker",
+      "title": "SafePay Has Compromised 600 Critical Infrastructure Victims Worldwide, CISA Warns",
+      "description": "A new CISA advisory warns of the threat posed by SafePay to businesses and critical infrastructure, and urges defenders to take action to mitigate the group\u2019s tactics",
+      "url": "https://www.infosecurity-magazine.com/news/safepay-compromised-critical/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/16ed8468-9e76-40ca-86ff-9b965f193ae5.jpeg",
+      "publishedAt": "2026-10-21T11:00:00Z",
+      "content": "The SafePay ransomware group has compromised at least 600 critical infrastructure organizations, according to a joint advisory issued by government agencies from the US, Germany and UK.\r\nThe authorin\u2026 [+4461 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "French Supermarket Hack Exposes Cyber Vulnerabilities in Retail",
+      "description": "When J\u00e9r\u00e9my B\u00e9ziaud arrived last Monday at the Intermarch\u00e9 supermarket he manages in France\u2019s Normandy region, he found freezers heating at 40C and a cold room ventilator for fish that had risen to 70C. Monitoring teams had alerted B\u00e9ziaud to \u2026",
+      "url": "https://www.insurancejournal.com/news/international/2026/10/21/889797.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2026/10/empty-shelves-in-french-supermarket-getty.jpg",
+      "publishedAt": "2026-10-21T10:58:08Z",
+      "content": "When J\u00e9r\u00e9my B\u00e9ziaud arrived last Monday at the Intermarch\u00e9 supermarket he manages in France\u2019s Normandy region, he found freezers heating at 40C and a cold room ventilator for fish that had risen to 7\u2026 [+7042 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "James Coker",
+      "title": "Children\u2019s Data Stolen After Ransomware Attack Compromises \u2018Password1\u2019 Account",
+      "description": "The ICO has slammed security failings by the Welsh local government data unit and IT service provider following the 2024 incident",
+      "url": "https://www.infosecurity-magazine.com/news/children-data-stolen-password1/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/748dd461-e4a3-43ab-85dc-c1e92541314e.jpeg",
+      "publishedAt": "2026-10-21T09:05:00Z",
+      "content": "The personal details of thousands of children and their families were breached in Wales after ransomware attackers compromised an account protected by a Password1 password, an investigation by the UK\u2026 [+3249 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tenable.com"
+      },
+      "author": "Satnam Narang",
+      "title": "php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP remote code execution vulnerabilities",
+      "description": "Two critical PHP remote code execution vulnerabilities will be patched in an emergency release on October 21. Fixes are only expected for supported PHP 8.x branches.Key takeaways<ol><li>CVE-2026-109618 and CVE-2026-109619 are critical vulnerabilities in PHP, \u2026",
+      "url": "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote",
+      "urlToImage": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/php2shell-frequently-asked-questions-cve-2026-109618-cve-2026-109619.png?itok=Mrwy-zf-",
+      "publishedAt": "2026-10-21T09:01:24Z",
+      "content": "Two critical PHP remote code execution vulnerabilities will be patched in an emergency release on October 21. Fixes are only expected for supported PHP 8.x branches.\r\nKey takeaways\r\n<ol><li>CVE-2026-\u2026 [+7126 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+      "description": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/08/11/Hacker.jpg",
+      "publishedAt": "2026-10-21T08:36:24Z",
+      "content": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024.\r\nIn a joint report with \u2026 [+3167 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Local Germany"
+      },
+      "author": "Paul Krantz",
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "description": "Alternative for Germany members downplay what was exposed in massive cyberattack, Finance Ministry fumbles roll out of tobacco tax hike, investors pledge billions for German industry at Berlin summit and more news on Wednesday, October 21st.",
+      "url": "https://www.thelocal.de/20261021/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-143",
+      "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fill:1200:675/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/10/watermarks-logo-626653378.jpg@webp",
+      "publishedAt": "2026-10-21T06:39:35Z",
+      "content": "Alternative for Germany members downplay what was exposed in massive cyberattack, Finance Ministry fumbles roll out of tobacco tax hike, investors pledge billions for German industry at Berlin summit\u2026 [+7373 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Saloni Shukla",
+      "title": "SBI probes suspected data breach after 3.75 lakh records surface on dark web",
+      "description": "State Bank of India is investigating a suspected data breach involving approximately 3.75 lakh records found online. The bank has engaged cybersecurity experts to assess the extent and risks related to the exposed data. Preliminary analysis has identified nea\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-probes-suspected-data-breach-after-3-75-lakh-records-surface-on-dark-web/articleshow/135083347.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-135083376,width-1200,height-900,imgsize-142892,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-21T05:46:57Z",
+      "content": "State Bank of India is investigating a suspected data breach after around 3.75 lakh records linked to the countrys largest lender surfaced on the dark web, the latest cyber incident to hit the financ\u2026 [+3696 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Risky.biz"
+      },
+      "author": "James Wilson",
+      "title": "Risky Business #856 -- 8-bit encryption, PHP megabugs and more",
+      "description": "On this week\u2019s show Patrick Gray and James Wilson are joined by special guest co-host security engineer Mark El-Khoury to talk through the week\u2019s cybersecurity news, including:\n\n<ul>\n <li>The PHP foundation is about to release patches for a couple of critical\u2026",
+      "url": "https://risky.biz/RB856/",
+      "urlToImage": "https://risky.biz/static/img/RB-OG-Social.jpg",
+      "publishedAt": "2026-10-21T04:43:10Z",
+      "content": "Presented by\r\nOn this weeks show Patrick Gray and James Wilson are joined by special guest co-host security engineer Mark El-Khoury to talk through the weeks cybersecurity news, including:\r\n<ul><li>T\u2026 [+2946 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securelist.com"
+      },
+      "author": "Sojun Ryu",
+      "title": "Operation FlashHole: Lazarus breaks security, defies control",
+      "description": "Kaspersky researchers analyze Operation FlashHole \u2013 a recent complex attack by Lazarus, involving a sophisticated malware set, watering-hole technique and abuse of CrossWeb EX financial security software.",
+      "url": "https://securelist.com/lazarus-operation-flashhole/121541/",
+      "urlToImage": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/10/20205657/sas-lazarus-3_securelist-featured_1200x600.jpg",
+      "publishedAt": "2026-10-21T02:07:29Z",
+      "content": "In January, we responded to the Lazarus Group\u2019s novel attack campaign against South Korea, which followed last year\u2019s Operation SyncHole. In this new operation, the group employed an updated malware \u2026 [+49029 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rt-english.com"
+      },
+      "author": "RT",
+      "title": "Germany\u2019s most popular party targeted by unknown hackers",
+      "description": "The massive data leak comes as Berlin\u2019s political establishment intensifies efforts to legally ban the Alternative for Germany Read Full Article at RT.com",
+      "url": "https://rt-english.com/news/647460-afd-emails-hacked-leaked/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.10/article/6ad8081185f5407e4c0433be.jpg",
+      "publishedAt": "2026-10-21T00:33:14Z",
+      "content": "Germany\u2019s most popular political party, Alternative for Germany (AfD), has suffered a massive cyberattack, with unknown hackers reportedly stealing and publishing hundreds of thousands of internal em\u2026 [+3141 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June",
+      "description": "Unit 42 investigates network compromises across numerous industries",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226",
+      "urlToImage": "https://image.theregister.com/5304250.jpg?imageId=5304250&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-10-20T17:33:26Z",
+      "content": "Multiple ransomware groups, including Qilin and Inc, have been exploiting a high-severity authentication bypass bug in Palo Alto Networks' PAN-OS, with Unit 42 investigating attacks since early June \u2026 [+3113 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Tanveer Singh",
+      "title": "Your Windows laptop has crucial security settings that you're probably ignoring",
+      "description": "Don't ignore basic security features that could protect your data",
+      "url": "https://www.xda-developers.com/windows-laptop-security-settings-you-are-ignoring/",
+      "urlToImage": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/windows-11-laptop-security-settings-1.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-10-20T17:30:19Z",
+      "content": "Unlike your desktop, your laptop is exposed to several threat vectors simply because it leaves the safety of your home, giving attackers many more ways to steal it or compromise your data. That's not\u2026 [+5804 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Amazon.com"
+      },
+      "author": "Dor Shaboy",
+      "title": "How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore",
+      "description": "Learn how Eon replaced per-tool credentials and local MCP processes across AWS, GCP, and Azure with a single authenticated Amazon Bedrock AgentCore gateway, giving more than 100 developers and autonomous agents unified access to production investigation and c\u2026",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore/",
+      "urlToImage": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/20/21741.png",
+      "publishedAt": "2026-10-20T15:57:57Z",
+      "content": "This is a guest post co-written with Roei Zavida from Eon.\r\nIndependent software vendors (ISVs) building AI-powered products need to connect agents and humans to dozens of operational tools across cl\u2026 [+16209 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "description": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting\u00a0 PAN-OS and Prisma Access by ransomware actors.\n\nThe activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that\u2026",
+      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd71tvun8MRT5muo9ZiruSzkyqhGkeh-_5dP4QardwiC54o4wW3PtC7I1jtP_vVX1rPujN_YdrmILFSZw_Ikl6v8Gn2w75v-90aSHpnngi2WE-Ezv6OAO37YY4pJpNwe_DcGWRMgIOUxAEPyVisI3SxXnV30HejoGfGtlXDfAgGkdqrdFJjAI7x6jjFFj-/s1700-nu-rw-lo-l85-e365/palo-ransomware.jpg",
+      "publishedAt": "2026-10-20T15:32:27Z",
+      "content": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors.\r\nThe activity relates to CVE-2026\u2026 [+2933 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Truthout"
+      },
+      "author": "Chris Walker",
+      "title": "Anthropic Proposes AI Bill With 50-Death Threshold Before Models Can Be Halted",
+      "description": "The company has reportedly been working with lawmakers on a lax regulatory model since the start of summer.",
+      "url": "https://truthout.org/articles/anthropic-proposes-ai-bill-with-50-death-threshold-before-models-can-be-halted/",
+      "urlToImage": "https://truthout.org/app/uploads/2026/10/2026-1020-ai.jpg",
+      "publishedAt": "2026-10-20T15:01:35Z",
+      "content": "Support justice-driven, accurate and transparent news make a quick donation to Truthout today!\u00a0\r\nAnthropic, one of the major industry leaders in the development of artificial intelligence (AI), has p\u2026 [+4053 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Github.com"
+      },
+      "author": "coding-maniac",
+      "title": "Show HN: VoidAccess \u2013 open-source dark web OSINT, from query to a graph",
+      "description": "Hi HN! Im Katriel, and im a Security Researcher/Enthusiast and in the wave of AI, i wanted to build that next gen of security tooling that surpasses the current tools, and even the paid industries with an open source engine. I built MailAccess as well, which \u2026",
+      "url": "https://github.com/KatrielMoses/voidaccess",
+      "urlToImage": "https://repository-images.githubusercontent.com/1224778433/52fbf28e-4a75-48ac-ba58-62e653c32d87",
+      "publishedAt": "2026-10-20T14:49:33Z",
+      "content": "Self-hostable OSINT for turning dark-web research queries into structured threat intelligence. Built for security researchers, threat-intelligence teams, and authorized investigators who need collect\u2026 [+7787 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "GlobeNewswire",
+      "title": "Arms Cyber Names Jay Manni Chief Technology Officer",
+      "description": "Brentwood, TN, Oct. 20, 2026 (GLOBE NEWSWIRE) \u2014 Arms Cyber, the leader in stealth-driven endpoint protection for the AI era, is pleased to welcome Jay Manni to our executive leadership team as Chief Technology Officer (CTO). In his role, Mr. Manni will overse\u2026",
+      "url": "https://financialpost.com/globe-newswire/arms-cyber-names-jay-manni-chief-technology-officer",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/arms-cyber-names-jay-manni-chief-technology-officer.jpeg",
+      "publishedAt": "2026-10-20T14:21:19Z",
+      "content": "Brentwood, TN, Oct. 20, 2026 (GLOBE NEWSWIRE) Arms Cyber, the leader in stealth-driven endpoint protection for the AI era, is pleased to welcome Jay Manni to our executive leadership team as Chief Te\u2026 [+4042 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Paul Kunert",
+      "title": "'Password1' and a forgotten test account land Welsh outfits in hot water",
+      "description": "ICO reprimands Ogi Networks and Data Cymru after ransomware breach exposes info of 3,300 people, mostly children",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139",
+      "urlToImage": "https://image.theregister.com/5294336.jpg?imageId=5294336&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-10-20T13:35:00Z",
+      "content": "A test account protected by \"Password1\" helped an intruder steal personal data relating to 3,300 people, mostly children, in a ransomware attack that has drawn regulatory rebukes for two Welsh organi\u2026 [+3145 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Industry News",
+      "title": "Teradata expands AI data security with post-quantum protection and immutable backups",
+      "description": "Teradata has announced new privacy, security, and resiliency capabilities designed to address one of the defining challenges of enterprise AI: how sensitive data is protected, who and what can access it, and whether it remains available and recoverable when s\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/10/20/teradata-ai-data-security/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
+      "publishedAt": "2026-10-20T10:21:39Z",
+      "content": "Teradata has announced new privacy, security, and resiliency capabilities designed to address one of the defining challenges of enterprise AI: how sensitive data is protected, who and what can access\u2026 [+7209 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bitdefender.com"
+      },
+      "author": "Graham Cluley",
+      "title": "Police arrest Qilin ransomware suspect on holiday, as links made to Synnovis hack that contributed to patient\u2019s death",
+      "description": "A 28-year-old Russian man has been arrested by German police, suspected of being a key member of the Qilin ransomware gang. Detectives have linked the man to the attack against blood-testing firm Synnovis, that disrupted London hospitals, and resulted in the \u2026",
+      "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/qilin-ransomware-arrested-synnovis-patient-death",
+      "urlToImage": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/10/qilin-death.jpeg",
+      "publishedAt": "2026-10-20T09:41:49Z",
+      "content": "A 28-year-old Russian man has been arrested by German police, suspected of being a key member of the Qilin ransomware gang. As BBC Newsreports, detectives have linked the man to the 2024 attack again\u2026 [+2148 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Local Germany"
+      },
+      "author": "Paul Krantz",
+      "title": "Alternative for Germany confirms hack after 421,000 emails leaked online",
+      "description": "The latest high-profile cyberattack in Germany appears to have targeted the far-right party, and may have exposed a huge number of sensitive messages and private documents.",
+      "url": "https://www.thelocal.de/20261020/alternative-for-germany-confirms-hack-after-421000-emails-leaked-online",
+      "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fill:1200:675/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/10/watermarks-logo-AFP__20260318__A3R63MJ__v4__MidRes__GermanyEuPoliticsParliament.jpg@webp",
+      "publishedAt": "2026-10-20T08:57:40Z",
+      "content": "The latest high-profile cyberattack in Germany appears to have targeted the far-right party, and may have exposed a huge number of sensitive messages and private documents.\r\n Hundreds of thousands of\u2026 [+2828 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Spalding",
+      "title": "Why cyber resilience is now a boardroom priority for UK public services",
+      "description": "PARTNER CONTENT: PARTNER CONTENT: What happens after the inflection point?",
+      "url": "https://www.theregister.com/security/2026/10/20/partner-content-why-cyber-resilience-is-now-a-boardroom-priority-for-uk-public-services/5301601",
+      "urlToImage": "https://image.theregister.com/5301606.jpg?imageId=5301606&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-10-20T08:00:00Z",
+      "content": "The UK public sector has reached a cyber resilience inflection point. A new Prime Minister has taken office, and significant machinery-of-government changes have already been announced, including the\u2026 [+8145 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Hodl"
+      },
+      "author": "Daily Hodl Agent",
+      "title": "New York Pediatric Health Network and IT Vendor To Pay Over $2,600,000 After Hackers Steal Records of 887,000 People",
+      "description": "Boston Children's Health Physicians and IT vendor XTIUM will pay New York and Connecticut over $2.6 million after a 2024 breach exposed records of about 887,000 people.\nThe post New York Pediatric Health Network and IT Vendor To Pay Over $2,600,000 After Hack\u2026",
+      "url": "https://dailyhodl.com/2026/10/20/new-york-pediatric-health-network-and-it-vendor-to-pay-over-2600000-after-hackers-steal-records-of-887000-people/",
+      "urlToImage": "https://dailyhodl.com/wp-content/uploads/2026/10/bank-transactions-breach_pink.jpg?resize=1365,800",
+      "publishedAt": "2026-10-20T07:04:04Z",
+      "content": "A New York pediatric health network and its IT vendor must pay millions of dollars after hackers stole the private records of hundreds of thousands of people.\r\nBoston Childrens Health Physicians (BCH\u2026 [+2902 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securelist.com"
+      },
+      "author": "Sergey Sidorov, Haidar Kabibo, Victor Zvarykin, Kaspersky Security Services",
+      "title": "The journey of a paper unicorn: adventures inside a modern warehouse",
+      "description": "Kaspersky experts explain the security issues affecting warehouse environments. We break down initial access vectors specific to warehouses, and discuss the impact of a compromise.",
+      "url": "https://securelist.com/paper-unicorn-warehouse-security/121537/",
+      "urlToImage": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/10/19144935/sas-paper-unicorn-warehouse-featured-image.jpg",
+      "publishedAt": "2026-10-20T07:00:45Z",
+      "content": "Introduction\r\nImagine you\u2019ve ordered a small paper unicorn from an online marketplace. You clicked \u201cBuy\u201d, received a cheerful notification, and expect a courier to bring the box tomorrow. If the unic\u2026 [+30955 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iTnews"
+      },
+      "author": null,
+      "title": "How one hacker used AI agents and a few thousand dollars to break into scores of sites",
+      "description": "Ecommerce sites in Australia, Canada, US and Japan targeted.",
+      "url": "https://www.itnews.com.au/news/how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites-629764?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Security+feed",
+      "urlToImage": "https://i.nextmedia.com.au/News/2026-10-19T100625Z_2_LYNXMPEM9I0SK_RTROPTP_4_AI-CYBERCRIME.JPG",
+      "publishedAt": "2026-10-20T02:56:43Z",
+      "content": "Over the past couple of weeks, a\u00a0cyber security researcher watched as a Chinese-speaking hacker broke into websites belonging to more \u2060than 100 companies, \u2060including farm equipment maker Deere, home \u2026 [+5247 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iTnews"
+      },
+      "author": null,
+      "title": "How one hacker used AI agents and a few thousand dollars to break into scores of sites",
+      "description": "Ecommerce sites in Australia, Canada, US and Japan targeted.",
+      "url": "https://www.itnews.com.au/news/how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites-629764?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed",
+      "urlToImage": "https://i.nextmedia.com.au/News/2026-10-19T100625Z_2_LYNXMPEM9I0SK_RTROPTP_4_AI-CYBERCRIME.JPG",
+      "publishedAt": "2026-10-20T02:54:46Z",
+      "content": "Over the past couple of weeks, a\u00a0cyber security researcher watched as a Chinese-speaking hacker broke into websites belonging to more \u2060than 100 companies, \u2060including farm equipment maker Deere, home \u2026 [+5247 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iTnews"
+      },
+      "author": null,
+      "title": "How one hacker used AI agents and a few thousand dollars to break into scores of sites",
+      "description": "Ecommerce sites in Australia, Canada, US and Japan targeted.",
+      "url": "https://www.itnews.com.au/news/how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites-629764?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed",
+      "urlToImage": "https://i.nextmedia.com.au/News/2026-10-19T100625Z_2_LYNXMPEM9I0SK_RTROPTP_4_AI-CYBERCRIME.JPG",
+      "publishedAt": "2026-10-20T02:52:48Z",
+      "content": "Over the past couple of weeks, a\u00a0cyber security researcher watched as a Chinese-speaking hacker broke into websites belonging to more \u2060than 100 companies, \u2060including farm equipment maker Deere, home \u2026 [+5247 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iTnews"
+      },
+      "author": null,
+      "title": "How one hacker used AI agents and a few thousand dollars to break into scores of sites",
+      "description": "Ecommerce sites in Australia, Canada, US and Japan targeted.",
+      "url": "https://www.itnews.com.au/news/how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites-629764?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "urlToImage": "https://i.nextmedia.com.au/News/2026-10-19T100625Z_2_LYNXMPEM9I0SK_RTROPTP_4_AI-CYBERCRIME.JPG",
+      "publishedAt": "2026-10-20T02:50:11Z",
+      "content": "Over the past couple of weeks, a\u00a0cyber security researcher watched as a Chinese-speaking hacker broke into websites belonging to more \u2060than 100 companies, \u2060including farm equipment maker Deere, home \u2026 [+5247 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ipinfo.io"
+      },
+      "author": null,
+      "title": "France's Supermarket Fridges Were Vulnerable Online for Months",
+      "description": "IPinfo scans reveal that 85% of exposed French refrigeration controllers had known security flaws before the October 2026 cyberattack.",
+      "url": "https://ipinfo.io/blog/france-fridges-hack",
+      "urlToImage": "https://website-cdn.assets.ipinfo.io/images/og/og_blog.png",
+      "publishedAt": "2026-10-20T00:00:49Z",
+      "content": "On the night of October 11 to 12, 2026, fridges and freezers in hundreds of French supermarkets started to warm up. Cyber attackers had pushed the refrigeration systems into defrost mode, which heats\u2026 [+11752 chars]"
+    }
+  ]
+}
