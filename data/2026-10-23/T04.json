@@ -1,0 +1,110 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "fortune.com",
+      "title": "\u2018It\u2019s like journalism, but for dead people\u2019: Meet the Vermont woman who turned a pandemic gravestone-cleaning hobby into a social media feed",
+      "description": "Carrying a large pump spray bottle and a small, sturdy brush, Caitlin Abrams stood before two starkly contrasting graves in a modest cemetery in western Vermont. Overcast skies hung low over a nearby hillside in full autumn color.\nLast year, Abrams had delica\u2026",
+      "url": "https://biztoc.com/x/9169ef1c99104957",
+      "urlToImage": "https://biztoc.com/cdn/9169ef1c99104957_s.webp",
+      "publishedAt": "2026-10-22T14:41:57Z",
+      "content": "Carrying a large pump spray bottle and a small, sturdy brush, Caitlin Abrams stood before two starkly contrasting graves in a modest cemetery in western Vermont. Overcast skies hung low over a nearby\u2026 [+145 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Kimberlee Kruesi, Amanda Swinhart, The Associated Press",
+      "title": "\u2018It\u2019s like journalism, but for dead people\u2019: Meet the Vermont woman who turned a pandemic gravestone-cleaning hobby into a social media feed",
+      "description": "The trend was popular during the pandemic as people searched for safe hobbies, but some worry strangers are capitalizing on gravesites.",
+      "url": "https://fortune.com/2026/10/22/vermont-woman-gravestone-cleaning-caitlin-abrams/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/AP26294498725289-e1792677121105.jpg?resize=1200,600",
+      "publishedAt": "2026-10-22T13:52:22Z",
+      "content": "Carrying a large pump spray bottle and a small, sturdy brush, Caitlin Abrams stood before two starkly contrasting graves in a modest cemetery in western Vermont. Overcast skies hung low over a nearby\u2026 [+4355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Github.com"
+      },
+      "author": "halcyon-past",
+      "title": "Show HN: Quarantine \u2013 Simple error isolation and replay for Python data pipeline",
+      "description": "Article URL: https://github.com/halcyon-past/quarantine\nComments URL: https://news.ycombinator.com/item?id=50194404\nPoints: 1\n# Comments: 1",
+      "url": "https://github.com/halcyon-past/quarantine",
+      "urlToImage": "https://opengraph.githubassets.com/a6fdfa52127d1b0daff3f76cf5b596137ce3b00e591a0a5bcbc3b1a37cdabbe6/halcyon-past/quarantine",
+      "publishedAt": "2026-10-22T12:29:25Z",
+      "content": "When one bad item crashes your loop of 10,000 don't crash. Set it aside, keep going, fix it later.\r\npip install quarantine-py\r\nfromquarantineimportquarantine@quarantinedefprocess(item): ... # your no\u2026 [+15537 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "World Socialist Web Site"
+      },
+      "author": "Google News",
+      "title": "Ebola spreads to Nigeria and Kenya as epidemic expands beyond Congo (DRC) - World Socialist Web Site",
+      "description": "Nigeria has confirmed an imported case of Bundibugyo Ebola and Kenya has nine, while the Congolese epidemic has reached 9,552 cases and 4,602 deaths in eight provinces, with children dying at the highest rates.",
+      "url": "https://www.wsws.org/en/articles/2026/10/22/cbih-o22.html",
+      "urlToImage": "https://www.wsws.org/asset/7344cc88-55c8-435e-8dd0-0b836581569c?rendition=1600x900",
+      "publishedAt": "2026-10-22T03:05:44Z",
+      "content": "Nigerias health ministry\u00a0confirmed\u00a0on October 20 that a woman in Abuja has Bundibugyo ebolavirus disease, making Nigeria the fifth country to detect the virus since the Congolese health ministry decl\u2026 [+7431 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Pushpa Narayan",
+      "title": "Tamil Nadu Cancer Registry Projects Lower 2025 Cases After Pandemic Disruptions",
+      "description": "Tamil Nadu cancer registry cuts 2025 projection to 91,301 cases; experts cite Covid-era underreporting. State expands screening and regional cancer centres.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-cancer-registry-projects-lower-2025-cases-after-pandemic-disruptions/articleshow/135097828.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-135097826,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-21T17:38:28Z",
+      "content": "Follow Us On Social Media\r\nMads Mikkelsen On Bringing Call of Duty: Modern Warfare 4 To Life: We Use Our ImaginationIran Snubs Asim Munir? Trumps Nuclear Deal Message Gets A Cold Reception During Teh\u2026 [+1540 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "author": "Government Actuary's Department",
+      "title": "GAD modelling supports pandemic preparedness work",
+      "description": "GAD worked with UKHSA to test how actuarial modelling can help assess uncertainty and risk in pandemic preparedness.",
+      "url": "https://www.gov.uk/government/news/gad-modelling-supports-pandemic-preparedness-work",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2026-10-21T15:40:05Z",
+      "content": "The Government Actuarys Department (GAD) worked with the UK Health Security Agency (UKHSA) to explore how uncertainty in vaccine development could affect the economic consequences of pandemic respons\u2026 [+1168 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PEOPLE"
+      },
+      "author": "Sean Neumann",
+      "title": "Alba Larsen Found Racing When She Got \u2018Bored\u2019 During the Pandemic. Now She\u2019s On Track \u2018to Become a Champion\u2019 (Exclusive)",
+      "description": "The F1 Academy driver tells PEOPLE how discovered her life\u2019s passion during the pandemic and what she wants to achieve next",
+      "url": "https://people.com/alba-larsen-found-racing-when-she-got-bored-during-the-pandemic-now-on-track-to-become-a-champion-exclusive-12183727",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c2af5e59f5eb1aa64fd249db7909d1a266665cfdf9bbdb6fe2a5ecbdc69d60a8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F78b96bfcd4ccc66b1c81531c17617499.jpg",
+      "publishedAt": "2026-10-21T14:19:45Z",
+      "content": "<ul><li>The 17-year-old Danish driver began karting with her sister and a friend during COVID-19 lockdowns\r\n</li><li>Larsen won Ferrari's FIA Girls on Track Rising Stars competition in 2023 and now r\u2026 [+3627 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Edsurge.com"
+      },
+      "author": "EdSurge Staff",
+      "title": "What Happens to High-Impact Tutoring When the Pandemic Money Is Gone?",
+      "description": "With pandemic funding gone, districts are scrambling to maintain their \u201chigh-dosage\u201d tutoring programs.",
+      "url": "https://edsurge.com/news/what-happens-to-high-impact-tutoring-when-the-pandemic-money-is-gone",
+      "urlToImage": "https://images.ctfassets.net/eflsecw4kznd/48ZjMErrryAMZQSAfEtWzH/de94897f8599ad34057a802e6685e0f6/shutterstock_2330998047.jpg?w=1200",
+      "publishedAt": "2026-10-21T00:00:00Z",
+      "content": "Pandemic relief money paid for a big expansion of high-impact tutoring in schools. That money is gone, and districts now face a hard question: how to keep a tool proven to help students. Some distric\u2026 [+1444 chars]"
+    }
+  ]
+}

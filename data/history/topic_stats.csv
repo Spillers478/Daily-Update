@@ -472,3 +472,21 @@ date,topic_id,topic_label,retrieved,kept_here,moved_out,discarded,unclassified,d
 2026-10-22,T12,Large-Scale Cyber Attack / Internet Blackout,25,0,0,0,0,30,0,failed
 2026-10-22,T13,Migration / Refugee Crisis,25,0,0,0,0,27,0,failed
 2026-10-22,T14,Threats to US Embassies / Diplomats,25,0,0,0,0,25,0,failed
+2026-10-23,flagship-ru-ua,Russia / Ukraine,25,0,0,0,0,96,0,failed
+2026-10-23,flagship-ir-il,Iran / Israel / Middle East,25,0,0,0,0,98,0,failed
+2026-10-23,flagship-ir-il-us-lens,Iran / Israel / Middle East — US Media Lens,3,,,,,3,0,not_run
+2026-10-23,T15,Disaster / Access Denial,2,0,0,0,0,2,0,failed
+2026-10-23,T01,Military Conflict,7,0,0,0,0,7,0,failed
+2026-10-23,T02,Humanitarian Crisis,25,0,0,0,0,62,0,failed
+2026-10-23,T03,Bio/Chemical Attack,15,0,0,0,0,15,0,failed
+2026-10-23,T04,Infectious Outbreak / Pandemic,8,0,0,0,0,8,0,failed
+2026-10-23,T05,Political Instability / Coup Risk,25,0,0,0,0,90,0,failed
+2026-10-23,T06,Mass Uprising / Regime-Threatening Unrest,25,0,0,0,0,67,0,failed
+2026-10-23,T07,Nuclear Weaponry / Attack,25,0,0,0,0,99,0,failed
+2026-10-23,T08,VEO / Regional Insecurity,3,0,0,0,0,3,0,failed
+2026-10-23,T09,American Hostage / Kidnapping,11,0,0,0,0,11,0,failed
+2026-10-23,T10,Military Modernization,22,0,0,0,0,22,0,failed
+2026-10-23,T11,Military Exercise,1,0,0,0,0,1,0,failed
+2026-10-23,T12,Large-Scale Cyber Attack / Internet Blackout,25,0,0,0,0,60,0,failed
+2026-10-23,T13,Migration / Refugee Crisis,25,0,0,0,0,25,0,failed
+2026-10-23,T14,Threats to US Embassies / Diplomats,25,0,0,0,0,29,0,failed

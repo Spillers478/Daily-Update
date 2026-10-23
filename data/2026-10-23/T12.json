@@ -1,0 +1,786 @@
+{
+  "status": "ok",
+  "totalResults": 61,
+  "articles": [
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Stephen Conneely",
+      "title": "Explainer: Why did huge swathes of the internet suddenly go offline yesterday?",
+      "description": "A computer programming language supporting an estimated 70 per cent of all websites was found to have \u2018critical vulnerabilities\u2019",
+      "url": "https://www.irishtimes.com/business/2026/10/22/explainer-why-did-huge-swathes-of-the-internet-suddenly-go-offline-yesterday/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/KM6BLIQBT5HS7KF5Y3BNTU4IF4.jpg?smart=true&auth=570903f658631a154030dd8b2ccda280decb086206657fb520a81bf39077a208&width=1200&height=630",
+      "publishedAt": "2026-10-22T14:49:59Z",
+      "content": "It caught countless website developers off guard and has left many wondering how protected their cyber systems really are.\r\nWhen the team behind computer programming language PHP issued a warning to \u2026 [+4755 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Wei Luo, Qiantao Huo, Xin Li",
+      "title": "A machine-vision framework for electric vehicle charging hole localization based on contour-driven detection and geometric verification",
+      "description": "The accurate localization of charging holes is an indispensable perception step for the automatic charging system of electric vehicles, since the success of subsequent charging-gun insertion depends directly on the precise estimation of the geometric centers \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359570",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0359570.g011&size=inline",
+      "publishedAt": "2026-10-22T14:00:00Z",
+      "content": "Abstract\r\nThe accurate localization of charging holes is an indispensable perception step for the automatic charging system of electric vehicles, since the success of subsequent charging-gun insertio\u2026 [+35979 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nilay Patel",
+      "title": "Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption",
+      "description": "Today, I\u2019m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately \u2014 he\u2019s been on something of a tour for the past few months, ever since publishing an essay in late \u2026",
+      "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bill_Gates_NQuamina-Woo_0007_a8ca1f.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-10-22T13:20:55Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Microsoft cofounder isnt an AI doomer, but he says its still the most dangerous weapon of all time.\r\nby\r\nNilay PatelClose\r\nPosts from this author will be add\u2026 [+64853 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fortinet.com"
+      },
+      "author": "Fortinet",
+      "title": "Operation Serengeti III: Three Years of Collaboration Against Cybercrime",
+      "description": "Fortinet examines Operation Serengeti III and three years of collaboration with INTERPOL and the World Economic Forum Cybercrime Atlas to disrupt cybercrime and recover illicit proceeds.\u2026",
+      "url": "https://www.fortinet.com/blog/industry-trends/operation-serengeti-iii-three-years-of-collaboration-against-cybercrime",
+      "urlToImage": null,
+      "publishedAt": "2026-10-22T13:00:00Z",
+      "content": "Participating authorities reportedly recovered an additional $105 million during Operation Serengeti III, targeting cybercrime networks across Africa. In earlier Serengeti operations, INTERPOL recogn\u2026 [+6700 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "semafor.com",
+      "title": "Web developers raise alarm bells over AI-driven cyberattacks",
+      "description": "A string of AI cyberattack warnings intensified fears the technology would overwhelm corporate and government systems worldwide.\nSoon after web developers used AI to identify a bug affecting the majority of the world\u2019s websites, Cloudflare noted a surge in at\u2026",
+      "url": "https://biztoc.com/x/64dddc0b194b01ca",
+      "urlToImage": "https://biztoc.com/cdn/64dddc0b194b01ca_s.webp",
+      "publishedAt": "2026-10-22T12:24:28Z",
+      "content": "A string of AI cyberattack warnings intensified fears the technology would overwhelm corporate and government systems worldwide.Soon after web developers used AI to identify a bug affecting the major\u2026 [+145 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Isabel O'Brien",
+      "title": "Why governments pulled websites offline over a decades-old programming language",
+      "description": "Servers that use the popular PHP programming language were exposed to a critical security bug. Millions of websites have their data at risk.",
+      "url": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108148465-1747799421188-gettyimages-2012746933-jh_coders2_0074.jpeg?v=1750406542&w=1920&h=1080",
+      "publishedAt": "2026-10-22T12:00:02Z",
+      "content": "As the usage of artificial intelligence benign and adversarial increases at breakneck speed, more cases of potentially harmful responses are being uncovered.\r\nGovernment websites in Europe were taken\u2026 [+5333 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "GitLab warns of new max severity code execution vulnerability",
+      "description": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/10/22/GitLab-headpic.jpg",
+      "publishedAt": "2026-10-22T11:41:48Z",
+      "content": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers.\r\nThis security issue is tracked as\u2026 [+2641 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Healthsystemcio.com"
+      },
+      "author": "Anthony Guerra",
+      "title": "Health-ISAC Ties Healthcare\u2019s Record Attack Quarter to ShinyHunters Theft of Staff Credentials",
+      "description": "Health systems braced for ransomware, yet the attack behind healthcare's worst quarter on record usually encrypts nothing. Health-ISAC's newest count shows where that attack starts, and one CISO's fix covers both ends of the phone line.\nSource: Health-ISAC Ti\u2026",
+      "url": "https://healthsystemcio.com/2026/10/22/shinyhunters-record-health-sector-attacks/",
+      "urlToImage": "https://healthsystemcio.com/wp-content/uploads/2026/04/advisory-200.png",
+      "publishedAt": "2026-10-22T11:29:59Z",
+      "content": "Phone calls and lookalike login pages that trick employees into surrendering their logins drove much of the surge that gave the health sector its highest quarterly count of attacks on record. Health-\u2026 [+3998 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Elena Grossfeld, Researcher at the King's Centre for the Study of Intelligence, King's College London; Swedish Defence University",
+      "title": "From elite spies to \u2018gig-economy\u2019 operatives: the changing face of Russian sabotage",
+      "description": "Across domains, Russia has turned unpredictability and disruption into its strategic weapon of choice.",
+      "url": "https://theconversation.com/from-elite-spies-to-gig-economy-operatives-the-changing-face-of-russian-sabotage-294285",
+      "urlToImage": "https://images.theconversation.com/files/766564/original/file-20261015-50-ywoq0f.jpg?ixlib=rb-4.1.1&rect=0%2C834%2C5279%2C2639&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-10-22T11:07:34Z",
+      "content": "Russia has traded highly trained operatives for cheap technology and expendable recruits. DC Studio / Shutterstock\r\nRussian hostile activity costs the UK at least \u00a32 billion annually, according to a \u2026 [+6315 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "Visteon Announces Third Quarter 2026 Financial Results",
+      "description": "VAN BUREN TOWNSHIP, Mich., Oct. 22, 2026 /PRNewswire/ -- Visteon Corporation (NASDAQ: VC) today reported third quarter financial results. Highlights include: Sales of $970 million with Growth-over-Market of 10%[1] Net income attributable to Visteon of $5 mill\u2026",
+      "url": "https://www.prnewswire.com/news-releases/visteon-announces-third-quarter-2026-financial-results-302916099.html",
+      "urlToImage": "https://mmx.prnewswire.com/media/MS1868828/Visteon-Logo.jpg?id=OA3032987&p=facebook",
+      "publishedAt": "2026-10-22T10:55:00Z",
+      "content": "VAN BUREN TOWNSHIP, Mich., Oct. 22, 2026 /PRNewswire/ -- Visteon Corporation (NASDAQ: VC) today reported third quarter financial results.\u00a0Highlights include:\r\n<ul><li>Sales of $970 million with Growt\u2026 [+35412 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "Kevin  Poireault",
+      "title": "PHP2Shell Exploitation Attempt Detected by Amazon Four Days Before Vulnerability Disclosure",
+      "description": "Threat intelligence analysts now observe large-scale evidence of exploitation of the two critical PHP vulnerabilities",
+      "url": "https://www.infosecurity-magazine.com/news/php2shell-exploitation-attempt/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/a5c34397-4fd9-4ec8-9203-4c7fec91b2fa.jpg",
+      "publishedAt": "2026-10-22T10:10:00Z",
+      "content": "Someone tried to exploit two critical vulnerabilities in the PHP programming language four days before the vulnerabilities were published and the flaws are now being exploited in the wild at scale, a\u2026 [+5315 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Singapore organisations urged to patch critical PHP flaws immediately amid cyberattack threat",
+      "description": "The two vulnerabilities could allow attackers to take control of affected web servers without login credentials, potentially exposing data and disrupting services.",
+      "url": "https://www.channelnewsasia.com/singapore/php-vulnerabilities-csa-singapore-firms-cybersecurity-6482006",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--tYn5roOr--/c_crop,h_449,w_799,x_1,y_2/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-21T155055Z_3_LYNXMPEM9K1LD_RTROPTP_3_CYBERSECURITY-PHP.JPG?itok=xTGgFP70",
+      "publishedAt": "2026-10-22T09:33:00Z",
+      "content": "Ms Fong warned that many organisations, particularly small and medium-sized enterprises (SMEs) that rely on external IT vendors or hosting providers, may not realise their systems are vulnerable.\r\nPH\u2026 [+1228 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kuber.studio"
+      },
+      "author": "kuberwastaken",
+      "title": "Show HN: The Internet Is on Fire",
+      "description": "Article URL: https://kuber.studio/internetonfire/\nComments URL: https://news.ycombinator.com/item?id=50193057\nPoints: 5\n# Comments: 1",
+      "url": "https://kuber.studio/internetonfire/",
+      "urlToImage": "https://kuber.studio/internetonfire/assets/og.jpg",
+      "publishedAt": "2026-10-22T09:11:10Z",
+      "content": "Wed 21 Oct14\r\nLiteLLM confirms its release pipeline pushed malicious 1.107.0 packages to PyPI and container registries. The malware stole credentials and loaded remote-code tools. Affected artifacts \u2026 [+71324 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "Jihae Lee",
+      "title": "Application Protection in the AI Era: Lessons from AI-Powered Breaches at South Korean Banks",
+      "description": "Explore how AI-powered offensive tools accelerated a wave of breaches at South Korean banks, exposing tens of thousands of customers and highlighting new application security challenges in the AI era",
+      "url": "https://www.infosecurity-magazine.com/blogs/app-protection-ai-breaches-south/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/ab78ce60-1ca3-4399-baaa-f676d683e4a0.jpg",
+      "publishedAt": "2026-10-22T08:30:00Z",
+      "content": "The defining factor in the recent series of breaches across South Koreas financial sector was not a new type of cyber-attack, but speed.\r\nBetween late September and early October 2026, seven financia\u2026 [+5681 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Bill Toulas",
+      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+      "description": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/05/18/INTERPOL.jpg",
+      "publishedAt": "2026-10-22T08:27:11Z",
+      "content": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and \u2026 [+2758 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Protothema.gr"
+      },
+      "author": "\u0391\u03bb\u03b5\u03be\u03af\u03b1 \u0391\u03bc\u03b2\u03c1\u03ac\u03b6\u03b7",
+      "title": "Global alert as websites go offline worldwide over security flaws threatening millions of sites",
+      "description": "Critical vulnerabilities in the PHP programming language, discovered using artificial intelligence, have triggered a global security alert \u2013 Government and private websites across Europe were taken offline as experts warned of rapid, large-scale cyberattacks\n\u2026",
+      "url": "https://en.protothema.gr/2026/10/22/global-alert-as-websites-go-offline-worldwide-over-security-flaws-threatening-millions-of-sites/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/10/cyber12.jpg",
+      "publishedAt": "2026-10-22T08:25:25Z",
+      "content": "Government websites across Europe and elsewhere were taken offline Wednesday following the discovery of critical vulnerabilities in a widely used programming language, prompting website administrator\u2026 [+1595 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Anamarija Pogorelec",
+      "title": "Africa cybercrime crackdown nets 1,462 arrests and over $105 million",
+      "description": "Police in 21 countries arrested 1,462 suspects and took down 10,909 malicious networks in Operation Serengeti III, an INTERPOL-coordinated cybercrime sweep across Africa that ran from June 29 to August 31, 2026. Investigators recovered more than $105 million \u2026",
+      "url": "https://www.helpnetsecurity.com/2026/10/22/interpol-africa-cybercrime-crackdown-operation-serengeti-iii/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2026/04/28154431/sentence-court2-1500.webp",
+      "publishedAt": "2026-10-22T08:03:06Z",
+      "content": "Police in 21 countries arrested 1,462 suspects and took down 10,909 malicious networks in Operation Serengeti III, an INTERPOL-coordinated cybercrime sweep across Africa that ran from June 29 to Augu\u2026 [+2354 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blogdoandroid.com"
+      },
+      "author": "edward",
+      "title": "Oracle security patches: Quick fixes for critical vulnerabilities",
+      "description": "Oracle security patches have been released to address critical vulnerabilities across multiple products, ensuring better protection for users.",
+      "url": "https://blogdoandroid.com/oracle-security-patches/",
+      "urlToImage": null,
+      "publishedAt": "2026-10-22T07:21:33Z",
+      "content": "Oracle security patches have been released to fix critical vulnerabilities affecting various products. This significant update aims to enhance user security and protect sensitive information.\r\nOvervi\u2026 [+9234 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "You click a link, see HTTPS & assume it is safe. But what if the website is fake? What eMudhra incident means for anyone who shops, banks or pays online",
+      "description": "The eMudhra security incident raised concerns that cybercriminals could potentially use weak private keys to create fake website certificates and impersonate legitimate platforms. Here\u2019s how such an attack could put users\u2019 personal and payment details at risk\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/you-click-a-link-see-https-assume-it-is-safe-but-what-if-the-website-is-fake-what-emudhra-incident-means-for-anyone-who-shops-banks-or-pays-online/articleshow/135109618.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-135110275,width-1200,height-900,imgsize-1593508,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-22T06:52:53Z",
+      "content": "Imagine you get a message asking you to pay a bill online. You click the link, the website looks genuine, and your browser shows a secure connection. So, you go ahead and enter your details. But what\u2026 [+11077 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Barkha Mathur",
+      "title": "From SBI to ICICI: Major banking data breaches, cyberattacks in India",
+      "description": "SBI's latest disclosure of exposed customer records adds to a history of cyber incidents affecting Indian banks",
+      "url": "https://www.business-standard.com/industry/banking/from-sbi-to-icici-major-banking-data-breaches-cyberattacks-in-india-126102200475_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/14/thumb/featurecrop/1200X628/1784019944-552.jpg",
+      "publishedAt": "2026-10-22T06:51:09Z",
+      "content": "SBI's latest disclosure of exposed customer records adds to a history of cyber incidents affecting Indian banks\r\nState Bank of India is investigating a suspected data leak after identifying 3,897 cus\u2026 [+5747 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "FBI and CISA Warn of SafePay Ransomware Attacks on 600 Organizations",
+      "description": "SafePay ransomware has hit 600+ organizations since 2024, using stolen credentials, VPN access and double extortion to pressure victims into paying. CISA, the FBI, the US Secret Service, Germany\u2019s Landeskriminalamt Rheinland-Pfalz, and two UK law enforcement \u2026",
+      "url": "https://securityaffairs.com/201464/cyber-crime/fbi-and-cisa-warn-of-safepay-ransomware-attacks-on-600-organizations.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/02/Rule-41-google-fbi-2.jpg",
+      "publishedAt": "2026-10-22T06:48:43Z",
+      "content": "FBI and CISA Warn of SafePay Ransomware Attacks on 600 Organizations\r\nCISA, the FBI, the US Secret Service, Germany\u2019s Landeskriminalamt Rheinland-Pfalz, and two UK law enforcement agencies jointly pu\u2026 [+5267 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ibtimes.com.au"
+      },
+      "author": "Tony Jackson",
+      "title": "Australian Stocks Fall as Miners and Energy Drag ASX 200 Lower, Nick Scali Plunges 16% on Profit Warning",
+      "description": "The S&P/ASX 200 fell 0.43% as mining and energy stocks declined, while Nick Scali plunged after forecasting weaker profit amid softer consumer demand.",
+      "url": "https://www.ibtimes.com.au/asx-200-falls-mining-energy-stocks-nick-scali-profit-warning-1877158",
+      "urlToImage": "https://d.ibtimes.com.au/en/full/1893564/asx-200-top-gainers-telix-pharma-jumps-323-fda.png",
+      "publishedAt": "2026-10-22T05:54:46Z",
+      "content": "SYDNEY Australian shares fell Thursday as losses in mining and energy stocks outweighed a strong night on Wall Street. Furniture retailer Nick Scali plunged after warning of a sharp drop in profit.\r\n\u2026 [+6150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "The Cost of Losing Your Cool: Tally the Losses of a Supermarket Cyberattack",
+      "description": "Insurance and Financial Implications of France\u2018s Supermarket Refrigeration Cyberattack Keeping things cool is generally a good idea in the supermarket business. When a cyberattack reportedly interferes with refrigeration systems, the consequences can extend w\u2026",
+      "url": "https://www.insurancejournal.com/news/national/2026/10/22/889881.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2026/10/supermarket-refrigeration-AdobeStock-scaled.jpeg",
+      "publishedAt": "2026-10-22T05:03:23Z",
+      "content": "Insurance and Financial Implications of France\u2018s Supermarket Refrigeration Cyberattack\r\nKeeping things cool is generally a good idea in the supermarket business. When a cyberattack reportedly interfe\u2026 [+9335 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "The Money Store Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Ransomware Group Claims Theft of Mortgage Data",
+      "description": "National class action law firm offers free, confidential case evaluations to The Money Store customers and others whose information may have been exposed. NEWTOWN, Pa., Oct. 21, 2026 /PRNewswire/ -- Edelson Lechtzin LLP, a national class action law firm, is i\u2026",
+      "url": "https://www.prnewswire.com/news-releases/the-money-store-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-ransomware-group-claims-theft-of-mortgage-data-302916246.html",
+      "urlToImage": "https://mmx.prnewswire.com/media/MS1803521/safe-image.jpg?id=OA3033709&p=facebook",
+      "publishedAt": "2026-10-22T02:29:00Z",
+      "content": "National class action law firm offers free, confidential case evaluations to The Money Store customers and others whose information may have been exposed.\r\nNEWTOWN, Pa., Oct. 21, 2026 /PRNewswire/ --\u2026 [+4005 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Ayush Pandey",
+      "title": "AI uncovers decade-old PHP flaw: Government websites across Europe went offline amid cyberattack",
+      "description": "Government websites and online services across Europe and elsewhere went offline on Wednesday after critical vulnerabilities in the widely used PHP",
+      "url": "https://timesofindia.indiatimes.com/world/europe/ai-uncovers-decade-old-php-flaw-government-websites-across-europe-went-offline-amid-cyberattack/articleshow/135104060.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-135104244,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-22T02:03:59Z",
+      "content": "Follow Us On Social Media\r\nInvalid notices help office peon win I-T battle after alleged misuse of KYC papers by former employerFirmness paysBrent crude tops $110 as fresh attacks in Saudi Arabia rai\u2026 [+1467 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Punch"
+      },
+      "author": "Punch Newspapers",
+      "title": "AI adoption could expose African ports to cyberattacks \u2013 Dantsoho",
+      "description": "The MD of the Nigerian Ports Authority, Abubakar Dantsoho, has warned that AI adoption could expose African ports to cyberattacks and economic disruptions.\n\nRead More: https://punchng.com/ai-adoption-could-expose-african-ports-to-cyberattacks-dantsoho/",
+      "url": "https://punchng.com/ai-adoption-could-expose-african-ports-to-cyberattacks-dantsoho/",
+      "urlToImage": "https://punchng.com/wp-content/uploads/2026/07/Dantsoho_1785373032.webp",
+      "publishedAt": "2026-10-22T00:06:30Z",
+      "content": "The Managing Director of the Nigerian Ports Authority, Dr Abubakar Dantsoho, has warned that the increasing adoption of digital technologies and artificial intelligence in port operations could expos\u2026 [+2989 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "New Zealand's Fisher & Paykel Healthcare hit by cyber breach",
+      "description": "Oct 22 : Medical device maker Fisher & Paykel Healthcare on Thursday said it was made aware of unauthorized and unlawful access to a subset of company files and two employee email accounts.Here are the details:\u2022 Some of the files accessed contained personally\u2026",
+      "url": "https://www.channelnewsasia.com/business/new-zealands-fisher-paykel-healthcare-hit-cyber-breach-6480361",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--ZdHPGX9S--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=npguKy4y",
+      "publishedAt": "2026-10-21T20:45:13Z",
+      "content": "Oct 22 : Medical device maker Fisher &amp; Paykel Healthcare on Thursday said it was made aware of unauthorized and unlawful access to a subset of company files and two employee email accounts.\r\nHere\u2026 [+1006 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Cointelegraph by Turner Wright",
+      "title": "Trump didn\u2018t mention \u2018crypto\u2019 once in White House cybercrime roundtable",
+      "description": "Despite reporting before a Wednesday White House roundtable event, no US government official, including Donald Trump, explicitly mentioned digital assets as a medium of fraud.",
+      "url": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures",
+      "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FRT1YGJA9DDV40WJKXE0EP/trump-white-house-crypto.jpg",
+      "publishedAt": "2026-10-21T20:19:39Z",
+      "content": "US President Donald Trump hosted a roundtable at the White House on cybercrime, even as he and members of his administration face scrutiny from lawmakers and voters over accusations that they used th\u2026 [+2728 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "author": "PYMNTS",
+      "title": "Anthropic Accounting Charge Drives 80% Net Loss",
+      "description": "Anthropic\u2019s net loss jumped significantly to $80.7 billion in the first half of 2026, largely due to an accounting charge. That\u2019s according to a report Tuesday (Oct. 20) by Reuters, which viewed a draft prospectus for the company\u2019s planned initial public offe\u2026",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-accounting-charge-drives-80percent-net-loss/",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/06/Anthropic.jpeg",
+      "publishedAt": "2026-10-21T18:33:01Z",
+      "content": "Anthropics net loss jumped significantly to $80.7 billion in the first half of 2026, largely due to an accounting charge.Thats according to a report Tuesday (Oct. 20) by Reuters, which viewed a draft\u2026 [+2289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "author": "PYMNTS",
+      "title": "Anthropic Writes Its Own Rules for Shutting Down AI",
+      "description": "An artificial intelligence model could pose a foreseeable risk of $900 million in damage and still miss the bar for federal intervention under draft legislation Anthropic has been pitching to lawmakers, PYMNTS reported. The Claude developer\u2019s draft lets the g\u2026",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-writes-its-own-rules-for-shutting-down-ai/",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/10/Anthropic-AI.jpeg",
+      "publishedAt": "2026-10-21T17:43:06Z",
+      "content": "An artificial intelligence model could pose a foreseeable risk of $900 million in damage and still miss the bar for federal intervention under draft legislation Anthropic has been pitching to lawmake\u2026 [+3631 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Offgridsurvival.com"
+      },
+      "author": "OFFGRID Survival",
+      "title": "Today\u2019s Massive PHP Security Disaster Just the Beginning: AI, Hidden Exploits, and Cyberattacks That Will Bring Everything Down",
+      "description": "Today\u2019s Massive PHP Security Disaster Just the Beginning: AI, Hidden Exploits, and Cyberattacks That Will Bring Everything Down\nA massive internet security crisis is unfolding as AI uncovers dangerous flaws hackers could exploit to cripple banks, power grids,\u2026",
+      "url": "https://offgridsurvival.com/todays-massive-php-security-disaster-just-the-beginning-ai-hidden-exploits-and-cyberattacks-that-will-bring-everything-down/",
+      "urlToImage": "https://offgridsurvival.com/wp-content/themes/church_10/images/2026/10/internetshutdown.jpg",
+      "publishedAt": "2026-10-21T17:37:36Z",
+      "content": "This morning, we reported on PHP2Shell, a massive security vulnerability that threatened a huge portion of the internet. Government websites were taken offline, security agencies issued emergency war\u2026 [+32034 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Stephen Conneely",
+      "title": "\u2018Critical vulnerabilities\u2019 found in computer code supporting up to 70% of internet",
+      "description": "Websites worldwide have been pulled offline in an effort to prevent cyberattacks to their systems",
+      "url": "https://www.irishtimes.com/business/2026/10/21/critical-vulnerabilities-found-in-computer-code-supporting-up-to-70-of-internet/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/VM7EMFCRHD5LSS5HWS7VUJEA5Y.jpg?smart=true&auth=61a8a3c69976e93eaee4bc60972eb064f07eb10e064476af0e6fdee10ed95c25&width=1200&height=630",
+      "publishedAt": "2026-10-21T17:26:48Z",
+      "content": "Critical vulnerabilities in a computer programming language that supports as much as 70 per cent of the internet have caused multiple websites, from Woodies DIY to the Finnish Government, to suddenly\u2026 [+2880 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "The Wall Street Journal",
+      "title": "AI Just Found a Bug That Puts up to 70% of the World\u2019s Websites at Risk",
+      "description": "Artificial-intelligence tools helped find one of the most severe online bugs ever. Cyber experts are racing to patch it before hackers use AI to exploit it. First, artificial intelligence heralded the Bugmageddon. Now it is triggering an all-hands-on-deck cyb\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4400042/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-10-21T17:19:45Z",
+      "content": "Skip to comments.\r\nAI Just Found a Bug That Puts up to 70% of the Worlds Websites at RiskThe Wall Street Journal ^\r\n | Updated Oct. 21, 2026 9:51 am ET\r\n | obert McMillan\r\nPosted on 10/21/2026 10:19:\u2026 [+3060 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forkast.news"
+      },
+      "author": "Heath Callahan",
+      "title": "Qilin and INC Exploited a Patched Palo Alto VPN Bypass for Four Months. ConnectWise Shows Where the Same Trust Failure Went Next.",
+      "description": "Ransomware operators have spent roughly four months monetizing a critical authentication bypass in Palo Alto Networks GlobalProtect VPN software. While the vulnerability was patched in May, Unit 42 reported on October 19 that the threat actors behind the Spik\u2026",
+      "url": "https://forkast.news/qilin-and-inc-exploited-a-patched-palo-alto-vpn-bypass-for-four-months-connectwise-shows-where-the-same-trust-failure-went-next/",
+      "urlToImage": "https://forkast.news/wp-content/uploads/2026/10/silent-zero-day-side-channel-1024x687.jpg",
+      "publishedAt": "2026-10-21T17:17:46Z",
+      "content": "Ransomware operators have spent roughly four months monetizing a critical authentication bypass in Palo Alto Networks GlobalProtect VPN software. While the vulnerability was patched in May, Unit 42 r\u2026 [+4319 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "John Walker",
+      "title": "Multiple Pok\u00e9mon Apps Taken Offline Over PHP Cyber Attack Fears",
+      "description": "The vulnerabilities will be patched today, but at least half the internet is in danger of exploits",
+      "url": "https://kotaku.com/pokemon-home-sleep-champions-offline-php-cyber-attack-2000748338",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/10/pokemon-home.jpg",
+      "publishedAt": "2026-10-21T16:00:48Z",
+      "content": "The PHP programming language, used on all manner of websites and apps, has been found to contain two extremely serious vulnerabilities. So serious, in fact, that various worldwide governments have ta\u2026 [+2206 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Protothema.gr"
+      },
+      "author": "admin",
+      "title": "Dendias: Cyberattack on critical infrastructure is a matter of national security",
+      "description": "Speaking at the Cyber Greece 2026 conference, Greece\u2019s Minister of National Defence addressed modern hybrid threats\nThe post Dendias: Cyberattack on critical infrastructure is a matter of national security appeared first on ProtoThema English.",
+      "url": "https://en.protothema.gr/2026/10/21/dendias-cyberattack-on-critical-infrastructure-is-a-matter-of-national-security/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/10/dendias.jpg",
+      "publishedAt": "2026-10-21T15:34:00Z",
+      "content": "Greeces Minister of National Defence, Nikos Dendias, said the Armed Forces must operate as a unified system for collecting, processing and making operational use of information, with sensors, systems\u2026 [+5111 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Offgridsurvival.com"
+      },
+      "author": "OFFGRID Survival",
+      "title": "PHP Flaw Puts Most of the Internet at Risk: 70% of Websites Told to Go Dark or Get Hacked",
+      "description": "PHP Flaw Puts Most of the Internet at Risk: 70% of Websites Told to Go Dark or Get Hacked\nA critical PHP flaw hitting 70% of websites forced governments to shut down their own sites. Here\u2019s how PHP2Shell affects you and how to protect your family.\nThis Articl\u2026",
+      "url": "https://offgridsurvival.com/php-flaw-puts-most-of-the-internet-at-risk-70-of-websites-told-to-go-dark-or-get-hacked/",
+      "urlToImage": "https://offgridsurvival.com/wp-content/themes/church_10/images/2026/10/phpexploit.jpg",
+      "publishedAt": "2026-10-21T15:16:41Z",
+      "content": "Yesterday afternoon, a warning went out that most people will never hear about. By this morning, governments were unplugging their own websites.\r\nThe problem is a pair of security holes in PHP. Most \u2026 [+12215 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Talosintelligence.com"
+      },
+      "author": "Cisco Talos",
+      "title": "Two critical RCEs in PHP core",
+      "description": "Two critical remote code execution vulnerabilities in PHP core could have implications across its wider ecosystem. Talos has published a blog to explain what we know so far, and details the Snort coverage available, including rules in the Community Ruleset.",
+      "url": "https://blog.talosintelligence.com/two-critical-rces-in-php-core/",
+      "urlToImage": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/threat_advisory.jpg",
+      "publishedAt": "2026-10-21T15:10:53Z",
+      "content": "Cisco Talos is tracking the disclosure of two unauthenticated remote code execution (RCE) flaws in PHP core, dubbed php2shell, triggered by a plain HTTP request and exploitable before any application\u2026 [+5820 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Ciara O'Brien",
+      "title": "Revolut\u2019s outage was a warning to us all",
+      "description": "High-profile incidents highlight Europe\u2019s precarious position when it comes to who controls tech infrastructure",
+      "url": "https://www.irishtimes.com/technology/2026/10/21/revoluts-outage-was-a-warning-to-us-all/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/A3JBBZSNURHRBNESJKZY37CGXA.jpg?smart=true&auth=d6602f2c5eea4795ec5338f607cd6da9e8307476ee5513dcdf2c8402417bd236&width=1200&height=630",
+      "publishedAt": "2026-10-21T15:02:56Z",
+      "content": "Tuesday was a tough day to be dependent on Revolut. Customers trying to make card payments as normal were refused. Cash withdrawals were also affected, leaving some people with no access at all to th\u2026 [+5412 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Ciara O'Brien",
+      "title": "Revolut\u2019s outage was a warning to us all \u2013 we are at the mercy of the tech gods",
+      "description": "High-profile incidents highlight Europe\u2019s precarious position when it comes to who controls tech infrastructure",
+      "url": "https://www.irishtimes.com/technology/2026/10/21/revoluts-outage-was-a-warning-to-us-all-we-are-at-the-mercy-of-the-tech-gods/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/A3JBBZSNURHRBNESJKZY37CGXA.jpg?smart=true&auth=d6602f2c5eea4795ec5338f607cd6da9e8307476ee5513dcdf2c8402417bd236&width=1200&height=630",
+      "publishedAt": "2026-10-21T15:02:56Z",
+      "content": "Tuesday was a tough day to be dependent on Revolut. Customers trying to make card payments as normal were refused. Cash withdrawals were also affected, leaving some people with no access at all to th\u2026 [+5414 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fortinet.com"
+      },
+      "author": "Fortinet",
+      "title": "Fortinet Recognized by Crime Stoppers International for Cybersecurity Leadership",
+      "description": "At the recent Crime Stoppers International (CSI) Global Summit, Fortinet received CSI\u2019s 2026 Global Annual Cybersecurity Leadership Award.\u2026",
+      "url": "https://www.fortinet.com/blog/industry-trends/fortinet-recognized-by-crime-stoppers-international-for-cybersecurity-leadership",
+      "urlToImage": null,
+      "publishedAt": "2026-10-21T15:00:00Z",
+      "content": "Fortinet has received the Cybersecurity Leadership Award in the Corporate &amp; Private Sector Awards category at Crime Stoppers Internationals (CSI) 2026 Global Annual Awards. Presented at the award\u2026 [+8403 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ryukoku.ac.jp"
+      },
+      "author": null,
+      "title": "\u83f4\u51e6",
+      "description": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert (2026.10.21) \r\n\n\ni\n\r\n\n<ul> <li> Security advisory: Critical remote code execution vulnerabilities, update now (php.net, 2026.10.21) PHP 8.5.12 / 8.4.27 / 8.3.36 / 8.2.\u2026",
+      "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/10.html#20261022_tuiki",
+      "urlToImage": null,
+      "publishedAt": "2026-10-21T15:00:00Z",
+      "content": "Last modified: Thu Oct 22 15:40:22 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019\u2026 [+15497 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Paul Baines, Professor of Political Marketing, Head of Executive Education, University of Leicester",
+      "title": "The new battleground: the UK\u2019s disinformation centre faces threats on multiple fronts",
+      "description": "Russia has been described as \u2018aggressor number one\u2019.",
+      "url": "https://theconversation.com/the-new-battleground-the-uks-disinformation-centre-faces-threats-on-multiple-fronts-294308",
+      "urlToImage": "https://images.theconversation.com/files/767303/original/file-20261020-60-tr5usv.jpg?ixlib=rb-4.1.1&rect=0%2C108%2C3456%2C1728&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-10-21T14:42:05Z",
+      "content": "Kafka Ibram/Shutterstock\r\nPrime Minister Andy Burnham recently announced the creation of a National Centre for Information Defence that will disrupt disinformation campaigns by states hostile to the \u2026 [+6813 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Sead Fadilpa\u0161i\u0107",
+      "title": "State Bank of India reports cyberattack \u2014 thousands of customer records affected, here's what we know",
+      "description": "Someone leaked thousands of user records online, including many belonging to SBI customers.",
+      "url": "https://www.techradar.com/pro/security/state-bank-of-india-reports-cyberattack-thousands-of-customer-records-affected-heres-what-we-know",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GcQXTy4NBXKeoop4V5WQnQ-970-80.jpg",
+      "publishedAt": "2026-10-21T14:16:20Z",
+      "content": "<ul><li>State Bank of India is investigating a suspected dark web data leak affecting thousands of customer records</li><li>Exposed information reportedly includes personal details, loan-related data\u2026 [+4382 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "Kevin  Poireault",
+      "title": "Symantec Uncovers AI Agent Hijacking Models for Autonomous Cyber-Attacks",
+      "description": "Researchers at Symantec have uncovered an AI agent designed to operate a full cyber-attack without human intervention",
+      "url": "https://www.infosecurity-magazine.com/news/symantec-ai-agent-llmjacking/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/2f22fc70-5d79-4169-a307-0caddfa3b478.jpg",
+      "publishedAt": "2026-10-21T14:00:00Z",
+      "content": "A new AI agent developed to run a full cyber-attack without human intervention has been uncovered by security researchers.\r\nThe agent was designed to use hijacked AI models to autonomously run up to \u2026 [+2859 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bitrebels.com"
+      },
+      "author": "Ivana Babic",
+      "title": "The Digital Extortion Tactics Changing How Businesses Fight Back",
+      "description": "Modern digital extortion looks very different from early cyberattacks. Criminal gangs do not just lock computer screens and demand cash. They use aggressive pressure tricks to force companies into paying big ransoms. Business leaders must adopt fresh defense \u2026",
+      "url": "https://bitrebels.com/technology/the-digital-extortion-tactics-changing-how-businesses-fight-back/",
+      "urlToImage": "https://bitrebels.com/wp-content/uploads/2026/10/the-digital-extortion-tactics-changing-how-businesses-fight-back-featured-image-scaled-optimized.jpg",
+      "publishedAt": "2026-10-21T13:31:20Z",
+      "content": "Modern digital extortion looks very different from early cyberattacks. Criminal gangs do not just lock computer screens and demand cash.\r\nThey use aggressive pressure tricks to force companies into p\u2026 [+10281 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Local Germany"
+      },
+      "author": "Paul Krantz",
+      "title": "What we know so far about the Alternative for Germany email leak",
+      "description": "An online index of more that 420,000 emails appears to reveal private communications within the far-right party, which include hate speech and open discussions around potential crimes. Here's what is known, and what is being investigated.",
+      "url": "https://www.thelocal.de/20261021/what-we-know-so-far-about-the-alternative-for-germany-email-leak",
+      "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fill:1200:675/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/10/watermarks-logo-AFP__20261006__D2DU2ZU__v1__MidRes__GermanyPoliticsParliamentPartiesAfd.jpg@webp",
+      "publishedAt": "2026-10-21T13:29:42Z",
+      "content": "An online index of more that 420,000 emails appears to reveal private communications within the far-right party, which include hate speech and open discussions around potential crimes. Here's what is\u2026 [+6494 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Cyber chiefs tell websites to make critical safety update or go offline",
+      "description": "Two critical vulnerabilities have been identified with PHP, a programming language which is widely used across the internet.",
+      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb5e/live/02351720-cd44-11f1-8177-0f8bd59b54c4.jpg",
+      "publishedAt": "2026-10-21T12:14:10Z",
+      "content": "Organisations which rely on the PHP programming language are being told they should install a significant software update today - or consider taking their websites offline.\r\nTwo critical vulnerabilit\u2026 [+2038 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "Cyberattack Hits India\u2019s Largest Bank, Exposes Customer Data",
+      "description": "State Bank of India, the country\u2019s largest lender by assets, has launched a probe after a suspected cyberattack exposed thousands of customer records containing personal information onto the dark web. SBI is investigating the breach after a preliminary analys\u2026",
+      "url": "https://www.insurancejournal.com/news/international/2026/10/21/889809.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2026/10/state-bank-of-india-building-bloomberg-scaled.jpg",
+      "publishedAt": "2026-10-21T11:39:03Z",
+      "content": "State Bank of India, the country\u2019s largest lender by assets, has launched a probe after a suspected cyberattack exposed thousands of customer records containing personal information onto the dark web\u2026 [+2210 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Sinisa Markovic",
+      "title": "Ransomware gangs have been exploiting Palo Alto GlobalProtect VPN flaw since June",
+      "description": "Several ransomware groups are exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks\u2019 PAN-OS GlobalProtect patched in May, to break into organizations in sectors ranging from healthcare and education to government and energy. CVE-2026-0257 s\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/10/21/ransomware-groups-exploit-palo-alto-globalprotect-cve-2026-0257/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/04/17164810/palo_alto_networks-2-1500.webp",
+      "publishedAt": "2026-10-21T11:13:39Z",
+      "content": "Several ransomware groups are exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks PAN-OS GlobalProtect patched in May, to break into organizations in sectors ranging from healthc\u2026 [+3466 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "James Coker",
+      "title": "SafePay Has Compromised 600 Critical Infrastructure Victims Worldwide, CISA Warns",
+      "description": "A new CISA advisory warns of the threat posed by SafePay to businesses and critical infrastructure, and urges defenders to take action to mitigate the group\u2019s tactics",
+      "url": "https://www.infosecurity-magazine.com/news/safepay-compromised-critical/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/16ed8468-9e76-40ca-86ff-9b965f193ae5.jpeg",
+      "publishedAt": "2026-10-21T11:00:00Z",
+      "content": "The SafePay ransomware group has compromised at least 600 critical infrastructure organizations, according to a joint advisory issued by government agencies from the US, Germany and UK.\r\nThe authorin\u2026 [+4461 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "French Supermarket Hack Exposes Cyber Vulnerabilities in Retail",
+      "description": "When J\u00e9r\u00e9my B\u00e9ziaud arrived last Monday at the Intermarch\u00e9 supermarket he manages in France\u2019s Normandy region, he found freezers heating at 40C and a cold room ventilator for fish that had risen to 70C. Monitoring teams had alerted B\u00e9ziaud to \u2026",
+      "url": "https://www.insurancejournal.com/news/international/2026/10/21/889797.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2026/10/empty-shelves-in-french-supermarket-getty.jpg",
+      "publishedAt": "2026-10-21T10:58:08Z",
+      "content": "When J\u00e9r\u00e9my B\u00e9ziaud arrived last Monday at the Intermarch\u00e9 supermarket he manages in France\u2019s Normandy region, he found freezers heating at 40C and a cold room ventilator for fish that had risen to 7\u2026 [+7042 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "James Coker",
+      "title": "Children\u2019s Data Stolen After Ransomware Attack Compromises \u2018Password1\u2019 Account",
+      "description": "The ICO has slammed security failings by the Welsh local government data unit and IT service provider following the 2024 incident",
+      "url": "https://www.infosecurity-magazine.com/news/children-data-stolen-password1/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/748dd461-e4a3-43ab-85dc-c1e92541314e.jpeg",
+      "publishedAt": "2026-10-21T09:05:00Z",
+      "content": "The personal details of thousands of children and their families were breached in Wales after ransomware attackers compromised an account protected by a Password1 password, an investigation by the UK\u2026 [+3249 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tenable.com"
+      },
+      "author": "Satnam Narang",
+      "title": "php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP remote code execution vulnerabilities",
+      "description": "Two critical PHP remote code execution vulnerabilities will be patched in an emergency release on October 21. Fixes are only expected for supported PHP 8.x branches.Key takeaways<ol><li>CVE-2026-109618 and CVE-2026-109619 are critical vulnerabilities in PHP, \u2026",
+      "url": "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote",
+      "urlToImage": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/php2shell-frequently-asked-questions-cve-2026-109618-cve-2026-109619.png?itok=Mrwy-zf-",
+      "publishedAt": "2026-10-21T09:01:24Z",
+      "content": "Two critical PHP remote code execution vulnerabilities will be patched in an emergency release on October 21. Fixes are only expected for supported PHP 8.x branches.\r\nKey takeaways\r\n<ol><li>CVE-2026-\u2026 [+7126 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+      "description": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/08/11/Hacker.jpg",
+      "publishedAt": "2026-10-21T08:36:24Z",
+      "content": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024.\r\nIn a joint report with \u2026 [+3167 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Local Germany"
+      },
+      "author": "Paul Krantz",
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "description": "Alternative for Germany members downplay what was exposed in massive cyberattack, Finance Ministry fumbles roll out of tobacco tax hike, investors pledge billions for German industry at Berlin summit and more news on Wednesday, October 21st.",
+      "url": "https://www.thelocal.de/20261021/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-143",
+      "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fill:1200:675/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/10/watermarks-logo-626653378.jpg@webp",
+      "publishedAt": "2026-10-21T06:39:35Z",
+      "content": "Alternative for Germany members downplay what was exposed in massive cyberattack, Finance Ministry fumbles roll out of tobacco tax hike, investors pledge billions for German industry at Berlin summit\u2026 [+7373 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Saloni Shukla",
+      "title": "SBI probes suspected data breach after 3.75 lakh records surface on dark web",
+      "description": "State Bank of India is investigating a suspected data breach involving approximately 3.75 lakh records found online. The bank has engaged cybersecurity experts to assess the extent and risks related to the exposed data. Preliminary analysis has identified nea\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-probes-suspected-data-breach-after-3-75-lakh-records-surface-on-dark-web/articleshow/135083347.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-135083376,width-1200,height-900,imgsize-142892,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-21T05:46:57Z",
+      "content": "State Bank of India is investigating a suspected data breach after around 3.75 lakh records linked to the countrys largest lender surfaced on the dark web, the latest cyber incident to hit the financ\u2026 [+3696 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Risky.biz"
+      },
+      "author": "James Wilson",
+      "title": "Risky Business #856 -- 8-bit encryption, PHP megabugs and more",
+      "description": "On this week\u2019s show Patrick Gray and James Wilson are joined by special guest co-host security engineer Mark El-Khoury to talk through the week\u2019s cybersecurity news, including:\n\n<ul>\n <li>The PHP foundation is about to release patches for a couple of critical\u2026",
+      "url": "https://risky.biz/RB856/",
+      "urlToImage": "https://risky.biz/static/img/RB-OG-Social.jpg",
+      "publishedAt": "2026-10-21T04:43:10Z",
+      "content": "Presented by\r\nOn this weeks show Patrick Gray and James Wilson are joined by special guest co-host security engineer Mark El-Khoury to talk through the weeks cybersecurity news, including:\r\n<ul><li>T\u2026 [+2946 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securelist.com"
+      },
+      "author": "Sojun Ryu",
+      "title": "Operation FlashHole: Lazarus breaks security, defies control",
+      "description": "Kaspersky researchers analyze Operation FlashHole \u2013 a recent complex attack by Lazarus, involving a sophisticated malware set, watering-hole technique and abuse of CrossWeb EX financial security software.",
+      "url": "https://securelist.com/lazarus-operation-flashhole/121541/",
+      "urlToImage": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/10/20205657/sas-lazarus-3_securelist-featured_1200x600.jpg",
+      "publishedAt": "2026-10-21T02:07:29Z",
+      "content": "In January, we responded to the Lazarus Group\u2019s novel attack campaign against South Korea, which followed last year\u2019s Operation SyncHole. In this new operation, the group employed an updated malware \u2026 [+49029 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rt-english.com"
+      },
+      "author": "RT",
+      "title": "Germany\u2019s most popular party targeted by unknown hackers",
+      "description": "The massive data leak comes as Berlin\u2019s political establishment intensifies efforts to legally ban the Alternative for Germany Read Full Article at RT.com",
+      "url": "https://rt-english.com/news/647460-afd-emails-hacked-leaked/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.10/article/6ad8081185f5407e4c0433be.jpg",
+      "publishedAt": "2026-10-21T00:33:14Z",
+      "content": "Germany\u2019s most popular political party, Alternative for Germany (AfD), has suffered a massive cyberattack, with unknown hackers reportedly stealing and publishing hundreds of thousands of internal em\u2026 [+3141 chars]"
+    }
+  ]
+}

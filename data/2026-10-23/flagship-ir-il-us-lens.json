@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Rachel Chason, Lior Soroka",
+      "title": "Netanyahu says U.S. and Israel must topple Iranian regime - The Washington Post",
+      "description": "Israeli Prime Minister Benjamin Netanyahu said Iran posed an \u201cexistential threat\u201d and that President Donald Trump had said he was \u201cready to finish the job.\u201d",
+      "url": "https://www.washingtonpost.com/world/2026/10/22/netanyahu-says-us-israel-must-topple-iranian-regime/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/FPSAUWJTINH56OVSSKUWD5I3BQ.JPG&w=1440",
+      "publishedAt": "2026-10-22T14:06:19Z",
+      "content": "Israeli Prime Minister Benjamin Netanyahu said Wednesday night that the Iranian regime must be overthrown once and for all. \r\nSpeaking to an Israel Defense Forces officer graduation ceremony, Netanya\u2026 [+148 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Viral wildlife video captures coyote launching itself into the air to snatch a pear off a tree - Fox News",
+      "description": "A viral video shared by Tom Miranda captures a coyote launching itself into the air to snatch a pear off a tree with incredible vertical lift.",
+      "url": "https://www.foxnews.com/outkick-culture/viral-wildlife-video-captures-coyote-launching-itself-air-snatch-pear-tree",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/03/gettyimages-2201785288-1.jpg",
+      "publishedAt": "2026-10-22T13:39:06Z",
+      "content": "A coyote put its jumping skills on display to grab a piece of fruit.\r\nAs our loyal readers know, nature and outdoors content is easily some of the best kinds of content you can find on the internet.\r\u2026 [+1503 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Elizabeth Robinson, Josephine Murphy",
+      "title": "Final Michigan Senate debate takeaways and rural America\u2019s data center boom: Morning Rundown - NBC News",
+      "description": "The economy and the war in Iran emerged as dominant debate topics in critical races in Michigan, Kansas and Wisconsin.",
+      "url": "https://www.nbcnews.com/news/us-news/michigan-senate-debate-data-center-boom-rural-morning-rundown-rcna604946",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261021-Election-2026-Michigan-Senate-debate-vsb-1110-75d8ae.jpg",
+      "publishedAt": "2026-10-22T11:02:51Z",
+      "content": "The economy and the war in Iran emerged as dominant debate topics in critical races in Michigan, Kansas and Wisconsin. Data centers are popping up in rural America, but not all communities are on boa\u2026 [+9680 chars]"
+    }
+  ]
+}
