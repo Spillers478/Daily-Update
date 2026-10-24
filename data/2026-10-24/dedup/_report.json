@@ -1,0 +1,74 @@
+{
+  "topics": [],
+  "skipped": [],
+  "failed": [
+    {
+      "topic": "flagship-ru-ua",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "flagship-ir-il",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T15",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T01",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T02",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T03",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T04",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T05",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T06",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T07",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T08",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T09",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T10",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T11",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T12",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T13",
+      "error": "APIConnectionError: Connection error."
+    },
+    {
+      "topic": "T14",
+      "error": "APIConnectionError: Connection error."
+    }
+  ]
+}
