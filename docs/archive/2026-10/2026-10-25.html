@@ -1,0 +1,2435 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Situation Watch — 2026-10-25</title>
+<style>
+  :root {
+    --bg: #0b0e14;
+    --panel: #131722;
+    --border: #232838;
+    --text: #dbe1ee;
+    --muted: #7c8797;
+    --accent: #4d9fff;
+    --tripwire: #ff5a5a;
+    /* Fallback height for the sticky topic-nav bar, used by section.topic's
+       scroll-margin-top below so a nav-link jump doesn't land a section's
+       heading/narrative underneath the sticky bar. Overwritten with the
+       bar's real measured height by the inline script right before
+       </body> -- see there for why a fixed guess isn't enough on its own
+       (the bar wraps to a different number of rows at different widths). */
+    --nav-h: 160px;
+  }
+  * { box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0 0 4rem;
+  }
+  header {
+    padding: 2.5rem 1.5rem 1.5rem;
+    border-bottom: 1px solid var(--border);
+    max-width: 860px;
+    margin: 0 auto;
+  }
+  header h1 {
+    margin: 0 0 0.25rem;
+    font-size: 1.6rem;
+    letter-spacing: 0.02em;
+  }
+  header p {
+    color: var(--muted);
+    margin: 0;
+    font-size: 0.9rem;
+  }
+  header p a { color: var(--accent); text-decoration: none; }
+  header p a:hover { text-decoration: underline; }
+  main {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+  }
+  section.bluf {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    border-radius: 6px;
+    padding: 1.25rem 1.5rem;
+    margin: 1.75rem 0;
+  }
+  section.bluf h2 {
+    margin: 0 0 0.6rem;
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    color: var(--accent);
+    text-transform: uppercase;
+  }
+  section.bluf p {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.55;
+  }
+  section.topic {
+    border-top: 1px solid var(--border);
+    padding: 1.75rem 0;
+    /* Without this, jumping here via a nav-link (or a search-widget/jump-
+       list result) lands the heading and narrative box right underneath
+       the sticky topic-nav bar, hidden from view -- the visible scroll
+       position ends up mid-article-list instead. See --nav-h above. */
+    scroll-margin-top: calc(var(--nav-h) + 0.75rem);
+  }
+  section.topic h2 {
+    font-size: 1.05rem;
+    margin: 0 0 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .narrative {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: var(--text);
+    background: var(--panel);
+    border-left: 2px solid var(--accent);
+    padding: 0.6rem 0.9rem;
+    margin: 0 0 1.1rem;
+    border-radius: 0 4px 4px 0;
+  }
+  .count {
+    margin-left: auto;
+    color: var(--muted);
+    font-weight: 400;
+    font-size: 0.85rem;
+  }
+  .badge {
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.15rem 0.5rem;
+    border-radius: 3px;
+    font-weight: 600;
+  }
+  .badge-tripwire { background: rgba(255,90,90,0.15); color: var(--tripwire); }
+  /* Each story (one lead article, optionally more sources + a
+     contradiction box tucked inside) is the spacing unit now, not the
+     bare .item -- see render_cluster(). Un-clustered topics (no dedup
+     data) still get one story-cluster per article, so this replaces
+     .item's old margin-bottom one-for-one rather than adding to it. */
+  .story-cluster { margin-bottom: 1.1rem; }
+  .item { margin-bottom: 0; }
+  .item-title {
+    color: var(--text);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.95rem;
+  }
+  .item-title:hover { color: var(--accent); }
+  .item-meta {
+    color: var(--muted);
+    font-size: 0.75rem;
+    margin: 0.2rem 0 0.35rem;
+  }
+  .item-desc {
+    color: var(--muted);
+    font-size: 0.85rem;
+    margin: 0;
+    line-height: 1.4;
+  }
+  .item-extra {
+    color: var(--muted);
+    font-size: 0.85rem;
+    margin: 0.45rem 0 0;
+    padding-top: 0.45rem;
+    border-top: 1px dashed var(--border);
+    line-height: 1.45;
+  }
+  .moved-tag {
+    color: var(--muted);
+    font-size: 0.65rem;
+    font-style: italic;
+    margin-right: 0.35rem;
+  }
+  .empty { color: var(--muted); font-size: 0.85rem; font-style: italic; }
+  .topic-nav {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--bg);
+    border-bottom: 1px solid var(--border);
+    padding: 0.6rem 1.5rem;
+    max-width: 860px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+  .nav-link {
+    color: var(--muted);
+    text-decoration: none;
+    font-size: 0.75rem;
+    padding: 0.25rem 0.55rem;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+  .nav-link:hover { color: var(--text); border-color: var(--accent); }
+  .nav-link.nav-tripwire { border-color: rgba(255,90,90,0.35); color: var(--tripwire); }
+  .nav-count { color: var(--muted); font-size: 0.7rem; }
+  details.more, details.other-sources { margin-top: 0.5rem; }
+  details.more summary, details.other-sources summary {
+    cursor: pointer;
+    color: var(--accent);
+    font-size: 0.85rem;
+    padding: 0.4rem 0;
+    list-style: none;
+  }
+  details.more summary::-webkit-details-marker, details.other-sources summary::-webkit-details-marker { display: none; }
+  details.more summary:before, details.other-sources summary:before { content: "+ "; }
+  details.more[open] summary:before, details.other-sources[open] summary:before { content: "− "; }
+  details.more[open] summary, details.other-sources[open] summary { margin-bottom: 0.5rem; }
+  /* "+N other sources" reads as a lighter-weight aside than the main
+     "show more stories" toggle, so it's dimmer and doesn't compete with it. */
+  details.other-sources summary { color: var(--muted); font-size: 0.78rem; }
+  details.other-sources summary:hover { color: var(--text); }
+  .contradiction-box {
+    margin: 0.6rem 0 0;
+    padding: 0.6rem 0.85rem;
+    border: 1px solid rgba(255,90,90,0.35);
+    border-left: 3px solid var(--tripwire);
+    border-radius: 0 4px 4px 0;
+    background: rgba(255,90,90,0.06);
+  }
+  .contradiction-label {
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--tripwire);
+    font-weight: 600;
+    margin-bottom: 0.3rem;
+  }
+  .contradiction-summary {
+    font-size: 0.82rem;
+    color: var(--text);
+    margin: 0 0 0.4rem;
+    line-height: 1.4;
+  }
+  .contradiction-sources {
+    margin: 0;
+    padding-left: 1.1rem;
+    font-size: 0.78rem;
+    color: var(--muted);
+    line-height: 1.5;
+  }
+  .contradiction-sources a { color: var(--accent); text-decoration: none; }
+  .contradiction-sources a:hover { text-decoration: underline; }
+  #gsw-top-btn {
+    position: fixed;
+    right: 1.25rem;
+    bottom: 1.25rem;
+    z-index: 30;
+    background: var(--panel);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 0.55rem 1rem;
+    font-size: 0.8rem;
+    font-family: inherit;
+    cursor: pointer;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+    opacity: 0;
+    transform: translateY(0.5rem);
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+  }
+  #gsw-top-btn.visible { opacity: 1; transform: translateY(0); pointer-events: auto; }
+  #gsw-top-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+  .page-search-wrap { position: relative; margin: 1.1rem 0 0; }
+  .page-search-wrap input[type=search] {
+    width: 100%; box-sizing: border-box; background: var(--panel); color: var(--text);
+    border: 1px solid var(--border); border-radius: 8px; padding: 0.65rem 0.9rem;
+    font-size: 0.9rem; font-family: inherit;
+  }
+  .page-search-wrap input[type=search]:focus { outline: none; border-color: var(--accent); }
+  .page-search-wrap input[type=search]::-webkit-search-cancel-button { cursor: pointer; }
+  .page-search-count {
+    display: block; margin-top: 0.35rem; color: var(--muted); font-size: 0.75rem; min-height: 1em;
+  }
+  .page-search-results {
+    position: absolute; left: 0; right: 0; top: 100%; z-index: 20; margin-top: 0.35rem;
+    background: var(--panel); border: 1px solid var(--border); border-radius: 8px;
+    max-height: 50vh; overflow-y: auto; box-shadow: 0 8px 24px rgba(0,0,0,0.35);
+  }
+  .psr-item {
+    display: block; width: 100%; text-align: left; background: none; border: none;
+    border-bottom: 1px solid var(--border); color: inherit; font: inherit; cursor: pointer;
+    padding: 0.55rem 0.85rem;
+  }
+  .psr-item:last-child { border-bottom: none; }
+  .psr-item:hover, .psr-item:focus { background: rgba(77,159,255,0.08); outline: none; }
+  .psr-label {
+    display: block; color: var(--accent); font-size: 0.68rem; text-transform: uppercase;
+    letter-spacing: 0.03em; margin-bottom: 0.2rem;
+  }
+  .psr-snippet { display: block; color: var(--text); font-size: 0.82rem; line-height: 1.4; }
+  .psr-empty { color: var(--muted); font-size: 0.82rem; padding: 0.6rem 0.85rem; margin: 0; }
+  .psr-more { color: var(--muted); font-size: 0.75rem; padding: 0.5rem 0.85rem; margin: 0; }
+  mark.gsw-hl {
+    background: #ffe066; color: #1a1e29; border-radius: 2px; padding: 0 0.15em; font-weight: 600;
+  }
+  .gsw-jump-flash { outline: 2px solid #ffe066; outline-offset: 3px; border-radius: 4px; }
+
+
+  section.top-dev, section.changes {
+    background: var(--panel); border: 1px solid var(--border); border-radius: 6px;
+    padding: 1.1rem 1.5rem; margin: 1.25rem 0;
+  }
+  section.top-dev { border-left: 3px solid var(--accent); }
+  section.top-dev h2, section.changes h2 {
+    margin: 0 0 0.7rem; font-size: 0.75rem; letter-spacing: 0.08em;
+    color: var(--accent); text-transform: uppercase;
+  }
+  section.top-dev ol { margin: 0; padding-left: 1.2rem; }
+  section.top-dev li { margin-bottom: 0.95rem; }
+  section.top-dev li:last-child { margin-bottom: 0; }
+  .td-head { line-height: 1.5; }
+  .chg-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1rem 1.5rem; }
+  .chg-group h3 { margin: 0 0 0.35rem; font-size: 0.75rem; color: var(--muted); font-weight: 600; }
+  .chg-group ul { margin: 0; padding-left: 1.1rem; font-size: 0.85rem; line-height: 1.45; }
+  .chg-group li { margin-bottom: 0.3rem; }
+  .chg-group a { color: var(--text); text-decoration: none; font-size: 0.85rem; font-weight: 500; }
+  .chg-group a:hover { color: var(--accent); }
+  .chg-shifts { margin: 0; font-size: 0.85rem; line-height: 1.6; }
+  .chg-note { margin: 0.9rem 0 0; font-size: 0.72rem; color: var(--muted); line-height: 1.45; }
+  .thread-flags { display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem; margin: 0 0 0.3rem; }
+  .td-head .flag, .td-head .flag-also { margin-right: 0.35rem; }
+  .flag {
+    font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;
+    padding: 0.1rem 0.42rem; border-radius: 3px; border: 1px solid var(--border); color: var(--muted);
+  }
+  .flag-new { color: var(--accent); border-color: rgba(77,159,255,0.45); }
+  .flag-grow { color: #ffb454; border-color: rgba(255,180,84,0.45); }
+  .flag-also { font-size: 0.68rem; color: var(--muted); font-style: italic; }
+  .trend { font-size: 0.7rem; margin-left: 0.2rem; cursor: help; }
+  .trend-up { color: #ffb454; }
+  .trend-down { color: var(--muted); }
+  .count-linked { color: var(--muted); font-size: 0.72rem; margin-left: 0.3rem; }
+  .refs { margin-top: 0.4rem; padding-top: 0.7rem; border-top: 1px dashed var(--border); }
+  .refs-label { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); margin-bottom: 0.5rem; }
+  .story-ref { margin-bottom: 0.75rem; }
+  .story-ref .item-title { font-size: 0.88rem; font-weight: 500; }
+  .ref-link { color: var(--accent); text-decoration: none; }
+  .ref-link:hover { text-decoration: underline; }
+  .empty-detail { color: var(--muted); font-style: normal; }
+  details.method { margin: 2.5rem 0 0; border-top: 1px solid var(--border); padding-top: 1rem; }
+  details.method summary { cursor: pointer; color: var(--muted); font-size: 0.8rem; }
+  details.method p, details.method li { font-size: 0.8rem; color: var(--muted); line-height: 1.5; }
+  .method-list { columns: 2; margin: 0.3rem 0 0; padding-left: 1.1rem; }
+
+</style>
+</head>
+<body>
+<header>
+  <h1>Global Situation Watch</h1>
+  <p>2026-10-25 &middot; <a href="index.html">This month</a> &middot; <a href="../index.html">All months</a> &middot; <a href="../../index.html">Latest</a></p>
+  
+<div class="page-search-wrap">
+  <input id="gsw-page-search" type="search" placeholder="Search this page…" autocomplete="off" aria-label="Search this page">
+  <span id="gsw-page-search-count" class="page-search-count"></span>
+  <div id="gsw-page-search-results" class="page-search-results" hidden></div>
+</div>
+<script>
+(function() {
+  var input = document.getElementById("gsw-page-search");
+  var counter = document.getElementById("gsw-page-search-count");
+  var results = document.getElementById("gsw-page-search-results");
+  var timer = null;
+  var SELECTOR = ".item-title, .item-desc, .item-extra, .narrative";
+  var SNIPPET_BEFORE = 40, SNIPPET_AFTER = 70;
+
+  function targets() {
+    return Array.prototype.slice.call(document.querySelectorAll(SELECTOR));
+  }
+
+  function clearResults() { results.innerHTML = ""; results.hidden = true; }
+
+  function reset() {
+    targets().forEach(function(el) {
+      if (el.dataset.gswOrig !== undefined) el.textContent = el.dataset.gswOrig;
+    });
+    if (counter) counter.textContent = "";
+    clearResults();
+  }
+
+  function highlightOne(el, q) {
+    if (el.dataset.gswOrig === undefined) el.dataset.gswOrig = el.textContent;
+    var text = el.dataset.gswOrig;
+    var lower = text.toLowerCase();
+    var qlower = q.toLowerCase();
+    var idx = lower.indexOf(qlower);
+    if (idx === -1) {
+      el.textContent = text;
+      return 0;
+    }
+    el.textContent = "";
+    var start = 0, count = 0, i;
+    while ((i = lower.indexOf(qlower, start)) !== -1) {
+      if (i > start) el.appendChild(document.createTextNode(text.slice(start, i)));
+      var mark = document.createElement("mark");
+      mark.className = "gsw-hl";
+      mark.textContent = text.slice(i, i + q.length);
+      el.appendChild(mark);
+      start = i + q.length;
+      count++;
+    }
+    if (start < text.length) el.appendChild(document.createTextNode(text.slice(start)));
+    return count;
+  }
+
+  function sectionLabel(el) {
+    var sec = el.closest("section.topic, section.bluf");
+    if (!sec) return "";
+    var h2 = sec.querySelector("h2");
+    if (!h2) return "";
+    var clone = h2.cloneNode(true);
+    var junk = clone.querySelectorAll(".badge, .count");
+    for (var i = 0; i < junk.length; i++) junk[i].remove();
+    return clone.textContent.trim();
+  }
+
+  // First-match snippet (not every occurrence) for the jump-list row --
+  // enough surrounding context to place the hit without quoting the whole
+  // paragraph.
+  function snippetFor(text, q) {
+    var lower = text.toLowerCase();
+    var idx = lower.indexOf(q.toLowerCase());
+    if (idx === -1) return null;
+    var start = Math.max(0, idx - SNIPPET_BEFORE);
+    var end = Math.min(text.length, idx + q.length + SNIPPET_AFTER);
+    return {
+      before: (start > 0 ? "\u2026" : "") + text.slice(start, idx),
+      match: text.slice(idx, idx + q.length),
+      after: text.slice(idx + q.length, end) + (end < text.length ? "\u2026" : "")
+    };
+  }
+
+  function jumpTo(el) {
+    el.scrollIntoView({behavior: "smooth", block: "center"});
+    el.classList.add("gsw-jump-flash");
+    setTimeout(function() { el.classList.remove("gsw-jump-flash"); }, 1200);
+  }
+
+  function renderList(items, q) {
+    results.innerHTML = "";
+    if (!items.length) {
+      var empty = document.createElement("p");
+      empty.className = "psr-empty";
+      empty.textContent = 'No matches for "' + q + '".';
+      results.appendChild(empty);
+      results.hidden = false;
+      return;
+    }
+    var CAP = 60;
+    items.slice(0, CAP).forEach(function(item) {
+      var row = document.createElement("button");
+      row.type = "button";
+      row.className = "psr-item";
+      var label = document.createElement("span");
+      label.className = "psr-label";
+      label.textContent = item.label + (item.n > 1 ? " \u00b7 " + item.n + "\u00d7 on this line" : "");
+      var snip = document.createElement("span");
+      snip.className = "psr-snippet";
+      snip.appendChild(document.createTextNode(item.snip.before));
+      var mark = document.createElement("mark");
+      mark.className = "gsw-hl";
+      mark.textContent = item.snip.match;
+      snip.appendChild(mark);
+      snip.appendChild(document.createTextNode(item.snip.after));
+      row.appendChild(label);
+      row.appendChild(snip);
+      row.addEventListener("click", function() { jumpTo(item.el); });
+      results.appendChild(row);
+    });
+    if (items.length > CAP) {
+      var more = document.createElement("p");
+      more.className = "psr-more";
+      more.textContent = "+" + (items.length - CAP) + " more match location" + (items.length - CAP !== 1 ? "s" : "") + " below";
+      results.appendChild(more);
+    }
+    results.hidden = false;
+  }
+
+  function highlight(q) {
+    var total = 0, first = null, items = [];
+    targets().forEach(function(el) {
+      var n = highlightOne(el, q);
+      total += n;
+      if (n) {
+        if (!first) first = el;
+        var details = el.closest("details.more");
+        if (details && !details.open) details.open = true;
+        var snip = snippetFor(el.dataset.gswOrig, q);
+        if (snip) items.push({el: el, label: sectionLabel(el) || "This page", snip: snip, n: n});
+      }
+    });
+    if (counter) {
+      counter.textContent = total
+        ? (total + " match" + (total !== 1 ? "es" : "") + " on this page \u2014 pick one below to jump to it")
+        : 'No matches for "' + q + '".';
+    }
+    renderList(items, q);
+    if (first) first.scrollIntoView({behavior: "smooth", block: "center"});
+  }
+
+  input.addEventListener("input", function() {
+    clearTimeout(timer);
+    var q = input.value.trim();
+    timer = setTimeout(function() {
+      if (q.length < 2) { reset(); return; }
+      highlight(q);
+    }, 150);
+  });
+  input.addEventListener("keydown", function(e) {
+    if (e.key === "Escape") { input.value = ""; reset(); input.blur(); }
+  });
+  document.addEventListener("click", function(e) {
+    if (!e.target.closest(".page-search-wrap")) clearResults();
+  });
+  input.addEventListener("focus", function() {
+    if (results.children.length) results.hidden = false;
+  });
+})();
+</script>
+
+</header>
+<nav class="topic-nav"><a class="nav-link" href="#flagship-ru-ua">Russia / Ukraine<span class="trend trend-down" title="Coverage down: 8.0 vs 17.8 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 8.0 vs 17.8 average over 7 prior days (a coverage trend, not a measure of events)">▼</span> <span class="nav-count">16</span></a><a class="nav-link" href="#flagship-ir-il">Iran / Israel / Middle East<span class="trend trend-down" title="Coverage down: 8.1 vs 21.0 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 8.1 vs 21.0 average over 7 prior days (a coverage trend, not a measure of events)">▼</span> <span class="nav-count">17</span></a><a class="nav-link" href="#T15">Disaster / Access Denial<span class="trend trend-up" title="Coverage up: 2.4 vs 1.0 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage up: 2.4 vs 1.0 average over 7 prior days (a coverage trend, not a measure of events)">▲</span> <span class="nav-count">5</span></a><a class="nav-link nav-tripwire" href="#T03">Bio/Chemical Attack<span class="trend trend-down" title="Coverage down: 0.0 vs 1.9 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 0.0 vs 1.9 average over 7 prior days (a coverage trend, not a measure of events)">▼</span> <span class="nav-count">0</span></a><a class="nav-link nav-tripwire" href="#T05">Political Instability / Coup Risk<span class="trend trend-down" title="Coverage down: 0.2 vs 14.2 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 0.2 vs 14.2 average over 7 prior days (a coverage trend, not a measure of events)">▼</span> <span class="nav-count">1</span></a><a class="nav-link nav-tripwire" href="#T07">Nuclear Weaponry / Attack<span class="trend trend-down" title="Coverage down: 1.7 vs 11.7 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 1.7 vs 11.7 average over 7 prior days (a coverage trend, not a measure of events)">▼</span> <span class="nav-count">3</span></a><a class="nav-link nav-tripwire" href="#T09">American Hostage / Kidnapping <span class="nav-count">0</span></a><a class="nav-link nav-tripwire" href="#T12">Large-Scale Cyber Attack / Internet Blackout<span class="trend trend-down" title="Coverage down: 4.4 vs 7.2 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 4.4 vs 7.2 average over 7 prior days (a coverage trend, not a measure of events)">▼</span> <span class="nav-count">10</span></a><a class="nav-link nav-tripwire" href="#T14">Threats to US Embassies / Diplomats<span class="trend trend-down" title="Coverage down: 1.7 vs 3.3 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 1.7 vs 3.3 average over 7 prior days (a coverage trend, not a measure of events)">▼</span> <span class="nav-count">3</span></a><a class="nav-link" href="#T01">Military Conflict <span class="nav-count">4</span></a><a class="nav-link" href="#T02">Humanitarian Crisis<span class="trend trend-down" title="Coverage down: 1.1 vs 11.0 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 1.1 vs 11.0 average over 7 prior days (a coverage trend, not a measure of events)">▼</span> <span class="nav-count">2</span></a><a class="nav-link" href="#T04">Infectious Outbreak / Pandemic <span class="nav-count">5</span></a><a class="nav-link" href="#T06">Mass Uprising / Regime-Threatening Unrest<span class="trend trend-down" title="Coverage down: 6.1 vs 9.7 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 6.1 vs 9.7 average over 7 prior days (a coverage trend, not a measure of events)">▼</span> <span class="nav-count">14</span></a><a class="nav-link" href="#T08">VEO / Regional Insecurity<span class="trend trend-up" title="Coverage up: 2.9 vs 1.0 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage up: 2.9 vs 1.0 average over 7 prior days (a coverage trend, not a measure of events)">▲</span> <span class="nav-count">5</span></a><a class="nav-link" href="#T10">Military Modernization<span class="trend trend-down" title="Coverage down: 1.6 vs 4.0 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 1.6 vs 4.0 average over 7 prior days (a coverage trend, not a measure of events)">▼</span> <span class="nav-count">5</span></a><a class="nav-link" href="#T11">Military Exercise <span class="nav-count">0</span></a><a class="nav-link" href="#T13">Migration / Refugee Crisis<span class="trend trend-down" title="Coverage down: 0.7 vs 3.4 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 0.7 vs 3.4 average over 7 prior days (a coverage trend, not a measure of events)">▼</span> <span class="nav-count">2</span></a></nav>
+<main>
+
+  <section class="bluf">
+    <h2>BLUF</h2>
+    <p>The White House says Russia and Ukraine will let civilians leave a war-torn area under a humanitarian arrangement starting Oct. 29, crediting Melania Trump; a single outlet reportedly places it in Oleshky. The State Department is reducing staffing at four Middle East embassies after intelligence that Iran has stepped up efforts to target American personnel. Ukraine says Starlink restrictions remain despite Trump&#x27;s claim that Musk lifted them, and reportedly front-line drone units have been affected. Severe flooding has hit the Four Corners region, with evacuations, emergency declarations and rescues, and more rain is expected through the weekend. The UK and France held their first joint nuclear air exercise, with RAF Typhoons joining French Rafales. Also notable, US envoy Tom Barrack said a US strike on Iran this weekend is possible, after Trump threatened &quot;another little Epic Fury&quot; absent a deal; Iran warned the US not to &quot;play with fire&quot; and Türkiye cautioned against renewed strikes. Separately, Jordan&#x27;s king vowed the harshest penalties after a reported terrorist attack on a church near Karak that killed at least seven.</p>
+  </section>
+
+  <section class="top-dev">
+    <h2>Top developments</h2>
+    <ol>
+      <li>
+        <div class="td-head"><span class="flag">Day 2</span>
+          <a class="item-title" href="https://www.bloomberg.com/news/articles/2026-10-23/us-says-russia-ukraine-to-let-civilians-leave-war-torn-oleshky" target="_blank" rel="noopener">US says Russia, Ukraine to let civilians leave war-torn area</a></div>
+        <p class="item-desc">The White House statement says that the humanitarian arrangement is due to begin Oct. 29, which credited First Lady Melania Trump with brokering the agreement</p>
+        <div class="item-meta" title="Melania Trump secures Russia-Ukraine ceasefire in Oleshky, the &#x27;Hell on Earth&#x27; where people eat garden weeds and even the dead cannot be buried">10 independent sources &middot; Russia / Ukraine &middot; +1 related thread &middot; <a class="ref-link" href="#th-f725649b">full story</a></div>
+      </li>
+      <li>
+        <div class="td-head"><span class="flag">Returning</span>
+          <a class="item-title" href="https://abcnews.com/US/wireStory/us-reducing-staffing-4-middle-east-embassies-increased-137529709" target="_blank" rel="noopener">US is reducing staffing at 4 Middle East embassies over increased threats from Iran</a></div>
+        <p class="item-desc">The State Department says it will reduce staffing at four U.S. embassies in the Middle East after receiving intelligence that Iran has stepped up efforts to target American personnel in the region…</p>
+        <div class="item-meta">3 independent sources &middot; Threats to US Embassies / Diplomats &middot; <a class="ref-link" href="#th-d2418492">full story</a></div>
+      </li>
+      <li>
+        <div class="td-head"><span class="flag">Day 4</span>
+          <a class="item-title" href="https://www.bbc.com/news/articles/cq74pjpmx0e8o" target="_blank" rel="noopener">Ukraine says Starlink restrictions remain despite Trump&#x27;s claims they&#x27;re lifted</a></div>
+        <p class="item-desc">Watch: Who controls Ukraine&#x27;s access to Starlink?
+
+Ukraine is still recording issues with the Starlink internet network, sources within the defence ministry say, after Donald Trump said limits…</p>
+        <div class="item-meta">3 independent sources &middot; Russia / Ukraine &middot; <a class="ref-link" href="#th-6e505ce0">full story</a></div>
+      </li>
+      <li>
+        <div class="td-head"><span class="flag">Day 2</span><span class="flag flag-grow">▲ Growing</span>
+          <a class="item-title" href="https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners" target="_blank" rel="noopener">Severe flooding hits Four Corners region, more expected through the weekend</a></div>
+        <p class="item-desc">Intense rainfall slammed the Four Corners region late this week. As rivers flooded, towns declared evacuations and emergencies and made rescues.</p>
+        <div class="item-meta">3 independent sources &middot; Disaster / Access Denial &middot; <a class="ref-link" href="#th-c332b7c7">full story</a></div>
+      </li>
+      <li>
+        <div class="td-head"><span class="flag">Day 2</span>
+          <a class="item-title" href="https://www.gov.uk/government/news/uk-france-deepen-nuclear-defence-ties-in-first-joint-exercise" target="_blank" rel="noopener">UK-France deepen nuclear defence ties in first joint exercise</a></div>
+        <p class="item-desc">UK deepens nuclear defence ties with France in historic first joint air exercise as RAF Typhoon fighters join French Rafale jets in a French nuclear exercise.</p>
+        <div class="item-meta">3 independent sources &middot; Nuclear Weaponry / Attack &middot; also Military Exercise &middot; <a class="ref-link" href="#th-eb7e967d">full story</a></div>
+      </li>
+    </ol>
+  </section>
+
+  <section class="changes">
+    <h2>Changes since 2026-10-24</h2>
+    <div class="chg-grid"><div class="chg-group"><h3>New in today's top 15</h3><ul><li><a class="item-title" href="#th-062d66b4">Shooting in Paris suburbs kills 1, wounds 5; Macron condemns ‘racist terrorist attack’</a> <span class="item-meta">VEO / Regional Insecurity</span></li><li><a class="item-title" href="#th-0e82a47b">US could strike Iran this weekend, envoy says</a> <span class="item-meta">Iran / Israel / Middle East</span></li><li><a class="item-title" href="#th-55316916">On October 23, 1983, 241 US marines died in a terrorist attack in Lebanon. It was the deadliest single-day loss for US forces since WWII</a> <span class="item-meta">VEO / Regional Insecurity</span></li><li><a class="item-title" href="#th-23a348c5">Nigeria: Fulani Herdsmen Kill Two in Plateau State as Five Christians Are Abducted</a> <span class="item-meta">VEO / Regional Insecurity</span></li></ul></div><div class="chg-group"><h3>Growing</h3><ul><li><a class="item-title" href="#th-c332b7c7">Severe flooding hits Four Corners region, more expected through the weekend</a> <span class="item-meta">Disaster / Access Denial</span></li><li><a class="item-title" href="#th-238f4cba">Kim Jong Un is making world&#x27;s &#x27;strongest&#x27; military: Nuclear weapons, AI-powered systems, hypersonic missiles &amp; combat plan put North Korea in focus</a> <span class="item-meta">Military Modernization</span></li><li><a class="item-title" href="#th-77bc1018">Melania Trump secures Russia-Ukraine ceasefire in Oleshky, the &#x27;Hell on Earth&#x27; where people eat garden weeds and even the dead cannot be buried</a> <span class="item-meta">Russia / Ukraine</span></li></ul></div><div class="chg-group"><h3>In yesterday's top, not in today's coverage</h3><ul><li><a class="item-title" href="https://www.huffpost.com/entry/brent-crude-hits-more-than-five-month-high-on-houthi-saudi-attacks-uae-oil-spill_n_6adb617ae4b027da9ae574e7" target="_blank" rel="noopener">Brent Crude Hits More Than Five-Month High On Houthi-Saudi Attacks, UAE Oil Spill</a> <span class="item-meta">Russia / Ukraine</span></li><li><a class="item-title" href="https://abcnews.com/Business/wireStory/drone-hit-sank-cargo-vessel-new-black-sea-137505770" target="_blank" rel="noopener">A drone hit and sank a cargo vessel in new Black Sea attack near Romania, killing 1</a> <span class="item-meta">Russia / Ukraine</span></li><li><a class="item-title" href="https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar" target="_blank" rel="noopener">After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi&#x27;s son hears her voice</a> <span class="item-meta">Political Instability / Coup Risk</span></li></ul></div><div class="chg-group"><h3>Coverage shifts vs. recent average</h3><p class="chg-shifts">▲ Disaster / Access Denial, VEO / Regional Insecurity<br>▼ Russia / Ukraine, Iran / Israel / Middle East, Humanitarian Crisis, Bio/Chemical Attack, Political Instability / Coup Risk, Mass Uprising / Regime-Threatening Unrest, Nuclear Weaponry / Attack, Military Modernization, Large-Scale Cyber Attack / Internet Blackout, Migration / Refugee Crisis, Threats to US Embassies / Diplomats</p></div></div>
+    <p class="chg-note">Compared on story text against the 7 earlier days on record.
+       &ldquo;New&rdquo; means no close match in those days &mdash; a fresh development in a long-running conflict can still read as new.
+       &ldquo;Not in today&rsquo;s coverage&rdquo; is not the same as resolved.</p>
+  </section>
+
+  <section class="topic" id="flagship-ru-ua">
+    <h2>Russia / Ukraine <span class="trend trend-down" title="Coverage down: 8.0 vs 17.8 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 8.0 vs 17.8 average over 7 prior days (a coverage trend, not a measure of events)">▼</span><span class="count">16 stories</span></h2>
+    <p class="narrative">The White House says Russia and Ukraine will allow civilians to leave a war-torn area under a humanitarian arrangement due to begin Oct. 29, and credits First Lady Melania Trump with brokering it (10 outlets). A single outlet reportedly places this in Oleshky. Ukraine says Starlink restrictions persist despite Trump&#x27;s claim that Musk lifted them, and reportedly front-line drone units were affected. Other reports, mostly single-source, cover Russian ballistic missile strikes on Kyiv overnight into Oct. 22 (one killed, 24 injured), Steve Witkoff&#x27;s ninth meeting with Putin, a first tanker of Russian diesel heading to the US, and Japanese interceptor drones delivered to Ukraine, which Russia threatened to retaliate against.</p>
+    
+    <div class="story-cluster" id="th-f725649b" data-score="81.0">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.bloomberg.com/news/articles/2026-10-23/us-says-russia-ukraine-to-let-civilians-leave-war-torn-oleshky" target="_blank" rel="noopener">US says Russia, Ukraine to let civilians leave war-torn area</a>
+      <div class="item-meta">Bloomberg &middot; 2026-10-24T04:37:06Z</div>
+      <p class="item-desc">The White House statement says that the humanitarian arrangement is due to begin Oct. 29, which credited First Lady Melania Trump with brokering the agreement</p>
+      <p class="item-extra">The White House said Friday that Russia and Ukraine had agreed to allow for aid in the Ukrainian city of Oleshky and prepare an evacuation route for civilians, even as Kyiv complained that crucial St…</p>
+    </article>
+      
+    <details class="other-sources">
+      <summary>+10 other sources on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire" target="_blank" rel="noopener">Russia, Ukraine agree to Melania Trump-brokered localised ceasefire</a>
+      <div class="item-meta">Al Jazeera English &middot; 2026-10-23T20:02:21Z</div>
+      <p class="item-desc">President Trump says it was First Lady Melania Trump’s initiative that led to a ceasefire in Oleshky.</p>
+      <p class="item-extra">President Trump says it was First Lady Melania Trumps initiative that led to a ceasefire between Russia and Ukraine in the Ukrainian city of Oleshky, which has been under Russian occupation for four …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.abc.net.au/news/2026-10-24/ukraine-latest/107304160" target="_blank" rel="noopener">Melania Trump brokers Oleshky ceasefire as Starshield row continues</a>
+      <div class="item-meta">ABC News (AU) &middot; 2026-10-23T19:24:39Z</div>
+      <p class="item-desc">The White House announces the US first lady helped broker a local ceasefire on humanitarian grounds in the Ukrainian town as Washington sends mixed messages on Starshield.</p>
+      <p class="item-extra">Melania Trump has helped to broker a localised ceasefire between Russia and Ukraine in war-ravaged Ukrainian city Oleshky to allow for humanitarian aid and the evacuation of civilians, the White Hous…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723" target="_blank" rel="noopener">Russia, Ukraine agree to US-brokered, 1 city ceasefire</a>
+      <div class="item-meta">DW (English) <span class="moved-tag">reassigned from Humanitarian Crisis</span>&middot; 2026-10-23T18:17:00Z</div>
+      <p class="item-desc">The Ukrainian city of Oleshky, occupied by Russia and on the frontline, faces a humanitarian crisis. The localized truce comes as Ukrainian President Zelenskyy said negotiators would meet for wider talks next month. US first lady Melania Trump helped broker a…</p>
+      <p class="item-extra">US first lady Melania Trump helped broker a ceasefire between Ukraine and Russia in the city of Oleshky, the White House announced Friday. The localized truce, according to the White House, is slated…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.business-standard.com/world-news/melania-trump-brokers-localised-russia-ukraine-ceasefire-for-aid-in-oleshky-126102400075_1.html" target="_blank" rel="noopener">Melania Trump brokers localised Russia-Ukraine ceasefire for aid in Oleshky</a>
+      <div class="item-meta">Business Standard &middot; 2026-10-24T03:08:32Z</div>
+      <p class="item-desc">First lady Melania Trump has brokered a ceasefire between Russia and Ukraine in the ravaged, Russian-occupied Ukrainian city of Oleshky so that humanitarian aid can be delivered and civilians can be evacuated from a place she said is &quot;on the brink of disaster…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/world-news/ukrainian-negotiator-says-local-humanitarian-ceasefire-with-russia-will-start-on-tuesday/articleshow/135159437.cms" target="_blank" rel="noopener">Ukrainian negotiator says local humanitarian ceasefire with Russia will start on Tuesday</a>
+      <div class="item-meta">The Times of India &middot; 2026-10-24T01:10:58Z</div>
+      <p class="item-desc">A ceasefire in the Kherson region of Ukraine will commence to enable humanitarian efforts in Oleshky. Melania Trump has played a crucial role in organizing aid delivery and civilian evacuations. The agreement was reached between Ukrainian, Russian and US nego…</p>
+      <p class="item-extra">Washington: Ukraine&#x27;s top negotiator involved in a humanitarian mission led by US first lady Melania Trump told The Associated Press that a local ceasefire with Russia will start Tuesday -- two days …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.dailymail.com/debate/article-16233207/Trump-Putin-art-deal-Ukraine-DAN-MCLAUGHLIN.html" target="_blank" rel="noopener">Melania&#x27;s shock intervention in the Russia-Ukraine war can only mean one thing. Trump sees a window of opportunity... and he&#x27;s taking it: DAN MCLAUGHLIN</a>
+      <div class="item-meta">Dailymail.com &middot; 2026-10-23T20:33:55Z</div>
+      <p class="item-desc">When Trump stands back and surveys the world, looking for a big foreign policy trophy before November 3, where else can he look but Ukraine?</p>
+      <p class="item-extra">Donald Trump desperately wants a deal with Russia to end the war in Ukraine. The President may even feel that he needs a deal. 
+But he should listen to some sage advice.
+&#x27;The worst thing you can po…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.thejournal.ie/melania-trump-ceasefire-oleshky-ukraine-russia-war-7203733-Oct2026/" target="_blank" rel="noopener">Melania Trump says she has secured ceasefire in Ukrainian city occupied by Russia</a>
+      <div class="item-meta">TheJournal.ie <span class="moved-tag">reassigned from Humanitarian Crisis</span>&middot; 2026-10-23T18:08:45Z</div>
+      <p class="item-desc">The localised ceasefire is set to begin on 29 October.</p>
+      <p class="item-extra">US FIRST LADY Melania Trump has announced that she has brokered a ceasefire between Russia and Ukraine in the war-ravaged city of Oleshky, where citizens are trapped and running out of food.
+A state…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.rferl.org/a/white-house-says-melania-trump-brokers-localized-cease-fire-for-occupied-ukrainian-city/33883147.html" target="_blank" rel="noopener">White House Says Melania Trump Brokers Localized Cease-Fire For Occupied Ukrainian City</a>
+      <div class="item-meta">Radio Free Europe/ Radio Liberty <span class="moved-tag">reassigned from Humanitarian Crisis</span>&middot; 2026-10-23T16:32:19Z</div>
+      <p class="item-desc">US First Lady Melania Trump has brokered a localized cease-fire between Russia and Ukraine for the Russian-occupied southern Ukrainian city of Oleshky, with Kyiv confirming preparations for an operation to establish humanitarian corridors and evacuate civilia…</p>
+      <p class="item-extra">WASHINGTON -- US First Lady Melania Trump has brokered a localized cease-fire between Russia and Ukraine for the Russian-occupied southern Ukrainian city of Oleshky, with Kyiv confirming preparations…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://crooksandliars.com/2026/10/praise-be-melania-brokers-ceasefire-deal" target="_blank" rel="noopener">&#x27;Praise Be: Mel&#x27;&#x27; A Ceasefire In A Ceasefire In Ukraine!</a>
+      <div class="item-meta">Crooksandliars.com &middot; 2026-10-23T22:57:36Z</div>
+      <p class="item-desc">Who knew it would only take a woman&#x27;s touch, by a woman who can barely speak English, to broker a ceasefire deal between Ukraine and Russia?
+The AP reports: 
+First lady Melania Trump has brokered an upcoming ceasefire between Russia and Ukraine in the war-rav…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://biztoc.com/x/a00a775a692bac38" target="_blank" rel="noopener">Guterres welcomes Oleshky ceasefire</a>
+      <div class="item-meta">Biztoc.com &middot; 2026-10-24T03:47:08Z</div>
+      <p class="item-desc">United Nations Secretary-General Antonio Guterres welcomed the localized ceasefire between Russia and Ukraine in Oleshky, his spokesperson Stephane Dujarric said.&quot;The Secretary-General welcomes the an...</p>
+      
+    </article>
+    </details>
+      
+      <div class="contradiction-box">
+        <div class="contradiction-label">Sources disagree &middot; Outcome</div>
+        <p class="contradiction-summary">Sources give different start timing for the Oleshky humanitarian ceasefire (Oct. 29 vs. Tuesday).</p>
+        <ul class="contradiction-sources"><li><a href="https://www.bloomberg.com/news/articles/2026-10-23/us-says-russia-ukraine-to-let-civilians-leave-war-torn-oleshky" target="_blank" rel="noopener">Bloomberg</a>: The humanitarian arrangement is due to begin Oct. 29</li>
+<li><a href="https://economictimes.indiatimes.com/news/international/world-news/ukrainian-negotiator-says-local-humanitarian-ceasefire-with-russia-will-start-on-tuesday/articleshow/135159437.cms" target="_blank" rel="noopener">The Times of India</a>: The local humanitarian ceasefire will start on Tuesday</li></ul>
+      </div>
+    </div>
+
+    <div class="story-cluster" id="th-6e505ce0" data-score="74.1">
+      <div class="thread-flags"><span class="flag">Day 4</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.bbc.com/news/articles/cq74pjpmx0e8o" target="_blank" rel="noopener">Ukraine says Starlink restrictions remain despite Trump&#x27;s claims they&#x27;re lifted</a>
+      <div class="item-meta">BBC News &middot; 2026-10-23T22:34:07Z</div>
+      <p class="item-desc">Watch: Who controls Ukraine&#x27;s access to Starlink?
+
+Ukraine is still recording issues with the Starlink internet network, sources within the defence ministry say, after Donald Trump said limits had been reversed by Elon Musk who owns the satellite system.The …</p>
+      <p class="item-extra">Last week, Kyiv said uplink speeds to the low Earth orbit satellites had been restricted, affecting the speed at which drones could travel. Any drone travelling faster than 100mph lost its connection…</p>
+    </article>
+      
+    <details class="other-sources">
+      <summary>+4 other sources on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.dailymail.com/news/article-16234405/Andy-Burnham-Donald-Trump-call-Ukraine-Starlink.html" target="_blank" rel="noopener">Andy Burnham tells Donald Trump in transatlantic phone call that Ukraine must have full Starlink access - after Elon Musk &#x27;ordered slowdown&#x27;</a>
+      <div class="item-meta">Dailymail.com &middot; 2026-10-23T21:48:00Z</div>
+      <p class="item-desc">Ukraine relies on Elon Musk&#x27;s Starlink satellite system to help intercept Russian missile and drone attacks, but faced speed limits last week that significantly curtailed its ability to do so.</p>
+      <p class="item-extra">Andy Burnham has told Donald Trump that Ukraine must have &#x27;full access&#x27; to Starlink amid claims Elon Musk ordered a slowdown of the crucial satellite service.
+Ukraine relies on Elon Musk&#x27;s Starlink …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.mediaite.com/media/news/zelensky-says-starlink-speed-limits-still-in-place-amid-russian-attacks/" target="_blank" rel="noopener">Zelensky Says Starlink ‘Speed Limits’ Still In Place Amid Russian Attacks</a>
+      <div class="item-meta">Mediaite &middot; 2026-10-23T19:47:54Z</div>
+      <p class="item-desc">Volodymyr Zelensky said Starlink and Starshield are still running slowly, despite President Donald Trump saying he would speak to Elon Musk about the problem.
+The post Zelensky Says Starlink ‘Speed Limits’ Still In Place Amid Russian Attacks first appeared on…</p>
+      <p class="item-extra">Screenshot
+Ukrainian President Volodymyr Zelensky said Starlink and Starshield are still running slowly, despite President Donald Trump saying he would speak to Elon Musk about the problem.
+During …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://slashdot.org/firehose.pl?op=view&amp;amp;id=186433072" target="_blank" rel="noopener">EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say - Reuters</a>
+      <div class="item-meta">Slashdot.org &middot; 2026-10-24T02:53:06Z</div>
+      <p class="item-desc">EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources sayReuters Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink RestrictionsWSJ When Starshield Cut Out, Ukrainian Drones Fell From the SkiesThe …</p>
+      <p class="item-extra">If I set here and stare at nothing long enough, people might think
+I&#x27;m an engineer working on something.
+-- S.R. McElroy</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://slashdot.org/firehose.pl?op=view&amp;amp;id=186431538" target="_blank" rel="noopener">British PM pushes Trump on Ukraine’s Starlink access - Politico</a>
+      <div class="item-meta">Slashdot.org &middot; 2026-10-23T22:33:21Z</div>
+      <p class="item-desc">British PM pushes Trump on Ukraine’s Starlink accessPolitico Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink RestrictionsWSJ Carney says &#x27;direct casualties&#x27; are result of Ukraine&#x27;s restricted access to Musk&#x27;s StarshieldCBC When Starshield…</p>
+      <p class="item-extra">The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.</p>
+    </article>
+    </details>
+      
+    </div>
+
+    <div class="story-cluster" id="th-4a72fe9e" data-score="62.7">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.nbcnews.com/world/ukraine/starlink-slowdown-hit-ukraines-front-line-soldiers-pushing-russia-back-rcna604732" target="_blank" rel="noopener">How Starlink slowdown hit Ukraine’s front line soldiers pushing Russia back</a>
+      <div class="item-meta">NBC News <span class="moved-tag">reassigned from Military Conflict</span>&middot; 2026-10-23T17:18:46Z</div>
+      <p class="item-desc">The drone unit he leads has been helping push back Russian troops on the front lines in southeastern Ukraine.</p>
+      <p class="item-extra">Before thelatest collapse in relations with Washington, Ukraines military had been chipping away at land seized by Russia in the eastern Donetsk region, part of the Donbas heartland that the Kremlin …</p>
+    </article>
+      
+    <details class="other-sources">
+      <summary>+1 other source on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.aljazeera.com/news/2026/10/23/russia-drops-cluster-bombs-on-ukraine-as-kyiv-consolidates-front-line" target="_blank" rel="noopener">Russia drops cluster bombs on Ukraine as Kyiv consolidates front line</a>
+      <div class="item-meta">Al Jazeera English <span class="moved-tag">reassigned from Military Conflict</span>&middot; 2026-10-23T13:17:18Z</div>
+      <p class="item-desc">Russia’s territorial gains this year are effectively nil as it heads into trilateral talks with Ukraine, US.</p>
+      <p class="item-extra">Ukraine said it recaptured more of its territory than Russia had managed to seize this year, despite restrictions on US satellite services critical to its defence.
+Russia responded by hitting dozens…</p>
+    </article>
+    </details>
+      
+    </div>
+
+    <div class="story-cluster" id="th-77bc1018" data-score="54.2">
+      <div class="thread-flags"><span class="flag">Day 2</span><span class="flag flag-grow">▲ Growing</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/world-news/melania-trump-secures-russia-ukraine-ceasefire-in-oleshky-the-hell-on-earth-where-people-eat-garden-weeds-and-even-the-dead-cannot-be-buried/articleshow/135149572.cms" target="_blank" rel="noopener">Melania Trump secures Russia-Ukraine ceasefire in Oleshky, the &#x27;Hell on Earth&#x27; where people eat garden weeds and even the dead cannot be buried</a>
+      <div class="item-meta">The Times of India <span class="moved-tag">reassigned from Humanitarian Crisis</span>&middot; 2026-10-23T15:31:20Z</div>
+      <p class="item-desc">In a remarkable diplomatic effort, Melania Trump has successfully negotiated a ceasefire in Oleshky, enabling the distribution of vital humanitarian aid and facilitating the evacuation of civilians. With severe shortages of food, electricity, and basic necess…</p>
+      <p class="item-extra">US First Lady Melania Trump claimed to have broker a local ceasefire between Russia and Ukraine in the war-ravaged Ukrainian city of Oleshky to allow humanitarian aid deliveries and the evacuation of…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-a621c6ae" data-score="52.7">
+      <div class="thread-flags"><span class="flag">Returning</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.thegatewaypundit.com/2026/10/ukraine-field-report-russian-ballistic-missiles-hit-kyiv/" target="_blank" rel="noopener">Ukraine Field Report: Russian Ballistic Missiles Hit Kyiv as Germany Arrests Suspected Russian Spy</a>
+      <div class="item-meta">Thegatewaypundit.com &middot; 2026-10-23T22:40:14Z</div>
+      <p class="item-desc">Russian forces struck Kyiv with three waves of ballistic missiles overnight into October 22, killing one person and injuring 24, including four children, according to city authorities.
+The post Ukraine Field Report: Russian Ballistic Missiles Hit Kyiv as Germ…</p>
+      <p class="item-extra">Aftermath of a Russian ballistic missile strike on Kyiv on October 22, 2026. Photo courtesy of the State Emergency Service of Ukraine/DSNS Kyiv.
+Russian forces struck Kyiv with three waves of ballis…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-a6f622aa" data-score="51.0">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/world-news/first-tanker-of-russian-diesel-sets-sail-for-the-us-in-trumps-controversial-deal-with-putin/articleshow/135159277.cms" target="_blank" rel="noopener">First tanker of Russian diesel sets sail for the US in Trump&#x27;s controversial deal with Putin</a>
+      <div class="item-meta">The Times of India &middot; 2026-10-24T00:57:33Z</div>
+      <p class="item-desc">A tanker transporting Russian diesel to the United States has departed, signaling a new import agreement. This deal has raised concerns in Ukraine due to Russia&#x27;s ongoing invasion. U.S. political figures criticized the agreement as it contravenes existing Ame…</p>
+      <p class="item-extra">A first tanker carrying Russian diesel to the United States under a new import agreement has set sail, the Kremlin said Friday, two weeks after U.S. President Donald Trump said he struck a deal with …</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-ccb3dd34" data-score="50.6">
+      <div class="thread-flags"><span class="flag">Returning</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.rte.ie/news/2026/1024/1596654-did-witkoff-make-any-progress-with-putin/" target="_blank" rel="noopener">Did Steve Witkoff make any progress with Vladimir Putin?</a>
+      <div class="item-meta">RTE &middot; 2026-10-23T23:01:00Z</div>
+      <p class="item-desc">US special envoy Steve Witkoff travelled to St Peterburg this week for his ninth meeting with Russian President Vladimir Putin since February 2025. Did the former real estate developer make any progress this time towards ending the war in Ukraine?</p>
+      <p class="item-extra">Rarely, if ever, has Vladimir Putin been called a &quot;humanitarian&quot;.
+It is not generally a word used to describe people who start wars.
+But, &quot;humanitarian&quot;, is how US special envoy Steve Witkoff descr…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-4c49837c" data-score="48.8">
+      <div class="thread-flags"><span class="flag">Returning</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://newsonjapan.com/article/151120.php" target="_blank" rel="noopener">Japan&#x27;s Terra Drone Supplies Weapons to Ukraine as Russia Warns of Retaliation</a>
+      <div class="item-meta">Newsonjapan.com &middot; 2026-10-23T19:59:59Z</div>
+      <p class="item-desc">Japanese drone manufacturer Terra Drone has delivered interceptor drones to Ukraine&#x27;s Ministry of Defense for the first time, prompting Russia to threaten retaliatory measures on October 21, as Japan considers expanding domestic drone production and strengthe…</p>
+      <p class="item-extra">TOKYO -
+ Japanese drone manufacturer Terra Drone has delivered interceptor drones to Ukraine&#x27;s Ministry of Defense for the first time, prompting Russia to threaten retaliatory measures on October 21…</p>
+    </article>
+      
+      
+    </div>
+    <details class="more">
+      <summary>Show 8 more stories</summary>
+      
+    <div class="story-cluster" id="th-f32784dc" data-score="47.2">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/defence/ukraine-joins-natos-nspa-partnership-gains-access-to-alliance-contracts-for-defence-industry/articleshow/135161531.cms" target="_blank" rel="noopener">Ukraine joins NATO&#x27;s NSPA partnership, gains access to Alliance contracts for defence industry</a>
+      <div class="item-meta">The Times of India &middot; 2026-10-24T04:10:07Z</div>
+      <p class="item-desc">Ukraine officially joined the NATO Support and Procurement Agency&#x27;s Security Cooperation Support Partnership to strengthen defense collaboration. This partnership allows Ukrainian defense companies to access NATO contracts and resources for their operations. …</p>
+      <p class="item-extra">Luxembourg City: Ukraine has joined the NATO Support and Procurement Agency&#x27;s (NSPA) Security Cooperation Support Partnership (SCSP), enabling Ukrainian defence companies to participate in NATO contr…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-807e7821" data-score="44.8">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html" target="_blank" rel="noopener">Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine</a>
+      <div class="item-meta">CNBC <span class="moved-tag">reassigned from Military Modernization</span>&middot; 2026-10-23T05:52:54Z</div>
+      <p class="item-desc">European governments race to turn defense spending pledges into military capability, boosting companies&#x27; order books.</p>
+      <p class="item-extra">Swedish defense giant Saab reported better-than-expected third-quarter earnings and revenue on Friday, as new orders more than tripled from a year earlier, boosted by a deal to supply Gripen fighter …</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-bf14e96a" data-score="42.9">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="http://foreignpolicy.com/2026/10/23/putins-american-fellow-travelers-us-politics-russia/" target="_blank" rel="noopener">Why Putin’s Defenders Are Increasingly American</a>
+      <div class="item-meta">Foreign Policy <span class="moved-tag">reassigned from Humanitarian Crisis</span>&middot; 2026-10-23T19:00:30Z</div>
+      <p class="item-desc">Like Joseph Stalin’s Western fans, they use a vicious foreign regime to grind their axe at home.</p>
+      <p class="item-extra">In mid-September, internet sleuths scoured the website
+ of an obscure Russian organization
+, the International Club of National Unity. Populated by various Russian politicians, state media propagan…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-f0e72c70" data-score="41.0">
+      <div class="thread-flags"><span class="flag">Returning</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://rt-english.com/russia/647584-whats-on-russias-target-list/" target="_blank" rel="noopener">What’s on Russia’s target list – and why?</a>
+      <div class="item-meta">Rt-english.com &middot; 2026-10-23T20:40:41Z</div>
+      <p class="item-desc">What does Russia target in Ukraine, and why? A closer look at Moscow’s expanding strike campaign and its stated military aims. Read Full Article at RT.com</p>
+      <p class="item-extra">The main theme of the Russia-Ukraine conflict this year has been the so-called ‘war of cities’, characterized by mutual strategic strikes on targets in the rear. In the first half of the year, Kiev h…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-232e1d75" data-score="38.7">
+      <div class="thread-flags"><span class="flag">Day 3</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.insurancejournal.com/news/international/2026/10/23/890042.htm" target="_blank" rel="noopener">Russia-Linked Hackers Used Decentralized Network in Ukraine Cyberattack: ESET</a>
+      <div class="item-meta">Insurance Journal <span class="moved-tag">reassigned from Large-Scale Cyber Attack / Internet Blackout</span>&middot; 2026-10-23T12:40:05Z</div>
+      <p class="item-desc">Russia-linked hackers used the volunteer-run Yggdrasil network to conceal communications during an attack on a Ukrainian grain logistics company, marking the first documented use of the technology by a state-linked hacking group, cybersecurity firm ESET said …</p>
+      
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-be4302a8" data-score="37.7">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://rt-english.com/news/647589-rt-top-stories-putin-zelensky-witkoff/" target="_blank" rel="noopener">Peace talks, Zelensky, the EU, ‘political schizophrenia’ and a new Cold War: RT stories that shaped the week</a>
+      <div class="item-meta">Rt-english.com &middot; 2026-10-23T21:04:09Z</div>
+      <p class="item-desc">RT looks at this week’s top stories, including the US mission to Russia and the furious reaction from Vladimir Zelensky and his EU backers Read Full Article at RT.com</p>
+      <p class="item-extra">Witkoff returns to Russia
+US envoy Steve Witkoff arrived in St. Petersburg on Wednesday to present a new set of peace proposals to Russian President Vladimir Putin. As was the case in every round of…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-9953a691" data-score="37.2">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://snyder.substack.com/p/trumps-big-lie-about-ukraine" target="_blank" rel="noopener">Trump’s Big Lie about Ukraine - by Timothy Snyder</a>
+      <div class="item-meta">Substack.com &middot; 2026-10-23T19:48:16Z</div>
+      <p class="item-desc">And what Ukraine is giving to us
+Donald Trump has just claimed that the United States had done “a lot” for Ukraine, but that Ukraine has done “nothing” for the United States.
+This is unjust in the highest degree. And not just untrue in the normal sense — it i…</p>
+      
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-3a41bf1f" data-score="37.0">
+      <div class="thread-flags"><span class="flag">Returning</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://radaronline.com/p/stephen-hubbard-russia-releases-american-teacher-ukraine-mercenary-charges/" target="_blank" rel="noopener">Everything to Know About Stephen Hubbard - as Russia Releases American Teacher, 74, Imprisoned on Ukraine Mercenary Charges</a>
+      <div class="item-meta">Radaronline.com &middot; 2026-10-23T19:24:40Z</div>
+      <p class="item-desc">Stephen Hubbard, 74, was released from a Russian prison after serving time on Ukraine mercenary charges.</p>
+      <p class="item-extra">Hubbard grew up in Big Rapids, Michigan, and served in the U.S. Air Force and National Guard, according to military records cited by The New York Times and Reuters. 
+He earned a master&#x27;s degree in E…</p>
+    </article>
+      
+      
+    </div>
+    </details>
+  </section>
+
+  <section class="topic" id="flagship-ir-il">
+    <h2>Iran / Israel / Middle East <span class="trend trend-down" title="Coverage down: 8.1 vs 21.0 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 8.1 vs 21.0 average over 7 prior days (a coverage trend, not a measure of events)">▼</span><span class="count">17 stories</span></h2>
+    <p class="narrative">Trump warned of &quot;another little Epic Fury&quot; if no deal with Iran is reached soon, and Iran replied &quot;don&#x27;t play with fire&quot; (4 outlets). US envoy Tom Barrack said a US strike on Iran this weekend is possible (3 outlets), and oil prices reportedly rose on reports of a US escalation plan. Türkiye warned that renewed strikes would widen the war while Istanbul hosted regional and European diplomats. Separately, two IDF soldiers were killed in a shooting at Judea Junction, prompting a counterterrorism operation in the Hebron area. Israel votes Oct. 27, and Netanyahu reportedly warned of possible Western banking sanctions.</p>
+    
+    <div class="story-cluster" id="th-7e7646ec" data-score="68.5">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://timesofindia.indiatimes.com/world/us/another-little-epic-fury-trump-issues-new-warning-iran-says-dont-play-with-fire/articleshow/135160331.cms" target="_blank" rel="noopener">&#x27;Another little Epic Fury&#x27;: Trump issues new warning; Iran says &#x27;don&#x27;t play with fire&#x27;</a>
+      <div class="item-meta">The Times of India &middot; 2026-10-24T03:05:51Z</div>
+      <p class="item-desc">US President Donald Trump threatened Iran with potential military action if no diplomatic agreement is reached soon. He referenced the previous operation named &#x27;Epic Fury&#x27; while addressing supporters in Florida. Additionally, US intelligence reports indicate …</p>
+      <p class="item-extra">&lt;ul&gt;&lt;li&gt;News&lt;/li&gt;
+&lt;li&gt;World News&lt;/li&gt;
+&lt;li&gt;US News&lt;/li&gt;
+&lt;li&gt;&#x27;Another little Epic Fury&#x27;: Trump issues new warning; Iran says &#x27;don&#x27;t play with fire&#x27;&lt;/li&gt;&lt;/ul&gt;
+Follow Us On Social Media
+&#x27;When I call…</p>
+    </article>
+      
+    <details class="other-sources">
+      <summary>+3 other sources on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://rt-english.com/news/647597-trump-another-epic-fury/" target="_blank" rel="noopener">Trump threatens another ‘little Epic Fury’ against Iran</a>
+      <div class="item-meta">Rt-english.com &middot; 2026-10-24T04:08:43Z</div>
+      <p class="item-desc">US President Donald Trump has threatened to launch another military operation against Iran, as Washington quietly withdraws diplomatic personnel and relocates troops from bases across the Middle East</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.breitbart.com/politics/2026/10/23/trump-threatens-iran-strike-another-little-epic-fury/" target="_blank" rel="noopener">Trump Threatens Iran Strike — ‘We May Do Another Little Epic Fury’</a>
+      <div class="item-meta">Breitbart News <span class="moved-tag">reassigned from Nuclear Weaponry / Attack</span>&middot; 2026-10-24T00:22:43Z</div>
+      <p class="item-desc">President Donald Trump warned Friday that the United States could launch another round of military strikes against Iran unless Tehran reaches an agreement, escalating his threats as Washington intensifies economic pressure on the Islamic Republic.
+The post Tr…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.commondreams.org/news/iran-war-trump" target="_blank" rel="noopener">&#x27;We May Do Another Little Epic Fury,&#x27; Trump Says After Claiming Not to Know About Possible Strike on Iran</a>
+      <div class="item-meta">Common Dreams <span class="moved-tag">reassigned from Nuclear Weaponry / Attack</span>&middot; 2026-10-23T21:06:32Z</div>
+      <p class="item-desc">When President Donald Trump landed in Florida for a Friday campaign rally, he dismissed comments from one of his own ambassadors that the US could strike Iran this weekend as part of his illegal nearly eight-month war—but once the commander-in-chief took the …</p>
+      
+    </article>
+    </details>
+      
+    </div>
+
+    <div class="story-cluster" id="th-0e82a47b" data-score="66.9">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.channelnewsasia.com/world/iran-war-us-could-strike-soon-6488231" target="_blank" rel="noopener">US could strike Iran this weekend, envoy says</a>
+      <div class="item-meta">CNA <span class="moved-tag">reassigned from Political Instability / Coup Risk</span>&middot; 2026-10-24T00:40:14Z</div>
+      <p class="item-desc">JERUSALEM: The United States could strike Iran as soon as this weekend, a US envoy said Friday (Oct 23), after mounting threats by both Washington and Israel.&quot;Could there be a strike this weekend? Absolutely,&quot; Tom Barrack, the US ambassador to Turkey and poin…</p>
+      
+    </article>
+      
+    <details class="other-sources">
+      <summary>+2 other sources on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.mediaite.com/media/news/trump-confronted-about-top-amb-saying-absolutely-iran-strikes-possible-this-weekend/" target="_blank" rel="noopener">Trump Confronted About Top Amb Saying ‘Absolutely’ Iran Strikes Possible This Weekend</a>
+      <div class="item-meta">Mediaite <span class="moved-tag">reassigned from Political Instability / Coup Risk</span>&middot; 2026-10-23T20:25:41Z</div>
+      <p class="item-desc">“Could there be a strike this weekend? Absolutely,” Tom Barrack said, adding, “The president is very clear.&quot;
+The post Trump Confronted About Top Amb Saying ‘Absolutely’ Iran Strikes Possible This Weekend first appeared on Mediaite.</p>
+      <p class="item-extra">President Donald Trump was asked on Friday about US Ambassador to Turkey Tom Barrack telling a podcaster that there absolutely could be a US strike on Iran this weekend.
+Barrack, a top GOP donor who…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.israelnationalnews.com/news/435075" target="_blank" rel="noopener">US Ambassador to Turkey: Could there be an Iran strike this weekend? Absolutely</a>
+      <div class="item-meta">Israelnationalnews.com <span class="moved-tag">reassigned from Political Instability / Coup Risk</span>&middot; 2026-10-23T19:43:28Z</div>
+      <p class="item-desc">US Ambassador Tom Barrack says military strikes on Iran could happen this weekend, warning Trump is serious about taking action if diplomacy fails. Trump responds: I don’t know anything about it.</p>
+      <p class="item-extra">COULD THERE BE A STRIKE THIS WEEKEND? &quot;ABSOLUTELY&quot; - Trump&#x27;s Special Envoy Amb. Tom Barrac
+US Ambassador to Turkey Tom Barrack said Friday that the United States could launch military strikes agains…</p>
+    </article>
+    </details>
+      
+    </div>
+
+    <div class="story-cluster" id="th-93585ab9" data-score="57.3">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.israelnationalnews.com/flashes/695954" target="_blank" rel="noopener">In response to terrorist attack, security forces launch counterterrorism operation in Hebron area</a>
+      <div class="item-meta">Israelnationalnews.com <span class="moved-tag">reassigned from VEO / Regional Insecurity</span>&middot; 2026-10-23T20:52:00Z</div>
+      <p class="item-desc">In response to the shooting attack in the Judea Junction, in which two IDF soldiers fell and several others were wounded, IDF soldiers, the ISA, Israel Border Police officers, and personnel from the Judea District Coordination and Liaison Administration launc…</p>
+      
+    </article>
+      
+    <details class="other-sources">
+      <summary>+3 other sources on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="http://foreignpolicy.com/2026/10/23/netanyahu-israel-military-operation-west-bank-hebron-refugee-camps/" target="_blank" rel="noopener">Netanyahu Orders Large-Scale Military Operation in West Bank</a>
+      <div class="item-meta">Foreign Policy <span class="moved-tag">reassigned from Political Instability / Coup Risk</span>&middot; 2026-10-23T20:22:10Z</div>
+      <p class="item-desc">Israeli forces will go “house to house” after two soldiers were killed in a shooting.</p>
+      <p class="item-extra">Welcome back to World Brief, where were looking at Israeli military action in the West Bank, Taiwan bracing for Typhoon Champi, and a powerful earthquake in Tibet.
+Is Hebron the Next Jenin?
+Two Pal…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.israelnationalnews.com/news/435049" target="_blank" rel="noopener">Soldier recounts terrorist attack: &quot;I felt a bullet hit my helmet and lowered my head&quot;</a>
+      <div class="item-meta">Israelnationalnews.com <span class="moved-tag">reassigned from VEO / Regional Insecurity</span>&middot; 2026-10-23T07:17:52Z</div>
+      <p class="item-desc">A soldier who participated in the exchange of fire with the terrorists at Yehuda Junction described the moments of the encounter, the bullet that struck his helmet, and his attempt to calm a fellow soldier.</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.israelnationalnews.com/flashes/695915" target="_blank" rel="noopener">Yesha Council: This is not a lone terrorist or isolated attack, but a growing threat</a>
+      <div class="item-meta">Israelnationalnews.com <span class="moved-tag">reassigned from VEO / Regional Insecurity</span>&middot; 2026-10-23T06:26:00Z</div>
+      <p class="item-desc">The head of the Binyamin Council and the chairman of the Yesha Council, Yisrael Ganz, made his way to the scene of the attack at Yehuda Junction. Ganz prayed for the recovery of the wounded and praised the security forces who eliminated the terrorists. He sai…</p>
+      
+    </article>
+    </details>
+      
+    </div>
+
+    <div class="story-cluster" id="th-eedb90ab" data-score="53.7">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south" target="_blank" rel="noopener">Lebanese sceptical Israeli polls will bring change, end occupation of south</a>
+      <div class="item-meta">Al Jazeera English &middot; 2026-10-24T05:04:32Z</div>
+      <p class="item-desc">Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country.</p>
+      <p class="item-extra">Beirut, Lebanon As Israels October 27 election nears, so does the possibility that the government that has overseen the invasion and reoccupation of southern Lebanon could be deposed.
+But for people…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-c07578dc" data-score="53.6">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.irishtimes.com/business/2026/10/24/as-donald-trump-weighs-up-options-could-inflation-be-about-to-get-worse/" target="_blank" rel="noopener">As Donald Trump weighs up options, could inflation be about to get worse?</a>
+      <div class="item-meta">The Irish Times &middot; 2026-10-24T05:00:01Z</div>
+      <p class="item-desc">Reports of US escalation plan in Iran send oil prices up again</p>
+      <p class="item-extra">Reports that the US is planning further strikes on Iran potentially after the US midterm elections next month have triggered another surge in oil prices. Brent crude, the international benchmark for …</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-2c4b1546" data-score="53.2">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.abc.net.au/news/2026-10-24/israel-election-wars-split-opinions-on-benjamin-netanyahu/107287178" target="_blank" rel="noopener">Years of conflict splits voters in former Netanyahu stronghold</a>
+      <div class="item-meta">ABC News (AU) &middot; 2026-10-24T04:11:35Z</div>
+      <p class="item-desc">Israelis are headed to an election that will have a profound impact on the country after years of conflict and social upheaval. But can Benjamin Netanyahu survive?</p>
+      <p class="item-extra">As lunchtime trade wanders through the door and with the smell of barbecued meat hanging in the air, kebab shop founder Amnon Oved smiles as he offers a rather blunt assessment of the state of Israel…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-d6a10330" data-score="51.2">
+      <div class="thread-flags"><span class="flag">Day 3</span><span class="flag flag-grow">▲ Growing</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.hurriyetdailynews.com/turkiye-warns-against-renewed-strikes-on-iran-as-istanbul-hosts-high-level-talks-228536" target="_blank" rel="noopener">Türkiye warns against renewed strikes on Iran as Istanbul hosts high-level talks</a>
+      <div class="item-meta">Hurriyet Daily News <span class="moved-tag">reassigned from Nuclear Weaponry / Attack</span>&middot; 2026-10-23T15:54:00Z</div>
+      <p class="item-desc">Türkiye on Oct. 23 warned that any renewed attack on Iran would risk broadening the war and spreading conflict across the region, as Istanbul hosted senior diplomats from key regional powers and European countries for high-level talks.</p>
+      <p class="item-extra">Berfin Yortaç- ISTANBUL
+AA photo.
+Türkiye on Oct. 23 warned that any renewed attack on Iran would risk broadening the war and spreading conflict across the region, as Istanbul hosted senior diploma…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-0085f5e3" data-score="48.8">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.israelnationalnews.com/news/435076" target="_blank" rel="noopener">Netanyahu warns of possible banking sanctions, proposes digital currencies as alternative</a>
+      <div class="item-meta">Israelnationalnews.com <span class="moved-tag">reassigned from Military Modernization</span>&middot; 2026-10-23T20:28:41Z</div>
+      <p class="item-desc">Netanyahu warns Israel must prepare for possible Western banking sanctions, citing digital currencies as an alternative, and predicts an end to US military aid.</p>
+      <p class="item-extra">Prime Minister Benjamin Netanyahu raised eyebrows on Friday when he said Israel must begin preparing solutions for the possibility that sanctions imposed by Western countries could extend to the Isra…</p>
+    </article>
+      
+    <details class="other-sources">
+      <summary>+1 other source on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel" target="_blank" rel="noopener">Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel</a>
+      <div class="item-meta">Decrypt <span class="moved-tag">reassigned from Military Modernization</span>&middot; 2026-10-23T21:16:03Z</div>
+      <p class="item-desc">Days before Israel’s election, Netanyahu said he has asked for a blockchain plan in case banks are hit with sanctions, and told Israelis to prepare for a rainy day after Trump.</p>
+      <p class="item-extra">In brief
+&lt;ul&gt;&lt;li&gt;Netanyahu said on Israeli television that he has asked for a plan to use blockchain to get around possible banking sanctions.&lt;/li&gt;&lt;li&gt;He told Israelis U.S. defense aid will end and …</p>
+    </article>
+    </details>
+      
+    </div>
+    <details class="more">
+      <summary>Show 9 more stories</summary>
+      
+    <div class="story-cluster" id="th-49d03006" data-score="47.7">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote" target="_blank" rel="noopener">‘Foreign policy is the economy’: How Iran war is shaping US midterm vote</a>
+      <div class="item-meta">Al Jazeera English <span class="moved-tag">reassigned from Nuclear Weaponry / Attack</span>&middot; 2026-10-23T15:51:29Z</div>
+      <p class="item-desc">Democrats are framing the conflict as an affordability issue to criticise Republican candidates backed by Trump.</p>
+      <p class="item-extra">Detroit, Michigan The first question in the United States Senate debate in Michigan between Democratic candidate Abdul El-Sayed and his Republican rival Mike Rogers was about the issue that appears t…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-49084439" data-score="47.2">
+      <div class="thread-flags"><span class="flag">Returning</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/world-news/oil-exports-from-persian-gulf-surpassed-pre-conflict-levels-claims-us-treasury-secy-bessent/articleshow/135161661.cms" target="_blank" rel="noopener">Oil exports from Persian Gulf &#x27;surpassed pre-conflict levels&#x27;, claims US Treasury Secy Bessent</a>
+      <div class="item-meta">The Times of India &middot; 2026-10-24T04:13:50Z</div>
+      <p class="item-desc">US Treasury Secretary Scott Bessent announced that oil exports from the Persian Gulf have exceeded pre-conflict levels. This development occurred despite ongoing Iranian threats to disrupt energy shipments to global markets. Iranian state media reported two s…</p>
+      <p class="item-extra">Washington DC: US Treasury Secretary Scott Bessent on Friday (local time) said oil exports from the Persian Gulf had surpassed pre-conflict levels despite Iran&#x27;s efforts to disrupt energy shipments, …</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-ab6361fa" data-score="46.0">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.israelnationalnews.com/news/435073" target="_blank" rel="noopener">Trump on Iran: We could take the whole country</a>
+      <div class="item-meta">Israelnationalnews.com <span class="moved-tag">reassigned from Nuclear Weaponry / Attack</span>&middot; 2026-10-23T18:07:14Z</div>
+      <p class="item-desc">President Trump says Iran is economically crippled and the US controls the Strait of Hormuz, while leaving open the possibility of further military strikes.</p>
+      <p class="item-extra">US President Donald Trump said Friday that Iran has been severely weakened economically and militarily, suggesting that Washington could either intensify its campaign against the Islamic Republic or …</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-c0e6bd38" data-score="42.0">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://fortune.com/2026/10/23/oil-prices-energy-markets-iran-war-forever-conflict-hormuz-persian-gulf-mutually-assured-destruction/" target="_blank" rel="noopener">Energy markets are adapting to the Iran war as a ‘forever conflict’ while oil producers keep supplies flowing and avoid ‘mutually assured destruction’</a>
+      <div class="item-meta">Fortune <span class="moved-tag">reassigned from Nuclear Weaponry / Attack</span>&middot; 2026-10-23T16:41:31Z</div>
+      <p class="item-desc">&quot;Repeated supply shocks are driving a lasting reconfiguration of trade routes and energy corridors, and tail risks remain elevated.&quot;</p>
+      <p class="item-extra">Despite Iran stepping up attacks on tankers in the Strait of Hormuz, the flow of oil from the region is actually above prewar levels as Persian Gulf states hold off on crossing certain red linesfor n…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-de999481" data-score="41.1">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.americanthinker.com/articles/2026/10/another-october-surprise/" target="_blank" rel="noopener">Another October Surprise?</a>
+      <div class="item-meta">Americanthinker.com &middot; 2026-10-24T04:00:00Z</div>
+      <p class="item-desc">Photo Credit:Trump, Iran, illustration
+ 
+ grokBy Kenneth R. TimmermanThe Democrats would love the Iranians to pull off their own October Surprise this year.</p>
+      <p class="item-extra">The Democrats first invented the term “October Surprise” in 1980, to describe what they claimed were secret efforts by the Reagan campaign to delay the release of our hostages in Tehran until after t…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-dc214ef9" data-score="39.1">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.juancole.com/2026/10/orthodox-parties-politics.html" target="_blank" rel="noopener">Why ultra-Orthodox Parties hold so much Sway in Israeli Politics</a>
+      <div class="item-meta">Juancole.com &middot; 2026-10-24T04:04:23Z</div>
+      <p class="item-desc">As Likud’s changing coalition shows, Netanyahu’s alliances are strategic rather than ideological.</p>
+      <p class="item-extra">By Hannah Ridge, Chapman University; Institute for Humane Studies
+(The Conversation) – On Oct. 20, 2026, a week before Israels elections, dozens of men were detained on suspicion of evading the draf…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-76702db2" data-score="34.6">
+      <div class="thread-flags"><span class="flag">Returning</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://biztoc.com/x/b69d87b7a718db60" target="_blank" rel="noopener">IRGC warns US troops against ground invasion</a>
+      <div class="item-meta">Biztoc.com <span class="moved-tag">reassigned from Military Conflict</span>&middot; 2026-10-23T19:36:15Z</div>
+      <p class="item-desc">Islamic Revolutionary Guard Corps (IRGC) political affairs head Yadollah Javani said on Friday that Iran would become a &quot;killing ground&quot; for United States troops if Washington launched a ground invasi...</p>
+      
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-132449ac" data-score="34.0">
+      <div class="thread-flags"><span class="flag">Returning</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://mondoweiss.net/2026/10/how-the-upcoming-u-s-and-israeli-elections-could-lead-to-the-third-round-of-the-iran-war/" target="_blank" rel="noopener">How the upcoming U.S. and Israeli elections could lead to the third round of the Iran war</a>
+      <div class="item-meta">Mondoweiss <span class="moved-tag">reassigned from Nuclear Weaponry / Attack</span>&middot; 2026-10-23T16:38:19Z</div>
+      <p class="item-desc">The upcoming U.S. and Israeli elections will likely lead Donald Trump and Benjamin Netanyahu to renew their misguided war on Iran with even greater ferocity than before in an effort to save their own political lives.</p>
+      <p class="item-extra">There is little doubt that the United States and Israel are about to renew the war on Iran that they started without provocation, or any real planning, back in February. The question is only about th…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-1a0fdc8c" data-score="23.7">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://biztoc.com/x/71371457c7328e50" target="_blank" rel="noopener">What JD Vance sees in the French riots</a>
+      <div class="item-meta">Biztoc.com <span class="moved-tag">reassigned from Mass Uprising / Regime-Threatening Unrest</span>&middot; 2026-10-24T00:43:03Z</div>
+      <p class="item-desc">Two weeks out from the midterm elections, JD Vance finds himself at the lowest point in his career so far. A war with Iran that he privately opposed — how vigorously is debatable — has turned into a genuine quagmire. Tehran’s (predictable) closing of the Stra…</p>
+      
+    </article>
+      
+      
+    </div>
+    </details>
+  </section>
+
+  <section class="topic" id="flagship-ir-il-us-lens">
+    <h2>Iran / Israel / Middle East — US Media Lens <span class="count">1</span></h2>
+    
+    
+    <div class="story-cluster">
+      
+    <article class="item">
+      <a class="item-title" href="https://apnews.com/article/iran-war-houthis-embassies-staffing-rubio-9635852ea973064907ed0b7c0fca4799" target="_blank" rel="noopener">US is reducing staffing at 4 Middle East embassies over increased threats from Iran - AP News</a>
+      <div class="item-meta">Associated Press &middot; 2026-10-24T02:19:00Z</div>
+      <p class="item-desc">The State Department says it will reduce staffing at four U.S. embassies in the Middle East after receiving intelligence that Iran has stepped up efforts to target American personnel in the region and elsewhere. In a memo sent Friday to Secretary of State Mar…</p>
+      <p class="item-extra">WASHINGTON (AP) The State Department is reducing staffing at four U.S. embassies in the Middle East after receiving intelligence that Iran has stepped up efforts to target American personnel in the r…</p>
+    </article>
+      
+      
+    </div>
+  </section>
+
+  <section class="topic" id="T15">
+    <h2>Disaster / Access Denial <span class="trend trend-up" title="Coverage up: 2.4 vs 1.0 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage up: 2.4 vs 1.0 average over 7 prior days (a coverage trend, not a measure of events)">▲</span><span class="count">5 stories</span></h2>
+    <p class="narrative">Severe flooding hit the Four Corners region, with evacuations, emergency declarations and rescues, and more rain expected through the weekend (3 outlets). The Central Tibetan Administration urged China to ensure transparent relief and humanitarian access after a reported 7.0 earthquake in Nagchu. A zero-source item claims Typhoon Champi cancelled about 3,000 flights in Taiwan; this is unverified. A UK &#x27;Be Ready&#x27; household preparedness campaign was also reported.</p>
+    
+    <div class="story-cluster" id="th-c332b7c7" data-score="72.7">
+      <div class="thread-flags"><span class="flag">Day 2</span><span class="flag flag-grow">▲ Growing</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners" target="_blank" rel="noopener">Severe flooding hits Four Corners region, more expected through the weekend</a>
+      <div class="item-meta">NPR <span class="moved-tag">reassigned from Political Instability / Coup Risk</span>&middot; 2026-10-24T00:40:42Z</div>
+      <p class="item-desc">Intense rainfall slammed the Four Corners region late this week. As rivers flooded, towns declared evacuations and emergencies and made rescues.</p>
+      <p class="item-extra">Looking out a window on Friday afternoon, Devin Neeley saw light, puffy clouds and a blue sky in San Juan County, N.M. The county&#x27;s public information officer for emergency management called it &quot;surr…</p>
+    </article>
+      
+    <details class="other-sources">
+      <summary>+3 other sources on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://abcnews.com/US/wireStory/severe-flooding-corners-region-triggers-rooftop-rescues-evacuation-137517331" target="_blank" rel="noopener">Severe flooding in the Four Corners region triggers rooftop rescues and evacuation orders</a>
+      <div class="item-meta">Abcnews.com &middot; 2026-10-23T18:53:54Z</div>
+      <p class="item-desc">Severe flooding in the Four Corners region has led to water rescues and impassable roads</p>
+      <p class="item-extra">FORT COLLINS, Colo. -- Severe flooding in the Four Corners region on Friday led to water rescues some from rooftops and impassable roads, with some residents being told to evacuate low-lying areas of…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://nypost.com/2026/10/23/us-news/massive-new-mexico-floods-swamp-homes-prompt-rooftop-rescues/" target="_blank" rel="noopener">‘Once-in-a-generation’ flooding hits Southwest as more expected through the weekend</a>
+      <div class="item-meta">New York Post <span class="moved-tag">reassigned from Migration / Refugee Crisis</span>&middot; 2026-10-24T02:57:10Z</div>
+      <p class="item-desc">Raging floodwaters crushed northwest New Mexico, trapping families on rooftops and triggering frantic helicopter rescues.</p>
+      <p class="item-extra">Raging floodwaters have ravaged northwest New Mexico, trapping families on rooftops and sparking frantic helicopter rescues as a powerful Pacific storm unleashes chaos across the Southwest.
+Once-in-…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://freerepublic.com/focus/f-chat/4400276/posts" target="_blank" rel="noopener">Flooding in southwest Colorado: Disaster emergency declared, mandatory evacuations</a>
+      <div class="item-meta">Freerepublic.com &middot; 2026-10-23T11:57:59Z</div>
+      <p class="item-desc">A disaster emergency has been declared by Gov. Jared Polis over flooding in La Plata, Archuleta, Montezuma, Dolores, Hinsdale, San Miguel, Ouray, San Juan, Mineral, Alamosa, and Rio Grande counties. A mandatory evacuation order has been issued for residents a…</p>
+      <p class="item-extra">Skip to comments.
+Flooding in southwest Colorado: Disaster emergency declared, mandatory evacuationsKDVR ^
+ | Oct 23, 2026
+ | Parker Gordon, Phil Rankin
+Posted on 10/23/2026 4:57:59 AM PDT by geo…</p>
+    </article>
+    </details>
+      
+    </div>
+
+    <div class="story-cluster" id="th-88a8ac15" data-score="53.8">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://timesofindia.indiatimes.com/city/chandigarh/tibet-earthquake-cta-asks-china-to-ensure-transparent-relief-ops/articleshow/135155509.cms" target="_blank" rel="noopener">Tibet earthquake: CTA asks China to ensure transparent relief ops</a>
+      <div class="item-meta">The Times of India <span class="moved-tag">reassigned from Humanitarian Crisis</span>&middot; 2026-10-23T20:37:00Z</div>
+      <p class="item-desc">CTA expresses concern over 7.0 Tibet earthquake in Nagchu, urges China to ensure transparent relief, unrestricted humanitarian access, and timely casualty updates.</p>
+      <p class="item-extra">Follow Us On Social Media
+Copyright © 2026 Bennett, Coleman &amp;amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-0b3de8fe" data-score="49.0">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/world-news/dont-panic-uk-govt-tells-britons-to-be-ready-for-emergencies/articleshow/135145796.cms" target="_blank" rel="noopener">Don&#x27;t panic: UK govt tells Britons to &#x27;be ready&#x27; for emergencies</a>
+      <div class="item-meta">The Times of India <span class="moved-tag">reassigned from Large-Scale Cyber Attack / Internet Blackout</span>&middot; 2026-10-23T12:24:36Z</div>
+      <p class="item-desc">UK leader Andy Burnham emphasized the need for better emergency preparedness for citizens during a wildfire summit. The new &#x27;Be Ready&#x27; campaign encourages households to stockpile essential supplies for unexpected disruptions. This initiative aligns with ongoi…</p>
+      <p class="item-extra">Bottled water: check. Torch: check. Blankets: check. UK leader Andy Burnham said Britons need to be better prepared for emergencies on Friday, when he hosted a wildfire and resilience summit.The prim…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-b087dc79" data-score="49.0">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.commondreams.org/opinion/2026-election-climate" target="_blank" rel="noopener">What the 2026 Election Could Mean for the Climate Crisis</a>
+      <div class="item-meta">Common Dreams &middot; 2026-10-23T11:02:03Z</div>
+      <p class="item-desc">On July 4, 2025, catastrophic flooding swept through the Texas Hill Country, killing 137 people, including 27 campers and counselors at Camp Mystic. Families who sent their children to summer camp would never see them alive again. The floods caused an estimat…</p>
+      
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-5624f82f" data-score="16.8">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://english.gossiplankanews.com/2026/10/3000-flights-cancelled-in-taiwan-due-to.html" target="_blank" rel="noopener">3000 flights cancelled in Taiwan due to deadly 300kmph Typhoon Champi</a>
+      <div class="item-meta">Gossiplankanews.com &middot; 2026-10-23T08:40:31Z</div>
+      <p class="item-desc">Typhoon &#x27;Champi&#x27;, which churned the Philippine Sea as a deadly super typhoon with winds approaching 300 kilometers per hour, has unleashed its full force, plunging air and sea connections across East Asia into a massive crisis. This natural disaster, named &#x27;R…</p>
+      
+    </article>
+      
+      
+    </div>
+  </section>
+
+  <section class="topic" id="T03">
+    <h2>Bio/Chemical Attack <span class="badge badge-tripwire">tripwire</span><span class="trend trend-down" title="Coverage down: 0.0 vs 1.9 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 0.0 vs 1.9 average over 7 prior days (a coverage trend, not a measure of events)">▼</span><span class="count">0 stories</span></h2>
+    
+    <p class="empty">No signal today. <span class="empty-detail">8 articles retrieved; 7 filtered out as not relevant; 1 moved to a better-fitting topic.</span></p>
+  </section>
+
+  <section class="topic" id="T05">
+    <h2>Political Instability / Coup Risk <span class="badge badge-tripwire">tripwire</span><span class="trend trend-down" title="Coverage down: 0.2 vs 14.2 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 0.2 vs 14.2 average over 7 prior days (a coverage trend, not a measure of events)">▼</span><span class="count">1 story</span></h2>
+    <p class="narrative">Coverage is too sparse to summarize: one zero-source item says France faces a possible Moody&#x27;s downgrade amid a widening bond spread.</p>
+    
+    <div class="story-cluster" id="th-83b43db3" data-score="23.5">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://biztoc.com/x/0641c43d0ae55d36" target="_blank" rel="noopener">France Braces For Moody&#x27;s Downgrade As OAT-Bund Spread Hits EU Crisis Level Highs</a>
+      <div class="item-meta">Biztoc.com <span class="moved-tag">reassigned from Migration / Refugee Crisis</span>&middot; 2026-10-23T15:59:32Z</div>
+      <p class="item-desc">France Braces For Moody&#x27;s Downgrade As OAT-Bund Spread Hits EU Crisis Level Highs
+ 
+France faces a potential credit rating downgrade later today as social unrest, a deteriorating welfare state, a deficit crisis, political paralysis, and years of uncontrolled …</p>
+      
+    </article>
+      
+      
+    </div>
+  </section>
+
+  <section class="topic" id="T07">
+    <h2>Nuclear Weaponry / Attack <span class="badge badge-tripwire">tripwire</span><span class="trend trend-down" title="Coverage down: 1.7 vs 11.7 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 1.7 vs 11.7 average over 7 prior days (a coverage trend, not a measure of events)">▼</span><span class="count">3 stories</span></h2>
+    <p class="narrative">The UK and France held their first joint nuclear air exercise, with RAF Typhoons joining French Rafales in a French nuclear exercise (3 outlets). The UN General Assembly adopted a resolution reaffirming support for the IAEA. A commentary piece discusses a shifting &quot;NATO 3.0&quot; burden-sharing model during NATO&#x27;s annual nuclear drills.</p>
+    
+    <div class="story-cluster" id="th-eb7e967d" data-score="72.4">
+      <div class="thread-flags"><span class="flag">Day 2</span><span class="flag-also">also under: Military Exercise</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.gov.uk/government/news/uk-france-deepen-nuclear-defence-ties-in-first-joint-exercise" target="_blank" rel="noopener">UK-France deepen nuclear defence ties in first joint exercise</a>
+      <div class="item-meta">Www.gov.uk &middot; 2026-10-23T19:54:18Z</div>
+      <p class="item-desc">UK deepens nuclear defence ties with France in historic first joint air exercise as RAF Typhoon fighters join French Rafale jets in a French nuclear exercise.</p>
+      <p class="item-extra">&lt;ul&gt;&lt;li&gt;For the first time, RAF Typhoon fighters have taken part in a French nuclear air exercise, flying alongside French Rafale in a show of allied strength.&lt;/li&gt;&lt;li&gt;Exercise Rummy marks a major st…</p>
+    </article>
+      
+    <details class="other-sources">
+      <summary>+2 other sources on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.dailymail.com/news/article-16232975/British-French-air-forces-simulate-nuclear-strike.html" target="_blank" rel="noopener">British and French air forces simulate carrying out a nuclear strike in first-ever joint exercise</a>
+      <div class="item-meta">Dailymail.com &middot; 2026-10-23T11:59:51Z</div>
+      <p class="item-desc">The drill involved RAF Typhoon warplanes working alongside French Rafale fighter jets over the Mediterranean on Tuesday evening.</p>
+      <p class="item-extra">Britain and France&#x27;s air forces have united to carry out a simulated nuclear strike in the first drill of its kind, it has been announced.  
+The drill involved RAF Typhoon warplanes working alongsid…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://theaviationist.com/2026/10/23/raf-typhoons-escort-french-rafales-joint-nuclear-drill/" target="_blank" rel="noopener">British Typhoons Escort French Rafales in First Joint Nuclear Strike Drill</a>
+      <div class="item-meta">Theaviationist.com &middot; 2026-10-23T19:51:06Z</div>
+      <p class="item-desc">For the first time, Royal Air Force jets have flown alongside the French Air Force during an airborne nuclear strike exercise as part of a new, deeper cooperation between France and the UK on nuclear deterrence. Codenamed Exercise RUMMY – similar to other Fre…</p>
+      <p class="item-extra">Codenamed Exercise RUMMY – similar to other French nuclear exercises which take on a card game theme, like the regular Exercise POKER – the drill saw the Royal Air Force deploy a small contingent of …</p>
+    </article>
+    </details>
+      
+    </div>
+
+    <div class="story-cluster" id="th-d39c1dcb" data-score="59.2">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://press.un.org/en/2026/ga12798.doc.htm" target="_blank" rel="noopener">General Assembly Reaffirms Support for IAEA as Nuclear Safety, Proliferation Concerns Persist</a>
+      <div class="item-meta">UN News &middot; 2026-10-23T23:20:44Z</div>
+      <p class="item-desc">The General Assembly today adopted a resolution reaffirming strong support for the International Atomic Energy Agency (IAEA), as the Agency’s Director-General stressed that cooperation and diplomacy remain essential to nuclear safety.</p>
+      <p class="item-extra">A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings. Please check your
+ connection, disable any ad blockers, or try using a diffe…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-28a38016" data-score="38.6">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.globalresearch.ca/nato-3-end-atlantic-alliance/5944326" target="_blank" rel="noopener">NATO 3.0 – End of Atlantic Alliance as We Know It?</a>
+      <div class="item-meta">Globalresearch.ca <span class="moved-tag">reassigned from Military Modernization</span>&middot; 2026-10-23T14:07:32Z</div>
+      <p class="item-desc">Washington wants Europe to shoulder more of NATO’s military burden while retaining strategic control. The emerging NATO 3.0 model could fundamentally transform the transatlantic alliance.
+***
+As NATO’s annual nuclear drills unfold this month (October 13-23), …</p>
+      
+    </article>
+      
+      
+    </div>
+  </section>
+
+  <section class="topic" id="T09">
+    <h2>American Hostage / Kidnapping <span class="badge badge-tripwire">tripwire</span><span class="count">0 stories</span></h2>
+    
+    <p class="empty">No signal today.</p>
+  </section>
+
+  <section class="topic" id="T12">
+    <h2>Large-Scale Cyber Attack / Internet Blackout <span class="badge badge-tripwire">tripwire</span><span class="trend trend-down" title="Coverage down: 4.4 vs 7.2 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 4.4 vs 7.2 average over 7 prior days (a coverage trend, not a measure of events)">▼</span><span class="count">10 stories</span></h2>
+    <p class="narrative">Reports are single-source and mostly concern AI-enabled cyber activity. They include ransomware affiliates reportedly using AI agents for intrusions, a group called CyberCartel reportedly using AI agents against Latin American institutions, and ABC staff reportedly among Australian targets of an Israel-based firm. A US advisory reportedly warns of Chinese state-backed probing of US power and water systems, though it is dated August 19. No single large-scale outage or attack is described.</p>
+    
+    <div class="story-cluster" id="th-015a882e" data-score="53.7">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html" target="_blank" rel="noopener">Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions</a>
+      <div class="item-meta">Internet &middot; 2026-10-23T17:50:47Z</div>
+      <p class="item-desc">Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups.
+
+Central to the operation is an &quot;Autonomous Red Team Kill Chain Framework&quot; referred to as Ph…</p>
+      
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-332aa48b" data-score="51.3">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.abc.net.au/news/2026-10-23/abc-staff-targeted-adfection-cyber-attack/107300806" target="_blank" rel="noopener">ABC staff targeted in sophisticated cyber attack</a>
+      <div class="item-meta">ABC News (AU) &middot; 2026-10-23T01:41:30Z</div>
+      <p class="item-desc">The ABC is among the more than two dozen Australian government critical infrastructure, universities and media organisations that researchers claim were targeted by an Israel-based company.</p>
+      <p class="item-extra">The ABC has wiped staff devices that were exposed to a new, sophisticated cyber attack carried out as part of a broader campaign to track and even hack into networks of some of Australia&#x27;s most high-…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-10bdcee9" data-score="50.0">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.businessinsider.com/three-steps-to-protect-website-against-php-vulnerabilities-ai-era-2026-10#article" target="_blank" rel="noopener">I woke up to panicked text messages about the PHP attacks. As a cybersecurity expert, here are the 3 things I tell people to do right away.</a>
+      <div class="item-meta">Business Insider &middot; 2026-10-23T18:24:39Z</div>
+      <p class="item-desc">A cybersecurity product manager explains why two PHP flaws sparked mass panic — and shares 3 steps website owners can take to protect their sites.</p>
+      <p class="item-extra">Yonaton Keller is a product manager at Zafran Security and has been working on the exposed PHP vulnerabilities.Courtesy of Yonaton Keller
+&lt;ul&gt;&lt;li&gt;PHP, the open-source computer programming language, …</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-52d32329" data-score="48.6">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/" target="_blank" rel="noopener">In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware</a>
+      <div class="item-meta">Securityweek.com &middot; 2026-10-23T14:23:37Z</div>
+      <p class="item-desc">Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe.
+The post In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS R…</p>
+      <p class="item-extra">SecurityWeeks weeklycybersecurity news roundupoffers a concise overview of important developments that may not receive full standalone coverage yet remain relevant to the broader threat landscape.
+T…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-0e0b65e2" data-score="44.8">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://siliconangle.com/2026/10/23/anthropic-reveals-mythos-5-tried-submitting-malicious-code-to-an-open-source-project/" target="_blank" rel="noopener">Anthropic reveals Mythos 5 tried submitting malicious code to an open-source project</a>
+      <div class="item-meta">SiliconANGLE News &middot; 2026-10-23T23:28:40Z</div>
+      <p class="item-desc">Anthropic PBC’s Mythos 5 artificial intelligence model attempted to submit malicious code to a GitHub project in July. The incident occurred during an evaluation of the algorithm’s cybersecurity capabilities. The AI Security Institute, the UK government body …</p>
+      <p class="item-extra">Anthropic PBCs Mythos 5 artificial intelligence model attempted to submit malicious code to a GitHub project in July.
+The incident occurred during an evaluation of the algorithm’s cybersecurity capa…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-aa253702" data-score="41.5">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/cybercartel-hacking-gang-used-claude-and-grok-ai-agents-to-automate-attacks-on-latin-american-institutions-passwords-and-details-stolen-from-over-400-institutions-including-banks-and-payment-apps" target="_blank" rel="noopener">Claude and Grok among AI agents used to automate attacks on Latin American institutions</a>
+      <div class="item-meta">Tom&#x27;s Hardware UK &middot; 2026-10-23T11:00:00Z</div>
+      <p class="item-desc">Claude and Grok are among the AI agents that are being used to automate attacks on Latin American institutions, including banks and payment apps, by a group calling themselves CyberCartel.</p>
+      <p class="item-extra">CyberCartel, a hacking group with a long history of targeting Latin American businesses, has been using AI agents, including SpaceX&#x27;s Grok and Anthropic&#x27;s Claude, to automate attacks on financial ins…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-b411f2a4" data-score="40.9">
+      <div class="thread-flags"><span class="flag">Day 3</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://cryptobriefing.com/interpol-serengeti-iii-africa-cybercrime-105-million/" target="_blank" rel="noopener">Interpol recovers $105 million in Africa cybercrime sweep</a>
+      <div class="item-meta">Crypto Briefing &middot; 2026-10-23T13:22:32Z</div>
+      <p class="item-desc">The operation highlights the growing global collaboration needed to combat sophisticated cybercrime and the persistent threat of crypto misuse.
+The post Interpol recovers $105 million in Africa cybercrime sweep appeared first on Crypto Briefing.</p>
+      <p class="item-extra">Operation Serengeti III led to 1,462 arrests across 21 countries, with crypto showing up in both the laundering and the illegal mining Interpol says police across 21 countries arrested 1,462 suspects…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-28226b10" data-score="38.2">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.naturalnews.com/2026-10-23-us-warns-of-active-chinese-cyber-probes.html" target="_blank" rel="noopener">U.S. warns of active Chinese cyber probes on power grids and water systems using AI-generated attack tools</a>
+      <div class="item-meta">Naturalnews.com &middot; 2026-10-23T06:00:00Z</div>
+      <p class="item-desc">A joint NSA advisory warns that Chinese state-backed hackers are actively probing U.S. critical infrastructure using AI-generated scripts targeting Siemens programmable logic controllers (PLCs). The advisory, released August 19, identifies six most-targeted s…</p>
+      <p class="item-extra">&lt;ul&gt;&lt;li&gt;A joint NSA advisory warns that Chinese state-backed hackers are actively probing U.S. critical infrastructure using AI-generated scripts targeting Siemens programmable logic controllers (PLC…</p>
+    </article>
+      
+      
+    </div>
+    <details class="more">
+      <summary>Show 2 more stories</summary>
+      
+    <div class="story-cluster" id="th-847e676c" data-score="37.8">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://activistpost.com/ai-insiders-expect-a-cyberattack-on-banks-power-or-water-within-12-months/" target="_blank" rel="noopener">AI Insiders Expect a Cyberattack on Banks, Power or Water Within 12 Months</a>
+      <div class="item-meta">Activistpost.com &middot; 2026-10-23T16:00:00Z</div>
+      <p class="item-desc">OpenAI and Anthropic executives are quietly gaming out the day after a catastrophic AI attack. Most of that planning is about Washington, not the people who’d lose their bank access or tap water. Top executives at OpenAI, Anthropic and other AI companies are …</p>
+      
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-6ba1a14d" data-score="33.3">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://thesurvivalmom.com/family-cyber-security-checklist/" target="_blank" rel="noopener">The 30-Minute Family Cyber Lockdown: How to Protect Your Bank, Wi-Fi, and Identity Without Panicking</a>
+      <div class="item-meta">Thesurvivalmom.com &middot; 2026-10-23T07:52:50Z</div>
+      <p class="item-desc">A wave of automated AI cyberattacks has made headlines this October, but you don&#x27;t need to panic or pull your money out of the bank. Here is a calm, 30-minute family cyber lockdown to protect your email, bank accounts, credit, and home Wi-Fi today.
+The post T…</p>
+      <p class="item-extra">AT A GLANCE
+Automated AI cyberattacks have researchers issuing warnings this fall because cheap programs test millions of leaked passwords and fake bank phone numbers for pennies. You don’t need to …</p>
+    </article>
+      
+      
+    </div>
+    </details>
+  </section>
+
+  <section class="topic" id="T14">
+    <h2>Threats to US Embassies / Diplomats <span class="badge badge-tripwire">tripwire</span><span class="trend trend-down" title="Coverage down: 1.7 vs 3.3 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 1.7 vs 3.3 average over 7 prior days (a coverage trend, not a measure of events)">▼</span><span class="count">3 stories</span></h2>
+    <p class="narrative">The State Department is reducing staffing at four US embassies in the Middle East after intelligence that Iran has stepped up efforts to target American personnel in the region and elsewhere (3 outlets). The Ukrainian embassy in Washington was reportedly evacuated and the Key Bridge closed over a suspicious object later deemed not a threat. The US also reportedly issued a security alert for France ahead of the Paris NFL game amid expected protests.</p>
+    
+    <div class="story-cluster" id="th-d2418492" data-score="78.3">
+      <div class="thread-flags"><span class="flag">Returning</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://abcnews.com/US/wireStory/us-reducing-staffing-4-middle-east-embassies-increased-137529709" target="_blank" rel="noopener">US is reducing staffing at 4 Middle East embassies over increased threats from Iran</a>
+      <div class="item-meta">Abcnews.com <span class="moved-tag">reassigned from Iran / Israel / Middle East</span>&middot; 2026-10-24T05:00:56Z</div>
+      <p class="item-desc">The State Department says it will reduce staffing at four U.S. embassies in the Middle East after receiving intelligence that Iran has stepped up efforts to target American personnel in the region and elsewhere</p>
+      <p class="item-extra">WASHINGTON -- The State Department is reducing staffing at four U.S. embassies in the Middle East after receiving intelligence that Iran has stepped up efforts to target American personnel in the reg…</p>
+    </article>
+      
+    <details class="other-sources">
+      <summary>+4 other sources on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.cbsnews.com/news/iran-target-u-s-personnel/" target="_blank" rel="noopener">Iran has &quot;increased efforts to target U.S. personnel,&quot; intel chief warns</a>
+      <div class="item-meta">CBS News <span class="moved-tag">reassigned from Iran / Israel / Middle East</span>&middot; 2026-10-24T03:13:10Z</div>
+      <p class="item-desc">Director of National Intelligence Jay Clayton warned in a memo to Secretary of State Rubio that Iran has &quot;substantially increased efforts to target U.S. personnel,&quot; and the plots have &quot;reached advanced stages.&quot;</p>
+      <p class="item-extra">Director of National Intelligence Jay Clayton warned Friday that Iran has &quot;substantially increased efforts to target U.S. personnel&quot; abroad, with plots to kill Americans reaching &quot;advanced stages&quot; in…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.breitbart.com/politics/2026/10/23/u-s-intel-warns-iranian-plots-to-kill-americans-abroad-have-reached-advanced-stages-regional-embassies-reduce-staff/" target="_blank" rel="noopener">U.S. Intel Warns Iranian Plots to Kill Americans Abroad Have Reached ‘Advanced Stages’ — Regional Embassies Reduce Staff</a>
+      <div class="item-meta">Breitbart News <span class="moved-tag">reassigned from Nuclear Weaponry / Attack</span>&middot; 2026-10-24T02:58:30Z</div>
+      <p class="item-desc">U.S. intelligence has warned that Iranian plots to kill Americans abroad have reached “advanced stages,” as Washington reduces diplomatic staffing across the Middle East amid mounting threats and the prospect of renewed military strikes against Tehran.
+The po…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://slashdot.org/firehose.pl?op=view&amp;amp;id=186433762" target="_blank" rel="noopener">US is reducing staffing at 4 Middle East embassies over increased threats from Iran - AP News</a>
+      <div class="item-meta">Slashdot.org <span class="moved-tag">reassigned from Iran / Israel / Middle East</span>&middot; 2026-10-24T04:32:38Z</div>
+      <p class="item-desc">US is reducing staffing at 4 Middle East embassies over increased threats from IranAP News Scoop: U.S. intel memo warns of &quot;advanced&quot; Iranian plots to kill officials abroadAxios Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials SayThe…</p>
+      <p class="item-extra">&quot;Today&#x27;s robots are very primitive, capable of understanding only a few
+ simple instructions such as &#x27;go left&#x27;, &#x27;go right&#x27;, and &#x27;build car&#x27;.&quot;
+ --John Sladek</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://slashdot.org/firehose.pl?op=view&amp;amp;id=186433382" target="_blank" rel="noopener">Scoop: U.S. intel memo warns of &quot;advanced&quot; Iranian plots to kill officials abroad - Axios</a>
+      <div class="item-meta">Slashdot.org <span class="moved-tag">reassigned from Iran / Israel / Middle East</span>&middot; 2026-10-24T03:32:40Z</div>
+      <p class="item-desc">Scoop: U.S. intel memo warns of &quot;advanced&quot; Iranian plots to kill officials abroadAxios Iran has &quot;increased efforts to target U.S. personnel,&quot; intel chief warnsCBS News US discreetly moves diplomats and families from multiple Middle Eastern countries as escala…</p>
+      <p class="item-extra">The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.</p>
+    </article>
+    </details>
+      
+    </div>
+
+    <div class="story-cluster" id="th-ae01e8ad" data-score="56.3">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://nypost.com/2026/10/23/us-news/ukrainian-embassy-in-dc-evacuated-key-bridge-closed-over-bomb-scare/" target="_blank" rel="noopener">Ukrainian embassy in DC evacuated and major bridge closed over bomb scare</a>
+      <div class="item-meta">New York Post &middot; 2026-10-23T15:25:00Z</div>
+      <p class="item-desc">The US Secret Service&#x27;s discovery of a &quot;suspicious&quot; object forced the evacuation of the Ukrainian embassy in DC and shut down the Key Bridge -- before it was deemed not a threat.</p>
+      <p class="item-extra">WASHINGTON The US Secret Service’s discovery of a “suspicious” object forced the evacuation of the Ukrainian embassy in DC and shut down a major bridge on Friday — before it was deemed not a threat, …</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-b7d8046a" data-score="34.9">
+      <div class="thread-flags"><span class="flag">Returning</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.breitbart.com/europe/2026/10/23/u-s-issues-riots-security-alert-for-france-ahead-of-paris-nfl-match/" target="_blank" rel="noopener">U.S. Issues Riots Security Alert For France Ahead of Paris NFL Match</a>
+      <div class="item-meta">Breitbart News <span class="moved-tag">reassigned from Mass Uprising / Regime-Threatening Unrest</span>&middot; 2026-10-23T16:33:13Z</div>
+      <p class="item-desc">State Department issued travel warning ahead of a busy weekend in Paris that promises &#x27;act two&#x27; riots and a major NFL match in the city. 
+The post U.S. Issues Riots Security Alert For France Ahead of Paris NFL Match appeared first on Breitbart.</p>
+      <p class="item-extra">The U.S. State Department issued a travel warning for France, ahead of a busy weekend in Paris that promises an ‘act two’ following riots last week, and a major NFL match in the city.
+“Violence and …</p>
+    </article>
+      
+      
+    </div>
+  </section>
+
+  <section class="topic" id="T01">
+    <h2>Military Conflict <span class="count">4 stories</span></h2>
+    <p class="narrative">Trump reportedly revived the idea of military intervention in Cuba at a Florida rally, saying warships returning from Iran could stop there. Tigray&#x27;s rebel commander reportedly vowed to keep fighting after government-allied forces seized the regional capital. China and Djibouti issued a communique backing freedom of navigation in the Red Sea against Houthi attacks. An opinion piece argues the &quot;2027&quot; Taiwan invasion narrative is overstated.</p>
+    
+    <div class="story-cluster" id="th-0ee738e9" data-score="62.5">
+      <div class="thread-flags"><span class="flag">Returning</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://abcnews.com/US/wireStory/trump-south-florida-rally-revives-idea-military-intervention-137524179" target="_blank" rel="noopener">Trump at South Florida rally revives the idea of military intervention in Cuba after Iran</a>
+      <div class="item-meta">Abcnews.com <span class="moved-tag">reassigned from Iran / Israel / Middle East</span>&middot; 2026-10-24T05:01:25Z</div>
+      <p class="item-desc">President Donald Trump says U.S. warships returning from Iran could stop in Cuba</p>
+      <p class="item-extra">FORT MYERS, Fla. -- President Donald Trump on Friday told a rally for candidates in South Florida that U.S. warships returning from the Middle East could stop over in Cuba on their way back from the …</p>
+    </article>
+      
+    <details class="other-sources">
+      <summary>+1 other source on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://biztoc.com/x/52fc28b70480eb15" target="_blank" rel="noopener">Cuba rejects Trump&#x27;s threats, warns against invasion</a>
+      <div class="item-meta">Biztoc.com &middot; 2026-10-24T00:27:44Z</div>
+      <p class="item-desc">Cuban Foreign Minister Bruno Rodriguez dismissed United States President Donald Trump&#x27;s latest threats against his nation, warning Washington that any attempt to invade the island would face resistanc...</p>
+      
+    </article>
+    </details>
+      
+    </div>
+
+    <div class="story-cluster" id="th-2957f10e" data-score="62.3">
+      <div class="thread-flags"><span class="flag">Returning</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm" target="_blank" rel="noopener">Tigray rebels urged to disarm as commander vows to fight Ethiopia’s gov’t</a>
+      <div class="item-meta">Al Jazeera English <span class="moved-tag">reassigned from Humanitarian Crisis</span>&middot; 2026-10-23T19:55:44Z</div>
+      <p class="item-desc">Rebel commander pledged to continue fighting government-allied forces who seized Ethiopia&#x27;s Tigray capital.</p>
+      <p class="item-extra">An official in Tigrays new federally backed administration has urged rebel forces to lay down their weapons in the northern Ethiopian region.
+The call on Friday came hours after a rebel commander to…</p>
+    </article>
+      
+    <details class="other-sources">
+      <summary>+1 other source on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://abcnews.com/International/wireStory/ethiopias-tigray-rebels-urged-disarm-commander-vows-fight-137511160" target="_blank" rel="noopener">Ethiopia&#x27;s Tigray rebels urged to disarm as commander vows to fight on</a>
+      <div class="item-meta">Abcnews.com <span class="moved-tag">reassigned from Humanitarian Crisis</span>&middot; 2026-10-23T18:54:35Z</div>
+      <p class="item-desc">An official in Tigray’s new federal-backed administration has urged rebel fighters to lay down their weapons</p>
+      <p class="item-extra">An official in Tigrays new federal-backed administration urged rebel fighters to lay down their weapons Friday, hours after a rebel commander called for continued resistance despite losing the northe…</p>
+    </article>
+    </details>
+      
+    </div>
+
+    <div class="story-cluster" id="th-6ac0d6fb" data-score="47.1">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://fortune.com/2026/10/22/taiwan-strait-2027-invasion-countdown-mirage/" target="_blank" rel="noopener">The Taiwan Strait is not on the verge of war: The ‘2027 invasion’ countdown is a mirage</a>
+      <div class="item-meta">Fortune &middot; 2026-10-23T03:00:00Z</div>
+      <p class="item-desc">The “2027” narrative distorts global priorities and triggers unnecessary panic. Many observers overstate the likelihood of war.</p>
+      <p class="item-extra">The most striking feature of the September summit between Chinese President Xi Jinping and U.S. President Donald Trump in Washington was not what was discussedtrade, tariffs, technological competitio…</p>
+    </article>
+      
+    <details class="other-sources">
+      <summary>+1 other source on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://biztoc.com/x/65807bf8c029b0ec" target="_blank" rel="noopener">The Taiwan Strait is not on the verge of war: The ‘2027 invasion’ countdown is a mirage</a>
+      <div class="item-meta">Biztoc.com &middot; 2026-10-23T03:28:00Z</div>
+      <p class="item-desc">The most striking feature of the September summit between Chinese President Xi Jinping and U.S. President Donald Trump in Washington was not what was discussed—trade, tariffs, technological competition—but what was not. Taiwan was not absent entirely—both sid…</p>
+      
+    </article>
+    </details>
+      
+    </div>
+
+    <div class="story-cluster" id="th-87970896" data-score="42.3">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.breitbart.com/africa/2026/10/23/china-uses-djibouti-outpost-to-assert-itself-on-houthi-attacks/" target="_blank" rel="noopener">China Uses Djibouti Outpost to Assert Itself on Houthi Attacks</a>
+      <div class="item-meta">Breitbart News <span class="moved-tag">reassigned from Threats to US Embassies / Diplomats</span>&middot; 2026-10-23T21:39:48Z</div>
+      <p class="item-desc">China and Djibouti released a joint communique on Thursday supporting freedom of navigation in the Red Sea and Bab el-Mandeb Strait, which are currently under threat from the Iran-backed Houthi insurgents of Yemen.
+The post China Uses Djibouti Outpost to Asse…</p>
+      
+    </article>
+      
+      
+    </div>
+  </section>
+
+  <section class="topic" id="T02">
+    <h2>Humanitarian Crisis <span class="trend trend-down" title="Coverage down: 1.1 vs 11.0 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 1.1 vs 11.0 average over 7 prior days (a coverage trend, not a measure of events)">▼</span><span class="count">2 stories</span></h2>
+    <p class="narrative">Reportedly, the UK and 31 partners issued a joint ministerial statement on the risk of famine in Sudan. The UN says time is running out to reach Yemen&#x27;s Taiz, where more than 800,000 people have been cut off from aid since the Houthis encircled the city in early October.</p>
+    
+    <div class="story-cluster" id="th-2c87c8cd" data-score="55.7">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.gov.uk/government/news/joint-ministerial-statement-on-the-risk-of-famine-in-sudan" target="_blank" rel="noopener">Joint ministerial statement on the risk of famine in Sudan</a>
+      <div class="item-meta">Www.gov.uk &middot; 2026-10-23T15:00:40Z</div>
+      <p class="item-desc">Joint ministerial statement by the UK and 31 other partners on the risk of famine in Sudan.</p>
+      <p class="item-extra">Sudan is experiencing an alarming deterioration in its food security. The risk of famine in the coming months, as warned by the Integrated Food Security Phase Classification, needs urgent action. The…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-59ad8194" data-score="49.6">
+      <div class="thread-flags"><span class="flag">Day 4</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.aljazeera.com/news/2026/10/23/time-running-out-to-reach-yemens-taiz-amid-deepening-crisis-un-says" target="_blank" rel="noopener">Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says</a>
+      <div class="item-meta">Al Jazeera English &middot; 2026-10-23T20:44:02Z</div>
+      <p class="item-desc">More than 800,000 people have been cut off from aid since the Houthis encircled Taiz city in early October.</p>
+      <p class="item-extra">A mounting humanitarian disaster is gripping Yemens Taiz after nearly three weeks of a Houthi siege that has prevented supplies from entering the city, the United Nations has warned.
+The Iran-backed…</p>
+    </article>
+      
+      
+    </div>
+  </section>
+
+  <section class="topic" id="T04">
+    <h2>Infectious Outbreak / Pandemic <span class="count">5 stories</span></h2>
+    <p class="narrative">The WHO has reportedly launched its first clinical trial of the Ervebo vaccine against the Bundibugyo Ebola strain in DR Congo, for which no approved vaccine exists. Nigeria&#x27;s NSA reportedly raised concerns over Ebola screening breaches at entry points after an imported case. Other single-source items cover H5N1 bird flu on a Utah mink farm and a report of 2019 NIH emails about engineering a coronavirus.</p>
+    
+    <div class="story-cluster" id="th-311d249d" data-score="53.9">
+      <div class="thread-flags"><span class="flag">Returning</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://timesofindia.indiatimes.com/world/rest-of-world/with-no-approved-vaccine-for-ebola-strain-who-begins-first-clinical-trial-in-dr-congo/articleshow/135160610.cms" target="_blank" rel="noopener">With no approved vaccine for Ebola strain, WHO begins first clinical trial in DR Congo</a>
+      <div class="item-meta">The Times of India <span class="moved-tag">reassigned from Iran / Israel / Middle East</span>&middot; 2026-10-24T03:11:19Z</div>
+      <p class="item-desc">In a historic move, the World Health Organization has launched its inaugural clinical trial for an Ebola vaccine in the Democratic Republic of Congo. This trial aims to assess the efficacy of the Ervebo vaccine against the Bundibugyo virus amid a severe outbr…</p>
+      <p class="item-extra">Follow Us On Social Media
+&#x27;When I called Paaji the next day, he broke down crying&#x27;: Mika Singh says Daler Mehndi doesn&#x27;t want to stretch the Uttarakhand controversyMeet Jintimani Kalita, the 22-year…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-e04692c2" data-score="52.4">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://punchng.com/ebola-nsa-sounds-fresh-alarm-on-screening/" target="_blank" rel="noopener">Ebola: NSA sounds fresh alarm on screening</a>
+      <div class="item-meta">The Punch <span class="moved-tag">reassigned from Threats to US Embassies / Diplomats</span>&middot; 2026-10-24T00:22:19Z</div>
+      <p class="item-desc">Nigeria’s NSA has raised concerns over Ebola screening breaches at entry points, prompting a fresh directive to tighten surveillance after an imported case
+
+Read More: https://punchng.com/ebola-nsa-sounds-fresh-alarm-on-screening/</p>
+      <p class="item-extra">The Federal Government has raised concerns over reported breaches of Ebola screening protocols at the nations entry points, ordering security agencies, health institutions and other relevant authorit…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-839784e7" data-score="32.6">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.propublica.org/article/bird-flu-mink-farm-utah-human-risk" target="_blank" rel="noopener">Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act.</a>
+      <div class="item-meta">ProPublica &middot; 2026-10-23T09:00:00Z</div>
+      <p class="item-desc">Federal officials brushed off the issue as Utah prioritized the fur industry’s interests. Little has been done to stop the spread of the virus and ensure it can’t spread to humans, a failure that experts called “irresponsible’’ and “astounding.”</p>
+      <p class="item-extra">&lt;ul&gt;&lt;li&gt;Deadly Outbreak: Abird flu outbreak has been raging uncontrolled on a Utah mink farm for two months. Flu experts fear it could spark a devastating human pandemic.&lt;/li&gt;&lt;li&gt;Government Failures:…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-a33490be" data-score="29.9">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.naturalnews.com/2026-10-23-nih-scientist-proposed-engineering-coronavirus-more-infectious.html" target="_blank" rel="noopener">NIH scientist proposed engineering coronavirus to be more infectious weeks before pandemic, emails show</a>
+      <div class="item-meta">Naturalnews.com &middot; 2026-10-23T06:00:00Z</div>
+      <p class="item-desc">NIH virologist Vincent Munster emailed his postdoc on Oct. 6, 2019, proposing to engineer a furin cleavage site into a coronavirus spike protein to “enhance infectivity.” The proposed modification matches the central genetic feature cited by lab-leak proponen…</p>
+      <p class="item-extra">&lt;ul&gt;&lt;li&gt;NIH virologist Vincent Munster emailed his postdoc on Oct. 6, 2019, proposing to engineer a furin cleavage site into a coronavirus spike protein to &quot;enhance infectivity.&quot;&lt;/li&gt;&lt;li&gt;The proposed…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-489020ad" data-score="18.8">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.isegoria.net/2026/10/it-now-costs-less-than-100k-to-synthesize-a-pathogen/" target="_blank" rel="noopener">It now costs less than $100k to synthesize a pathogen</a>
+      <div class="item-meta">Isegoria.net <span class="moved-tag">reassigned from Bio/Chemical Attack</span>&middot; 2026-10-23T15:14:05Z</div>
+      <p class="item-desc">Biology is becoming programmable: Two compounding technological trends are rapidly democratizing dual-use biotechnology: the cost of bioengineering is falling, and AI models are getting better at biology. Together, they’re lowering the barrier to engineering …</p>
+      
+    </article>
+      
+      
+    </div>
+  </section>
+
+  <section class="topic" id="T06">
+    <h2>Mass Uprising / Regime-Threatening Unrest <span class="trend trend-down" title="Coverage down: 6.1 vs 9.7 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 6.1 vs 9.7 average over 7 prior days (a coverage trend, not a measure of events)">▼</span><span class="count">14 stories</span></h2>
+    <p class="narrative">France is preparing for a further day of protests a week after nationwide riots, with more than 70,000 police to be deployed (3 outlets). About 2,700 people have reportedly been detained, and Macron plans to ban &quot;illegitimate&quot; protests. French bond yields hit a 24-year high. Trump said the NFL could have postponed the Paris game, and the State Department backed his comments on the protests after Macron criticized remarks by world leaders.</p>
+    
+    <div class="story-cluster" id="th-0ce1ba84" data-score="65.6">
+      <div class="thread-flags"><span class="flag">Returning</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo" target="_blank" rel="noopener">France prepares for day of protest a week after nationwide riots</a>
+      <div class="item-meta">BBC News &middot; 2026-10-24T04:03:46Z</div>
+      <p class="item-desc">More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.</p>
+      <p class="item-extra">Disillusionment is high among the French public, who have seen cost-of-living pressures increase, and who are faced with increasingly dire warnings that any future government will likely have to make…</p>
+    </article>
+      
+    <details class="other-sources">
+      <summary>+3 other sources on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.dw.com/en/france-to-deploy-70000-police-officers-ahead-of-protests/a-79747655" target="_blank" rel="noopener">France to deploy 70,000 police officers ahead of protests</a>
+      <div class="item-meta">DW (English) <span class="moved-tag">reassigned from Political Instability / Coup Risk</span>&middot; 2026-10-23T22:01:00Z</div>
+      <p class="item-desc">With new protests in France planned for this weekend, the authorities pledged to do everything in their power to prevent looting, violence and vandalism.</p>
+      <p class="item-extra">As France braces for new protests on Saturday, Interior Minister Laurent Nunez warned that calls for violence and looting were circulating online and pledged to deploy 70,000 police officers to secur…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.dailymail.com/news/article-16234675/France-braced-riots-half-million-set-protest.html" target="_blank" rel="noopener">France braced for more riots as half a million set to protest</a>
+      <div class="item-meta">Dailymail.com &middot; 2026-10-23T23:20:49Z</div>
+      <p class="item-desc">Demonstrations will be held across France, with attacks likely on public buildings and state symbols as well as &#x27;opportunistic lootings&#x27;.</p>
+      <p class="item-extra">France is bracing itself for fresh unrest on Saturday as its intelligence service warns up to half a million protesters could take to the streets raising fears of a repeat of last week&#x27;s riots.
+Demo…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://biztoc.com/x/5a1e2532e37d7b44" target="_blank" rel="noopener">France braces for new nationwide protests</a>
+      <div class="item-meta">Biztoc.com &middot; 2026-10-24T05:03:58Z</div>
+      <p class="item-desc">More than 70,000 members of law enforcement will be deployed across France on Saturday as the country braces for another round of protests, while still grappling with the consequences of riots and wid...</p>
+      
+    </article>
+    </details>
+      
+    </div>
+
+    <div class="story-cluster" id="th-41f9a06d" data-score="63.3">
+      <div class="thread-flags"><span class="flag">Day 6</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://sports.yahoo.com/articles/trump-expresses-concern-nfl-game-170125758.html" target="_blank" rel="noopener">Trump expresses concern about NFL game and civil unrest in Paris</a>
+      <div class="item-meta">Yahoo Entertainment &middot; 2026-10-23T17:01:25Z</div>
+      <p class="item-desc">President Donald Trump said Friday the NFL “could have probably postponed” the upcoming game in Paris between the Pittsburgh Steelers and New Orleans Saints because of street protests in the city.France is bracing for more demonstrations Saturday against the …</p>
+      <p class="item-extra">WASHINGTON (AP) U.S. President Donald Trump said Friday the NFL &quot;could have probably postponed&quot; the upcoming game in Paris between the Pittsburgh Steelers and New Orleans Saints because of street pro…</p>
+    </article>
+      
+    <details class="other-sources">
+      <summary>+2 other sources on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.aljazeera.com/sports/2026/10/23/nfl-would-cancel-paris-game-if-unsafe-due-to-riots-steelers-rodgers-says" target="_blank" rel="noopener">NFL would cancel Paris game if unsafe due to riots, Steelers’ Rodgers says</a>
+      <div class="item-meta">Al Jazeera English &middot; 2026-10-23T13:19:19Z</div>
+      <p class="item-desc">Steelers to face New Orleans Saints in ⁠Saint-Denis on Sunday, about 10km from where Saturday&#x27;s protests ​are expected.</p>
+      <p class="item-extra">The NFL would have cancelled its first regular-season game in Paris, scheduled for Sunday, if the situation were unsafe, Pittsburgh Steelers quarterback Aaron Rodgers said, referring to the recent pr…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.huffpost.com/entry/pittsburgh-steelers-scrap-fan-event-paris_n_6adb36a3e4b027da9ae55e16" target="_blank" rel="noopener">Pittsburgh Steelers Scrap Paris NFL Fan Event Amid Civil Unrest</a>
+      <div class="item-meta">HuffPost &middot; 2026-10-23T10:32:06Z</div>
+      <p class="item-desc">The Steelers face the New Orleans Saints in the French capital on Sunday.</p>
+      <p class="item-extra">PARIS/NEW YORK, Oct 22 (Reuters) - The Pittsburgh Steelers cancelled a weekend fan event in Paris on Thursday as French authorities prepared for fresh protests ahead of the NFLs first regular-season …</p>
+    </article>
+    </details>
+      
+    </div>
+
+    <div class="story-cluster" id="th-3d5dcec8" data-score="55.1">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html" target="_blank" rel="noopener">What next for France as riots rattle markets? Three questions facing investors ahead of more protests</a>
+      <div class="item-meta">CNBC &middot; 2026-10-24T05:00:01Z</div>
+      <p class="item-desc">French unrest pushed bond yields to a 24-year high as investors weigh budget, growth and sectors risks ahead of more protests.</p>
+      <p class="item-extra">France&#x27;s unrest is fueling investor concerns over the country&#x27;s fiscal outlook, after borrowing costs hit their highest level since 2002 earlier this week.
+With further demonstrations planned, fund …</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-67a79d63" data-score="51.6">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.irishtimes.com/opinion/2026/10/24/france-may-calm-violence-in-the-short-term-but-it-is-a-country-infused-with-dread/" target="_blank" rel="noopener">Lara Marlowe: France may calm violence in the short term but it is infused with dread</a>
+      <div class="item-meta">The Irish Times <span class="moved-tag">reassigned from Iran / Israel / Middle East</span>&middot; 2026-10-24T05:00:00Z</div>
+      <p class="item-desc">The scale of the violence, high stakes of the upcoming presidential election and international reach of the protests distinguish them past riots</p>
+      <p class="item-extra">The police and rioters who fought running street battles in France last weekend were de facto proxies for populist leaders Marine Le Pen and Jean-Luc Mélenchon. Le Pens National Rally (RN) and Mélenc…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-075dc1a9" data-score="48.8">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.channelnewsasia.com/world/france-protests-security-police-presence-6488186" target="_blank" rel="noopener">France boosts police presence, hoping to prevent repeat of riots</a>
+      <div class="item-meta">CNA &middot; 2026-10-23T23:16:47Z</div>
+      <p class="item-desc">Anger over living costs and strained public services has drawn students, workers and unions onto the streets in recent weeks.</p>
+      <p class="item-extra">Nunez said 10,000 more police would be on the streets than a week ago, while mounted police, helicopters, drones and anti-drone systems would be deployed across the country.
+Armoured vehicles and wa…</p>
+    </article>
+      
+    <details class="other-sources">
+      <summary>+1 other source on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://slashdot.org/firehose.pl?op=view&amp;amp;id=186431978" target="_blank" rel="noopener">France boosts police presence, hoping to prevent repeat of riots - Reuters</a>
+      <div class="item-meta">Slashdot.org &middot; 2026-10-23T23:33:37Z</div>
+      <p class="item-desc">France boosts police presence, hoping to prevent repeat of riotsReuters France&#x27;s Macron tightens curbs on protests, blaming hard left for unrestReuters Ruins of Limoges city hall a symbol of France divided by national protestsBBC Louvre and other museums clos…</p>
+      <p class="item-extra">The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.</p>
+    </article>
+    </details>
+      
+    </div>
+
+    <div class="story-cluster" id="th-dbf8a93c" data-score="46.2">
+      <div class="thread-flags"><span class="flag">Day 3</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.foxnews.com/world/state-department-says-trump-spot-on-france-protests-macron-decries-stupid-comments" target="_blank" rel="noopener">State Department says Trump is &#x27;spot on&#x27; with France protests after Macron decries &#x27;stupid&#x27; comments</a>
+      <div class="item-meta">Fox News <span class="moved-tag">reassigned from Migration / Refugee Crisis</span>&middot; 2026-10-23T17:07:07Z</div>
+      <p class="item-desc">The State Department says Trump is &quot;spot on&quot; about France&#x27;s protests and mass migration after Emmanuel Macron criticized comments from world leaders.</p>
+      <p class="item-extra">The State Department told Fox News Digital that President Donald Trump&#x27;s views on France are &quot;spot on&quot; after French President Emmanuel Macron criticized foreign leaders for making &quot;unacceptable and s…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-44642d18" data-score="41.7">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://nypost.com/2026/10/23/opinion/fast-takes-trumps-health-reforms-beat-the-hype-big-lies-from-french-riots-and-more/" target="_blank" rel="noopener">Fast Takes: Trump’s health reforms beat the hype, big lies from French riots and more</a>
+      <div class="item-meta">New York Post &middot; 2026-10-23T21:07:57Z</div>
+      <p class="item-desc">The Post rounds up takes on Trump&#x27;s health reforms beating progressive hype, French riot narratives, JK Rowling, and Minnesota&#x27;s Senate race.</p>
+      <p class="item-extra">When the Trump administration took reasonable and modest steps to curb fraud and waste, Democratic leaders characterized them as draconian cuts, notes The Washington Post Editorial Board, which prove…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-406afcb5" data-score="38.5">
+      <div class="thread-flags"><span class="flag">Day 3</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/world-news/2700-detained-amid-riots-and-looting-in-france-justice-minister-says-yelow-vest-movement-news/articleshow/135131303.cms" target="_blank" rel="noopener">2,700 detained amid riots and looting in France; Macron tightens curbs on &#x27;illegitimate&#x27; protests</a>
+      <div class="item-meta">The Times of India &middot; 2026-10-23T01:10:30Z</div>
+      <p class="item-desc">In response to riots and looting linked to public anger, France has arrested 2,700 individuals since Saturday. French President Emmanuel Macron has announced plans to ban illegitimate protests in coming days. Authorities are preparing for further demonstratio…</p>
+      <p class="item-extra">French police have taken 2,700 people into custody since Saturday in connection with riots and looting, Reuters reported citing Justice Minister Gerald Darmanin, as authorities brace for further unre…</p>
+    </article>
+      
+    <details class="other-sources">
+      <summary>+1 other source on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://slashdot.org/firehose.pl?op=view&amp;amp;id=186422158" target="_blank" rel="noopener">In the Wake of Riots, the French Authorities Ban Some Protests - The New York Times</a>
+      <div class="item-meta">Slashdot.org &middot; 2026-10-23T02:53:00Z</div>
+      <p class="item-desc">In the Wake of Riots, the French Authorities Ban Some ProtestsThe New York Times France&#x27;s Macron tightens curbs on protests, blaming hard left for unrestReuters France’s devastation and its aftermathThe Economist Is Paris Burning?The American Prospect What We…</p>
+      <p class="item-extra">The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.</p>
+    </article>
+    </details>
+      
+    </div>
+    <details class="more">
+      <summary>Show 6 more stories</summary>
+      
+    <div class="story-cluster" id="th-0148cd6c" data-score="37.8">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://timesofindia.indiatimes.com/toi-blogs/toi-newsletters/from-the-editors-desk/paris-will-be-a-muslim-city-does-eurabia-theory-explain-frances-riots/articleshow/135141179.cms" target="_blank" rel="noopener">‘Paris will be a Muslim city’: Does Eurabia theory explain France’s riots?</a>
+      <div class="item-meta">The Times of India &middot; 2026-10-23T09:40:16Z</div>
+      <p class="item-desc">‘Paris will be a Muslim city’: Does Eurabia theory explain France’s riots?</p>
+      <p class="item-extra">Follow Us On Social Media
+Armys Land Warfare Doctrine 2026, released by Rajnath, draws lessons from recent conflictsITBP chief says multiple face-offs with Chinese in Arunachal. What we know so farB…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-9dcf80c3" data-score="37.4">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://gizmodo.com/jack-dorseys-bitchat-becomes-frances-top-social-app-amid-riots-and-mobile-network-outage-2000829670" target="_blank" rel="noopener">Jack Dorsey’s Bitchat Becomes France’s Top Social App Amid Riots and Mobile Network Outage</a>
+      <div class="item-meta">Gizmodo.com &middot; 2026-10-23T08:00:54Z</div>
+      <p class="item-desc">The French spike in Bitchat interest follows a recent ban in India.</p>
+      <p class="item-extra">Twitter co-founder and current Block CEO Jack Dorseys peer-to-peer messaging app Bitchat has climbed to the number one spot in the Social Networking category of the App Store in France and also enter…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-8753817c" data-score="36.8">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.rferl.org/a/serbia-voting-vucic-election-challenge-fraud-fears/33881552.html" target="_blank" rel="noopener">Serbia&#x27;s Vucic Faces Biggest Election Challenge Yet Amid Fraud Fears</a>
+      <div class="item-meta">Radio Free Europe/ Radio Liberty <span class="moved-tag">reassigned from Migration / Refugee Crisis</span>&middot; 2026-10-23T05:49:50Z</div>
+      <p class="item-desc">After 14 years dominating Serbian politics, Aleksandar Vucic faces the biggest challenge to his rule in parliamentary elections on October 25 from an opposition movement that has sprung from mass student protests. But there’s growing concern about whether vot…</p>
+      
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-fba1886c" data-score="32.5">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://variety.com/2026/film/global/france-riots-hollywood-shoots-alert-theaters-curfew-1236921624/" target="_blank" rel="noopener">France Riots Put Hollywood Shoots on Alert as Curfews Disrupt Movie Theaters: It ‘Has Now Been Flagged as a Problem Area’</a>
+      <div class="item-meta">Variety &middot; 2026-10-23T12:01:43Z</div>
+      <p class="item-desc">In the same year that France has hosted two of television’s most glamorous and escapist international hits — the final season of Netflix’s “Emily in Paris” and Season 4 of HBO’s “The White Lotus” — the country has been shaken by one of its most violent waves …</p>
+      
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-68b7b0b2" data-score="29.6">
+      <div class="thread-flags"><span class="flag">Returning</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://freerepublic.com/focus/f-news/4400388/posts" target="_blank" rel="noopener">Stop pretending the French riots are anything but an attack on civilization</a>
+      <div class="item-meta">Freerepublic.com &middot; 2026-10-24T01:42:06Z</div>
+      <p class="item-desc">France is seeing its worst riots in decades — violence clearly aimed not simply at the ruling party, but at France itself — and the left-liberal establishment is still trying to blame a few bad apples. That’s true not just of President Emmanuel Macron, but of…</p>
+      <p class="item-extra">Skip to comments.
+Stop pretending the French riots are anything but an attack on civilizationNY Post ^
+ | Oct. 18, 2026
+ | Post Editorial
+Posted on 10/23/2026 6:42:06 PM PDT by george76
+France i…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-0ff68c79" data-score="22.1">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://freerepublic.com/focus/f-chat/4400325/posts" target="_blank" rel="noopener">The DSA Is Planning to Import Europe’s Riots and Burn the Republic Down</a>
+      <div class="item-meta">Freerepublic.com &middot; 2026-10-23T17:38:11Z</div>
+      <p class="item-desc">France is on fire. Cars torched, city halls ablaze, hundreds of police officers injured, businesses looted, and the media still calls it “student protests.” It is nothing of the sort. It is a calculated campaign by organized, well-financed hard-left networks …</p>
+      <p class="item-extra">Skip to comments.
+The DSA Is Planning to Import Europes Riots and Burn the Republic Downhttps://jdrucker.com ^
+ | October 23, 2026
+ | Aletheia Doukas 
+Posted on 10/23/2026 10:38:11 AM PDT by bitt…</p>
+    </article>
+      
+      
+    </div>
+    </details>
+  </section>
+
+  <section class="topic" id="T08">
+    <h2>VEO / Regional Insecurity <span class="trend trend-up" title="Coverage up: 2.9 vs 1.0 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage up: 2.9 vs 1.0 average over 7 prior days (a coverage trend, not a measure of events)">▲</span><span class="count">5 stories</span></h2>
+    <p class="narrative">A gunman carried out a racially motivated shooting in the Paris suburbs, killing one and wounding at least five; Macron called it a &quot;racist terrorist attack&quot; (2 outlets). Jordan&#x27;s King Abdullah II vowed the harshest penalties after a reported terrorist attack on a church near Karak that killed at least seven. A single outlet reports attacks in Nigeria&#x27;s Plateau and Kaduna states that left two dead and several abducted.</p>
+    
+    <div class="story-cluster" id="th-062d66b4" data-score="68.1">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/world-news/shooting-in-paris-suburbs-kills-1-wounds-5-macron-condemns-racist-terrorist-attack/articleshow/135161655.cms" target="_blank" rel="noopener">Shooting in Paris suburbs kills 1, wounds 5; Macron condemns ‘racist terrorist attack’</a>
+      <div class="item-meta">The Times of India &middot; 2026-10-24T04:18:26Z</div>
+      <p class="item-desc">A gunman carried out a racially motivated shooting spree in the suburbs of Paris, killing one person. The incident also resulted in injuries to at least five others, including a young girl. Authorities swiftly apprehended the suspect, who had premeditated int…</p>
+      <p class="item-extra">Paris: A gunman firing from a vehicle at three locations in the Paris suburbs killed one person and wounded at least five others, including a 12-year-old girl, in what French authorities described as…</p>
+    </article>
+      
+    <details class="other-sources">
+      <summary>+1 other source on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://rt-english.com/news/647595-france-racist-terrorist-attack/" target="_blank" rel="noopener">Macron brands Paris suburb shooting France’s first ‘racist terrorist attack’</a>
+      <div class="item-meta">Rt-english.com &middot; 2026-10-23T22:30:56Z</div>
+      <p class="item-desc">French President Emmanuel Macron has described a deadly shooting near Paris as the country’s first “racist terrorist attack,” appearing to overlook decades of Islamist terrorism, including the deliberate murders of Jewish people</p>
+      
+    </article>
+    </details>
+      
+    </div>
+
+    <div class="story-cluster" id="th-55316916" data-score="65.5">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/world-news/on-october-23-1983-241-us-marines-died-in-a-terrorist-attack-in-lebanon-it-was-the-deadliest-single-day-loss-for-us-forces-since-wwii/articleshow/135152728.cms" target="_blank" rel="noopener">On October 23, 1983, 241 US marines died in a terrorist attack in Lebanon. It was the deadliest single-day loss for US forces since WWII</a>
+      <div class="item-meta">The Times of India &middot; 2026-10-23T18:34:32Z</div>
+      <p class="item-desc">On October 23, 1983, a truck bomb exploded at the Marine barracks in Beirut, killing 241 American servicemen. This attack occurred during Lebanon&#x27;s civil war, where US troops were part of a peacekeeping mission. The bombing was attributed to Islamic Jihad, wh…</p>
+      <p class="item-extra">One of the deadliest attacks against American forces happened 43 years ago on this day in Beirut. On October 23, 1983, the attack took blace near Beirut International Airport. On that fateful Sunday …</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-23a348c5" data-score="60.6">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.thegatewaypundit.com/2026/10/nigeria-fulani-herdsmen-kill-two-plateau-state-as/" target="_blank" rel="noopener">Nigeria: Fulani Herdsmen Kill Two in Plateau State as Five Christians Are Abducted</a>
+      <div class="item-meta">Thegatewaypundit.com <span class="moved-tag">reassigned from Humanitarian Crisis</span>&middot; 2026-10-23T23:00:02Z</div>
+      <p class="item-desc">Attacks in Plateau and Kaduna states between October 19 and 22 left two people dead, a third ambushed and six others abducted.
+The post Nigeria: Fulani Herdsmen Kill Two in Plateau State as Five Christians Are Abducted appeared first on The Gateway Pundit.</p>
+      <p class="item-extra">A Christian murdered in his home by Fulani Muslims. Photo courtesy of Paul.
+Attacks in Plateau and Kaduna states between October 19 and 22 left two people dead, a third ambushed and six others abduc…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-179f163b" data-score="54.1">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://nationalpost.com/news/world/israel-middle-east/jordan-church-terrorist-attack" target="_blank" rel="noopener">Terrorist attack on church in Jordan kills at least seven, injures dozens</a>
+      <div class="item-meta">National Post &middot; 2026-10-24T01:35:19Z</div>
+      <p class="item-desc">Jordanian King Abdullah II said that those responsible for the terrorist attack near the city of Karak would meet “the harshest penalties.”</p>
+      <p class="item-extra">At least seven people were killed and 28 injured on Friday after unidentified gunmen opened fire on a funeral at a Greek Orthodox Church in Hmoud, Jordan, government officials said.
+THIS CONTENT IS …</p>
+    </article>
+      
+    <details class="other-sources">
+      <summary>+1 other source on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://freerepublic.com/focus/f-news/4400395/posts" target="_blank" rel="noopener">Seven killed as gunmen open fire at church in Jordan in terrorist attack, authorities say</a>
+      <div class="item-meta">Freerepublic.com &middot; 2026-10-24T03:30:03Z</div>
+      <p class="item-desc">Gunmen attacked during funeral procession, state-owned TV says Witness says assailants fired for several minutes King says attack will be met with &#x27;harshest retaliation&#x27; Authorities say extremists carried out terrorist attack UN chief condemns attack AL-MUSHA…</p>
+      <p class="item-extra">Skip to comments.
+Seven killed as gunmen open fire at church in Jordan in terrorist attack, authorities sayReuters ^
+ | 23rd oct2026
+ | Alas al sukhni
+Posted on 10/23/2026 8:30:03 PM PDT by Crono…</p>
+    </article>
+    </details>
+      
+    </div>
+
+    <div class="story-cluster" id="th-5143591a" data-score="38.9">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://punchng.com/2027-police-promise-adequate-security-in-plateau/" target="_blank" rel="noopener">2027: Police promise adequate security in Plateau</a>
+      <div class="item-meta">The Punch <span class="moved-tag">reassigned from Migration / Refugee Crisis</span>&middot; 2026-10-23T09:55:45Z</div>
+      <p class="item-desc">The Plateau State Police Command has assured residents of adequate security for the 2027 elections, vowing to disappoint those predicting violence in the s
+
+Read More: https://punchng.com/2027-police-promise-adequate-security-in-plateau/</p>
+      <p class="item-extra">The Plateau State Police Command has  assured that security agencies would disappoint those predicting violence in the state ahead of the 2027 elections
+The command stated this during a meeting held…</p>
+    </article>
+      
+    <details class="other-sources">
+      <summary>+1 other source on this story</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://punchng.com/police-dss-inec-others-meet-parties-over-2027-election-security-in-plateau/" target="_blank" rel="noopener">Police, DSS, INEC, others meet parties over 2027 election security in Plateau</a>
+      <div class="item-meta">The Punch <span class="moved-tag">reassigned from Migration / Refugee Crisis</span>&middot; 2026-10-23T07:39:03Z</div>
+      <p class="item-desc">Security agencies in Plateau State, including the police and DSS, have met with political parties to ensure a peaceful 2027 general election process.
+
+Read More: https://punchng.com/police-dss-inec-others-meet-parties-over-2027-election-security-in-plateau/</p>
+      <p class="item-extra">The Plateau State Police Command has convened a stakeholders meeting with leaders of political parties and their candidates ahead of the 2027 general elections, with a strong assurance that security …</p>
+    </article>
+    </details>
+      
+    </div>
+  </section>
+
+  <section class="topic" id="T10">
+    <h2>Military Modernization <span class="trend trend-down" title="Coverage down: 1.6 vs 4.0 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 1.6 vs 4.0 average over 7 prior days (a coverage trend, not a measure of events)">▼</span><span class="count">5 stories</span></h2>
+    <p class="narrative">Kim Jong Un reportedly urged commanders to build the world&#x27;s &quot;strongest&quot; military at a two-day meeting in Pyongyang. Other items are lower-confidence or analytical: a zero-source report that a Saudi missile plant expansion may allow more powerful missiles, Japan considering counting energy and AI as defense spending, and pieces on military robot miniaturization and AI competition.</p>
+    
+    <div class="story-cluster" id="th-238f4cba" data-score="57.8">
+      <div class="thread-flags"><span class="flag">Day 2</span><span class="flag flag-grow">▲ Growing</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/defence/kim-jong-un-is-making-worlds-strongest-military-nuclear-weapons-ai-powered-systems-hypersonic-missiles-combat-plan-put-north-korea-in-focus/articleshow/135162192.cms" target="_blank" rel="noopener">Kim Jong Un is making world&#x27;s &#x27;strongest&#x27; military: Nuclear weapons, AI-powered systems, hypersonic missiles &amp; combat plan put North Korea in focus</a>
+      <div class="item-meta">The Times of India <span class="moved-tag">reassigned from Russia / Ukraine</span>&middot; 2026-10-24T04:58:54Z</div>
+      <p class="item-desc">North Korean leader Kim Jong Un urged his military to train to become the strongest in the world at a two-day meeting of company commanders in Pyongyang, state media said Saturday. The Pyongyang event, held Thursday and Friday, was aimed at developing a plan …</p>
+      <p class="item-extra">North Korean leader Kim Jong Un has called on his military to train to become the strongest armed forces in the world at a two-day meeting of company commanders in Pyongyang, state media reported on …</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-0db3322a" data-score="32.8">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://smallwarsjournal.com/2026/10/23/the-miniaturization-of-military-robots/" target="_blank" rel="noopener">The Miniaturization of Military Robots</a>
+      <div class="item-meta">Smallwarsjournal.com &middot; 2026-10-23T06:00:05Z</div>
+      <p class="item-desc">Abstract Advances in Artificial Intelligence (AI), sensors, electronics, and navigation technologies are transforming military robotics, enabling the development of increasingly smaller, lighter, and more autonomous systems. From insect-sized drones and minia…</p>
+      <p class="item-extra">Abstract
+Advances in Artificial Intelligence (AI), sensors, electronics, and navigation technologies are transforming military robotics, enabling the development of increasingly smaller, lighter, an…</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-f5f4a3b2" data-score="28.2">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://slashdot.org/firehose.pl?op=view&amp;amp;id=186427668" target="_blank" rel="noopener">EXCLUSIVE: Saudi missile plant expansion may produce more powerful missiles, study says - Reuters</a>
+      <div class="item-meta">Slashdot.org <span class="moved-tag">reassigned from Nuclear Weaponry / Attack</span>&middot; 2026-10-23T15:33:01Z</div>
+      <p class="item-desc">EXCLUSIVE: Saudi missile plant expansion may produce more powerful missiles, study saysReuters A satellite image shows the solid propellant motor plant in Al DuwadimiThe Lufkin Daily News Saudi Arabia eyes bigger missiles as Houthi threat meets Iran nuclear f…</p>
+      <p class="item-extra">The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.</p>
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-2f4877b1" data-score="17.9">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://biztoc.com/x/c944dfb1723486a0" target="_blank" rel="noopener">Japan may put energy, AI under defense spending</a>
+      <div class="item-meta">Biztoc.com &middot; 2026-10-23T18:18:46Z</div>
+      <p class="item-desc">Japan is considering counting energy purchases and artificial intelligence as defense spending from next fiscal year as Washington pushes its allies to commit more money to security, Nikkei reported o...</p>
+      
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-e556f737" data-score="17.9">
+      <div class="thread-flags"><span class="flag flag-new">New</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://freerepublic.com/focus/f-news/4400334/posts" target="_blank" rel="noopener">Empires of AI</a>
+      <div class="item-meta">Freerepublic.com &middot; 2026-10-23T18:20:40Z</div>
+      <p class="item-desc">In the span of a few years, China and the United States have each assembled something future historians might recognize as a new kind of empire. Their dominions extend not merely over territory, trade routes, and airspace but over knowledge itself. By control…</p>
+      <p class="item-extra">Skip to comments.
+Empires of AIForeign Affairs ^
+ | 10/20/26
+ | Niall Ferguson, Lisa Klaassen, and Eric Schmidt
+Posted on 10/23/2026 11:20:40 AM PDT by EnderWiggin1970
+In the span of a few years…</p>
+    </article>
+      
+      
+    </div>
+  </section>
+
+  <section class="topic" id="T11">
+    <h2>Military Exercise <span class="count">0 stories <span class="count-linked">+1 linked</span></span></h2>
+    <p class="narrative">The only exercise story is the first joint UK-France nuclear air exercise, with RAF Typhoons joining French Rafales; see Nuclear Weaponry / Attack.</p>
+    
+    <div class="refs"><div class="refs-label">Also reported here &mdash; full story elsewhere</div>
+    <div class="story-ref">
+      <a class="item-title" href="https://www.dailymail.com/news/article-16232975/British-French-air-forces-simulate-nuclear-strike.html" target="_blank" rel="noopener">British and French air forces simulate carrying out a nuclear strike in first-ever joint exercise</a>
+      <div class="item-meta">Dailymail.com &middot; part of a larger story under
+        <a class="ref-link" href="#th-eb7e967d">Nuclear Weaponry / Attack</a>: UK-France deepen nuclear defence ties in first joint exercise</div>
+    </div></div>
+  </section>
+
+  <section class="topic" id="T13">
+    <h2>Migration / Refugee Crisis <span class="trend trend-down" title="Coverage down: 0.7 vs 3.4 average over 7 prior days (a coverage trend, not a measure of events)" aria-label="Coverage down: 0.7 vs 3.4 average over 7 prior days (a coverage trend, not a measure of events)">▼</span><span class="count">2 stories</span></h2>
+    <p class="narrative">Italy and Spain agreed to restore their mutual Schengen open-borders arrangement after a months-long impasse following the Ceuta migrant influx, according to one outlet. Bild reportedly says a German immigration office employee was arrested over a human smuggling scheme.</p>
+    
+    <div class="story-cluster" id="th-eb073d0d" data-score="39.8">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.breitbart.com/europe/2026/10/23/italy-and-spain-restore-schengen-open-borders-agreement-months-after-ceuta-invasion/" target="_blank" rel="noopener">Italy and Spain Restore Schengen Open Borders Agreement Months After Ceuta Invasion</a>
+      <div class="item-meta">Breitbart News <span class="moved-tag">reassigned from Military Conflict</span>&middot; 2026-10-23T10:13:47Z</div>
+      <p class="item-desc">The Italian and Spanish governments agreed to restore their mutual Schengen open borders area agreement Thursday, ending a months-long impasse in the wake of the mass illegal migrant invasion of Ceuta.
+The post Italy and Spain Restore Schengen Open Borders Ag…</p>
+      
+    </article>
+      
+      
+    </div>
+
+    <div class="story-cluster" id="th-29341630" data-score="33.9">
+      <div class="thread-flags"><span class="flag">Day 2</span></div>
+      
+    <article class="item">
+      <a class="item-title" href="https://rt-english.com/news/647562-germany-migrant-india-cologne/" target="_blank" rel="noopener">German immigration office hit by human smuggling scandal – Bild</a>
+      <div class="item-meta">Rt-english.com &middot; 2026-10-23T08:43:51Z</div>
+      <p class="item-desc">A German immigration office employee has been arrested over her alleged involvement in a human smuggling scheme, Bild has reported Read Full Article at RT.com</p>
+      <p class="item-extra">An employee of a German immigration office and her husband have been arrested for allegedly assisting a human smuggling ring which brought Indian men into the country through sham marriages in exchan…</p>
+    </article>
+      
+      
+    </div>
+  </section>
+
+  <details class="method">
+    <summary>How stories are ranked and compared</summary>
+    <p>Articles about the same event are grouped into one <b>story</b> by text similarity, across topics.
+       Each story is scored 0&ndash;100 from five parts: independent-source corroboration (30%),
+       source quality (20%), recency (15%), escalation and casualty language (25%),
+       and the topic&rsquo;s severity (10%). Syndicated copies and republisher sites count as one source, not many.
+       Only stories whose best source is an established outlet or better can appear in Top developments.
+       Stories are never hidden for their source &mdash; they are ranked lower.</p>
+    <p>Source categories are functional, not political: <ul class="method-list"><li><b>wire primary</b> &middot; weight 1</li><li><b>established</b> &middot; weight 0.7</li><li><b>press release</b> &middot; weight 0.4</li><li><b>state affiliated</b> &middot; weight 0.3</li><li><b>advocacy opinion</b> &middot; weight 0.3</li><li><b>aggregator</b> &middot; weight 0.15</li><li><b>unclassified</b> &middot; weight 0.4</li></ul></p>
+    <p>This is an automated heuristic. Grouping is approximate (occasionally two events are merged or one is split),
+       scores measure how much and how credibly something is being reported, not how true or important it ultimately is,
+       and trend arrows reflect news coverage volume, not events on the ground.</p>
+  </details>
+</main>
+<button id="gsw-top-btn" type="button" aria-label="Back to top">&uarr; Top</button>
+<script>
+(function() {
+  // Keeps --nav-h (used by section.topic's scroll-margin-top, see :root
+  // above) matched to the sticky topic-nav bar's REAL height -- it wraps to
+  // a different number of rows depending on viewport width, so a single
+  // fixed guess can't stay correct at every width. Re-measures on resize
+  // since a width change can change the wrap count.
+  var nav = document.querySelector(".topic-nav");
+  function syncNavHeight() {
+    if (nav) document.documentElement.style.setProperty("--nav-h", nav.offsetHeight + "px");
+  }
+  syncNavHeight();
+  window.addEventListener("resize", syncNavHeight);
+
+  var topBtn = document.getElementById("gsw-top-btn");
+  function toggleTopBtn() {
+    if (window.scrollY > 500) topBtn.classList.add("visible");
+    else topBtn.classList.remove("visible");
+  }
+  window.addEventListener("scroll", toggleTopBtn, {passive: true});
+  topBtn.addEventListener("click", function() {
+    window.scrollTo({top: 0, behavior: "smooth"});
+  });
+  toggleTopBtn();
+})();
+
+(function() {
+  function openAncestors(id) {
+    var el = id ? document.getElementById(id) : null;
+    for (; el; el = el.parentElement) { if (el.tagName === "DETAILS") el.open = true; }
+    var t = id ? document.getElementById(id) : null;
+    if (t) t.scrollIntoView({block: "start"});
+  }
+  function onHash() { if (location.hash.length > 1) openAncestors(decodeURIComponent(location.hash.slice(1))); }
+  window.addEventListener("hashchange", onHash);
+  onHash();
+})();
+
+</script>
+</body>
+</html>
