@@ -374,7 +374,9 @@ def classify_topic(client, topic_id, arts, topic_defs):
                 entry.update(diag)
                 entry["parsed"] = len(parsed)
             except Exception as e:  # API/network error after the SDK's own retries
-                entry["error"] = f"{type(e).__name__}: {e}"
+                # e.__cause__ is the real reason behind the SDK's generic
+                # "Connection error." (e.g. an illegal character in the key).
+                entry["error"] = f"{type(e).__name__}: {e} (cause: {e.__cause__!r})"
                 if response is not None:
                     entry.update(_response_diagnostics(response))
             log.append(entry)
@@ -461,7 +463,10 @@ def main():
         print(f"No data directory for {today} -- run fetch_news.py first.", file=sys.stderr)
         sys.exit(1)
 
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    # .strip(): a trailing newline/space pasted into the GitHub secret makes the
+    # HTTP client reject the header, which the SDK reports only as
+    # "APIConnectionError: Connection error." and retries every call (~17 min).
+    api_key = (os.environ.get("ANTHROPIC_API_KEY") or "").strip()
     if not api_key:
         print("ANTHROPIC_API_KEY not set -- skipping red team pass entirely; downstream "
               "scripts will fall back to raw (unvetted, untagged) retrieval for every topic.", file=sys.stderr)

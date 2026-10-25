@@ -37,7 +37,7 @@ import requests
 
 from topics import TIER1, TOPICS, TOPIC_SWEEP_ENABLED, EXCLUDE_DOMAINS
 
-API_KEY = os.environ.get("NEWSDATA_KEY")
+API_KEY = (os.environ.get("NEWSDATA_KEY") or "").strip()
 BASE_URL = "https://newsdata.io/api/1/latest"
 REQUEST_TIMEOUT = 15
 REQUEST_PAUSE_SECONDS = 1.5  # a bit more conservative than fetch_news.py's --

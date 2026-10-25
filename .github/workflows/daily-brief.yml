@@ -95,6 +95,18 @@ jobs:
         continue-on-error: true
         run: python scripts/archive.py
 
+      # Deliberately NOT continue-on-error. Every layer above swallows its own
+      # failures so the brief always publishes -- which also means a dead API
+      # key looked like a healthy green run for weeks. This turns "a layer
+      # produced nothing" into a red run (GitHub emails you); the commit step
+      # below is if: always(), so the page still publishes either way. Only
+      # secret *presence* is passed in, never the secrets themselves.
+      - name: Verify Claude layers + newsdata.io actually produced output
+        env:
+          ANTHROPIC_KEY_SET: ${{ secrets.ANTHROPIC_API_KEY != '' }}
+          NEWSDATA_KEY_SET: ${{ secrets.NEWSDATA_KEY != '' }}
+        run: python scripts/check_pipeline.py
+
       # if: always() so whatever data *was* fetched gets committed even if
       # a step above failed outright -- fetched articles live only in the
       # runner's ephemeral workspace until this step saves them, so a
