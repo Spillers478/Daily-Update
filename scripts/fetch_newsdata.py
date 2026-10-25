@@ -59,8 +59,28 @@ MAX_CONSECUTIVE_ERRORS = 3
 
 # newsdata's excludedomain param takes a comma-separated list like
 # NewsAPI's excludeDomains -- reuse the same list from topics.py so both
-# providers apply the same noise-control decisions.
-_EXCLUDE_DOMAINS = EXCLUDE_DOMAINS
+# providers apply the same noise-control decisions...
+#
+# ...EXCEPT newsdata validates every listed domain against its own source
+# database and rejects the ENTIRE request ("UnsupportedFilter ... doesn't
+# exist in our database") if any one is unknown to it. Observed 2026-10-25:
+# these two are unknown, which failed every request and kept newsdata.io from
+# ever contributing an article. They are dropped for newsdata only; NewsAPI
+# keeps them. If you add a domain to topics.py's EXCLUDE_DOMAINS and
+# newsdata starts failing again, add it here too (the 'Verify' CI step will
+# flag it and the fetch log names the offending domain).
+NEWSDATA_UNKNOWN_DOMAINS = {"lifesciencesworld.com", "rlsbb.cc"}
+_EXCLUDE_DOMAINS = ",".join(
+    d.strip() for d in (EXCLUDE_DOMAINS or "").split(",")
+    if d.strip() and d.strip() not in NEWSDATA_UNKNOWN_DOMAINS
+)
+
+# The free plan rejects the `timeframe` param outright ("Access denied! To use
+# the timeframe parameter, please upgrade your plan." -- observed 2026-10-25 on
+# T15), failing that topic's request. Off by default; flip to True only on a
+# paid plan. When off, topics with a newsdata_timeframe simply get the plan's
+# default lookback window.
+SEND_TIMEFRAME = False
 
 _request_count = 0
 
@@ -99,10 +119,11 @@ def _get(params):
 def fetch_latest(query, search_in=None, timeframe=None):
     params = {
         "language": "en",
-        "excludedomain": _EXCLUDE_DOMAINS,
         "removeduplicate": 1,
         "size": 10,  # free-tier max articles per request
     }
+    if _EXCLUDE_DOMAINS:  # an empty excludedomain value is itself a bad filter
+        params["excludedomain"] = _EXCLUDE_DOMAINS
     # newsdata uses a dedicated qInTitle param instead of a searchIn flag
     # alongside q -- see topics.py "search_in" comments (same per-topic
     # decision NewsAPI's searchIn="title" encodes). Anything other than
@@ -117,7 +138,7 @@ def fetch_latest(query, search_in=None, timeframe=None):
     # defaults to 48h). Time-perishable topics (see topics.py's T15
     # "newsdata_timeframe" comment) can narrow this; most topics omit it
     # and get the plan default.
-    if timeframe:
+    if timeframe and SEND_TIMEFRAME:
         params["timeframe"] = timeframe
     return _get(params)
 
@@ -247,7 +268,10 @@ def main(argv=None):
         for key, label, query, search_in, timeframe in targets:
             field = "qInTitle" if search_in == "title" else "q"
             status = "OK" if len(query) <= 100 else "TOO LONG (cap 100)"
-            tf_note = f", timeframe={timeframe}h" if timeframe else ""
+            tf_note = ""
+            if timeframe:
+                tf_note = (f", timeframe={timeframe}h" if SEND_TIMEFRAME
+                           else f", timeframe={timeframe}h NOT SENT (free plan)")
             print(f"{key} - {label}")
             print(f"  {field} ({len(query)} chars, {status}{tf_note}): {query}")
         print(f"\n{len(targets)} topic(s) would be fetched = {len(targets)} credit(s).")
