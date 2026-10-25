@@ -1,7 +1,85 @@
 {
   "status": "ok",
-  "totalResults": 25,
+  "totalResults": 31,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "IMDELLTRA\u00ae IN COMBINATION WITH IMFINZI\u00ae REDUCED RISK OF DEATH BY AN UNPRECEDENTED 58% IN FIRST-LINE EXTENSIVE STAGE SMALL CELL LUNG CANCER",
+      "description": "Nearly 80% of Patients Were Alive at One Year Versus 53% with IMFINZI Alone and Progression-Free Survival More Than Tripled Late-Breaking Phase 3 DeLLphi-305 Results Presented in ESMO Presidential Symposium and Simultaneously Published in The New England Jour\u2026",
+      "url": "https://www.prnewswire.com/news-releases/imdelltra-in-combination-with-imfinzi-reduced-risk-of-death-by-an-unprecedented-58-in-first-line-extensive-stage-small-cell-lung-cancer-302918652.html",
+      "urlToImage": "https://mmx.prnewswire.com/media/MS352354/AMGEN-LOGO-V2.jpg?id=OA3037123&p=facebook",
+      "publishedAt": "2026-10-24T14:30:00Z",
+      "content": "Nearly 80% of Patients Were Alive at One Year Versus 53% with IMFINZI\u00a0Alone and Progression-Free Survival More Than Tripled\r\nLate-Breaking Phase 3 DeLLphi-305 Results\u00a0Presented in ESMO Presidential S\u2026 [+35583 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theaviationist.com"
+      },
+      "author": "David Cenciotti",
+      "title": "Global PHP Security Scare Highlights Why Stealth Matters in Cyberspace",
+      "description": "Critical cybersecurity vulnerabilities recently made headlines, prompting warnings from U.S. and international security agencies. The incident highlights a defensive principle familiar to military aviation: reducing an adversary\u2019s ability to detect and engage\u2026",
+      "url": "https://theaviationist.com/2026/10/24/php-security-scare-stealth/",
+      "urlToImage": "https://theaviationist.com/wp-content/uploads/2026/10/B-2-cyber.jpg",
+      "publishedAt": "2026-10-24T14:10:16Z",
+      "content": "On Oct. 21, 2026, the disclosure of two critical vulnerabilities in PHP, one of the world\u2019s most widely used programming languages for web applications, sent media into a frenzy and triggered widespr\u2026 [+10209 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Ian Bogost",
+      "title": "AI Terrorism Is Just Terrorism",
+      "description": "The new technology hasn\u2019t fundamentally transformed the problem\u2014at least not yet.",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-terrorism-technology/689137/?utm_source=feed",
+      "urlToImage": null,
+      "publishedAt": "2026-10-24T12:00:00Z",
+      "content": "The War on Terror coincided with the rise of the internet, when freshly concerning digital attacks became known as cyberterrorism. Now a new threat has appeared: AI terrorism.Over the past few years,\u2026 [+11054 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+      "description": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine.\n\nThe updater bel\u2026",
+      "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuy-T7iQPeiRqkJd7yhxd2WVQzxURRnLyHG9yz5fUXxIhjUW-bv_yAAt13dnTE1ecuh1w6cRjenRXL3In2b55rL22lXnBhpKrVvS9c5Qb6Bv0TeQPLeAXYoafNYnqYxYQwWnZBCO3e8ZW-HS8Y2GMbQuGz58-_wG7gT6Pcok3j53J4iiZ7jw6kLoGGtWU/s1700-nu-rw-lo-l85-e365/popcorn.jpg",
+      "publishedAt": "2026-10-24T09:04:24Z",
+      "content": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have al\u2026 [+6106 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "UK Emergency Alert: Why Andy Burnham's govt is asking people to store food, keep cash at home & prepare for 3 days without essential services",
+      "description": "The UK government has launched a three-year 'Be Ready' campaign urging households to prepare for emergencies such as extreme weather, wildfires and cyberattacks. The guidance advises Britons to keep three days' worth of essential supplies, including bottled w\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/uk-emergency-alert-why-andy-burnhams-govt-is-asking-people-to-store-food-keep-cash-at-home-prepare-for-3-days-without-essential-services/articleshow/135166409.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-135166470,width-1200,height-900,imgsize-90150,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-24T09:00:09Z",
+      "content": "The UK government has launched a three-year campaign urging households to prepare for emergencies that could disrupt everyday life, from severe weather and wildfires to cyberattacks and failures of e\u2026 [+5507 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Itsfoss.com"
+      },
+      "author": "Abhishek Prakash",
+      "title": "RAID Calculator",
+      "description": "Calculate usable capacity, fault tolerance, and storage efficiency for any RAID or ZFS layout. Also see if there are any risks associated with your rebuilds.",
+      "url": "https://itsfoss.com/tools/raid-calculator/",
+      "urlToImage": "https://itsfoss.com/content/images/2026/10/raid-calculator-feature.png",
+      "publishedAt": "2026-10-24T06:13:58Z",
+      "content": "RAID terms explained\r\nHere is a brief explanation of the terms used on this online RAID calculator.\r\nStriping\r\nData is split into chunks and written across several drives at once. It is fast because \u2026 [+5267 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -313,6 +391,116 @@
       "urlToImage": "https://socialmediaexplorer.com/wp-content/uploads/2026/10/focused-professionals-discussing-data-in-modern-wo-2026-09-22-03-09-06-utc-scaled.jpg",
       "publishedAt": "2026-10-23T00:00:33Z",
       "content": "A ransomware attack rarely announces itself with fanfare. One moment, your systems are humming along; the next, files are encrypted, screens display ransom notes, and panic sets in. How your organiza\u2026 [+3951 chars]"
+    },
+    {
+      "title": "AI and the Red Lines of a Planet under Stress",
+      "url": "https://www.asiasentinel.com/p/artificial-intelligence-red-lines-planet-under-stress",
+      "description": null,
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Asiasentinel"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Holding Iran accountable for its cyber operations",
+      "url": "https://www.wnd.com/2026/10/holding-iran-accountable-its-cyber-operations/",
+      "description": "Has disrupted water supply and healthcare, threatens energy and telecommunications",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Worldnetdaily"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Daily 'AI for Work' Pulse: 25th of October",
+      "url": "https://completeaitraining.com/newsletter/daily-ai-for-work-pulse-25th-of-october-2/",
+      "description": "Ease into your Sunday with 11 new AI tools and 17 AI news articles. Solid mix of fresh finds and quick reads to keep you sharp heading into the week.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Complete Ai Training"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Global PHP Security Scare Highlights Why Stealth Matters in Cyberspace",
+      "url": "https://www.bundle.app/en/technology/global-php-security-scare-highlights-why-stealth-matters-in-cyberspace-22C9BB83-BAB1-528F-9550-857C284B502A",
+      "description": null,
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Bundle"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "EQS-Adhoc: HomeToGo SE: Unauthorized data exfiltration at subsidiary SECRA Bookings GmbH",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69927103-eqs-adhoc-hometogo-se-unauthorized-data-exfiltration-at-subsidiary-secra-bookings-gmbh-023.htm",
+      "description": "EQS-Ad-hoc: HomeToGo SE / Key word(s): Other HomeToGo SE: Unauthorized data exfiltration at subsidiary SECRA Bookings GmbH 24-Oct-2026 / 23:44 CET/CEST Disclosure of an inside information acc. to ...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Finanznachrichten.de"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Global Cybersecurity Alert: Critical PHP vulnerabilities raise fears of website disruptions and data exposure",
+      "url": "https://organiser.org/2026/10/24/420252/bharat/global-cybersecurity-alert-critical-php-vulnerabilities-raise-fears-of-website-disruptions-and-data-exposure/",
+      "description": "A series of critical vulnerabilities in PHP, one of the internet\u2019s widely used programming languages, has triggered a global cybersecurity alert, raising concerns about the security of government portals, business websites and other online services. The reported flaws could allow attackers to execute malicious code remotely on vulnerable servers, potentially compromising systems, exposing sensitive information and disrupting digital services. The vulnerabilities, identified in the reports as CVE-2026-109618 and CVE-2026-109619, prompted security updates from the PHP development team on October 21, 2026. Governments and organisations have reportedly restricted access to some online services as a precaution while administrators assess their systems and apply the necessary fixes. India\u2019s Computer Emergency Response Team (CERT-In) also issued an advisory on October 22, warning that the vulnerabilities could allow remote attackers to execute arbitrary code and potentially compromise affected systems. The incident highlights the risks associated with weaknesses in widely deployed software. It also underlines the importance of timely security updates, responsible vulnerability disclosure and coordinated action by software developers, website operators and cybersecurity agencies. What are the PHP vulnerabilities? PHP is an open-source, server-side programming language used to develop dynamic websites and web applications. It allows websites to process information, communicate with databases, manage user requests and display content based on the information received from visitors. Because PHP is widely used across the internet, vulnerabilities in its underlying components can create security risks for a broad range of online services. These may include government portals, business websites, educational platforms and other services that rely on affected PHP versions. The two reported vulnerabilities involve memory corruption and improper handling of internal program data. Under certain conditions, an attacker could exploit these weaknesses to execute unauthorised code on a vulnerable server. Remote code execution is considered a serious security risk because it can allow an attacker to run commands or malicious instructions on a targeted system. Depending on the server\u2019s configuration and the privileges available to the attacker, a successful exploit could lead to further compromise. Potential consequences include unauthorised access to information, changes to website content, disruption of services and attempts to gain access to other components of an affected system. The actual impact would depend on several factors, including the PHP version in use, the configuration of the server, the applications running on it and whether additional security measures are in place. The existence of a vulnerability does not automatically mean that every website using PHP is exposed. The risk depends on whether the system is running an affected version and whether the flaw can be exploited in its particular environment. Also Read: Vijay Prashad & Tricontinental Services: Marxist Guru\u2019s \u2018No Connection\u2019 Claim Under Fire Over $900,000 Funding Why is the threat considered serious? The reported vulnerabilities have raised concern because they could allow remote code execution without requiring an attacker to authenticate first. Authentication normally requires a user to prove their identity before accessing protected areas of a system. A vulnerability that can be exploited without authentication may remove that initial barrier, making vulnerable internet-facing systems particularly important to assess. If an attacker successfully exploits a flaw, the consequences could extend beyond a temporary website disruption. Depending on the access obtained, the attacker might attempt to retrieve sensitive information, modify files, install malicious software or interfere with the normal functioning of the server. Government websites and public-facing platforms are especially important because they may provide access to official information, public services and systems that handle sensitive data. The circulation of technical details and proof-of-concept exploits has added to the concerns surrounding the reported vulnerabilities. Proof-of-concept material demonstrates how a vulnerability might be exploited under particular conditions. Its availability can help security professionals understand and test a flaw, but it can also lower the technical barrier for malicious actors seeking to develop attacks. This makes the period between a vulnerability\u2019s disclosure and the widespread application of security patches particularly important. Organisations that continue to operate vulnerable systems may remain exposed until the necessary updates or other protective measures are implemented. Why are government websites being taken offline? According to the reports, governments and organisations in several countries have temporarily suspended or restricted access to online services as a precautionary measure. Taking a website offline can help administrators limit exposure while they investigate whether their systems are vulnerable. It may also provide time to apply security updates, test affected applications and review server configurations before restoring public access. The decision can be particularly important for websites that are accessible directly through the internet. If an application is vulnerable and cannot be patched immediately, temporarily restricting access may reduce the opportunity for attackers to exploit it. Administrators may also work with hosting providers and security teams to identify affected systems and determine whether additional precautions are necessary. How did Artificial Intelligence help identify the vulnerabilities? Artificial intelligence is increasingly being used to support cybersecurity research, including the identification of weaknesses in software code. According to the reports, an OpenAI research initiative involving AI-assisted vulnerability discovery contributed to identifying a critical PHP flaw. The work involved collaboration with software maintainers and cybersecurity partners to investigate and address vulnerabilities around the time of their public disclosure. AI tools can help researchers examine large amounts of source code, identify suspicious patterns and investigate situations in which software may not behave as intended. They can also assist with analysing potential vulnerabilities and developing tests that help researchers understand the conditions under which a flaw might occur. These capabilities may speed up parts of the vulnerability discovery process. Software projects can contain large and complex codebases, making automated assistance useful when researchers are trying to identify potential weaknesses. Collaboration with software maintainers is also important because developers understand the structure of the affected software and can assess how a proposed fix might affect existing applications. Artificial intelligence is not a substitute for human expertise, independent testing or responsible disclosure. Researchers must still verify findings and work with the relevant maintainers to ensure that vulnerabilities are addressed appropriately. The same technology can [\u2026]",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Organiser Weekly"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Metaverse Stocks To Watch Today \u2013 October 24th",
+      "url": "https://zolmax.com/investing/metaverse-stocks-to-watch-today-october-24th/12046861.html",
+      "description": "Everbright Digital, Global Mofy AI, HUB Cyber Security, and Robot Consulting are the five Metaverse stocks to watch today, according to MarketBeat\u2019s stock screener tool. Metaverse stocks are shares of publicly traded companies that develop or support virtual and augmented reality, immersive digital environments, online gaming, digital assets, or the hardware and infrastructure that enable [\u2026]",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Zolmax"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Data Science vs AI vs Cyber Security: Which Career is Better in 2026?",
+      "url": "https://www.analyticsinsight.net/courses/data-science-vs-ai-vs-cyber-security-which-career-is-better-in-2026",
+      "description": "Compare AI, data science, and cybersecurity career prospects in 2026. Learn about industry demand, beginner skills, and long-term opportunities.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Analytics And Insight"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Comparing Data Storage (NASDAQ:DTST) and PT Telekomunikasi Indonesia, Tbk (NYSE:TLK)",
+      "url": "https://baseballnewssource.com/2026/10/24/comparing-data-storage-nasdaqdtst-and-pt-telekomunikasi-indonesia-tbk-nysetlk/11318927.html",
+      "description": "PT Telekomunikasi Indonesia, Tbk (NYSE:TLK \u2013 Get Free Report) and Data Storage (NASDAQ:DTST \u2013 Get Free Report) are both communication services companies, but which is the better investment? We will compare the two businesses based on the strength of their earnings, risk, valuation, dividends, analyst recommendations, institutional ownership and profitability. Risk and Volatility PT Telekomunikasi [\u2026]",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Bbns"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Africa-Wide Cybercrime Operation Recovers More Than $105 Million",
+      "url": "https://www.itsecuritynews.info/africa-wide-cybercrime-operation-recovers-more-than-105-million/",
+      "description": "During an international cybercrime operation coordinated across 21 countries, INTERPOL has arrested 1,462 suspects and disrupted 10,909 malicious\u2026 Read more \u2192 The post Africa-Wide Cybercrime Operation Recovers More Than $105 Million appeared first on IT Security News.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "It Security News"
+      },
+      "_provider": "newsdata.io"
     }
   ]
 }

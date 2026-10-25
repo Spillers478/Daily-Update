@@ -1,5 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 1,
-  "articles": []
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Ukraine says Starlink connection 'now stable' after network limits - BBC",
+      "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "url": "https://www.bbc.com/news/articles/cwkg5md14j8go",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6049/live/9c0d0c10-cf9a-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-10-24T11:17:35Z",
+      "content": "\"This result is above all important for our front, for our soldiers, for the operation of drones, for logistics and for communications,\" he said in a statement on Saturday."
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Ben Finley, Seung Min Kim",
+      "title": "Ukrainian negotiator says local humanitarian ceasefire with Russia will start Tuesday - AP News",
+      "description": "Ukraine\u2019s top negotiator involved in a humanitarian mission led by U.S. first lady Melania Trump has told The Associated Press that a local ceasefire with Russia will start Tuesday \u2014 two days before the mission begins \u2014 and last several days. Ukrainian, Russi\u2026",
+      "url": "https://apnews.com/article/russia-ukraine-war-ceasefire-oleshky-melania-trump-60167627316e0e2f62fc359cf78f317d",
+      "urlToImage": "https://dims.apnews.com/dims4/default/92d5e1d/2147483647/strip/true/crop/6138x4092+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fef%2Ff3%2Fab41c9423e32d1d87ccb46add99b%2Fdcc1ce989cff448daee00393129edcd3",
+      "publishedAt": "2026-10-23T20:04:00Z",
+      "content": "WASHINGTON (AP) Ukraines top negotiator involved in a humanitarian mission led by U.S. first lady Melania Trump told The Associated Press that a local ceasefire with Russia will start Tuesday two day\u2026 [+7388 chars]"
+    }
+  ]
 }

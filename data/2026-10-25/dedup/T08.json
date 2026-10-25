@@ -1,13 +1,53 @@
 {
   "groups": {
-    "https://www.thegatewaypundit.com/2026/10/nigeria-fulani-herdsmen-kill-two-plateau-state-as/": "a",
-    "https://economictimes.indiatimes.com/news/international/world-news/shooting-in-paris-suburbs-kills-1-wounds-5-macron-condemns-racist-terrorist-attack/articleshow/135161655.cms": "b",
-    "https://freerepublic.com/focus/f-news/4400395/posts": "c",
-    "https://nationalpost.com/news/world/israel-middle-east/jordan-church-terrorist-attack": "c",
-    "https://rt-english.com/news/647595-france-racist-terrorist-attack/": "b",
-    "https://economictimes.indiatimes.com/news/international/world-news/on-october-23-1983-241-us-marines-died-in-a-terrorist-attack-in-lebanon-it-was-the-deadliest-single-day-loss-for-us-forces-since-wwii/articleshow/135152728.cms": "d",
-    "https://punchng.com/2027-police-promise-adequate-security-in-plateau/": "e",
-    "https://punchng.com/police-dss-inec-others-meet-parties-over-2027-election-security-in-plateau/": "f"
+    "https://www.rferl.org/a/opium-taliban-afghanistan-pakistan-iran/33882824.html": "a",
+    "https://www.thegatewaypundit.com/2026/10/nigeria-fulani-herdsmen-kill-two-plateau-state-as/": "b",
+    "https://www.theatlantic.com/ideas/2026/10/ai-terrorism-technology/689137/?utm_source=feed": "c",
+    "https://freerepublic.com/focus/f-news/4400424/posts": "d",
+    "https://sputnikglobe.com/20261024/russia-strongly-condemns-terrorist-attack-in-jordan-1124930792.html": "e",
+    "https://economictimes.indiatimes.com/news/international/world-news/shooting-in-paris-suburbs-kills-1-wounds-5-macron-condemns-racist-terrorist-attack/articleshow/135161655.cms": "f",
+    "https://freerepublic.com/focus/f-news/4400395/posts": "e",
+    "https://nationalpost.com/news/world/israel-middle-east/jordan-church-terrorist-attack": "e",
+    "https://rt-english.com/news/647595-france-racist-terrorist-attack/": "f",
+    "https://economictimes.indiatimes.com/news/international/world-news/on-october-23-1983-241-us-marines-died-in-a-terrorist-attack-in-lebanon-it-was-the-deadliest-single-day-loss-for-us-forces-since-wwii/articleshow/135152728.cms": "g",
+    "https://twitchy.com/brettt/2026/10/24/emmanuel-macrons-memory-of-terrorist-attacks-in-france-is-pretty-spotty-n2433691": "f",
+    "https://www.nation.com.pk/25-Oct-2026/pakistan-strongly-condemns-terrorist-attack-karak-jordan": "e",
+    "https://www.aa.com.tr/en/middle-east/russia-condemns-church-attack-in-jordan-s-karak-calls-it-cynical-terrorist-act-/4099738": "e",
+    "https://menafn.com/1111860174/Spain-Condemns-Terrorist-Attack-On-Church-In-Karak": "e",
+    "https://menafn.com/1111860176/France-Condemns-Terrorist-Attack-On-Church-In-Karak": "e",
+    "https://menafn.com/1111860171/Pakistan-Condemns-Terrorist-Attack-In-Karak": "e",
+    "https://www.france24.com/en/macron-condemns-racist-terrorist-attack-in-paris-suburb": "f",
+    "https://english.aawsat.com/node/5333112": "e",
+    "https://www.bluewin.ch/en/news/terrorist-attack-near-paris-arrests-made-among-the-suspect-s-associates-li.3647324": "f",
+    "http://www.sabanew.net/viewstory/154546": "e",
+    "https://punchng.com/2027-police-promise-adequate-security-in-plateau/": "h",
+    "https://punchng.com/police-dss-inec-others-meet-parties-over-2027-election-security-in-plateau/": "i",
+    "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack": "e",
+    "https://www.christiantoday.com/news/8-killed-in-attack-on-church-in-jordan": "e",
+    "https://slashdot.org/firehose.pl?op=view&amp;id=186434666": "e"
   },
-  "contradictions": []
+  "contradictions": [
+    {
+      "group": "e",
+      "claim_type": "figures",
+      "summary": "Sources give different death tolls for the Karak church attack: seven killed versus eight killed.",
+      "sources": [
+        {
+          "source": "Freerepublic.com",
+          "url": "https://freerepublic.com/focus/f-news/4400395/posts",
+          "says": "Seven killed as gunmen opened fire at the church"
+        },
+        {
+          "source": "National Post",
+          "url": "https://nationalpost.com/news/world/israel-middle-east/jordan-church-terrorist-attack",
+          "says": "At least seven killed, dozens injured"
+        },
+        {
+          "source": "Christiantoday.com",
+          "url": "https://www.christiantoday.com/news/8-killed-in-attack-on-church-in-jordan",
+          "says": "8 killed in the attack on the church"
+        }
+      ]
+    }
+  ]
 }

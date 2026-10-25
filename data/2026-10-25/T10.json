@@ -1,7 +1,46 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 14,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Caller"
+      },
+      "author": "Francis Kapper",
+      "title": "Japan Pushes Back On Nuclear Shift Speculation As Debate Over America\u2019s Nukes Heats Up",
+      "description": "Japan is considering a historic reversal of its nuclear weapons restrictions, potentially allowing American nuclear weapons in Japan.",
+      "url": "https://dailycaller.com/2026/10/24/japan-american-nukes-debate",
+      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/GettyImages-2295342974%20(1).jpg",
+      "publishedAt": "2026-10-24T14:15:04Z",
+      "content": "Japan insists its longstanding nuclear weapons policy remains unchanged, even as officials consider a historic shift that could allow American nuclear weapons onto Japanese territory amid growing thr\u2026 [+8349 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Caller"
+      },
+      "author": "Sean Moran",
+      "title": "America\u2019s Companies Keep Flirting With Security Nightmare That\u2019s \u2019100 Times\u2019 Worse Than TikTok",
+      "description": "A rising San Francisco human resources startup\u2019s use of a blacklisted Chinese AI lab\u2019s model is setting off alarm bells.",
+      "url": "https://dailycaller.com/2026/10/24/rippling-american-companies-chinese-ai",
+      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/Zhipu%20Getty.jpg",
+      "publishedAt": "2026-10-24T13:55:49Z",
+      "content": "A rising San Francisco human resources startups use of a blacklisted Chinese AI labs model is setting off alarm bells as Beijing continues to reel in American companies.\r\nRippling touts itself as a o\u2026 [+10879 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Chase Codewell",
+      "title": "Investigators Announce Completion of Drone Procurement Embezzlement Case in Ukraine",
+      "description": "Investigation Concludes $5.65 Million Drone Fraud Allegations Ukrainian anti-corruption authorities announced the completion of a criminal investigation into a military drone procurement scheme that allegedly diverted more than $5.65 million, or 254 million h\u2026",
+      "url": "https://www.naturalnews.com/2026-10-24-investigators-announce-completion-drone-procurement-embezzlement-case-ukraine.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/drone-procurement-fraud-embezzlement-case-ukraine-corruption-5480-8b35eeff-original.jpg",
+      "publishedAt": "2026-10-24T06:00:00Z",
+      "content": "Investigation Concludes $5.65 Million Drone Fraud Allegations\r\nUkrainian anti-corruption authorities announced the completion of a criminal investigation into a military drone procurement scheme that\u2026 [+5772 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,6 +157,116 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108336562-1784291550321-gettyimages-2267794925-AFP_A4NR4UR.jpeg?v=1784291586&w=1920&h=1080",
       "publishedAt": "2026-10-23T05:52:54Z",
       "content": "Swedish defense giant Saab reported better-than-expected third-quarter earnings and revenue on Friday, as new orders more than tripled from a year earlier, boosted by a deal to supply Gripen fighter \u2026 [+1584 chars]"
+    },
+    {
+      "title": "Italy Unrest: Water Cannons, Tear Gas Fired As Rome Protests Turn Violent; Security Up Across Cities",
+      "url": "https://www.news18.com/world/italy-protests-police-use-water-cannons-protesters-clash-in-rome-ws-l-10396510.html",
+      "description": "Police in Rome used water cannons and tear gas against protesters after clashes near Piazza della Repubblica amid demonstrations across Italy.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "News 18"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Israel needs sanctions-proof economy \u2013 Netanyahu",
+      "url": "https://rt-english.com/news/647625-israel-sanctions-alternative-economy-netanyahu/",
+      "description": "Netanyahu urges Israel to prepare for possible sanctions as warnings over US aid and criticism at home sharpen the debate ahead of elections Read Full Article at RT.com",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Rt"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Articles On: China\u2019s Military, Taiwan, Maritime Security, US-Japan Defense Cooperation, Nuclear Submarines, Drone Warfare, and Space Technology",
+      "url": "https://cms.hoover.org/research/articles-chinas-military-taiwan-maritime-security-us-japan-defense-cooperation-nuclear",
+      "description": "Articles on the comprehensive military modernization and expansion program undertaken by the Chinese Communist Party, which supports an increasingly aggressive foreign policy and threatens the safety of China's neighbors.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Hoover Institution"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Capitalist economic crisis spills onto the streets of France",
+      "url": "https://independentaustralia.net/politics/politics-display/capitalist-economic-crisis-spills-onto-the-streets-of-france,21717",
+      "description": "A capitalist economic crisis has erupted on the streets of France, with citizens protesting austerity measures being met with tear gas and stun grenades. read now...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Independent Australia"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Protests in Rome too: Demonstrators throw bottles at police, who respond with water cannons and tear gas VIDEO",
+      "url": "https://www.b92.net/english/politics/279315/protests-in-rome/vest",
+      "description": "Clashes between protesters and police broke out today in central Rome after demonstrators attempted to continue marching toward government buildings, the Italian news agency ANSA reported.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "B92 - Internet"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "The protests spread to other cities in Italy",
+      "url": "https://en.ara.cat/international/the-protests-spread-to-other-cities-in-italy_1_5889858.html",
+      "description": "Protests have spread this Saturday to the main cities of Italy, after a protest last weekend against the rising cost of living and the deterioration of purchasing power degenerated into serious riots and looting in Milan, in the north of the country, and ended with 200 people arrested. On this occasion, there has been a new demonstration in Milan, but also in Rome, Turin, Florence, Naples, and Bologna. All have taken place without serious incidents, but there have been moments of tension. The police have arrested a total of nine people across the country, identified 4,292, and taken 371 to the police station, 110 of whom are minors.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Diari Ara"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "America\u2019s companies keep fighting with security nightmare \u2018100 times\u2019 worse than TikTok",
+      "url": "https://www.wnd.com/2026/10/americas-companies-keep-fighting-security-nightmare-100-times/",
+      "description": "Blacklisted Chinese AI lab's model is setting off alarm bells",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Worldnetdaily"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "The strategic value of smaller Gulf States in collective defense",
+      "url": "https://weeklyblitz.net/2026/10/25/the-strategic-value-of-smaller-gulf-states-in-collective-defense/",
+      "description": "Collective defense is often measured through military spending, troop numbers, advanced weapons and the ability to sustain combat operations. Yet these conventional indicators do not fully capture what makes an alliance effective. Strategic geography, access to critical infrastructure, operational coordination and political commitment can be equally important. The experience of the Gulf Cooperation Council (GCC) [\u2026] The post The strategic value of smaller Gulf States in collective defense appeared first on BLiTZ.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Blitz"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "The economy wounded by the war also marks Israel's elections",
+      "url": "https://en.ara.cat/international/the-economy-wounded-by-the-war-also-marks-israel-s-elections_130_5889598.html",
+      "description": "The cost of rent, shopping, transport and bills has become one of the main concerns for Israeli families. Four days before the October 27th elections, many are wondering if the next government will be able to ease this pressure after more than three years of war and high military spending. Security remains central to the campaign, but the economy also weighs on the vote. A survey by the research center Israel Democracy Institute (IDI) indicates that the cost of living and the economy are priorities for 38% of Jewish respondents and 46% of Arabs. A malaise that is especially concentrated on the rising cost of housing and food, two structural problems that have been dragging on for years.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Diari Ara"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Are we safe in Europe?",
+      "url": "https://en.ara.cat/international/are-we-safe-in-europe_130_5889590.html",
+      "description": "The Cold War is a distant memory and a ghost is once again haunting Europe. At least, Western Europe. That of a hot war or, at the very least, a hybrid one, which manifests itself in many ways: sabotage, drones, cyberattacks, the use of immigration as a tool of destabilization... \"We have entered a new era of deterrence,\" predicts security and defense expert Juraj Majcin. Eighty-one years after the defeat of Nazism, the outbreak of a widespread conflict, extending beyond what is now being fought in Ukraine following the invasion by Vladimir Putin's Russia, no longer seems an improbable scenario, and this will be, precisely, one of the topics of the new edition of Enfoquem, next Monday.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Diari Ara"
+      },
+      "_provider": "newsdata.io"
     }
   ]
 }

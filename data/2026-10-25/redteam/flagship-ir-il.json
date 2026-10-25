@@ -2,114 +2,100 @@
   "articles": [
     {
       "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Neria Kraus",
+      "title": "Former Israeli military chief Gadi Eisenkot who could displace Netanyahu touts \u2018deep bonds\u2019 with US",
+      "description": "The former chief of staff if the Israel Defense Forces Gadi Eisenkot who could supplant President Benjamin Netanuyahu is touting the \"deep bonds\" between Israel and the US at a time US support for Israel has been under severe strain.",
+      "url": "https://nypost.com/2026/10/24/world-news/former-idf-chief-who-could-displace-netanyahu-cites-us-bonds/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146309414.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-24T14:50:53Z",
+      "content": "Former Israel Defense Forces chief of staff Gadi Eisenkot, who hopes to unseat Prime Minister Benjamin Netanyahu in Tuesday\u2019s elections, is touting the deep bonds between Israel and the US at a time \u2026 [+7559 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Meg Kinnard, Josh Boak, The Associated Press",
+      "title": "Trump suggests U.S. warships \u2018do a little stopover\u2019 in Cuba after Iran war, while Rubio pushes Cubans toward a \u2018discrete partnership with the CIA\u2019",
+      "description": "Both Rubio and Trump have been bullish on action in Cuba, with Trump previously suggesting the country would \"be next\u201d in terms of intervention abroad.",
+      "url": "https://fortune.com/2026/10/24/trump-us-warships-cuba-iran-war-rubio-discrete-partnership-cia/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/AP26296684834689-e1792852511565.jpg?resize=1200,600",
+      "publishedAt": "2026-10-24T14:44:03Z",
+      "content": "President\u00a0Donald Trump\u00a0on Friday told a rally for candidates in South Florida that U.S. warships returning from the Middle East could stop over in\u00a0Cuba\u00a0on their way back from the Iran war, his latest\u2026 [+4090 chars]",
+      "cocom": "USSOUTHCOM"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AFP",
+      "title": "Houthis say Saudi strikes kill 11 after missiles intercepted",
+      "description": "Saudi airstrikes in the Yemeni capital Sanaa reportedly killed 11 civilians amid recent escalations. Houthi forces have intensified missile attacks targeting Saudi cities, raising security concerns across the region. The Saudi-led coalition claimed to have in\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/houthis-say-saudi-strikes-kill-11-after-missiles-intercepted/articleshow/135171879.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-135171889,width-1200,height-900,imgsize-178330,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-24T13:47:04Z",
+      "content": "Riyadh: Houthi media reported that Saudi strikes killed 11 people in Yemeni capital Sanaa on Saturday, shortly after the Saudi-led coalition fighting them said it had intercepted two missiles targeti\u2026 [+2325 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Military.com"
+      },
+      "author": "MLT Staff",
+      "title": "Trump at South Florida Rally Revives the Idea of Military Intervention in Cuba After Iran",
+      "description": "Marco Rubio posted on X, urging Cubans \u201cto seize this opportunity to create the change you desire through a discrete partnership with the CIA.\u201d",
+      "url": "https://military.com/trump-at-south-florida-rally-revives-the-idea-of-military-intervention-in-cuba-after-iran",
+      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/10/many_people_holding_up_political_placards_at_an_election_rally_for_presidential_candidate_donald_trump_in_aurora_colorado_on_october_11th_2024.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-10-24T13:45:43Z",
+      "content": "FORT MYERS, Fla. (AP) President Donald Trump on Friday told a rally for candidates in South Florida that U.S. warships returning from the Middle East could stop over in Cuba on their way back from th\u2026 [+4276 chars]",
+      "cocom": "USSOUTHCOM"
+    },
+    {
+      "source": {
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
-      "author": "Justin Salhani",
-      "title": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
-      "description": "Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country.",
-      "url": "https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-20T190125Z_128840624_RC2PXLAFPVRR_RTRMADP_3_IRAN-CRISIS-LEBANON-SOUTH-AFTERMATH-1782010844.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-10-24T05:04:32Z",
-      "content": "Beirut, Lebanon As Israels October 27 election nears, so does the possibility that the government that has overseen the invasion and reoccupation of southern Lebanon could be deposed.\r\nBut for people\u2026 [+5672 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Richard Cantillon",
-      "title": "As Donald Trump weighs up options, could inflation be about to get worse?",
-      "description": "Reports of US escalation plan in Iran send oil prices up again",
-      "url": "https://www.irishtimes.com/business/2026/10/24/as-donald-trump-weighs-up-options-could-inflation-be-about-to-get-worse/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/ISPPKSEFHDKZEUAFZRODOXDHDA.jpg?smart=true&auth=14641ee28bdb6b13e477f8b76631b60a82524edf34c8bee10f93d0062b31b81d&width=1200&height=630",
-      "publishedAt": "2026-10-24T05:00:01Z",
-      "content": "Reports that the US is planning further strikes on Iran potentially after the US midterm elections next month have triggered another surge in oil prices. Brent crude, the international benchmark for \u2026 [+2182 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Oil exports from Persian Gulf 'surpassed pre-conflict levels', claims US Treasury Secy Bessent",
-      "description": "US Treasury Secretary Scott Bessent announced that oil exports from the Persian Gulf have exceeded pre-conflict levels. This development occurred despite ongoing Iranian threats to disrupt energy shipments to global markets. Iranian state media reported two s\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/oil-exports-from-persian-gulf-surpassed-pre-conflict-levels-claims-us-treasury-secy-bessent/articleshow/135161661.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-135161660,width-1200,height-900,imgsize-98229,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-24T04:13:50Z",
-      "content": "Washington DC: US Treasury Secretary Scott Bessent on Friday (local time) said oil exports from the Persian Gulf had surpassed pre-conflict levels despite Iran's efforts to disrupt energy shipments, \u2026 [+4538 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "https://www.abc.net.au/news/matthew-doran/5511636, https://www.abc.net.au/news/sami-sockol/105896914",
-      "title": "Years of conflict splits voters in former Netanyahu stronghold",
-      "description": "Israelis are headed to an election that will have a profound impact on the country after years of conflict and social upheaval. But can Benjamin Netanyahu survive?",
-      "url": "https://www.abc.net.au/news/2026-10-24/israel-election-wars-split-opinions-on-benjamin-netanyahu/107287178",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/dd6fc569f6e7c5dbcb7739719a4b9b98?impolicy=wcms_watermark_news&cropH=2385&cropW=4240&xPos=0&yPos=10&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-10-24T04:11:35Z",
-      "content": "As lunchtime trade wanders through the door and with the smell of barbecued meat hanging in the air, kebab shop founder Amnon Oved smiles as he offers a rather blunt assessment of the state of Israel\u2026 [+7635 chars]",
+      "author": "Maziar Motamedi",
+      "title": "Iran says won\u2019t allow US warships to get close as Trump ponders new attacks",
+      "description": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6adcacbb-1792847035.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-24T13:06:03Z",
+      "content": "Tehran, Iran Irans armed forces say they are prepared to fire on United States warships as President Donald Trump said Washington was still deliberating new attacks or continued pressure on Iran.\r\nTr\u2026 [+6714 chars]",
       "cocom": "USCENTCOM"
     },
     {
       "source": {
         "id": null,
-        "name": "Rt-english.com"
+        "name": "PCMag.com"
       },
-      "author": "RT",
-      "title": "Trump threatens another \u2018little Epic Fury\u2019 against Iran",
-      "description": "US President Donald Trump has threatened to launch another military operation against Iran, as Washington quietly withdraws diplomatic personnel and relocates troops from bases across the Middle East",
-      "url": "https://rt-english.com/news/647597-trump-another-epic-fury/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.10/article/6adc2f3820302729e774d7e3.jpg",
-      "publishedAt": "2026-10-24T04:08:43Z",
-      "content": "US President Donald Trump has threatened to launch another military operation against Iran, as Washington quietly withdraws diplomatic personnel and relocates troops from bases across the Middle East\u2026 [+2903 chars]",
+      "author": "Will Mccurdy",
+      "title": "Iran Has \u2018Detailed Plans\u2019 to Attack Undersea Cables, Says Report",
+      "description": "Analysts told Reuters that the attacks, if successful, could slow down internet services and disrupt financial transactions, e-commerce and cloud computing.\nIran reportedly has \u201cdetailed plans\u201d to attack undersea cables in the Gulf, in the event of future att\u2026",
+      "url": "https://uk.pcmag.com/security/168079/iran-has-detailed-plans-to-attack-undersea-cables-says-report",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/i/iran-has-d/iran-has-detailed-plans-to-attack-undersea-cables-says-repor_sshz.1200.jpg",
+      "publishedAt": "2026-10-24T12:59:22Z",
+      "content": "Iran reportedly has detailed plans to attack undersea cables in the Gulf, in the event of future attacks by Israel or the US.\r\nFiber-optic undersea cables carry the vast majority of the worlds intern\u2026 [+2146 chars]",
       "cocom": "USCENTCOM"
     },
     {
       "source": {
         "id": null,
-        "name": "Juancole.com"
+        "name": "Fair Observer"
       },
-      "author": "The Conversation",
-      "title": "Why ultra-Orthodox Parties hold so much Sway in Israeli Politics",
-      "description": "As Likud\u2019s changing coalition shows, Netanyahu\u2019s alliances are strategic rather than ideological.",
-      "url": "https://www.juancole.com/2026/10/orthodox-parties-politics.html",
-      "urlToImage": "https://media.juancole.com/images/2026/10/juanma-clemente-alloza-cXHVU6C8GgY-unsplash.jpg",
-      "publishedAt": "2026-10-24T04:04:23Z",
-      "content": "By Hannah Ridge, Chapman University; Institute for Humane Studies\r\n(The Conversation) \u2013 On Oct. 20, 2026, a week before Israels elections, dozens of men were detained on suspicion of evading the draf\u2026 [+8821 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Americanthinker.com"
-      },
-      "author": null,
-      "title": "Another October Surprise?",
-      "description": "Photo Credit:Trump, Iran, illustration\n \n grokBy Kenneth R. TimmermanThe Democrats would\u00a0love the Iranians to pull off their own October Surprise this year.",
-      "url": "https://www.americanthinker.com/articles/2026/10/another-october-surprise/",
-      "urlToImage": "https://images.americanthinker.com/q7/q7ub1yh8neqrzc8ktx54_1200.jpg",
-      "publishedAt": "2026-10-24T04:00:00Z",
-      "content": "The Democrats first invented the term \u201cOctober Surprise\u201d in 1980, to describe what they claimed were secret efforts by the Reagan campaign to delay the release of our hostages in Tehran until after t\u2026 [+6557 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Pranjal Pandey",
-      "title": "'Another little Epic Fury': Trump issues new warning; Iran says 'don't play with fire'",
-      "description": "US President Donald Trump threatened Iran with potential military action if no diplomatic agreement is reached soon. He referenced the previous operation named 'Epic Fury' while addressing supporters in Florida. Additionally, US intelligence reports indicate \u2026",
-      "url": "https://timesofindia.indiatimes.com/world/us/another-little-epic-fury-trump-issues-new-warning-iran-says-dont-play-with-fire/articleshow/135160331.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-135160476,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-24T03:05:51Z",
-      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>'Another little Epic Fury': Trump issues new warning; Iran says 'don't play with fire'</li></ul>\r\nFollow Us On Social Media\r\n'When I call\u2026 [+2371 chars]",
+      "author": "James M. Dorsey",
+      "title": "Entrenched US and Iranian Strategies Make Renewed War Inevitable",
+      "description": "US President Donald Trump\u2019s rejection of Iran\u2019s proposal to conditionally open the Strait of Hormuz is no surprise. In fact, Iran likely expected Mr. Trump to reject it, although the Islamic Republic sweetened the proposal by envisioning a quick return of rel\u2026",
+      "url": "https://www.fairobserver.com/region/middle_east_north_africa/entrenched-us-and-iranian-strategies-make-renewed-war-inevitable/",
+      "urlToImage": "https://www.fairobserver.com/wp-content/uploads/2026/10/USIran.jpg",
+      "publishedAt": "2026-10-24T12:33:41Z",
+      "content": "US President Donald Trumps rejection of Irans proposal to conditionally open the Strait of Hormuz is no surprise. In fact, Iran likely expected Mr. Trump to reject it, although the Islamic Republic s\u2026 [+4950 chars]",
       "cocom": "USCENTCOM"
     },
     {
@@ -128,6 +114,170 @@
       "_original_topic_id": "T01"
     },
     {
+      "title": "Al-Manar correspondent: An Israeli airstrike targeted the Wadi al-Hujair area, and there has been artillery shelling on the town of al-Mansouri in southern Lebanon",
+      "url": "https://english.almanar.com.lb/article/142367/",
+      "description": null,
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "\u0627\u0644\u0645\u0646\u0627\u0631"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T01"
+    },
+    {
+      "title": "Palestinian killed and 3 others injured in occupation army shelling on Gaza City",
+      "url": "https://alquds.com/en/posts/264728-palestinian-killed-and-3-others-injured-in-occupation-army-shelling-on-gaza-city",
+      "description": "Young man Mohammed Al-Rawagh was killed and 3 others were injured as a result of a drone strike by the occupation army targeting pedestrians in the vicinity of Palestine Stadium in the Al-Rimal neighborhood, west of Gaza.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T01"
+    },
+    {
+      "title": "Israeli Attacks, Artillery Shelling Continue Across Southern Lebanon",
+      "url": "https://english.almanar.com.lb/article/142227/",
+      "description": "Israeli occupation forces continued their attacks across southern Lebanon on Saturday, in further violations of Lebanese sovereignty, UN Security Council Resolution 1701, and international law. Al-Manar correspondent reported that an Israeli small attack drone dropped a stun grenade near farmers in the town of Yatar, causing no injuries. Israeli occupation forces also fired flare bombs \u2026",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "\u0627\u0644\u0645\u0646\u0627\u0631"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T01"
+    },
+    {
+      "title": "Florida Aligns With California and More US States as UAE Travel Alert Raises Armed Conflict and Security Fears",
+      "url": "https://www.travelandtourworld.com/news/article/k5u9mzc1o5uj/",
+      "description": "Florida Aligns With California and More US States as UAE Travel Alert Raises Armed Conflict and Security Fears US travel advisory urges Americans to reconsider UAE trips amid terrorism, armed conflict and aviation risks following heightened regional security concerns The post Florida Aligns With California and More US States as UAE Travel Alert Raises Armed Conflict and Security Fears appeared first on Travel And Tour World.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Travel And Tour World"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T01"
+    },
+    {
+      "title": "Alikhbariah TV Reports Israeli Shelling Near Two Quneitra Villages",
+      "url": "https://econotimes.com/Alikhbariah-TV-Reports-Israeli-Shelling-Near-Two-Quneitra-Villages-1761938",
+      "description": "Alikhbariah TV reported a shell fired toward Hamidiyah\u2019s northern outskirts and artillery targeting the outskirts of western Zubayda.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Econotimes"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T01"
+    },
+    {
+      "title": "Taiz Residents Bury 18 Victims of Houthi Shelling",
+      "url": "http://www.sabanew.net/viewstory/154510",
+      "description": "TAIZ-SABA Residents of Taiz Governorate on Friday buried 18 victims, most of them civilians, including Mushira and her father, who were killed when Iranian-backed Houthi militias shelled their home on Mount Saber. Funeral prayers were held at Al-Saeed Mosque in Taiz City, attended by Governor Nabil Shamsan, local officials, military and security leaders, political party representatives, and large crowds of mourners. Governor Shamsan offered condolences to the victims\u2019 families and wished the wounded a speedy recovery. He said the attacks would only strengthen Taiz residents\u2019 determination to continue the national struggle to liberate the governorate and break the Houthi siege.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "\u0633\u0628\u0623 \u0646\u062a"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T01"
+    },
+    {
+      "title": "Israeli airstrikes, artillery shelling hit southern Lebanon amid intensified drone activity",
+      "url": "https://www.aa.com.tr/en/middle-east/israeli-airstrikes-artillery-shelling-hit-southern-lebanon-amid-intensified-drone-activity/4098794",
+      "description": "Attacks target areas near Nabatieh, while Israeli drones fly at low altitude over Beirut and Tyre, according to Lebanese state media",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Anadolu Agency"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T01"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Fayha Shalash",
+      "title": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
+      "description": "Already struggling after losing homes to Israeli military operations, Palestinians face hardship as WFP halves aid.",
+      "url": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/Fawza-Awad-lives-in-a-small-room-after-being-displaced-from-Tulkarem-Camp.-Photo-by-Hatem-Hamdan-1792771470.jpg?resize=1600%2C1080",
+      "publishedAt": "2026-10-24T07:09:55Z",
+      "content": "Tulkarem, occupied West Bank Fawza Awad, a 75-year-old widow, couldnt hold back her tears as she described the living conditions she has endured since being displaced from the Tulkarem refugee camp i\u2026 [+7116 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T02"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Coco Somers",
+      "title": "UN Food Agency Cuts Gaza Aid by One-Third Amid Funding Shortages",
+      "description": "The World Food Programme announced earlier this week that it is reducing food assistance to Gaza by approximately one-third, a move the UN agency attributed to funding shortages that will leave about half a million people without access to critical aid [1][2]\u2026",
+      "url": "https://www.naturalnews.com/2026-10-24-un-food-agency-cuts-gaza-aid-one-third.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/un-food-agency-gaza-aid-cut-famine-risk-5520-7d3f1ce3-original.jpg",
+      "publishedAt": "2026-10-24T06:00:00Z",
+      "content": "The World Food Programme announced earlier this week that it is reducing food assistance to Gaza by approximately one-third, a move the UN agency attributed to funding shortages that will leave about\u2026 [+7364 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T02"
+    },
+    {
+      "title": "Israeli forces detain three during latest incursion in southern Syria",
+      "url": "https://www.arabnews.pk/middle-east/israeli-forces-detain-three-during-latest-incursion-in-southern-syria-3005187",
+      "description": "QUNEITRA: Israeli forces detained three people during an incursion into northern Quneitra countryside on Saturday, according to Syria\u2019s state news agency SANA, as Damascus renewed calls for international action to halt Israeli operations on its territory. A force comprising several military vehicles advanced to the al-Kassarat intersection near Jbata al-Khashab, where troops established a checkpoint and searched passersby, SANA reported, citing its correspondent in Quneitra. Another Israeli forc",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Arab News Pk"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T03"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "Chris Brown",
+      "title": "Why a new round in the U.S.-Iran conflict could be the most devastating yet",
+      "description": "As the U.S. midterm elections approach, intelligence analysts warn that the United States and Israel are preparing for a devastating third round of direct military conflict with Iran.  Experts caution that the region is locked in a dangerous, open-ended war o\u2026",
+      "url": "https://www.cbc.ca/news/world/united-states-iran-conflict-next-round-9.7392215",
+      "urlToImage": "https://i.cbc.ca/ais/85b8bfe7-c524-4a78-bc87-1d97c40f6bed,1792763121204/full/max/0/default.jpg?im=Crop%2Crect%3D%2812%2C0%2C3805%2C2140%29%3BResize%3D620",
+      "publishedAt": "2026-10-24T08:00:00Z",
+      "content": "The warning signs are flashing red with indications that once the ballots are counted in the U.S. midterm elections, the United States and Israel will relaunch their war with Iran.\u00a0\r\nThe next round o\u2026 [+9178 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Nour Odeh",
+      "title": "How Benjamin Netanyahu reshaped Israel\u2019s institutions",
+      "description": "As Israel heads to the polls on October 27, its polarising and longest-serving prime minister is seeking re-election.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac01956-1790974294.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-24T05:29:07Z",
+      "content": "To his supporters, he is known as King Bibi; but to his opponents, he is the king of security failures and corruption.\r\nDisputes over names aside, what is not in question is that Benjamin Netanyahu, \u2026 [+5073 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T05"
+    },
+    {
       "source": {
         "id": null,
         "name": "CNA"
@@ -139,51 +289,6 @@
       "urlToImage": "https://dam.mediacorp.sg/image/upload/s--kI7ZF7mq--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-20T102707Z_2_LYNXMPEM9J0T5_RTROPTP_3_IRAN-CRISIS.JPG?itok=DTu2TvLS",
       "publishedAt": "2026-10-24T00:40:14Z",
       "content": "JERUSALEM: The United States could strike Iran as soon as this weekend, a US envoy said Friday (Oct 23), after mounting threats by both Washington and Israel.\r\n\"Could there be a strike this weekend? \u2026 [+1292 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T05"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mediaite"
-      },
-      "author": "Alex Griffing",
-      "title": "Trump Confronted About Top Amb Saying \u2018Absolutely\u2019 Iran Strikes Possible This Weekend",
-      "description": "\u201cCould there be a strike this weekend? Absolutely,\u201d Tom Barrack said, adding, \u201cThe president is very clear.\"\nThe post Trump Confronted About Top Amb Saying \u2018Absolutely\u2019 Iran Strikes Possible This Weekend first appeared on Mediaite.",
-      "url": "https://www.mediaite.com/media/news/trump-confronted-about-top-amb-saying-absolutely-iran-strikes-possible-this-weekend/",
-      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2026/10/ron.jpg",
-      "publishedAt": "2026-10-23T20:25:41Z",
-      "content": "President Donald Trump was asked on Friday about US Ambassador to Turkey Tom Barrack telling a podcaster that there absolutely could be a US strike on Iran this weekend.\r\nBarrack, a top GOP donor who\u2026 [+2364 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T05"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Foreign Policy"
-      },
-      "author": "Alexandra Sharp",
-      "title": "Netanyahu Orders Large-Scale Military Operation in West Bank",
-      "description": "Israeli forces will go \u201chouse to house\u201d after two soldiers were killed in a shooting.",
-      "url": "http://foreignpolicy.com/2026/10/23/netanyahu-israel-military-operation-west-bank-hebron-refugee-camps/",
-      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/10/IsraelHebron-GettyImages-2301068392.jpg",
-      "publishedAt": "2026-10-23T20:22:10Z",
-      "content": "Welcome back to World Brief, where were looking at Israeli military action in the West Bank, Taiwan bracing for Typhoon Champi, and a powerful earthquake in Tibet.\r\nIs Hebron the Next Jenin?\r\nTwo Pal\u2026 [+7515 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T05"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Israelnationalnews.com"
-      },
-      "author": "Israel National News",
-      "title": "US Ambassador to Turkey: Could there be an Iran strike this weekend? Absolutely",
-      "description": "US Ambassador Tom Barrack says military strikes on Iran could happen this weekend, warning Trump is serious about taking action if diplomacy fails. Trump responds: I don\u2019t know anything about it.",
-      "url": "https://www.israelnationalnews.com/news/435075",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1197437.jpg",
-      "publishedAt": "2026-10-23T19:43:28Z",
-      "content": "COULD THERE BE A STRIKE THIS WEEKEND? \"ABSOLUTELY\" - Trump's Special Envoy Amb. Tom Barrac\r\nUS Ambassador to Turkey Tom Barrack said Friday that the United States could launch military strikes agains\u2026 [+5777 chars]",
       "cocom": "USCENTCOM",
       "_original_topic_id": "T05"
     },
@@ -204,151 +309,16 @@
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Oil exports from Persian Gulf 'surpassed pre-conflict levels', claims US Treasury Secy Bessent",
-      "description": "US Treasury Secretary Scott Bessent announced that oil exports from the Persian Gulf have exceeded pre-conflict levels. This development occurred despite ongoing Iranian threats to disrupt energy shipments to global markets. Iranian state media reported two s\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/oil-exports-from-persian-gulf-surpassed-pre-conflict-levels-claims-us-treasury-secy-bessent/articleshow/135161661.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-135161660,width-1200,height-900,imgsize-98229,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-24T04:13:50Z",
-      "content": "Washington DC: US Treasury Secretary Scott Bessent on Friday (local time) said oil exports from the Persian Gulf had surpassed pre-conflict levels despite Iran's efforts to disrupt energy shipments, \u2026 [+4538 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Rt-english.com"
+        "name": "New York Post"
       },
-      "author": "RT",
-      "title": "Trump threatens another \u2018little Epic Fury\u2019 against Iran",
-      "description": "US President Donald Trump has threatened to launch another military operation against Iran, as Washington quietly withdraws diplomatic personnel and relocates troops from bases across the Middle East",
-      "url": "https://rt-english.com/news/647597-trump-another-epic-fury/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.10/article/6adc2f3820302729e774d7e3.jpg",
-      "publishedAt": "2026-10-24T04:08:43Z",
-      "content": "US President Donald Trump has threatened to launch another military operation against Iran, as Washington quietly withdraws diplomatic personnel and relocates troops from bases across the Middle East\u2026 [+2903 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "author": "Joshua Klein",
-      "title": "Trump Threatens Iran Strike \u2014 \u2018We May Do Another Little Epic Fury\u2019",
-      "description": "President Donald Trump warned Friday that the United States could launch another round of military strikes against Iran unless Tehran reaches an agreement, escalating his threats as Washington intensifies economic pressure on the Islamic Republic.\nThe post Tr\u2026",
-      "url": "https://www.breitbart.com/politics/2026/10/23/trump-threatens-iran-strike-another-little-epic-fury/",
-      "urlToImage": "https://media.breitbart.com/media/2025/06/spc-djt-flickr-640x335.png",
-      "publishedAt": "2026-10-24T00:22:43Z",
-      "content": "President Donald Trump warned Friday that the United States could launch another round of military strikes against Iran unless Tehran reaches an agreement, escalating his threats as Washington intens\u2026 [+5529 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Common Dreams"
-      },
-      "author": "Jessica Corbett",
-      "title": "'We May Do Another Little Epic Fury,' Trump Says After Claiming Not to Know About Possible Strike on Iran",
-      "description": "When President Donald Trump landed in Florida for a Friday campaign rally, he dismissed comments from one of his own ambassadors that the US could strike Iran this weekend as part of his illegal nearly eight-month war\u2014but once the commander-in-chief took the \u2026",
-      "url": "https://www.commondreams.org/news/iran-war-trump",
-      "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=68518952&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
-      "publishedAt": "2026-10-23T21:06:32Z",
-      "content": "When President Donald Trump landed in Florida for a Friday campaign rally, he dismissed comments from one of his own ambassadors that the US could strike Iran this weekend as part of his illegal near\u2026 [+2664 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mediaite"
-      },
-      "author": "Alex Griffing",
-      "title": "Trump Confronted About Top Amb Saying \u2018Absolutely\u2019 Iran Strikes Possible This Weekend",
-      "description": "\u201cCould there be a strike this weekend? Absolutely,\u201d Tom Barrack said, adding, \u201cThe president is very clear.\"\nThe post Trump Confronted About Top Amb Saying \u2018Absolutely\u2019 Iran Strikes Possible This Weekend first appeared on Mediaite.",
-      "url": "https://www.mediaite.com/media/news/trump-confronted-about-top-amb-saying-absolutely-iran-strikes-possible-this-weekend/",
-      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2026/10/ron.jpg",
-      "publishedAt": "2026-10-23T20:25:41Z",
-      "content": "President Donald Trump was asked on Friday about US Ambassador to Turkey Tom Barrack telling a podcaster that there absolutely could be a US strike on Iran this weekend.\r\nBarrack, a top GOP donor who\u2026 [+2364 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Israelnationalnews.com"
-      },
-      "author": "Israel National News",
-      "title": "US Ambassador to Turkey: Could there be an Iran strike this weekend? Absolutely",
-      "description": "US Ambassador Tom Barrack says military strikes on Iran could happen this weekend, warning Trump is serious about taking action if diplomacy fails. Trump responds: I don\u2019t know anything about it.",
-      "url": "https://www.israelnationalnews.com/news/435075",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1197437.jpg",
-      "publishedAt": "2026-10-23T19:43:28Z",
-      "content": "COULD THERE BE A STRIKE THIS WEEKEND? \"ABSOLUTELY\" - Trump's Special Envoy Amb. Tom Barrac\r\nUS Ambassador to Turkey Tom Barrack said Friday that the United States could launch military strikes agains\u2026 [+5777 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Israelnationalnews.com"
-      },
-      "author": "Elad Benari, Canada",
-      "title": "Trump on Iran: We could take the whole country",
-      "description": "President Trump says Iran is economically crippled and the US controls the Strait of Hormuz, while leaving open the possibility of further military strikes.",
-      "url": "https://www.israelnationalnews.com/news/435073",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1225125.jpg",
-      "publishedAt": "2026-10-23T18:07:14Z",
-      "content": "US President Donald Trump said Friday that Iran has been severely weakened economically and militarily, suggesting that Washington could either intensify its campaign against the Islamic Republic or \u2026 [+3202 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Jason Ma",
-      "title": "Energy markets are adapting to the Iran war as a \u2018forever conflict\u2019 while oil producers keep supplies flowing and avoid \u2018mutually assured destruction\u2019",
-      "description": "\"Repeated supply shocks are driving a lasting reconfiguration of trade routes and energy corridors, and tail risks remain elevated.\"",
-      "url": "https://fortune.com/2026/10/23/oil-prices-energy-markets-iran-war-forever-conflict-hormuz-persian-gulf-mutually-assured-destruction/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2293738554-e1792762477916.jpg?resize=1200,600",
-      "publishedAt": "2026-10-23T16:41:31Z",
-      "content": "Despite Iran stepping up attacks on tankers in the Strait of Hormuz, the flow of oil from the region is actually above prewar levels as Persian Gulf states hold off on crossing certain red linesfor n\u2026 [+4512 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mondoweiss"
-      },
-      "author": "Mitchell Plitnick",
-      "title": "How the upcoming U.S. and Israeli elections could lead to the third round of the Iran war",
-      "description": "The upcoming U.S. and Israeli elections will likely lead Donald Trump and Benjamin Netanyahu to renew their misguided war on Iran with even greater ferocity than before in an effort to save their own political lives.",
-      "url": "https://mondoweiss.net/2026/10/how-the-upcoming-u-s-and-israeli-elections-could-lead-to-the-third-round-of-the-iran-war/",
-      "urlToImage": "https://mondoweiss.net/wp-content/uploads/2026/10/54639879537_3722da884c_k-scaled.jpg",
-      "publishedAt": "2026-10-23T16:38:19Z",
-      "content": "There is little doubt that the United States and Israel are about to renew the war on Iran that they started without provocation, or any real planning, back in February. The question is only about th\u2026 [+11028 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "T\u00fcrkiye warns against renewed strikes on Iran as Istanbul hosts high-level talks",
-      "description": "T\u00fcrkiye on Oct. 23 warned that any renewed attack on Iran would risk broadening the war and spreading conflict across the region, as Istanbul hosted senior diplomats from key regional powers and European countries for high-level talks.",
-      "url": "https://www.hurriyetdailynews.com/turkiye-warns-against-renewed-strikes-on-iran-as-istanbul-hosts-high-level-talks-228536",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6adb8308f76ded1a9ad0e11b.jpg",
-      "publishedAt": "2026-10-23T15:54:00Z",
-      "content": "Berfin Yorta\u00e7- ISTANBUL\r\nAA photo.\r\nT\u00fcrkiye on Oct. 23 warned that any renewed attack on Iran would risk broadening the war and spreading conflict across the region, as Istanbul hosted senior diploma\u2026 [+4136 chars]",
+      "author": "Neria Kraus",
+      "title": "Former Israeli military chief Gadi Eisenkot who could displace Netanyahu touts \u2018deep bonds\u2019 with US",
+      "description": "The former chief of staff if the Israel Defense Forces Gadi Eisenkot who could supplant President Benjamin Netanuyahu is touting the \"deep bonds\" between Israel and the US at a time US support for Israel has been under severe strain.",
+      "url": "https://nypost.com/2026/10/24/world-news/former-idf-chief-who-could-displace-netanyahu-cites-us-bonds/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146309414.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-24T14:50:53Z",
+      "content": "Former Israel Defense Forces chief of staff Gadi Eisenkot, who hopes to unseat Prime Minister Benjamin Netanyahu in Tuesday\u2019s elections, is touting the deep bonds between Israel and the US at a time \u2026 [+7559 chars]",
       "cocom": "USCENTCOM",
       "_original_topic_id": "T07"
     },
@@ -357,13 +327,103 @@
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
-      "author": "Ali Harb",
-      "title": "\u2018Foreign policy is the economy\u2019: How Iran war is shaping US midterm vote",
-      "description": "Democrats are framing the conflict as an affordability issue to criticise Republican candidates backed by Trump.",
-      "url": "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/freelance-1-1792696560.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-10-23T15:51:29Z",
-      "content": "Detroit, Michigan The first question in the United States Senate debate in Michigan between Democratic candidate Abdul El-Sayed and his Republican rival Mike Rogers was about the issue that appears t\u2026 [+6163 chars]",
+      "author": "Maziar Motamedi",
+      "title": "Iran says won\u2019t allow US warships to get close as Trump ponders new attacks",
+      "description": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6adcacbb-1792847035.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-24T13:06:03Z",
+      "content": "Tehran, Iran Irans armed forces say they are prepared to fire on United States warships as President Donald Trump said Washington was still deliberating new attacks or continued pressure on Iran.\r\nTr\u2026 [+6714 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fair Observer"
+      },
+      "author": "James M. Dorsey",
+      "title": "Entrenched US and Iranian Strategies Make Renewed War Inevitable",
+      "description": "US President Donald Trump\u2019s rejection of Iran\u2019s proposal to conditionally open the Strait of Hormuz is no surprise. In fact, Iran likely expected Mr. Trump to reject it, although the Islamic Republic sweetened the proposal by envisioning a quick return of rel\u2026",
+      "url": "https://www.fairobserver.com/region/middle_east_north_africa/entrenched-us-and-iranian-strategies-make-renewed-war-inevitable/",
+      "urlToImage": "https://www.fairobserver.com/wp-content/uploads/2026/10/USIran.jpg",
+      "publishedAt": "2026-10-24T12:33:41Z",
+      "content": "US President Donald Trumps rejection of Irans proposal to conditionally open the Strait of Hormuz is no surprise. In fact, Iran likely expected Mr. Trump to reject it, although the Islamic Republic s\u2026 [+4950 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internationalpolicy.org"
+      },
+      "author": "Sina Toossi",
+      "title": "To End the Iran War, the US Must Understand Tehran's Perspective",
+      "description": "The war between the United States and Iran persists in a dangerous strategic stalemate. As Washington maintains a punishing economic and maritime blockade, Tehran continues to restrict passage through the Strait of Hormuz, imposing mounting costs on the Unite\u2026",
+      "url": "https://internationalpolicy.org/publications/war-has-changed-tehran-washington-should-take-notice/",
+      "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=66984181&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
+      "publishedAt": "2026-10-24T11:18:03Z",
+      "content": "The war between the United States and Iran persists in a dangerous strategic stalemate. As Washington maintains a punishing economic and maritime blockade, Tehran continues to restrict passage throug\u2026 [+12140 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Iran claims Strait of Hormuz control, warns US warships against entering Persian Gulf amid fresh strike threat",
+      "description": "Iran has declared full control over the strategic Strait of Hormuz and warned against US military entry. Meanwhile, US officials hinted at the possibility of an imminent strike on Iran amid ongoing diplomatic efforts. Iranian military leaders have dismissed c\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-claims-strait-of-hormuz-control-warns-us-warships-against-entering-persian-gulf-amid-fresh-strike-threat/articleshow/135166686.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-135167068,width-1200,height-900,imgsize-228808,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-24T09:29:49Z",
+      "content": "The Islamic Revolutionary Guard Corps (IRGC), on Saturday, claimed it maintained full control over the Strait of Hormuz. It also warned that it would not allow US military vessels to enter the Persia\u2026 [+4263 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Stephen Quillen",
+      "title": "Why is Israel launching a new military operation in the occupied West Bank?",
+      "description": "Netanyahu says 'we will destroy this place' as Israeli forces begin days-long operation with raids and demolitions.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adc5fcbc7e5-1792827339.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-24T09:14:40Z",
+      "content": "Israels military has launched another major operation in the occupied West Bank, during which it plans to carry out mass arrests, demolish homes and forcibly displace residents.\r\nThe operation comes \u2026 [+6673 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "Chris Brown",
+      "title": "Why a new round in the U.S.-Iran conflict could be the most devastating yet",
+      "description": "As the U.S. midterm elections approach, intelligence analysts warn that the United States and Israel are preparing for a devastating third round of direct military conflict with Iran.  Experts caution that the region is locked in a dangerous, open-ended war o\u2026",
+      "url": "https://www.cbc.ca/news/world/united-states-iran-conflict-next-round-9.7392215",
+      "urlToImage": "https://i.cbc.ca/ais/85b8bfe7-c524-4a78-bc87-1d97c40f6bed,1792763121204/full/max/0/default.jpg?im=Crop%2Crect%3D%2812%2C0%2C3805%2C2140%29%3BResize%3D620",
+      "publishedAt": "2026-10-24T08:00:00Z",
+      "content": "The warning signs are flashing red with indications that once the ballots are counted in the U.S. midterm elections, the United States and Israel will relaunch their war with Iran.\u00a0\r\nThe next round o\u2026 [+9178 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Garrison Vance",
+      "title": "U.S. and Israel Reportedly Drafting Major Assault Plans Against Iran After Midterm Elections",
+      "description": "Initial Report Details Military Planning Against Iranian Infrastructure The United States and Israel have reportedly developed plans for a major assault on Iran targeting the country\u2019s nuclear, energy, and defense infrastructure, according to a person briefed\u2026",
+      "url": "https://www.naturalnews.com/2026-10-24-us-israel-planning-iran-assault-after-midterms.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/us-iran-conflict-israeli-military-planning-iranian-infrastructure-5521-40c1daec-original.jpg",
+      "publishedAt": "2026-10-24T06:00:00Z",
+      "content": "Initial Report Details Military Planning Against Iranian Infrastructure\r\nThe United States and Israel have reportedly developed plans for a major assault on Iran targeting the country's nuclear, ener\u2026 [+7889 chars]",
       "cocom": "USCENTCOM",
       "_original_topic_id": "T07"
     },
@@ -443,6 +503,60 @@
       "_original_topic_id": "T10"
     },
     {
+      "title": "Israel needs sanctions-proof economy \u2013 Netanyahu",
+      "url": "https://rt-english.com/news/647625-israel-sanctions-alternative-economy-netanyahu/",
+      "description": "Netanyahu urges Israel to prepare for possible sanctions as warnings over US aid and criticism at home sharpen the debate ahead of elections Read Full Article at RT.com",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Rt"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T10"
+    },
+    {
+      "title": "The economy wounded by the war also marks Israel's elections",
+      "url": "https://en.ara.cat/international/the-economy-wounded-by-the-war-also-marks-israel-s-elections_130_5889598.html",
+      "description": "The cost of rent, shopping, transport and bills has become one of the main concerns for Israeli families. Four days before the October 27th elections, many are wondering if the next government will be able to ease this pressure after more than three years of war and high military spending. Security remains central to the campaign, but the economy also weighs on the vote. A survey by the research center Israel Democracy Institute (IDI) indicates that the cost of living and the economy are priorities for 38% of Jewish respondents and 46% of Arabs. A malaise that is especially concentrated on the rising cost of housing and food, two structural problems that have been dragging on for years.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Diari Ara"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T10"
+    },
+    {
+      "title": "\u2018It\u2019s a military exercise, OK?\u2019: President Donald Trump downplays Iran war after Pentagon raises official US military death toll to 21 and reports 865 service members wounded",
+      "url": "https://www.newsbreak.com/wonderwall-316270490/4964306147425-it-s-a-military-exercise-ok-president-donald-trump-downplays-iran-war-after-pentagon-raises-official-us-military-death-toll-to-21-and-reports-865-service-members-wounded",
+      "description": null,
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Newsbreak"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T11"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "John Hayward",
+      "title": "China Uses Djibouti Outpost to Assert Itself on Houthi Attacks",
+      "description": "China and Djibouti released a joint communique on Thursday supporting freedom of navigation in the Red Sea and Bab el-Mandeb Strait, which are currently under threat from the Iran-backed Houthi insurgents of Yemen.\nThe post China Uses Djibouti Outpost to Asse\u2026",
+      "url": "https://www.breitbart.com/africa/2026/10/23/china-uses-djibouti-outpost-to-assert-itself-on-houthi-attacks/",
+      "urlToImage": "https://media.breitbart.com/media/2026/10/HVPmSeyWwAA-640x335.jpg",
+      "publishedAt": "2026-10-23T21:39:48Z",
+      "content": "China and Djibouti released a joint communique on Thursday supporting freedom of navigation in the Red Sea and Bab el-Mandeb Strait, which are currently under threat from the Iran-backed Houthi insur\u2026 [+3677 chars]",
+      "cocom": "USAFRICOM",
+      "_original_topic_id": "T14"
+    },
+    {
       "source": {
         "id": null,
         "name": "Hurriyet Daily News"
@@ -454,6 +568,58 @@
       "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6adb8308f76ded1a9ad0e11b.jpg",
       "publishedAt": "2026-10-23T15:54:00Z",
       "content": "Berfin Yorta\u00e7- ISTANBUL\r\nAA photo.\r\nT\u00fcrkiye on Oct. 23 warned that any renewed attack on Iran would risk broadening the war and spreading conflict across the region, as Istanbul hosted senior diploma\u2026 [+4136 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "title": "Saudi-led coalition forces, Houthis trade blows; 16 dead in Sanaa, Hodeida",
+      "url": "https://www.dawn.com/news/2039561/saudi-led-coalition-forces-houthis-trade-blows-16-dead-in-sanaa-hodeida",
+      "description": "Houthi media says air raids leave casualties in Sanaa, Hodeida and Mocha; rebel group claims strikes on Aden, airports.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Dawn"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "title": "Houthis strike Saudi airports, energy sites and Aden after blaming Riyadh for deadly attacks",
+      "url": "https://www.malaymail.com/news/world/2026/10/25/houthis-strike-saudi-airports-energy-sites-and-aden-after-blaming-riyadh-for-deadly-attacks/240484",
+      "description": "RIYADH, Oct 25 \u2014 Yemen\u2019s Houthis launched fresh attacks on Saudi Arabia and the seat of Yemen\u2019s intern...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Malay Mail"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "title": "Saudi-led coalition claims to intercept Houthi missile launched towards Riyadh",
+      "url": "https://www.aninews.in/news/world/middle-east/saudi-led-coalition-claims-to-intercept-houthi-missile-launched-towards-riyadh20261025102417/",
+      "description": "The Saudi-led coalition on Sunday claimed to have intercepted and destroyed a ballistic missile launched by the Houthi militia towards the Saudi capital, Riyadh.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Ani (asian News International)"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "title": "Drone attacks camp of Iranian Kurdish opposition in Iraqi Kurdistan \u2014 news outlet",
+      "url": "https://tass.com/world/2207367",
+      "description": "No information has been provided about casualties or the aftermath of the attack",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "\u0422\u0430\u0441\u0441"
+      },
+      "_provider": "newsdata.io",
       "cocom": "USCENTCOM",
       "_original_topic_id": "T14"
     }

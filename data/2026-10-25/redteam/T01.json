@@ -3,21 +3,6 @@
     {
       "source": {
         "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "MEG KINNARD Associated Press, JOSH BOAK Associated Press",
-      "title": "Trump at South Florida rally revives the idea of military intervention in Cuba after Iran",
-      "description": "President Donald Trump says U.S. warships returning from Iran could stop in Cuba",
-      "url": "https://abcnews.com/US/wireStory/trump-south-florida-rally-revives-idea-military-intervention-137524179",
-      "urlToImage": "https://i.abcnewsfe.com/a/8990216e-c13f-4c0b-8a07-dd963cd879b6/wirestory_3b33aab6719558e289632e974c7a82ad_16x9.jpg?w=1600",
-      "publishedAt": "2026-10-24T05:01:25Z",
-      "content": "FORT MYERS, Fla. -- President Donald Trump on Friday told a rally for candidates in South Florida that U.S. warships returning from the Middle East could stop over in Cuba on their way back from the \u2026 [+4269 chars]",
-      "cocom": "USSOUTHCOM",
-      "_original_topic_id": "flagship-ir-il"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Biztoc.com"
       },
       "author": "breakingthenews.net",
@@ -88,19 +73,30 @@
       "_original_topic_id": "T02"
     },
     {
+      "title": "Desert Storm, Desert Shield vets reflect on new national memorial",
+      "url": "https://gazette.com/2026/10/24/desert-storm-desert-shield-vets-reflect-on-new-national-memorial/",
+      "description": "More than 35 years after Desert Storm and Desert Shield, veterans gathered in Washington, D.C., and Colorado Springs on Saturday morning for the dedication of a new memorial on the National Mall. The memorial, 16 years in the making, stands near the Lincoln Memorial and Vietnam Veterans Memorial to honor the nearly 400 Americans who [\u2026]",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
       "source": {
-        "id": "breitbart-news",
-        "name": "Breitbart News"
+        "name": "Gazette"
       },
-      "author": "John Hayward",
-      "title": "China Uses Djibouti Outpost to Assert Itself on Houthi Attacks",
-      "description": "China and Djibouti released a joint communique on Thursday supporting freedom of navigation in the Red Sea and Bab el-Mandeb Strait, which are currently under threat from the Iran-backed Houthi insurgents of Yemen.\nThe post China Uses Djibouti Outpost to Asse\u2026",
-      "url": "https://www.breitbart.com/africa/2026/10/23/china-uses-djibouti-outpost-to-assert-itself-on-houthi-attacks/",
-      "urlToImage": "https://media.breitbart.com/media/2026/10/HVPmSeyWwAA-640x335.jpg",
-      "publishedAt": "2026-10-23T21:39:48Z",
-      "content": "China and Djibouti released a joint communique on Thursday supporting freedom of navigation in the Red Sea and Bab el-Mandeb Strait, which are currently under threat from the Iran-backed Houthi insur\u2026 [+3677 chars]",
-      "cocom": "USAFRICOM",
-      "_original_topic_id": "T14"
+      "_provider": "newsdata.io",
+      "cocom": "USNORTHCOM",
+      "_original_topic_id": "T03"
+    },
+    {
+      "title": "Are we safe in Europe?",
+      "url": "https://en.ara.cat/international/are-we-safe-in-europe_130_5889590.html",
+      "description": "The Cold War is a distant memory and a ghost is once again haunting Europe. At least, Western Europe. That of a hot war or, at the very least, a hybrid one, which manifests itself in many ways: sabotage, drones, cyberattacks, the use of immigration as a tool of destabilization... \"We have entered a new era of deterrence,\" predicts security and defense expert Juraj Majcin. Eighty-one years after the defeat of Nazism, the outbreak of a widespread conflict, extending beyond what is now being fought in Ukraine following the invasion by Vladimir Putin's Russia, no longer seems an improbable scenario, and this will be, precisely, one of the topics of the new edition of Enfoquem, next Monday.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Diari Ara"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T10"
     }
   ]
 }

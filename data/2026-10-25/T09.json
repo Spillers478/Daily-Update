@@ -1,5 +1,39 @@
 {
   "status": "ok",
   "totalResults": 1,
-  "articles": []
+  "articles": [
+    {
+      "title": "What To Watch In November: A Printable TV Calendar Highlighting Every Major Premiere And Finale",
+      "url": "https://www.tvline.com/2295907/november-2026-tv-schedule-what-to-watch-printable-calendar-premieres-finales-streaming-list/",
+      "description": "Discover What to Watch with TVLine's printable November 2026 calendar, highlighting the biggest TV premieres and finales across broadcast, cable, and streaming.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Tvline"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Trump insults a journalist again at the White House: \u201cYou are a terrible reporter\u201d. VIDEO",
+      "url": "https://www.viveusa.mx/en/noticias/trump-vuelve-a-insultar-a-una-periodista-en-la-casa-blanca-eres-una-horrible-reporterilla-video/",
+      "description": "On Wednesday, Trump called a CNN journalist a fool and another from ABC News stupid",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Vive Usa"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Russia, US say American Hubbard was not released in exchange for a Russian war blogger",
+      "url": "https://www.investing.com/news/world-news/kremlin-says-russia-did-not-free-us-citizen-stephen-hubbard-in-exchange-for-a-russian-war-blogger-4968719",
+      "description": "Russia, US say American Hubbard was not released in exchange for a Russian war blogger",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Investing Us"
+      },
+      "_provider": "newsdata.io"
+    }
+  ]
 }

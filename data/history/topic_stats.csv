@@ -507,20 +507,21 @@ date,topic_id,topic_label,retrieved,kept_here,moved_out,discarded,unclassified,d
 2026-10-24,T12,Large-Scale Cyber Attack / Internet Blackout,25,0,0,0,0,55,0,failed
 2026-10-24,T13,Migration / Refugee Crisis,25,0,0,0,0,25,0,failed
 2026-10-24,T14,Threats to US Embassies / Diplomats,21,0,0,0,0,21,0,failed
-2026-10-25,flagship-ru-ua,Russia / Ukraine,25,22,1,2,0,31,1,ok
-2026-10-25,flagship-ir-il,Iran / Israel / Middle East,25,8,7,10,0,26,1,ok
-2026-10-25,flagship-ir-il-us-lens,Iran / Israel / Middle East — US Media Lens,1,,,,,1,0,not_run
-2026-10-25,T15,Disaster / Access Denial,4,4,0,0,0,8,1,ok
-2026-10-25,T01,Military Conflict,9,3,4,2,0,7,1,ok
-2026-10-25,T02,Humanitarian Crisis,25,2,10,13,0,2,1,ok
-2026-10-25,T03,Bio/Chemical Attack,8,0,1,7,0,0,1,ok
-2026-10-25,T04,Infectious Outbreak / Pandemic,7,2,0,5,0,5,1,ok
-2026-10-25,T05,Political Instability / Coup Risk,25,0,9,16,0,1,1,ok
-2026-10-25,T06,Mass Uprising / Regime-Threatening Unrest,21,17,2,2,0,21,1,ok
-2026-10-25,T07,Nuclear Weaponry / Attack,25,3,15,7,0,4,1,ok
-2026-10-25,T08,VEO / Regional Insecurity,8,5,3,0,0,8,1,ok
-2026-10-25,T10,Military Modernization,9,3,4,2,0,5,1,ok
-2026-10-25,T11,Military Exercise,3,2,0,1,0,2,1,ok
-2026-10-25,T12,Large-Scale Cyber Attack / Internet Blackout,24,10,2,12,0,10,1,ok
-2026-10-25,T13,Migration / Refugee Crisis,17,1,7,9,0,2,1,ok
-2026-10-25,T14,Threats to US Embassies / Diplomats,10,1,4,5,0,7,1,ok
+2026-10-25,flagship-ru-ua,Russia / Ukraine,25,22,0,3,0,34,1,ok
+2026-10-25,flagship-ru-ua-us-lens,Russia / Ukraine — US Media Lens,2,,,,,2,0,not_run
+2026-10-25,flagship-ir-il,Iran / Israel / Middle East,25,7,8,10,0,40,1,ok
+2026-10-25,T15,Disaster / Access Denial,14,8,3,3,0,13,1,ok
+2026-10-25,T01,Military Conflict,18,3,13,2,0,7,1,ok
+2026-10-25,T02,Humanitarian Crisis,25,1,12,12,0,4,1,ok
+2026-10-25,T03,Bio/Chemical Attack,20,1,4,15,0,1,1,ok
+2026-10-25,T04,Infectious Outbreak / Pandemic,18,8,0,10,0,10,1,ok
+2026-10-25,T05,Political Instability / Coup Risk,25,8,5,12,0,12,1,ok
+2026-10-25,T06,Mass Uprising / Regime-Threatening Unrest,25,19,2,4,0,25,1,ok
+2026-10-25,T07,Nuclear Weaponry / Attack,25,1,12,12,0,6,1,ok
+2026-10-25,T08,VEO / Regional Insecurity,20,17,3,0,0,25,1,ok
+2026-10-25,T09,American Hostage / Kidnapping,3,1,0,2,0,1,1,ok
+2026-10-25,T10,Military Modernization,22,6,13,3,0,10,1,ok
+2026-10-25,T11,Military Exercise,13,5,7,1,0,5,1,ok
+2026-10-25,T12,Large-Scale Cyber Attack / Internet Blackout,25,6,2,17,0,6,1,ok
+2026-10-25,T13,Migration / Refugee Crisis,25,2,12,11,0,3,1,ok
+2026-10-25,T14,Threats to US Embassies / Diplomats,25,4,14,7,0,13,1,ok

@@ -1,7 +1,98 @@
 {
   "status": "ok",
-  "totalResults": 18,
+  "totalResults": 25,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Steynonline.com"
+      },
+      "author": "Rick McGinnis",
+      "title": "Post War Trauma: Robert Wise's The House on Telegraph Hill",
+      "description": "Once it was agreed that there was such a thing as film noir, two questions remained: Which films are film noir and what makes a film noir... noir? The arguments have persisted since then: Is The Maltese Falcon the first actual film noir? What is the best",
+      "url": "https://www.steynonline.com/16471/post-war-trauma-robert-wise-the-house-on",
+      "urlToImage": "https://www.steynonline.com/pics/11052.jpg",
+      "publishedAt": "2026-10-24T14:00:00Z",
+      "content": "Once it was agreed that there was such a thing as film noir, two questions remained: Which films are film noir and what makes a film noir... noir? The arguments have persisted since then: Is The Malt\u2026 [+12250 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "BROADCAST BIAS: Networks show France burning but highlight \u2018peaceful\u2019 protesters",
+      "description": "Emmanuel Macron's government faces mounting unrest as networks blamed 'hijacked' protests over cost of living and declining public services in France.",
+      "url": "https://www.foxnews.com/opinion/broadcast-bias-networks-show-france-burning-highlight-peaceful-protesters",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/limoges-town-hall-france-fire.jpg",
+      "publishedAt": "2026-10-24T13:00:54Z",
+      "content": "For decades, American broadcast news networks have touted the benefits of socialism in France, from government-funded day care to healthcare to a mandated five weeks of vacation. Then-NBC host Katie \u2026 [+5824 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Oliver JJ Lane",
+      "title": "Self-Defence Weapons Sales Surge in Paris Ahead of Anticipated 'Act II' Riots on Saturday",
+      "description": "Firearms dealers in Paris have reported a massive surge in sales for non-lethal deterrents including high power pepper spray guns.\nThe post Self-Defence Weapons Sales Surge in Paris Ahead of Anticipated \u2018Act II\u2019 Riots on Saturday appeared first on Breitbart.",
+      "url": "https://www.breitbart.com/europe/2026/10/24/self-defence-weapons-sales-surge-in-paris-ahead-of-anticipated-act-ii-riots-on-saturday/",
+      "urlToImage": "https://media.breitbart.com/media/2026/10/GettyImages-2301120724-e1792795233299-640x335.jpg",
+      "publishedAt": "2026-10-24T11:36:33Z",
+      "content": "Firearms dealers in Paris have reported a massive surge in sales of non-lethal deterrents, including high-powered pepper spray guns, as shopkeepers reportedly stock up on telescopic batons, baseball \u2026 [+5628 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Jacob Jones",
+      "title": "How to watch Aston Villa vs Man City: FREE live streams, TV channels & kick-off time",
+      "description": "All the ways to watch Aston Villa vs Man City for free from anywhere in the world as they face off in the 2026/27 Premier League.",
+      "url": "https://www.techradar.com/entertainment/football/watch-aston-villa-vs-man-city-free-live-streams-tv-channels-and-kick-off-time",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fwnB9edZATwwoYUST56UTZ-2560-80.jpg",
+      "publishedAt": "2026-10-24T09:00:00Z",
+      "content": "Watch Aston Villa vs Man City live streams in the Premier League 2026/27 as Enzo Maresca's side look to make it eight wins from eight.\r\nAston Villa vs Man City takes place on Saturday, October 24 wit\u2026 [+4452 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "FATMA KHALED Associated Press",
+      "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+      "description": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement",
+      "url": "https://abcnews.com/International/wireStory/drinking-water-supplies-dwindle-yemeni-city-besieged-houthi-137532423",
+      "urlToImage": "https://i.abcnewsfe.com/a/59288cbb-64ab-43e5-931e-7cc20c3cee77/wirestory_8536818c3d496b04b00c13a995b8f8a1_16x9.jpg?w=1600",
+      "publishedAt": "2026-10-24T07:27:35Z",
+      "content": "Drinking water has been scarce for over a decade in Taiz, but the problem has reached crisis levels in recent weeks as Iran-backed Houthi rebels besiege Yemen's third-largest city in their escalating\u2026 [+6677 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+      "description": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situation has worsened in recent weeks.",
+      "url": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2459x1383+2+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F48%2Ff2%2Fbed4f4df43b197d5bb5247c6c0e3%2Fap26296551585852.jpg",
+      "publishedAt": "2026-10-24T07:04:13Z",
+      "content": "Drinking water has been scarce for over a decade in Taiz, but the problem has reached crisis levels in recent weeks as Iran-backed Houthi rebels besiege Yemen's third-largest city in their escalating\u2026 [+6753 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "AbdulHakim Helal",
+      "title": "Hospital in Yemen\u2019s Taiz warns of collapse in days because of Houthi siege",
+      "description": "Dialysis patients face shorter treatment sessions as severe shortages of fuel, medicines, and oxygen threaten hospitals.",
+      "url": "https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adb9b137002-1792776979.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-24T05:20:35Z",
+      "content": "Taiz, Yemen It was approaching 10:30am in the dialysis centre of the Republican Hospital in Taiz when a machine began filtering excess fluids, toxins and salts from the blood of Omar Mukhtar Hammoud.\u2026 [+6783 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -222,6 +313,116 @@
       "urlToImage": "https://www.irishtimes.com/resizer/v2/NKUUQOAKLNHVZIXC3ICAO62DYM.jpeg?smart=true&auth=2ff79ef653abb8cdbe94fc3ac64187bfa630c918a090558f52a6cb84cacaa30e&width=1200&height=630",
       "publishedAt": "2026-10-23T05:00:01Z",
       "content": "Seventy years ago this Friday, October 23rd, 1956, thousands of protesters gathered at a square in Budapest to demand the end of communist rule. \r\nIt was the start of the Hungarian uprising, which la\u2026 [+5026 chars]"
+    },
+    {
+      "title": "Flashback: When CEC Lyngdoh refused BJP demand for early Gujarat poll until voter roll was updated",
+      "url": "https://scroll.in/article/1096610/flashback-when-cec-lyngdoh-refused-bjp-demand-for-early-gujarat-poll-until-voter-roll-was-updated",
+      "description": "The Election Commission insisted on remedying the list since many voters, especially Muslims, had been displaced from their homes after the 2002 riots.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Scroll.in"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Katz conditions the return of Hebron's displaced on dismantling the resistance, while the occupation continues to besiege the city",
+      "url": "https://alquds.com/en/posts/264892-katz-conditions-the-return-of-hebron-s-displaced-on-dismantling-the-resistance",
+      "description": "The occupation's Minister of Defense links the return of displaced persons in Hebron to the dismantling of the resistance infrastructure, amid a continued tight siege and operations of demolition and forced displacement of hundreds of Palestinian families.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "As LIV Golf 2.0 deadline arrives, 1 big question holds answer to league's future",
+      "url": "https://golf.com/news/as-liv-golf-2-0-deadline-arrives-1-big-question-holds-answer-to-leagues-future/",
+      "description": "The \"soft\" deadline for LIV Golf 2.0 arrives Sunday. As it does, one big question holds the answer to the league's future. The post As LIV Golf 2.0 deadline arrives, 1 big question holds answer to league\u2019s future appeared first on Golf.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Golf"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Women \u2018terrified\u2019 as council spends just \u00a340,000 on police near UK's largest asylum camp",
+      "url": "https://www.express.co.uk/news/uk/2260092/women-terrified-council-40000-police-asylum-camp",
+      "description": "It comes despite the Home Office handing the council \u00a33.8 million following the opening of the site in 2023.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Express"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Aerial escalation in Darfur and Kordofan and field progress for the Sudanese Army in the Blue Nile axis",
+      "url": "https://alquds.com/en/posts/264838-aerial-escalation-in-darfur-and-kordofan-and-field-progress-for-the-sudanese",
+      "description": "The Sudanese Army achieves field progress in the Blue Nile and intensifies its drone strikes in Darfur and Kordofan, amid international warnings of an imminent famine and US-Saudi consultations in Geneva.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Governor Kefas Condemns Killings In Taraba, Calls For Arrest Of Perpetrators",
+      "url": "https://www.channelstv.com/2026/10/24/governor-kefas-condemns-killings-in-taraba-calls-for-arrest-of-perpetrators/",
+      "description": "Kefas described the killings as unfortunate and called on security agencies to take urgent steps to restore calm, protect lives and property, and bring those responsible to justice. The post Governor Kefas Condemns Killings In Taraba, Calls For Arrest Of Perpetrators appeared first on Channels Television.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Channels Television"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Labor Market Transformations in Sudan: The War Reshapes the Concept of Professional Stability for Youth",
+      "url": "https://alquds.com/en/posts/264827-labor-market-transformations-in-sudan-the-war-reshapes-the-concept-of",
+      "description": "The war and economic crisis in Sudan have led to a radical change in the professional priorities of young people, as the demand for government jobs has declined in favor of freelance work and multiple sources of income.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Taraba Killings: Kefas Orders Manhunt, Prosecution Of Binnari Attackers",
+      "url": "https://leadership.ng/taraba-killings-kefas-orders-manhunt-prosecution-of-binnari-attackers/",
+      "description": "Taraba State governor, Dr Agbu Kefas, has directed security agencies to track down and prosecute those responsible for the killing of residents of Binnari community in Karim Lamido Local Government Area. The directive followed an attack by armed men on the community on Friday, which reportedly claimed the lives of several residents. Kefas, who condemned [\u2026]",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Leadership"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Kefas condemns Taraba killings, vows justice for victims",
+      "url": "https://dailypost.ng/2026/10/24/kefas-condemns-taraba-killings-vows-justice-for-victims/",
+      "description": "Governor Agbu Kefas of Taraba State has condemned the reported killing of residents in Binnari community, Karim- Lamido local government council of the state, and called on security agencies to urgently apprehend those responsible. The governor's reaction followed an attack by armed men in the early hours of Friday, which reportedly left several residents dead [\u2026] Kefas condemns Taraba killings, vows justice for victims",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Daily Post"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "APC supporters flood Kaduna streets for party campaign flag off",
+      "url": "https://naijaonpoint.com.ng/apc-supporters-flood-kaduna-streets-for-party-campaign-flag-off/",
+      "description": "41 Major streets in Kaduna metropolis were filled with supporters of the All Progressives Congress (APC) on Saturday ahead of the party\u2019s campaign flag-off at Ranchers Bees Stadium. Women, youths and other APC supporters gathered across parts of Kaduna metropolis as they awaited the arrival of President Bola Ahmed Tinubu for the party\u2019s campaign [\u2026] The post APC supporters flood Kaduna streets for party campaign flag off appeared first on Naijaonpoint.com.ng.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Naijaonpoint.com.ng"
+      },
+      "_provider": "newsdata.io"
     }
   ]
 }

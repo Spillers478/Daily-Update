@@ -1,48 +1,30 @@
 {
   "groups": {
-    "https://www.bloomberg.com/news/articles/2026-10-23/us-says-russia-ukraine-to-let-civilians-leave-war-torn-oleshky": "a",
-    "https://economictimes.indiatimes.com/news/defence/ukraine-joins-natos-nspa-partnership-gains-access-to-alliance-contracts-for-defence-industry/articleshow/135161531.cms": "b",
-    "https://biztoc.com/x/a00a775a692bac38": "a",
-    "https://www.business-standard.com/world-news/melania-trump-brokers-localised-russia-ukraine-ceasefire-for-aid-in-oleshky-126102400075_1.html": "a",
-    "https://slashdot.org/firehose.pl?op=view&amp;id=186433072": "c",
-    "https://economictimes.indiatimes.com/news/international/world-news/ukrainian-negotiator-says-local-humanitarian-ceasefire-with-russia-will-start-on-tuesday/articleshow/135159437.cms": "a",
-    "https://economictimes.indiatimes.com/news/international/world-news/first-tanker-of-russian-diesel-sets-sail-for-the-us-in-trumps-controversial-deal-with-putin/articleshow/135159277.cms": "d",
-    "https://www.rte.ie/news/2026/1024/1596654-did-witkoff-make-any-progress-with-putin/": "e",
-    "https://crooksandliars.com/2026/10/praise-be-melania-brokers-ceasefire-deal": "a",
-    "https://www.thegatewaypundit.com/2026/10/ukraine-field-report-russian-ballistic-missiles-hit-kyiv/": "f",
-    "https://www.bbc.com/news/articles/cq74pjpmx0e8o": "g",
-    "https://slashdot.org/firehose.pl?op=view&amp;id=186431538": "h",
-    "https://www.dailymail.com/news/article-16234405/Andy-Burnham-Donald-Trump-call-Ukraine-Starlink.html": "h",
-    "https://rt-english.com/news/647589-rt-top-stories-putin-zelensky-witkoff/": "i",
-    "https://rt-english.com/russia/647584-whats-on-russias-target-list/": "j",
-    "https://www.dailymail.com/debate/article-16233207/Trump-Putin-art-deal-Ukraine-DAN-MCLAUGHLIN.html": "a",
-    "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire": "a",
-    "https://newsonjapan.com/article/151120.php": "k",
-    "https://snyder.substack.com/p/trumps-big-lie-about-ukraine": "l",
-    "https://www.mediaite.com/media/news/zelensky-says-starlink-speed-limits-still-in-place-amid-russian-attacks/": "g",
-    "https://radaronline.com/p/stephen-hubbard-russia-releases-american-teacher-ukraine-mercenary-charges/": "m",
-    "https://www.abc.net.au/news/2026-10-24/ukraine-latest/107304160": "a",
-    "https://www.nbcnews.com/world/ukraine/starlink-slowdown-hit-ukraines-front-line-soldiers-pushing-russia-back-rcna604732": "n",
-    "https://www.aljazeera.com/news/2026/10/23/russia-drops-cluster-bombs-on-ukraine-as-kyiv-consolidates-front-line": "o",
-    "http://foreignpolicy.com/2026/10/23/putins-american-fellow-travelers-us-politics-russia/": "p"
+    "https://www.rferl.org/a/us-lawmakers-trump-russia-policy-ukraine-bipartisan-pushback/33883500.html": "d",
+    "https://freerepublic.com/focus/f-news/4400436/posts": "e",
+    "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine": "a",
+    "https://www.yahoo.com/news/us/articles/ukraine-says-satellite-access-back-140909217.html": "a",
+    "https://www.ibtimes.com.au/polish-minister-sikorski-musk-starlink-ukraine-service-restored-1877348": "a",
+    "https://economictimes.indiatimes.com/news/international/world-news/no-power-no-water-and-winter-approaching-how-melania-trump-got-involved-in-rescuing-ukraines-forgotten-city-after-weeks-of-unusual-negotiations/articleshow/135170946.cms": "b",
+    "https://www.koat.com/article/ukraine-starlink-speed-limits-lifted-slowdown-drones/74237225": "a",
+    "https://freerepublic.com/focus/f-news/4400423/posts": "f",
+    "https://economictimes.indiatimes.com/news/international/world-news/ukraine-and-russia-eye-new-peace-talks-and-melania-trumps-mission-but-major-obstacles-remain/articleshow/135170067.cms": "b",
+    "https://www.businessinsider.com/ukraine-nato-drone-maker-says-underground-factories-lesson-for-west-2026-10#article": "g",
+    "https://www.businessinsider.com/ukraine-weapons-makers-never-consider-product-complete-development-race-russia-2026-10#article": "h",
+    "https://www.cbsnews.com/news/ukraine-starlink-drone-spacex-musk-speed-restriction/": "a",
+    "https://www.bbc.co.uk/news/articles/cwkg5md14j8go": "a",
+    "https://abcnews.com/International/wireStory/ukraine-starlink-speed-limits-lifted-after-slowdown-hobbled-137534564": "a",
+    "https://www.dailymail.com/news/article-16229289/britain-russia-warning-attack-war-vladimir-putin.html": "i",
+    "https://www.yahoo.com/news/articles/ukraine-says-starlink-speed-limits-104548676.html": "a",
+    "https://slashdot.org/firehose.pl?op=view&amp;id=186435748": "c",
+    "https://www.tomshardware.com/3d-printing/russia-deploys-3d-printed-cruise-missiles-in-ukraine-can-hit-500mph-with-a-745-mile-range-fears-high-that-cheap-filin-missile-will-be-used-for-missile-spam-tactics": "c",
+    "https://freerepublic.com/focus/f-news/4400411/posts": "b",
+    "https://abcnews.com/International/wireStory/ukraine-russia-eye-new-peace-talks-melania-trumps-137534005": "b",
+    "https://www.business-standard.com/world-news/ukraine-says-starlink-speed-limits-lifted-after-disruptions-to-military-ops-126102400671_1.html": "a",
+    "https://timesofindia.indiatimes.com/world/europe/ukraine-drone-attacks-cut-power-and-water-in-crimea-hit-russian-petrochemical-plant/articleshow/135166893.cms": "j",
+    "https://www.nbcnews.com/world/ukraine/starlink-slowdown-hit-ukraines-front-line-soldiers-pushing-russia-back-rcna604732": "a",
+    "https://www.aljazeera.com/news/2026/10/23/russia-drops-cluster-bombs-on-ukraine-as-kyiv-consolidates-front-line": "k",
+    "https://www.ukrinform.net/rubric-ato/4177691-one-killed-six-injured-in-russian-airstrike-on-kramatorsk.html": "l"
   },
-  "contradictions": [
-    {
-      "group": "a",
-      "claim_type": "outcome",
-      "summary": "Sources give different start timing for the Oleshky humanitarian ceasefire (Oct. 29 vs. Tuesday).",
-      "sources": [
-        {
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-23/us-says-russia-ukraine-to-let-civilians-leave-war-torn-oleshky",
-          "says": "The humanitarian arrangement is due to begin Oct. 29"
-        },
-        {
-          "source": "The Times of India",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/ukrainian-negotiator-says-local-humanitarian-ceasefire-with-russia-will-start-on-tuesday/articleshow/135159437.cms",
-          "says": "The local humanitarian ceasefire will start on Tuesday"
-        }
-      ]
-    }
-  ]
+  "contradictions": []
 }
