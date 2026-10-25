@@ -306,6 +306,21 @@ def render_article(a):
     </article>"""
 
 
+def wrap_sources(body, n_stories, has_summary):
+    """Tuck a topic's story cards behind a tap so the page reads as a stack of
+    summaries (easy to scroll on a phone) with the reporting one tap away.
+    Only when the topic HAS a summary -- without one the cards are the only
+    content, so they stay open. Jump links / search results open this
+    <details> automatically (EXTRA_JS). Desktop opens them at load."""
+    if not has_summary or not n_stories:
+        return body
+    noun = "story" if n_stories == 1 else "stories"
+    return f"""<details class="sources">
+      <summary>Sources &amp; reports <span class="sources-count">{n_stories} {noun}</span></summary>
+      {body}
+    </details>"""
+
+
 def render_section(section_id, label, articles, badge=None, limit=None, narrative=None,
                     preview_limit=None, dedup=None):
     shown_all = articles[:limit] if limit else articles
@@ -344,6 +359,8 @@ def render_section(section_id, label, articles, badge=None, limit=None, narrativ
 
     badge_html = f'<span class="badge badge-{badge}">{escape(badge)}</span>' if badge else ""
     narrative_html = f'<p class="narrative">{escape(narrative)}</p>' if narrative else ""
+    if shown_all:
+        body = wrap_sources(body, len(clusters), bool(narrative))
     return f"""
   <section class="topic" id="{escape(section_id)}">
     <h2>{escape(label)} {badge_html}<span class="count">{len(articles)}</span></h2>
@@ -366,7 +383,16 @@ def render_nav(nav_items):
             f'<a class="nav-link{badge_class}" href="#{escape(anchor_id)}">'
             f'{escape(label)}{trend} <span class="nav-count">{count}</span></a>'
         )
-    return f'<nav class="topic-nav">{"".join(links)}</nav>'
+    # On phones the chips collapse behind a slim "Topics" button (see the
+    # max-width media query); on desktop the button is hidden and the chips
+    # show as before.
+    return (
+        '<nav class="topic-nav" id="topic-nav">'
+        '<button type="button" class="nav-toggle" aria-expanded="false" aria-controls="topic-nav-links">'
+        f'Topics <span class="nav-toggle-count">{len(links)}</span><span class="nav-caret" aria-hidden="true">&#9662;</span></button>'
+        f'<div class="nav-links" id="topic-nav-links">{"".join(links)}</div>'
+        '</nav>'
+    )
 
 
 def load_synthesis(data_dir):
@@ -538,6 +564,8 @@ def render_thread_section(section_id, label, res, rep, data_dir, narrative=None,
     badge_html = f'<span class="badge badge-{badge}">{escape(badge)}</span>' if badge else ""
     narrative_html = f'<p class="narrative">{escape(narrative)}</p>' if narrative else ""
     n = len(home)
+    if home or linked:
+        body = wrap_sources(body, n + len(linked), bool(narrative))
     count = f'{n} stor{"y" if n == 1 else "ies"}' + (f' <span class="count-linked">+{len(linked)} linked</span>' if linked else "")
     return f"""
   <section class="topic" id="{escape(section_id)}">
@@ -1012,10 +1040,9 @@ TEMPLATE = """<!DOCTYPE html>
     padding: 0.6rem 1.5rem;
     max-width: 860px;
     margin: 0 auto;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.4rem;
   }}
+  .nav-links {{ display: flex; flex-wrap: wrap; gap: 0.4rem; }}
+  .nav-toggle {{ display: none; }}
   .nav-link {{
     color: var(--muted);
     text-decoration: none;
@@ -1078,6 +1105,79 @@ TEMPLATE = """<!DOCTYPE html>
   }}
   .contradiction-sources a {{ color: var(--accent); text-decoration: none; }}
   .contradiction-sources a:hover {{ text-decoration: underline; }}
+  details.sources {{ margin-top: 0.75rem; }}
+  details.sources > summary {{
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    color: var(--accent);
+    font-size: 0.85rem;
+    padding: 0.65rem 0.9rem;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--panel);
+  }}
+  details.sources > summary::-webkit-details-marker {{ display: none; }}
+  details.sources > summary::after {{ content: "\\25BE"; transition: transform 0.15s ease; }}
+  details.sources[open] > summary::after {{ transform: rotate(180deg); }}
+  details.sources[open] > summary {{ margin-bottom: 0.75rem; }}
+  .sources-count {{ color: var(--muted); font-size: 0.75rem; margin-left: auto; }}
+
+  /* ---- Phones: summaries first, chrome out of the way ---- */
+  @media (max-width: 700px) {{
+    header {{ padding: 1.5rem 1rem 1rem; }}
+    header h1 {{ font-size: 1.35rem; }}
+    main {{ padding: 0 1rem; }}
+    section.bluf {{ padding: 1rem; margin: 1.25rem 0; }}
+    section.topic {{ padding: 1.25rem 0; }}
+    .method-list {{ columns: 1; }}
+    section.topic h2 {{ flex-wrap: wrap; row-gap: 0.25rem; }}
+    section.topic h2 .count {{ white-space: nowrap; }}
+    .topic-nav {{
+      padding: 0.35rem 1rem;
+      transition: transform 0.2s ease;
+    }}
+    .topic-nav.nav-hidden {{ transform: translateY(-100%); }}
+    .nav-toggle {{
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      width: 100%;
+      min-height: 40px;
+      background: var(--panel);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0 0.8rem;
+      font: inherit;
+      font-size: 0.85rem;
+      cursor: pointer;
+    }}
+    .nav-toggle-count {{ color: var(--muted); font-size: 0.75rem; }}
+    .nav-caret {{ margin-left: auto; transition: transform 0.15s ease; }}
+    .topic-nav.open .nav-caret {{ transform: rotate(180deg); }}
+    /* The chip list drops over the page instead of pushing it down, so the
+       sticky bar itself stays one slim row. */
+    .nav-links {{
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      max-height: 65vh;
+      overflow-y: auto;
+      padding: 0.75rem 1rem 1rem;
+      background: var(--bg);
+      border-bottom: 1px solid var(--border);
+      box-shadow: 0 12px 24px rgba(0,0,0,0.5);
+    }}
+    .topic-nav.open .nav-links {{ display: flex; }}
+    .nav-link {{ font-size: 0.85rem; padding: 0.4rem 0.75rem; }}
+    #gsw-top-btn {{ right: 0.75rem; bottom: 0.75rem; }}
+  }}
   #gsw-top-btn {{
     position: fixed;
     right: 1.25rem;
@@ -1131,6 +1231,42 @@ TEMPLATE = """<!DOCTYPE html>
   }}
   syncNavHeight();
   window.addEventListener("resize", syncNavHeight);
+
+  var navToggle = document.querySelector(".nav-toggle");
+  function setNavOpen(open) {{
+    if (!nav || !navToggle) return;
+    nav.classList.toggle("open", open);
+    navToggle.setAttribute("aria-expanded", open ? "true" : "false");
+    if (open) nav.classList.remove("nav-hidden");
+  }}
+  if (nav && navToggle) {{
+    navToggle.addEventListener("click", function() {{ setNavOpen(!nav.classList.contains("open")); }});
+    nav.addEventListener("click", function(e) {{
+      if (e.target.closest && e.target.closest("a.nav-link")) setNavOpen(false);
+    }});
+    document.addEventListener("click", function(e) {{
+      if (nav.classList.contains("open") && !nav.contains(e.target)) setNavOpen(false);
+    }});
+    document.addEventListener("keydown", function(e) {{ if (e.key === "Escape") setNavOpen(false); }});
+  }}
+
+  // Phones: slide the topic bar away while reading down, bring it back on
+  // any scroll up. (The .nav-hidden class only does anything under the
+  // max-width media query.)
+  var lastY = window.scrollY;
+  window.addEventListener("scroll", function() {{
+    if (!nav) return;
+    var y = window.scrollY, dy = y - lastY;
+    if (Math.abs(dy) < 8) return;
+    if (dy > 0 && y > 120 && !nav.classList.contains("open")) nav.classList.add("nav-hidden");
+    else if (dy < 0) nav.classList.remove("nav-hidden");
+    lastY = y;
+  }}, {{passive: true}});
+
+  // Source lists: tucked away on phones, open by default on wide screens.
+  if (window.matchMedia && window.matchMedia("(min-width: 701px)").matches) {{
+    document.querySelectorAll("details.sources").forEach(function(d) {{ d.open = true; }});
+  }}
 
   var topBtn = document.getElementById("gsw-top-btn");
   function toggleTopBtn() {{
