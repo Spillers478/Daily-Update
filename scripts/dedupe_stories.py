@@ -171,7 +171,7 @@ def call_with_retry(client, topic_id, label, articles):
             raw = parse_json_response(text)
             return validate_and_resolve(raw, articles), None
         except Exception as e:
-            last_error = f"{type(e).__name__}: {e}"
+            last_error = f"{type(e).__name__}: {e} (cause: {e.__cause__!r})"
             print(f"  {topic_id}: attempt {attempt}/{MAX_ATTEMPTS} failed -- {last_error}", file=sys.stderr)
     return None, last_error
 
@@ -267,7 +267,8 @@ def main():
         print(f"No data directory for {today} -- run fetch_news.py first.", file=sys.stderr)
         sys.exit(1)
 
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    # .strip(): stray whitespace in the secret surfaces only as "Connection error."
+    api_key = (os.environ.get("ANTHROPIC_API_KEY") or "").strip()
     if not api_key:
         print("ANTHROPIC_API_KEY not set -- skipping duplicate/contradiction detection; "
               "pages render without story grouping.", file=sys.stderr)

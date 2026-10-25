@@ -1,6 +1,6 @@
 """
 Reads today's article set and generates a BLUF (Bottom Line Up Front)
-overview plus a short narrative summary per topic, using Claude Haiku.
+overview plus a short narrative summary per topic, using Claude Sonnet 5.5.
 Writes the result to data/<date>/synthesis.json.
 
 Reads data/<date>/redteam/<topic_id>.json when redteam.py has produced
@@ -43,7 +43,7 @@ from pathlib import Path
 from topics import TIER1, TOPICS
 
 ROOT = Path(__file__).resolve().parent.parent
-MODEL = "claude-haiku-4-5-20251001"
+MODEL = "claude-sonnet-5-5"
 MAX_ARTICLES_PER_TOPIC = 12  # caps prompt size; NewsAPI results are already sorted by publishedAt
 
 
@@ -221,7 +221,10 @@ def main():
 
     empty_result = {"bluf": None, "topics": {}}
 
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    # .strip(): a trailing newline/space pasted into the GitHub secret makes the
+    # HTTP client reject the header, which the SDK reports only as
+    # "APIConnectionError: Connection error." -- see redteam.py.
+    api_key = (os.environ.get("ANTHROPIC_API_KEY") or "").strip()
     if not api_key:
         print("ANTHROPIC_API_KEY not set -- skipping synthesis, page will show headlines only.", file=sys.stderr)
         with open(out_path, "w") as f:
@@ -239,17 +242,23 @@ def main():
     client = anthropic.Anthropic(api_key=api_key)
     prompt = build_prompt(data_dir)
 
+    response = None
     try:
         response = client.messages.create(
             model=MODEL,
-            max_tokens=3072,  # bumped from 2048 -- the BLUF now covers every
-            # active topic (not just the lead story), so it runs longer
+            # Raised from 3072 when the model moved from Haiku to Sonnet 5.5:
+            # if any budget goes to reasoning, a tight ceiling truncates the
+            # JSON and the whole synthesis is lost (the failure mode redteam.py's
+            # docstring describes). Only tokens actually generated are billed.
+            max_tokens=8192,
             messages=[{"role": "user", "content": prompt}],
         )
         text = "".join(block.text for block in response.content if block.type == "text")
         result = parse_json_response(text)
     except Exception as e:
-        print(f"Synthesis failed: {e}", file=sys.stderr)
+        stop = getattr(response, "stop_reason", None)
+        print(f"Synthesis failed: {type(e).__name__}: {e} "
+              f"(cause: {e.__cause__!r}, stop_reason: {stop})", file=sys.stderr)
         result = empty_result
 
     with open(out_path, "w") as f:
