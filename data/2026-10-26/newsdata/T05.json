@@ -1,255 +1,20 @@
 {
   "status": "success",
-  "totalResults": 327,
+  "totalResults": 371,
   "results": [
     {
-      "article_id": "cff8e43285623504aa830cf7633ae54d",
-      "link": "https://www.wsws.org/en/articles/2026/10/26/olpf-o26.html",
-      "title": "After the COB\u2019s betrayals, Bolivian workers launch new wave of struggles against fuel hikes and IMF austerity",
-      "description": "Twice this year the COB bureaucracy called off general strikes only to be answered by new government attacks.",
+      "article_id": "a882f22a5f6e39df9b60793264a78db4",
+      "link": "https://www.koreajoongangdaily.com/kjd-special/will-frances-today-be-koreas-tomorrow-has-netflix-been-blessing-or-curse-for-kcontent/12938345",
+      "title": "Will France's today be Korea's tomorrow? | Has Netflix been blessing or curse for K-content?",
+      "description": null,
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "bolivia",
-        "mas",
-        "pabloism",
-        "cerimedo",
-        "evo morales",
-        "cob",
-        "imf",
-        "rodrigo paz"
-      ],
-      "creator": null,
-      "language": "english",
-      "country": [
-        "united states of america"
-      ],
-      "category": [
-        "top",
-        "business"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-26 01:41:01",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 01:47:53",
-      "image_url": "https://www.wsws.org/asset/4b9a50c6-fbb4-4367-8da8-aeaa744b1a99?rendition=1600x900",
-      "video_url": null,
-      "source_id": "wsws_org",
-      "source_name": "World Socialist Web Site",
-      "source_priority": 797606,
-      "source_url": "https://www.wsws.org/en",
-      "source_icon": "https://i.newsdata.io/wsws_org.png",
-      "sentiment": "negative",
-      "sentiment_stats": {
-        "negative": 99.53,
-        "neutral": 0.45,
-        "positive": 0.02
-      },
-      "ai_tag": [
-        "economy"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "778676117f0e550cd853023900a42e15",
-      "link": "https://jewishnews.com/2026/10/26/brazil-election-shock-anti-israel-lula-defeats-bolsonaros-son-in-stunning-upset/",
-      "title": "Brazil election shock: anti-Israel Lula defeats Bolsonaro\u2019s son in stunning upset",
-      "description": "Brazil halts Latin America\u2019s rightward wave as Lula, 80, who accused Israel of \u2018genocide\u2019 and clashed with Trump, wins a fourth term in a historic\u2026 Read More \u203a",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "home",
-        "all world news",
-        "israel news"
+        "newsletter",
+        "special",
+        "kjd special"
       ],
       "creator": [
-        "jewishnews-limor"
-      ],
-      "language": "english",
-      "country": [
-        "united states of america"
-      ],
-      "category": [
-        "sports"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-26 01:36:12",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 01:53:55",
-      "image_url": "https://jewishnews.com/wp-content/uploads/2026/10/image-61.png",
-      "video_url": null,
-      "source_id": "jewishnews",
-      "source_name": "Jewishnews",
-      "source_priority": 4989574,
-      "source_url": "https://jewishnews.com",
-      "source_icon": "https://i.newsdata.io/jewishnews.png",
-      "sentiment": "positive",
-      "sentiment_stats": {
-        "negative": 35.55,
-        "neutral": 11.91,
-        "positive": 52.54
-      },
-      "ai_tag": [
-        "government"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "f2fe73574db3d6f8d6868c805ce84a20",
-      "link": "https://dailynewsen.com/news/lula-defeats-flavio-bolsonaro",
-      "title": "Lula defeats Fl\u00e1vio Bolsonaro to win a fourth term as Brazil\u2019s president",
-      "description": "The incumbent won 51.75% of the vote, reversing his narrow first-round loss in a historic comeback.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "world"
-      ],
-      "creator": [
-        "staff reporter"
-      ],
-      "language": "english",
-      "country": [
-        "germany",
-        "united states of america",
-        "australia",
-        "france",
-        "canada",
-        "united kingdom",
-        "china",
-        "india"
-      ],
-      "category": [
-        "top",
-        "politics"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-26 01:34:53",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 02:58:02",
-      "image_url": "https://dailynewsen.com/media/2026/10/92b256b54b6b86ee3312d13699b899bc-1600.jpg",
-      "video_url": null,
-      "source_id": "dailynewsen",
-      "source_name": "Daily News",
-      "source_priority": 498883,
-      "source_url": "https://dailynewsen.com",
-      "source_icon": "https://i.newsdata.io/dailynewsen.png",
-      "sentiment": "positive",
-      "sentiment_stats": {
-        "negative": 0.06,
-        "neutral": 0.57,
-        "positive": 99.37
-      },
-      "ai_tag": [
-        "elections"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "c6044e50b9522a9e7fa79f72859ee410",
-      "link": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf",
-      "title": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
-      "description": "Leftist President Lula has defeated right-wing challenger Flavio Bolsonaro to win another term in office. DW has the latest.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "news"
-      ],
-      "creator": [
-        "akanksha saxena"
-      ],
-      "language": "english",
-      "country": [
-        "germany"
-      ],
-      "category": [
-        "top",
-        "politics"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-26 01:22:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 01:33:43",
-      "image_url": "https://static.dw.com/image/79758627_804.jpg",
-      "video_url": null,
-      "source_id": "dw",
-      "source_name": "Dw Akademie",
-      "source_priority": 12499,
-      "source_url": "https://www.dw.com",
-      "source_icon": "https://i.newsdata.io/dw.png",
-      "sentiment": "positive",
-      "sentiment_stats": {
-        "negative": 0.02,
-        "neutral": 0.14,
-        "positive": 99.84
-      },
-      "ai_tag": [
-        "elections"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "329390d3428ffb4fa37dc58c2eb0085f",
-      "link": "https://dailytrust.com/t20-world-cup-nigeria-beat-uganda-clinch-sub-regional-africa-qualifier-ticket/",
-      "title": "T20 World Cup: Nigeria beat Uganda, clinch sub-regional Africa qualifier ticket",
-      "description": "Nigeria beat favourites Uganda in Abuja to win the T20 World Cup Sub-Regional Africa Qualifier and pick one of the two tickets to the next stage of the qualifier. This is Nigeria\u2019s first victory over Uganda after 13 failed attempts. The tournament featured hosts Nigeria, Uganda, Zambia, Lesotho, Mozambique and The Gambia, who competed in [\u2026]",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "sports"
-      ],
-      "creator": [
-        "joshua odeyemi"
-      ],
-      "language": "english",
-      "country": [
-        "nigeria"
-      ],
-      "category": [
-        "sports"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-26 01:20:43",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 01:37:02",
-      "image_url": "https://dailytrust.com/wp-content/uploads/2026/10/T20-World-Cup.jpg",
-      "video_url": null,
-      "source_id": "dailytrust",
-      "source_name": "Daily Trust",
-      "source_priority": 40583,
-      "source_url": "https://dailytrust.com",
-      "source_icon": "https://i.newsdata.io/dailytrust.png",
-      "sentiment": "positive",
-      "sentiment_stats": {
-        "negative": 0.02,
-        "neutral": 0.07,
-        "positive": 99.91
-      },
-      "ai_tag": [
-        "cricket"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "4020f961760b65d1b5264b365de0a63a",
-      "link": "https://en.sedaily.com/international/2026/10/26/lula-wins-fourth-term-in-brazil-halting-latin-americas",
-      "title": "Lula Wins Fourth Term in Brazil, Halting Latin America's Rightward Shift",
-      "description": "Brazil's Lula won a fourth term with 51.76% in the runoff, beating Flavio Bolsonaro and halting Latin America's rightward electoral shift.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "international"
-      ],
-      "creator": [
-        "park min-ju"
+        "phillip raskin"
       ],
       "language": "english",
       "country": [
@@ -257,24 +22,323 @@
       ],
       "category": [
         "top",
+        "entertainment"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 05:08:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 10:17:35",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "koreajoongangdaily_joins",
+      "source_name": "Koreajoongangdaily Joins News",
+      "source_priority": 567194,
+      "source_url": "https://koreajoongangdaily.joins.com",
+      "source_icon": "https://i.newsdata.io/koreajoongangdaily_joins.jpg",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 1.0,
+        "neutral": 97.25,
+        "positive": 1.75
+      },
+      "ai_tag": [
+        "television"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "9e6baeefd930daba8773da21b4cc684a",
+      "link": "https://itdcindia.com/netanyahu-says-israel-aims-remove-irans-government-power/",
+      "title": "Netanyahu Says Israel Aims to Remove Iran\u2019s Government from Power",
+      "description": "Israeli Prime Minister Benjamin Netanyahu said Israel aims to remove Iran\u2019s government from power, citing its nuclear programme as a security threat.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "\u092c\u092f\u093e\u0928",
+        "idf",
+        "\u0908\u0930\u093e\u0928",
+        "nuclear programme",
+        "\u0928\u0947\u0924\u0928\u094d\u092f\u093e\u0939\u0942",
+        "israeli prime minister",
+        "\u092c\u0926\u0932\u0928\u0947",
+        "world / international",
+        "world",
+        "\u0938\u0924\u094d\u0924\u093e",
+        "bhopal",
+        "netanyahu",
+        "powerchange",
+        "worldinternational",
+        "iran",
+        "\u092c\u0921\u093c\u093e",
+        "mossad",
+        "power change"
+      ],
+      "creator": [
+        "central team 1 north india"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
         "politics"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-26 01:18:21",
+      "pubDate": "2026-10-26 04:59:30",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 01:48:25",
-      "image_url": "https://wimg.sedaily.com/news/cms/2026/10/26/rcv.YNA.20261026.PRU20261026197801009_P1.jpg",
+      "fetched_at": "2026-10-26 06:27:37",
+      "image_url": null,
       "video_url": null,
-      "source_id": "sedaily",
-      "source_name": "\uc11c\uc6b8\uacbd\uc81c",
-      "source_priority": 991635,
-      "source_url": "https://www.sedaily.com",
-      "source_icon": "https://i.newsdata.io/sedaily.png",
+      "source_id": "itdcindia",
+      "source_name": "Itdc India Epress",
+      "source_priority": 99999999,
+      "source_url": "https://itdcindia.com",
+      "source_icon": "https://i.newsdata.io/itdcindia.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 50.41,
+        "neutral": 44.73,
+        "positive": 4.86
+      },
+      "ai_tag": [
+        "government",
+        "national security"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "731cee4d657d87b3973bb19c73ae8e65",
+      "link": "https://www.livemint.com/market/stock-market-news/reliance-shares-why-is-it-wise-to-buy-ril-shares-amid-a-falling-stock-market-explained-with-3-reasons-target-price-11792987732775.html",
+      "title": "Reliance shares: Why is it wise to buy RIL shares amid a falling stock market \u2014 Explained with 3 reasons; target price",
+      "description": "Reliance shares: Experts believe stock market crash is providing an opportunity for long-term investors for adding RIL shares at a discounted price",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "stock market today",
+        "reliance share price target",
+        "reliance industries share price target",
+        "ril share price target",
+        "stocks to buy today"
+      ],
+      "creator": [
+        "asit manohar"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 04:57:28",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 05:04:44",
+      "image_url": "https://www.livemint.com/lm-img/img/2026/10/26/1600x900/RIL_Reliance_share_price_target_Stock_market_today_1792987891349_QIWk_1792987891482_jNle_51b7fddc-013e-4eae-ad59-1c82a00fec66_t3iF.png",
+      "video_url": null,
+      "source_id": "livemint",
+      "source_name": "Mint",
+      "source_priority": 12950,
+      "source_url": "https://www.livemint.com",
+      "source_icon": "https://i.newsdata.io/livemint.png",
       "sentiment": "positive",
       "sentiment_stats": {
-        "negative": 0.05,
-        "neutral": 0.57,
-        "positive": 99.38
+        "negative": 0.1,
+        "neutral": 12.79,
+        "positive": 87.11
+      },
+      "ai_tag": [
+        "financial markets"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "269e1088b88e7673eb0bb037659174bc",
+      "link": "https://www.ndtv.com/world-news/meta-accused-of-bias-in-brazil-election-as-lula-campaign-raises-concerns-luiz-inacio-lula-da-silva-fourth-term-12235848",
+      "title": "Meta Accused Of Bias In Brazil Election As Lula Campaign Raises Concerns",
+      "description": "Spat with Meta is reopening a fight over power of social media firms that has been brewing in Brazil",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "digital election influence",
+        "social media interference",
+        "luiz inacio lula da silva",
+        "election disinformation",
+        "meta platforms",
+        "brazil electoral court",
+        "brazil presidential elections"
+      ],
+      "creator": [
+        "bloomberg news"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "world"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 04:56:55",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 05:32:22",
+      "image_url": "https://c.ndtvimg.com/2026-10/vuif92ks_zuckerberg-lula_625x300_26_October_26.jpeg",
+      "video_url": null,
+      "source_id": "ndtv",
+      "source_name": "Ndtv",
+      "source_priority": 1204,
+      "source_url": "http://www.ndtv.com",
+      "source_icon": "https://i.newsdata.io/ndtv.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 59.11,
+        "neutral": 40.43,
+        "positive": 0.46
+      },
+      "ai_tag": [
+        "elections"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "06a07fcf16c823694211f7bc2485c615",
+      "link": "https://www.ibtimes.sg/lula-wins-fourth-term-brazil-puts-brakes-wave-right-wing-election-victories-across-latin-america-95523",
+      "title": "Lula Wins Fourth Term in Brazil, Puts Brakes on Wave of Right-Wing Election Victories Across Latin America",
+      "description": "Luiz Inacio Lula da Silva defeats Flavio Bolsonaro by more than 4 million votes, securing a fourth term as Brazil's president despite economic concerns and a conservative Congress.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "lula victory",
+        "bolsonaro defeat",
+        "brazil elections"
+      ],
+      "creator": [
+        "kiran n kumar"
+      ],
+      "language": "english",
+      "country": [
+        "singapore"
+      ],
+      "category": [
+        "world"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 04:51:15",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 05:15:48",
+      "image_url": "https://data.ibtimes.sg/en/full/95534/luiz-inacio-lula-da-silva.jpg?w=1200&h=630?q=60",
+      "video_url": null,
+      "source_id": "ibtimes",
+      "source_name": "International Business Times",
+      "source_priority": 458722,
+      "source_url": "https://www.ibtimes.com",
+      "source_icon": "https://i.newsdata.io/ibtimes.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.26,
+        "neutral": 1.02,
+        "positive": 98.72
+      },
+      "ai_tag": [
+        "elections"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "6f4499bd375c603b8e1e5764d47a8ece",
+      "link": "https://primanews.org/president-lula-da-silva-of-brazil-elected-for-fourth-term/",
+      "title": "President Lula da Silva of Brazil elected for fourth term",
+      "description": "Brazil\u2019s President Luiz In\u00e1cio Lula da Silva has been re-elected for a fourth term, defeating Fl\u00e1vio Bolsonaro in a neck-and-neck election conducted on Sunday. Mr Lula won the election with 51.75 per cent of the vote, while Mr Bolsonaro received slightly fewer votes, accounting for 48.25 per cent of the total, according to the state\u2019s [...]",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "fl\u00e1vio bolsonaro",
+        "politics",
+        "us president donald trump",
+        "former president jair bolsonaro",
+        "luiz inacio lula da silva"
+      ],
+      "creator": [
+        "prima news"
+      ],
+      "language": "english",
+      "country": [
+        "nigeria"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 04:45:28",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 04:55:21",
+      "image_url": "https://primanews.org/wp-content/uploads/2026/10/President-Lula-da-Silva-of-Brazil-elected-for-fourth-term.png",
+      "video_url": null,
+      "source_id": "primanews",
+      "source_name": "Prima News",
+      "source_priority": 15367248,
+      "source_url": "https://www.primanews.org",
+      "source_icon": "https://i.newsdata.io/primanews.webp",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.09,
+        "neutral": 6.4,
+        "positive": 93.51
+      },
+      "ai_tag": [
+        "elections"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "45e04c8329a884b2ca46477bad85b0d5",
+      "link": "https://www.devdiscourse.com/article/international/3997101-brazils-lula-wins-historic-fourth-term-flavio-bolsonaro-refuses-to-concede",
+      "title": "Brazil\u2019s Lula wins historic fourth term, Flavio Bolsonaro refuses to concede",
+      "description": "Brazilian President Luiz Inacio Lula da Silva won a historic fourth term on Sunday the countrys electoral court said in a shock result that defied polls precedent and global anti-incumbent sentiment to put the brakes on a wave of right-wing election victories across Latin America However his opponent Senator Flavio Bolsonaro the eldest son of former President Jair Bolsonaro refused to accept defeat and said he would ask for the result to be annulled due to a Sunday ruling from a Supreme Court justice that extended voting for two hours",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "reuters"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 04:45:08",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 05:17:34",
+      "image_url": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_02_9568411.jpg&amp;width=920",
+      "video_url": null,
+      "source_id": "devdiscourse",
+      "source_name": "Devdiscourse",
+      "source_priority": 566021,
+      "source_url": "https://www.devdiscourse.com",
+      "source_icon": "https://i.newsdata.io/devdiscourse.jpg",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.36,
+        "neutral": 33.98,
+        "positive": 65.66
       },
       "ai_tag": [
         "elections",
@@ -286,53 +350,52 @@
       "duplicate": false
     },
     {
-      "article_id": "45eaade18a5e5a9d944789d49103fa46",
-      "link": "https://www.cubaheadlines.com/articles/343821",
-      "title": "Lula Achieves Unprecedented Comeback to Secure Brazil's Presidency",
-      "description": "On Sunday, Luiz In\u00e1cio Lula da Silva accomplished an unprecedented comeback in Brazil's electoral history, securing victory in the presidential run...",
+      "article_id": "510d18f5339b9f99261d9b1976a8306e",
+      "link": "https://www.yahoo.com/news/world/articles/brazil-heads-polls-runoff-between-070736480.html",
+      "title": "Trump critic Lula wins 4th term in Brazil, but Fl\u00e1vio Bolsonaro refuses to concede",
+      "description": "By Lisandra Paraguassu, Brendan O'Boyle and Luciana Magalhaes SAO PAULO, Oct 25 (Reuters) - Brazilian President Luiz Inacio Lula da Silva won a historic fourth term on Sunday, the country's electoral court said, in a shock result that defied polls, precedent and global anti-incumbent sentiment to put the brakes on a wave of right-wing election victories across Latin America. However, his opponent Senator Flavio Bolsonaro, the eldest son of former President Jair Bolsonaro, refused to accept defeat and said he would ask for the result to be annulled due to a Sunday ruling from a Supreme Court justice that extended voting for two hours. Bolsonaro led the election's first round but lost in the runoff by over 4 million votes, rattling Brazilian financial markets which had bet on his victory. His refusal to concede defeat has echoes of his father's reaction after losing to Lula in 2022. Jair Bolsonaro never accepted his loss and was later sentenced by the Supreme Court to 27-years in prison for plotting a coup to remain in power. The scale of Flavio Bolsonaro's loss to Lula \u2014 by more than twice his father's losing margin \u2014 and the fact his campaign also asked for an extension due to rains in the conservative-leaning south make any annulment unlikely, analysts said. Mario Braga, a Latin America analyst at the risk consultancy RANE, said there could be right-wing protests in coming days, but \"it's very improbable that it will lead to the reversal of the result.\" COMEBACK KING Investors expect recent bets on a change of government to unwind in a volatile week ahead on financial markets. A Tokyo-listed exchange-traded fund tracking Brazil's Bovespa index dived nearly 15% in Asia trade on news of Lula's victory, while the Brazilian real was set to fall sharply against the US dollar. The victory marks another comeback in a career full of them for Lula, an icon of the global left and the most dominant force in Brazilian politics this century. The 80-year-old was jailed from 2018 to 2019 on corruption charges that were later overturned, paving the way for him to beat Jair Bolsonaro in the 2022 election. \"He is a statesman, a giant,\" leftist federal lawmaker Erika Hilton, who was with Lula in Sao Paulo during the vote count, told Reuters. At times, Lula's reelection looked like a long shot, as voters soured on him and his Workers' Party after years of corruption scandals and rising prices, while sweeping social changes left the former metalworker and union leader looking out of touch with an increasingly app-based economy and its growing ranks of informal workers. Pollsters said better-than-expected turnout had powered Lula to victory. Leonardo Barreto, the co-founder of consultancy Think Policy, said voters had chosen Lula's familiar embrace over Bolsonaro's novelty. \"People today are choosing between change, with some apprehension, and a known path, which guarantees certain rights,\" he said. During the campaign, Lula pointed to a track record of falling poverty and inequality, while unemployment, illiteracy and deforestation hit record lows during his third term. He warned Bolsonaro would cut welfare spending, backslide on social advances and hand over Brazil's sovereignty to US President Donald Trump, whose State Department led a campaign to get the Bolsonaros back to power. Lula's win deprives Trump of a major addition to what has been a growing bloc of friendly right-wing Latin American governments that have embraced Washington's agenda on security and migration. There was no immediate comment from Trump or the US State Department, while Canadian Prime Minister Mark Carney and Latin American leaders were quick to offer their congratulations. Celso Amorim, a former Lula foreign minister, told Reuters the leftist \"would be very important for establishing a point of balance in Latin America. Lula is that balance.\" LATE-CAMPAIGN BOOST Lula becomes the first candidate since Brazil's return to democracy in the 1980s to be elected after finishing second in the first round. His campaign this year mixed the kind of pragmatism and populism that has shaped his career in national politics for half a century, rolling out a slew of reforms aimed at improving the lives of workers and poor Brazilians. These gained steam with late-campaign pledges that ranged from free nationwide weekend public transport, which has to be formally submitted to Congress, to a 15% increase in his trademark welfare program that is already being implemented. Lula also championed a constitutional amendment that became Brazil's biggest labor reform in decades, which passed with wide support in Congress. CHALLENGES AHEAD Still, Lula's fourth term could be his most difficult yet, after Brazil elected its most conservative Congress since returning to democracy in the 1980s. Combined, Bolsonaro's Liberal Party and allied parties could control over 280 seats in the lower house and up to 50 seats in the Senate, enough for comfortable opposition majorities in both chambers. That may deepen recent trends of presidents ceding power to Congress on the budget, major legislation and key nominations. Lula faces an economy that his government forecasts will grow just 2.3% next year, adding to fiscal concerns tied to high interest rates and public debt that has risen past 82% of GDP, the highest since the pandemic. Goldman Sachs said it expects Lula to make modest progress at most to contain spending in a fourth term, as he stays committed to a state-led growth model. Surging household debt also concerns economists. Trying to address the issue, Lula rolled out a provisional ban on online betting and unveiled a new debt relief program during the campaign. The incoming right-wing Congress will try to pass structural reforms that favor businesses, experts say, prompting spending cuts that could trigger popular backlash. (Reporting by Oliver Griffin, Luciana Magalhaes and Lisandra Paraguassu in Sao Paulo; Ricardo Brito, Bernardo Caram and Brendan O'Boyle in Brasilia; Marta Nogueira in Rio de Janeiro, Trevor Hunnicutt in Washington; Writing by Brendan O'Boyle and Oliver Griffin; Editing by Brad Haynes, Gabriel Stargardter, Alistair Bell, Christina Fincher, Andrew Heavens, Nick Zieminski, Aurora Ellis and Lincoln Feast.) This article originally appeared on Reuters at https://www.yahoo.com/news/world/articles/brazil-heads-polls-runoff-between-070736480.html",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "port of mariel",
-        "brazil-cuba relations",
-        "fl\u00e1vio bolsonaro",
-        "brazilian presidential election",
-        "lula da silva",
-        "rio de janeiro",
-        "superior electoral court",
-        "gustavo petro",
-        "bras\u00edlia",
-        "minas gerais"
+        "region|us",
+        "brendan o'boyle and luciana magalhaes",
+        "site|news",
+        "author_name|by lisandra paraguassu",
+        "usonlinereportworldnews",
+        "provider_name|reuters",
+        "language|en-us"
       ],
       "creator": [
-        "henry cruz"
+        "brendan o'boyle and luciana magalhaes",
+        "by lisandra paraguassu"
       ],
       "language": "english",
       "country": [
-        "cuba"
+        "united states of america"
       ],
       "category": [
         "top",
         "politics"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-26 01:15:18",
+      "pubDate": "2026-10-26 04:44:51",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 02:43:39",
-      "image_url": "https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1792975922-lula-protagoniza-historica-remontada-gana-elecciones-brasil.jpg",
+      "fetched_at": "2026-10-26 08:01:14",
+      "image_url": "https://media.zenfs.com/en/reuters.com/d96d5310ea78e11512645f9421ef47c7.jpg",
       "video_url": null,
-      "source_id": "cubaheadlines",
-      "source_name": "Cubaheadlines",
-      "source_priority": 263517,
-      "source_url": "http://cubaheadlines.com",
-      "source_icon": "https://i.newsdata.io/cubaheadlines.png",
-      "sentiment": "positive",
+      "source_id": "yahoo",
+      "source_name": "Yahoo! News",
+      "source_priority": 17,
+      "source_url": "https://news.yahoo.com",
+      "source_icon": "https://i.newsdata.io/yahoo.png",
+      "sentiment": "neutral",
       "sentiment_stats": {
-        "negative": 0.6,
-        "neutral": 1.49,
-        "positive": 97.91
+        "negative": 1.79,
+        "neutral": 96.05,
+        "positive": 2.16
       },
       "ai_tag": [
-        "elections"
+        "elections",
+        "government"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -340,139 +403,86 @@
       "duplicate": false
     },
     {
-      "article_id": "7991d056c935f0063a39bfebc1e78123",
-      "link": "https://jowhar.com/lula-pulls-ahead-of-bolsonaro-in-brazils-presidential-runoff-race/",
-      "title": "Lula pulls ahead of Bolsonaro in Brazil\u2019s presidential runoff race",
-      "description": "In a dramatic swing as the tally unfolded, Brazilian President Luiz Inacio Lula da Silva moved ahead of right-wing Senator Flavio Bolsonaro in a runoff race, with half of the votes counted and ballots from left-leaning states in Mr Lula\u2019s northeastern stronghold beginning to pour in. Pollsters said higher-than-expected turnout appeared to have boosted Mr [\u2026]",
+      "article_id": "2a58f07609cca42cf9f043d5efb71323",
+      "link": "https://www.timeslive.co.za/news/world/2026-10-26-brazils-lula-wins-fourth-term-in-dramatic-comeback/",
+      "title": "Brazil\u2019s Lula wins fourth term in dramatic comeback",
+      "description": "Analysts doubt legal challenges will overturn election result",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "pulls",
-        "presidential",
-        "race",
-        "world news",
-        "ahead",
-        "brazils",
-        "lula",
-        "bolsonaro",
-        "runoff"
+        "world"
       ],
       "creator": [
-        "hanad"
+        "reuters agency"
       ],
       "language": "english",
       "country": [
-        "somalia"
+        "south africa"
       ],
       "category": [
         "top",
         "politics"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-26 01:15:15",
+      "pubDate": "2026-10-26 04:40:13",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 01:45:24",
-      "image_url": "https://jowhar.com/wp-content/uploads/2026/10/Lula-pulls-ahead-of-Bolsonaro-in-Brazils-presidential-runoff-race.jpg",
+      "fetched_at": "2026-10-26 05:10:19",
+      "image_url": "https://www.timeslive.co.za/resizer/v2/SVOGUGGRZFGFFF2CG4XQB4JZU4.JPG?auth=aade017bca5c4fcad3025fc7d446e4b5d09e926dc07b8eecc64384e9b14251c6&smart=true&width=1200&height=800",
       "video_url": null,
-      "source_id": "jowhar",
-      "source_name": "Jowhar",
-      "source_priority": 408915,
-      "source_url": "https://www.jowhar.com",
-      "source_icon": "https://i.newsdata.io/jowhar.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 0.23,
-        "neutral": 91.86,
-        "positive": 7.91
-      },
-      "ai_tag": [
-        "elections"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "17e598cab4d6a4c3cd0ff89029485818",
-      "link": "https://www.sbs.com.au/news/article/lula-de-silva-brazil-rejects-bolsonaro-heir-in-closely-fought-election-battle/rwsl7xq9p",
-      "title": "Brazil rejects Bolsonaro heir, electing Lula in closely fought election",
-      "description": "Brazilian President Luiz In\u00e1cio Lula Da Silva has narrowly won a fourth term over Fl\u00e1vio Bolsonaro, son of former president Jair Bolsonaro.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "world"
-      ],
-      "creator": null,
-      "language": "english",
-      "country": [
-        "australia"
-      ],
-      "category": [
-        "world"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-26 01:14:23",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 01:32:32",
-      "image_url": "https://assets.sbs.com.au/dims4/default/d556cba/2147483647/strip/false/crop/3000x1378+0+311/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Ff3%2F53%2F1b673e7c491192e438bc3ee2ec70%2Fgettyimages-2301505861.jpg",
-      "video_url": null,
-      "source_id": "sbs",
-      "source_name": "Sbs News",
-      "source_priority": 9072,
-      "source_url": "https://www.sbs.com.au/news",
-      "source_icon": "https://i.newsdata.io/sbs.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 35.16,
-        "neutral": 64.4,
-        "positive": 0.44
-      },
-      "ai_tag": [
-        "elections"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "49e4c85af13a659a2d4e71946792176b",
-      "link": "https://www.bluewin.ch/en/news/international/president-lula-wins-election-opponent-bolsonaro-calls-for-annulment-li.3648793",
-      "title": "President Lula Wins Election \u2013 Opponent Bolsonaro Calls for Annulment",
-      "description": "Left-wing icon Lula is celebrating a historic comeback, while his right-wing rival Fl\u00e1vio Bolsonaro plans to challenge the presidential election results. Are turbulent times ahead for Brazil once again?",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "politik"
-      ],
-      "creator": [
-        "keystone-sda",
-        "redaktion blue news"
-      ],
-      "language": "english",
-      "country": [
-        "switzerland"
-      ],
-      "category": [
-        "domestic"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-26 01:10:43",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 06:01:11",
-      "image_url": "https://bluewin-prod-sc-images.imgix.net/2026/10/26/ab735e2b-d5f3-453a-8f3f-d18a3544048d.jpg?w=1024&auto=format&s=68936a8fcf352ec89bc4f3fa022b9df5",
-      "video_url": null,
-      "source_id": "bluewin",
-      "source_name": "Bluewin",
-      "source_priority": 8634,
-      "source_url": "https://www.bluewin.ch/de",
-      "source_icon": "https://i.newsdata.io/bluewin.png",
+      "source_id": "timeslive",
+      "source_name": "Timeslive",
+      "source_priority": 101319,
+      "source_url": "https://www.timeslive.co.za",
+      "source_icon": "https://i.newsdata.io/timeslive.png",
       "sentiment": "positive",
       "sentiment_stats": {
-        "negative": 0.02,
-        "neutral": 0.63,
-        "positive": 99.35
+        "negative": 0.11,
+        "neutral": 3.44,
+        "positive": 96.45
       },
       "ai_tag": [
         "elections"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "e58a47ce64249cbb199d918fe5858fdd",
+      "link": "https://www.straitstimes.com/world/i-feel-so-happy-ecstasy-relief-among-brazils-lula-supporters",
+      "title": "\u2018I feel so happy!\u2019: Ecstasy, relief among Brazil\u2019s Lula supporters",
+      "description": "Lula won Brazil\u2019s presidency with 51.8% of the vote, beating Flavio Bolsonaro on 48.2%.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "the straits times"
+      ],
+      "language": "english",
+      "country": [
+        "singapore"
+      ],
+      "category": [
+        "world"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 04:40:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 05:06:07",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "straitstimes",
+      "source_name": "Straitstimes",
+      "source_priority": 28566,
+      "source_url": "https://www.straitstimes.com/global",
+      "source_icon": "https://i.newsdata.io/straitstimes.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.09,
+        "neutral": 0.42,
+        "positive": 99.49
+      },
+      "ai_tag": [
+        "politics"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -480,5 +490,5 @@
       "duplicate": false
     }
   ],
-  "nextPage": "1792977043780829214"
+  "nextPage": "1792989600268119218"
 }

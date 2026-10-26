@@ -1,7 +1,46 @@
 {
   "status": "ok",
-  "totalResults": 29,
+  "totalResults": 32,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Rt-english.com"
+      },
+      "author": "RT",
+      "title": "Europe\u2019s next crisis is already hiding behind the riots",
+      "description": "From French riots to energy disputes, economic pressure is strengthening Europe\u2019s challengers and exposing Brussels\u2019 weaknesses Read Full Article at RT.com",
+      "url": "https://rt-english.com/news/647642-europes-next-crisis-riots/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.10/article/6ade2f9320302752be66eac2.png",
+      "publishedAt": "2026-10-25T16:54:49Z",
+      "content": "These days,\u00a0European headlines resemble reports from a war zone: from stormed city halls in Marseille and Lille, to looted boutiques along the French Riviera, burned tourist offices in Lyon, and clou\u2026 [+11818 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Comeback"
+      },
+      "author": "Kevin Harrish",
+      "title": "NFL announces decision on future Paris games after civil unrest",
+      "description": "The NFL went ahead with its first-ever regular-season game in Paris on Sunday despite days of violent protests across France that led to calls for the league to relocate the game as the Pittsburgh Steelers and New Orleans Saints kicked off at Stade de France.\u2026",
+      "url": "https://thecomeback.com/nfl/announces-decision-on-future-paris-games-after-civil-unrest.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0fab96d1280c1598dcd7ee56d1e29b7d892465eb3bad04ae0a3d38963d64a19b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2Fa9a1e135ef4bd30184968e6032de8e08.jpg",
+      "publishedAt": "2026-10-25T16:45:45Z",
+      "content": "The NFL went ahead with its first-ever regular-season game in Paris on Sunday despite days of violent protests across France that led to calls for the league to relocate the game as the Pittsburgh St\u2026 [+2988 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "NFL overcomes civil unrest, Trump concerns and calls to postpone as Steelers and Saints kick off in Paris - Fox News",
+      "description": "NFL overcomes civil unrest, Trump concerns and calls to postpone as Steelers and Saints kick off in ParisFox News NFL House in Paris closes ahead of street protests in French capitalESPN How to Watch Steelers vs. Saints: TV Channel, Live Stream, Time - Octobe\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186451120",
+      "urlToImage": null,
+      "publishedAt": "2026-10-25T14:53:26Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
     {
       "source": {
         "id": "fox-news",
@@ -354,6 +393,61 @@
       "content": "Two weeks out from the midterm elections, JD Vance finds himself at the lowest point in his career so far. A war with Iran that he privately opposed how vigorously is debatable has turned into a genu\u2026 [+138 chars]"
     },
     {
+      "title": "Barcelona Riots Lead to Mass Arrests, Widespread Property Damage",
+      "url": "https://menafn.com/1111865125/Barcelona-Riots-Lead-to-Mass-Arrests-Widespread-Property-Damage",
+      "description": "(MENAFN) Spanish authorities arrested at least 128 people after violent unrest broke out in central Barcelona on Saturday, with minors accounting for more than half of those detained, according to ...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Menafn"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "The Week in Pictures: Typhoon Champi hits Keelung, civil unrest in Paris",
+      "url": "https://www.straitstimes.com/multimedia/photos/the-week-in-pictures-typhoon-champi-hits-keelung-civil-unrest-in-paris",
+      "description": null,
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Straitstimes"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "France dodges rerun of looting and riots at protests",
+      "url": "https://www.japantimes.co.jp/news/2026/10/26/world/france-riot-protest-security/",
+      "description": "The more subdued weekend would suggest the government's decision to boost police numbers and contain marches paid off.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "The Japan Times"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Rallies, remembrance meetings mark 80 years of Punnapra-Vayalar uprising",
+      "url": "https://www.newindianexpress.com/states/kerala/2026/Oct/26/rallies-remembrance-meetings-mark-80-years-of-punnapra-vayalar-uprising",
+      "description": "The week-long observance, organised under the leadership of the CPM and the CPI, began on October 20 and will conclude on October 27.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "The New Indian Express"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Photo of couple stripped bare in Paris riots is an AI-generated fake | AAP",
+      "url": "https://aap.com.au/factcheck/photo-of-couple-stripped-bare-in-paris-riots-is-an-ai-generated-fake/",
+      "description": "A viral image claiming to show an elderly couple stripped to their underwear by rioters in France has been debunked as an AI hoax.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Australian Associated Press"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
       "title": "Midterms Looking like a red wave. Will there be riots like Europe? US Western Floods, Earthquakes.",
       "url": "https://cbnc.com/midterms-looking-like-a-red-wave-will-there-be-riots-like-europe-us-western-floods-earthquakes/",
       "description": "LifeWave: Experience miracles with a deep discount as a Customer + or Brand Partner https://www.lifewavemichaeljaco.com. The post Midterms Looking like a red wave. Will there be riots like Europe? US Western Floods, Earthquakes. appeared first on CBNC.",
@@ -405,61 +499,6 @@
       "publishedAt": "",
       "source": {
         "name": "Observer-reporter"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "Democrats scheme to turn the US into France \u2014 riots and all",
-      "url": "https://nypost.com/2026/10/25/opinion/democrats-scheme-to-turn-the-us-into-france-riots-and-all/",
-      "description": "France has socialized medicine, high minimum wages, powerful unions, big government spending and a massive welfare state \u2014 a far-left Democratic dream. And it's in flames.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "New York Post"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "Peaceful demise of Vu\u010di\u0107 in Serbia stands in contrast to second weekend of riots in French cities",
-      "url": "https://euobserver.com/244833/peaceful-demise-of-vucic-in-serbia-stands-in-contrast-to-second-weekend-of-riots-in-french-cities/",
-      "description": "Vu\u010di\u0107 acknowledged defeat shortly after 9.30PM on Sunday, when exit polls put his SNS party on 105 seats in parliament, behind the reformist Student List movement, led by cardiologist Ilija Srdanovic, on 135 to 140.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Euobserver"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "Another Weekend of Riots, Arson and Street Battles in France and Beyond",
-      "url": "https://www.sgtreport.com/2026/10/another-weekend-of-riots-arson-and-street-battles-in-france-and-beyond/",
-      "description": "from The Conservative Treehouse: More \u201cprotests\u201d that look like riots broke out today in several regions throughout Europe as the socialists and communists take advantage of the street antagonisms and looting opportunists. Areas throughout France, Albania, Spain and Italy are seeing some of the most consequential street battles with police and rioters. CBS reported a [\u2026]",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Sgt Report"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "Student Uprising Ends Vucic's 12-Year Grip on Serbia as Leader Admits Defeat",
-      "url": "https://www.timesnownews.com/world/europe/serbia-election-results-student-list-win-president-aleksandar-vucic-concedes-defeat-article-156405404",
-      "description": "Vucic's concession comes amid a historic voter turnout of 67.6%. The outcome signals a potential political shift in Serbia, drawing comparisons to opposition movements in Europe",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Times Now News"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "'All Cops Are Bastards': Inside the crowds at the Paris riots",
-      "url": "http://www.rebelnews.com/all_cops_are_bastards_inside_the_crowds_at_the_paris_riots",
-      "description": "Subhead:Ezra Levant reports from the heart of Paris as riot police, hundreds of police vans and helicopters flood the city on a rainy night. France has seen weeks of riots, arson and mayhem, and in one city a town hall was burnt to the ground. Our French-language team, Alexa and Guillaume, were in the thick of it with professional security. They warned Ezra not to come: \"It's a war zone. There's tear gas.\"#",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Rebel News"
       },
       "_provider": "newsdata.io"
     }

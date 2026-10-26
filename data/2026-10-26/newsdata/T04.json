@@ -1,7 +1,151 @@
 {
   "status": "success",
-  "totalResults": 21,
+  "totalResults": 22,
   "results": [
+    {
+      "article_id": "3fd4fee11b55a45f759f0527658ab279",
+      "link": "https://nation.africa/kenya/news/africa/uganda-imposes-mandatory-21-day-drc-quarantine-as-regional-ebola-threat-expands-5645632",
+      "title": "Uganda imposes mandatory 21-day DRC quarantine as regional Ebola threat expands",
+      "description": "Uganda insists it is Ebola-free since the country declared Bundibugyo virus disease outbreak over on July 28.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "health minister",
+        "mandatory 21-day quarantine",
+        "ebola",
+        "dr chris baryomunsi"
+      ],
+      "creator": [
+        "nation reporter"
+      ],
+      "language": "english",
+      "country": [
+        "kenya"
+      ],
+      "category": [
+        "environment",
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 03:51:50",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 10:29:56",
+      "image_url": "https://nation.africahttps//www.monitor.co.ug/resource/blob/5645056/66a6ce7b558118b1b6177d1653e42e1b/latest08pix-data.jpg",
+      "video_url": null,
+      "source_id": "nation",
+      "source_name": "Nation",
+      "source_priority": 12277,
+      "source_url": "https://nation.africa/kenya",
+      "source_icon": "https://i.newsdata.io/nation.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 23.43,
+        "neutral": 72.17,
+        "positive": 4.4
+      },
+      "ai_tag": [
+        "natural disasters",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "dc23d31fafd5864f27dd50dfece4fd83",
+      "link": "https://thepeninsulaqatar.com/article/26/10/2026/uganda-says-dr-congo-returnees-require-21-day-quarantine",
+      "title": "Uganda says DR Congo returnees require 21-day quarantine",
+      "description": "Addis Ababa: Ugandans coming back home from the Democratic Republic of Congo will be required to undergo a 21 day quarantine, the country s health min...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "africa",
+        "world"
+      ],
+      "creator": [
+        "the peninsula newspaper"
+      ],
+      "language": "english",
+      "country": [
+        "ethiopia",
+        "angola",
+        "namibia",
+        "kenya",
+        "congo",
+        "mauritius",
+        "chad",
+        "guinea",
+        "gabon",
+        "tanzania",
+        "ghana",
+        "central african republic",
+        "ivory coast",
+        "seychelles",
+        "morocco",
+        "equatorial guinea",
+        "uganda",
+        "dr congo",
+        "somalia",
+        "mali",
+        "zimbabwe",
+        "cape verde",
+        "sudan",
+        "south africa",
+        "liberia",
+        "mauritania",
+        "lesotho",
+        "madagascar",
+        "burundi",
+        "eritrea",
+        "nigeria",
+        "libya",
+        "malawi",
+        "rwanda",
+        "benin",
+        "botswana",
+        "cameroon",
+        "sierra leone",
+        "togo",
+        "algeria",
+        "djibouti",
+        "zambia",
+        "mozambique",
+        "burkina fasco",
+        "tunisia",
+        "gambia",
+        "senegal",
+        "niger"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 02:00:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 02:08:21",
+      "image_url": "https://thepeninsulaqatar.com/get/image/20260602_1780404430-871-thumb_404.jpeg?1780404430",
+      "video_url": null,
+      "source_id": "thepeninsulaqatar",
+      "source_name": "The Peninsula Qatar",
+      "source_priority": 52716,
+      "source_url": "https://thepeninsulaqatar.com",
+      "source_icon": "https://i.newsdata.io/thepeninsulaqatar.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 12.3,
+        "neutral": 87.6,
+        "positive": 0.1
+      },
+      "ai_tag": [
+        "politics",
+        "immigration and migrant issues"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
     {
       "article_id": "24570e750f0d253c3d7fa95c6055e173",
       "link": "https://www.freemalaysiatoday.com/category/world/2026/10/26/uganda-imposes-21-day-quarantine-on-citizens-returning-from-dr-congo",
@@ -381,99 +525,7 @@
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
       "duplicate": false
-    },
-    {
-      "article_id": "2c697531adf0c99a51cb0f6911255460",
-      "link": "https://www.telesurenglish.net/ugandans-who-travel-drc-will-spent-21-quarantine-days-at-come-back-due-ebola/",
-      "title": "Ugandans Who Travel DRC Will Spent 21 Quarantine Days at Come Back Due Ebola",
-      "description": "All Ugandan citizens returning to their country with a history of travel to the neighboring Democratic Republic of Congo (DRC) will have to undergo 21 days of quarantine, the Ugandan government announced this Sunday, after the detection of cases in several countries linked to the Ebola epidemic in the DRC. \u201cIf you are a Ugandan [\u2026]",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "world",
-        "drc",
-        "ebola"
-      ],
-      "creator": [
-        "alvaro cuesta"
-      ],
-      "language": "english",
-      "country": [
-        "venezuela"
-      ],
-      "category": [
-        "top",
-        "politics"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-25 15:35:27",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-25 15:57:06",
-      "image_url": "https://ikona.telesurenglish.net/content/uploads/2026/10/Captura-de-pantalla-2026-10-25-112328.jpg.webp",
-      "video_url": null,
-      "source_id": "telesurenglish_net",
-      "source_name": "Telesurenglish",
-      "source_priority": 99999999,
-      "source_url": "https://www.telesurenglish.net",
-      "source_icon": "https://i.newsdata.io/telesurenglish_net.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 3.81,
-        "neutral": 93.31,
-        "positive": 2.88
-      },
-      "ai_tag": [
-        "politics"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "27a2481e9b7b31f60afa128bc58758af",
-      "link": "https://theprint.in/world/uganda-imposes-21-day-quarantine-on-citizens-returning-from-congo/3081259/",
-      "title": "Uganda imposes 21-day quarantine on citizens returning from Congo",
-      "description": "By Elias Biryabarema KAMPALA, Oct 25 (Reuters) - Ugandan citizens returning to the country with a history of travel to Democratic Republic of Congo will be quarantined for 21 days, Health Minister",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "reuters wire",
-        "world"
-      ],
-      "creator": [
-        "reuters"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "world"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-25 15:00:06",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-25 20:34:27",
-      "image_url": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/10/Uganda_340.jpg",
-      "video_url": null,
-      "source_id": "theprint_hi",
-      "source_name": "Theprint Hindi",
-      "source_priority": 14094,
-      "source_url": "https://hindi.theprint.in",
-      "source_icon": "https://i.newsdata.io/theprint_hi.jpg",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 26.37,
-        "neutral": 73.46,
-        "positive": 0.17
-      },
-      "ai_tag": [
-        "politics"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
     }
   ],
-  "nextPage": "1792940406864979116"
+  "nextPage": "1792943951163196063"
 }

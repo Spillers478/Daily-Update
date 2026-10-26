@@ -1,30 +1,50 @@
 {
   "groups": {
-    "https://artlyst.com/art-basel-paris-2026-delivers-strong-top-end-sales-despite-early-closure/": "c",
-    "https://www.foxnews.com/outkick-sports/nfl-overcomes-civil-unrest-trump-concerns-calls-postpone-steelers-saints-kick-off-paris": "d",
+    "https://www.dailymail.com/news/article-16237029/French-protests-Le-Pen-campaign.html": "a",
+    "https://rt-english.com/news/647642-europes-next-crisis-riots/": "b",
     "https://www.irishtimes.com/world/europe/2026/10/25/france-dodges-rerun-of-looting-and-riots-after-security-boost/": "a",
     "https://abc17news.com/news/national-world/cnn-world/2026/10/24/france-sees-another-weekend-of-mass-protests-with-nearly-1000-detained/": "a",
-    "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/10/24/steelers-saints-week-7-nfl-house-closes-paris-game/92422601007/": "e",
-    "https://biztoc.com/x/61265f7f8d597a04": "f",
+    "https://biztoc.com/x/61265f7f8d597a04": "c",
     "https://www.bbc.co.uk/news/articles/c95ynd587ynzo": "a",
-    "https://freerepublic.com/focus/f-news/4400471/posts": "g",
-    "https://rt-english.com/news/647622-europe-mass-protests-videos/": "h",
-    "https://www.foxnews.com/media/french-ceo-warns-purely-chaotic-riots-prove-country-reached-dead-end-socialism": "i",
-    "https://www.wnd.com/2026/10/trump-admin-warned-europe-before-riots-started-it/": "j",
-    "https://biztoc.com/x/95600d04715e1bf3": "k",
+    "https://freerepublic.com/focus/f-news/4400471/posts": "d",
+    "https://rt-english.com/news/647622-europe-mass-protests-videos/": "e",
+    "https://www.foxnews.com/media/french-ceo-warns-purely-chaotic-riots-prove-country-reached-dead-end-socialism": "f",
+    "https://www.wnd.com/2026/10/trump-admin-warned-europe-before-riots-started-it/": "g",
+    "https://biztoc.com/x/95600d04715e1bf3": "h",
     "https://www.business-standard.com/world-news/mass-protests-challenge-macron-as-french-police-fire-tear-gas-use-cannons-126102401075_1.html": "a",
-    "https://www.foxnews.com/travel/louvre-turns-away-tourists-paris-braces-renewed-violence-following-destructive-riots": "l",
+    "https://www.foxnews.com/travel/louvre-turns-away-tourists-paris-braces-renewed-violence-following-destructive-riots": "i",
     "https://biztoc.com/x/4de22e97b89bb61a": "a",
-    "https://www.breitbart.com/europe/2026/10/24/self-defence-weapons-sales-surge-in-paris-ahead-of-anticipated-act-ii-riots-on-saturday/": "m",
-    "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert": "b",
-    "https://biztoc.com/x/d2b89ff505ec7d9a": "n",
-    "https://biztoc.com/x/566c63064404f7bd": "o",
-    "https://www.rte.ie/news/2026/1024/1596652-analyse-comment-france/": "p",
-    "https://www.breitbart.com/sports/2026/10/23/trump-says-nfl-probably-could-have-postponed-paris-game-due-riots/": "q",
-    "https://biztoc.com/x/5a1e2532e37d7b44": "b",
-    "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html": "o",
-    "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo": "b",
-    "https://www.foxnews.com/opinion/broadcast-bias-networks-show-france-burning-highlight-peaceful-protesters": "r"
+    "https://www.breitbart.com/europe/2026/10/24/self-defence-weapons-sales-surge-in-paris-ahead-of-anticipated-act-ii-riots-on-saturday/": "j",
+    "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert": "k",
+    "https://biztoc.com/x/d2b89ff505ec7d9a": "l",
+    "https://biztoc.com/x/566c63064404f7bd": "m",
+    "https://www.rte.ie/news/2026/1024/1596652-analyse-comment-france/": "n",
+    "https://www.breitbart.com/sports/2026/10/23/trump-says-nfl-probably-could-have-postponed-paris-game-due-riots/": "o",
+    "https://www.wsws.org/en/articles/2026/10/26/lnte-o26.html": "a",
+    "https://www.foxnews.com/opinion/broadcast-bias-networks-show-france-burning-highlight-peaceful-protesters": "p"
   },
-  "contradictions": []
+  "contradictions": [
+    {
+      "group": "a",
+      "claim_type": "figures",
+      "summary": "Sources report different overall arrest/detention totals for the same Saturday of French protests.",
+      "sources": [
+        {
+          "source": "Dailymail.com",
+          "url": "https://www.dailymail.com/news/article-16237029/French-protests-Le-Pen-campaign.html",
+          "says": "More than 1,300 demonstrators were arrested and 50 police were hurt"
+        },
+        {
+          "source": "ABC17News.com",
+          "url": "https://abc17news.com/news/national-world/cnn-world/2026/10/24/france-sees-another-weekend-of-mass-protests-with-nearly-1000-detained/",
+          "says": "Nearly 1,000 people were detained"
+        },
+        {
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo",
+          "says": "Almost 1,000 people were arrested"
+        }
+      ]
+    }
+  ]
 }

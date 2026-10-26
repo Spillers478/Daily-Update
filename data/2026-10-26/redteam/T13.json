@@ -1,15 +1,17 @@
 {
   "articles": [
     {
-      "title": "We had an \u2018honest discussion\u2019 about the EU, Andy\u2026 it was called a referendum \u2013 why does PM want to reopen toxic debate?",
-      "url": "https://www.thesun.co.uk/news/40806757/stop-reopening-toxic-eu-debate/",
-      "description": "IT\u2019S taken 100 days in Downing Street for Andy Burnham to reveal his big plan to fix broken Britain . . . and it\u2019s more immigration. As if we haven\u2019t already got enough \u2014 legal and illegal \u2014 he has paved the way for a return to EU free movement. That would give anyone from all 27 member states...",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
       "source": {
-        "name": "The Sun"
+        "id": "breitbart-news",
+        "name": "Breitbart News"
       },
-      "_provider": "newsdata.io",
+      "author": "Kurt Zindulka",
+      "title": "Farage: PM Burnham Plotting 'Betrayal' of Brexit Voters Amid Talk of Rejoining EU Open Borders Scheme",
+      "description": "Reform UK leader Nigel Farage has accused Prime Minister Andy Burnham of plotting a \"betrayal\" of the British voter by suggesting a backtrack on Brexit to rejoin the European Union's so-called free movement of people scheme.\nThe post Farage: PM Burnham Plotti\u2026",
+      "url": "https://www.breitbart.com/europe/2026/10/25/farage-burnham-plotting-betrayal-of-brexit-voters-amid-talk-of-rejoining-eu-open-borders-scheme/",
+      "urlToImage": "https://media.breitbart.com/media/2026/10/GettyImages-2300612791-2-640x335.jpg",
+      "publishedAt": "2026-10-25T15:19:20Z",
+      "content": "Reform UK leader Nigel Farage has accused Prime Minister Andy Burnham of plotting a \u201cbetrayal\u201d of the British voter by suggesting a backtrack on Brexit to rejoin the European Union\u2019s so-called free m\u2026 [+3257 chars]",
       "cocom": "USEUCOM"
     },
     {
@@ -23,18 +25,6 @@
       },
       "_provider": "newsdata.io",
       "cocom": "USEUCOM"
-    },
-    {
-      "title": "Bring My Children Back: A Mother's Plea to Mar\u00eda Corina Machado Echoes Venezuela's Struggles",
-      "url": "https://www.cubaheadlines.com/articles/343796",
-      "description": "A poignant video shared by the Comando ConVzla this past Sunday on X has taken social media by storm. Outside the Santa Rosa Church in Barquisimeto...",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Cubaheadlines"
-      },
-      "_provider": "newsdata.io",
-      "cocom": "USSOUTHCOM"
     }
   ]
 }

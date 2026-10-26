@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 5,
   "results": [
     {
       "article_id": "40be9750f6e25f08ff2123fe8c77f678",
@@ -39,6 +39,50 @@
       },
       "ai_tag": [
         "television"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "5b11102d1eb0cd71501c3d4ce427b7a9",
+      "link": "https://www.bundle.app/en/lifestyle/american-hostage-episode-7-recap-ending-explained-is-tony-being-duped-4783AFB1-C207-573C-9E50-C6864576ABC0",
+      "title": "'American Hostage' Episode 7 Recap & Ending Explained: Is Tony Being Duped?",
+      "description": null,
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "digital mafia talkies"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-25 18:53:42",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 14:58:48",
+      "image_url": "https://static.bundle.app/news/8bed1830-01bd-558e-bacf-7b19f3e16cc7.jpg",
+      "video_url": null,
+      "source_id": "bundle_app",
+      "source_name": "Bundle",
+      "source_priority": 1204723,
+      "source_url": "https://www.bundle.app/tr",
+      "source_icon": "https://i.newsdata.io/bundle_app.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 2.32,
+        "neutral": 96.48,
+        "positive": 1.2
+      },
+      "ai_tag": [
+        "television",
+        "entertainment"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",

@@ -1,7 +1,160 @@
 {
   "status": "success",
-  "totalResults": 51,
+  "totalResults": 47,
   "results": [
+    {
+      "article_id": "24ec18581a7685fed652377d3b2a4bec",
+      "link": "https://www.wsws.org/en/articles/2026/10/26/lnte-o26.html",
+      "title": "Hundreds of thousands of protesters defy Macron government\u2019s repression in France",
+      "description": "Many demonstrations were banned or confronted with massive police deployments. The result was a debacle for the French government.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "action committee",
+        "europe",
+        "protests",
+        "general strike",
+        "france",
+        "protest",
+        "yellow vest",
+        "high school"
+      ],
+      "creator": null,
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 04:07:13",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 04:48:30",
+      "image_url": "https://www.wsws.org/asset/a9380689-caa3-4d09-b394-41f81087cfef?rendition=1600x900",
+      "video_url": null,
+      "source_id": "wsws_org",
+      "source_name": "World Socialist Web Site",
+      "source_priority": 797606,
+      "source_url": "https://www.wsws.org/en",
+      "source_icon": "https://i.newsdata.io/wsws_org.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 99.87,
+        "neutral": 0.08,
+        "positive": 0.05
+      },
+      "ai_tag": [
+        "politics"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "688e1bb1712aadd60de0cd3651e8ffc3",
+      "link": "https://www.wsws.org/en/articles/2026/10/26/qcna-o26.html",
+      "title": "The Left Party\u2019s silence on Bogdan Syrotiuk",
+      "description": "This silence is no accident. It is an expression of the political role of the Left Party and a warning to all those who regard it as an opposition to war, social cuts and fascism.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "left party",
+        "bogdan syrotiuk",
+        "ukraine war"
+      ],
+      "creator": null,
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 04:06:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 04:18:45",
+      "image_url": "https://www.wsws.org/asset/3cc2f350-78ab-44fd-b7e5-321314799831?rendition=1600x900",
+      "video_url": null,
+      "source_id": "wsws_org",
+      "source_name": "World Socialist Web Site",
+      "source_priority": 797606,
+      "source_url": "https://www.wsws.org/en",
+      "source_icon": "https://i.newsdata.io/wsws_org.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 37.7,
+        "neutral": 56.25,
+        "positive": 6.05
+      },
+      "ai_tag": [
+        "politics"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "a374245960e20e47e9e993f8a8fdeebd",
+      "link": "https://news.clearancejobs.com/2026/10/25/americas-greatest-strategic-advantage-isnt-technology-its-talent/",
+      "title": "America\u2019s Greatest Strategic Advantage Isn\u2019t Technology. It\u2019s Talent.",
+      "description": "America has the advantage of a powerful military, extraordinary technological capabilities, and access to private capital that most countries can only dream of. But none of those advantages matter much without the people who know how to put them to work.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "home-sm-highres",
+        "news-feature-highres-fallback",
+        "feature-mobile",
+        "news-feature-highres",
+        "news-feature",
+        "cipher brief",
+        "national security",
+        "feature-highres",
+        "news-standard-highres",
+        "news-standard",
+        "news-standard-highres-fallback",
+        "home-highres",
+        "feature-standard",
+        "intelligence",
+        "news-standard-highres-desktop"
+      ],
+      "creator": [
+        "lindy kyzer"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 02:50:41",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 03:22:47",
+      "image_url": "https://news.clearancejobs.com/wp-content/uploads/2026/09/Cipher-Brief-Threat-Conference-240x200.jpg",
+      "video_url": null,
+      "source_id": "clearancejobs",
+      "source_name": "Clearancejobs",
+      "source_priority": 4741207,
+      "source_url": "https://news.clearancejobs.com",
+      "source_icon": "https://i.newsdata.io/clearancejobs.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 19.53,
+        "neutral": 6.88,
+        "positive": 73.59
+      },
+      "ai_tag": [
+        "technology"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
     {
       "article_id": "077335bac2ed4922f9007e86032029d6",
       "link": "https://www.zerohedge.com/military/america-cant-stockpile-missiles-without-reloading-conflict-free-critical-materials",
@@ -341,149 +494,7 @@
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
       "duplicate": false
-    },
-    {
-      "article_id": "8918828a49f33de562358361d90773a2",
-      "link": "https://straitsresearch.com/report/parachute-market",
-      "title": "Parachute Market Size, Share, Growth, Analysis, Report, 2034",
-      "description": "The parachute market size is projected to grow from $2.39 billion in 2026 to $3.57 billion by 2034, at a CAGR of 5.15% during the forecast period 2026-2034.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "parachute market growth",
-        "parachute market research",
-        "parachute market size",
-        "parachute market trends",
-        "parachute market share",
-        "parachute market drivers"
-      ],
-      "creator": null,
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "business"
-      ],
-      "datatype": "research",
-      "pubDate": "2026-10-26 00:00:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 10:08:05",
-      "image_url": "https://straitsresearch.com/uploads/reports/parachute-market-2891.webp",
-      "video_url": null,
-      "source_id": "straitsresearch",
-      "source_name": "Straitsresearch",
-      "source_priority": 49229,
-      "source_url": "https://straitsresearch.com",
-      "source_icon": "https://i.newsdata.io/straitsresearch.png",
-      "sentiment": "positive",
-      "sentiment_stats": {
-        "negative": 0.72,
-        "neutral": 8.91,
-        "positive": 90.37
-      },
-      "ai_tag": [
-        "research",
-        "financial markets"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "3dff9271a354c2ea4cbf02351b71c124",
-      "link": "https://www.mediaite.com/opinion/dana-bash-coaches-troy-jackson-through-the-details-of-the-iran-war/",
-      "title": "Dana Bash Coaches Troy Jackson Through the Details of the Iran War",
-      "description": "Troy Jackson has just been exposed as a shallow-thinking candidate. This was the result of a media effort, but it was not done with intent. Dana Bash flew out to Maine to sit with Jackson for what she described as a \u201crare national interview.\u201d It did not take long for us to find out why [\u2026] The post Dana Bash Coaches Troy Jackson Through the Details of the Iran War first appeared on Mediaite.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "dana bash",
-        "troy jackson",
-        "susan collins",
-        "iran iran war",
-        "opinion"
-      ],
-      "creator": [
-        "brad slager"
-      ],
-      "language": "english",
-      "country": [
-        "united states of america"
-      ],
-      "category": [
-        "top",
-        "politics"
-      ],
-      "datatype": "opinion",
-      "pubDate": "2026-10-25 21:15:12",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-25 21:39:43",
-      "image_url": null,
-      "video_url": null,
-      "source_id": "mediaite",
-      "source_name": "Mediaite",
-      "source_priority": 99042,
-      "source_url": "https://www.mediaite.com",
-      "source_icon": "https://i.newsdata.io/mediaite.png",
-      "sentiment": "negative",
-      "sentiment_stats": {
-        "negative": 90.78,
-        "neutral": 8.06,
-        "positive": 1.16
-      },
-      "ai_tag": [
-        "politics"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "dce7cd0e0561e08b84e0cdb71344e31c",
-      "link": "https://www.thedailybeast.com/pentagon-insiders-call-bs-on-pete-hegseths-big-autonomous-war-command-project",
-      "title": "Pentagon Insiders Call BS on Hegseth\u2019s Big Project",
-      "description": "Military experts are skeptical that Pete Hegseth\u2019s new robot-powered defense initiative will actually materialize anytime soon. Hegseth, 46, announced the creation of the Autonomous Warfare Command, also known as \u201cAUTOWARCOM,\u201d during his \u201cState of the Force\u201d address at Marine Corps Base Quantico in Virginia last month. The new military combatant command (COCOM) is supposed to tackle the rapid adoption and acquisition of autonomous and robotic assets for the joint force at large. Read more at The Daily Beast.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "story"
-      ],
-      "creator": [
-        "vic verbalaitis"
-      ],
-      "language": "english",
-      "country": [
-        "united states of america"
-      ],
-      "category": [
-        "top",
-        "politics"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-25 20:16:04",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-25 22:02:02",
-      "image_url": "https://thedailybeast-thedailybeast-prod.web.arc-cdn.net/resizer/v2/PQBCXSHW2VASXMGRWQRD5KRSYE.JPG?auth=ab213e87557ae45c32485bd25d4d48403d63dd272a29ca89b6363713d5d2dad5&smart=true&width=3798&height=2137",
-      "video_url": null,
-      "source_id": "thedailybeast",
-      "source_name": "The Daily Beast",
-      "source_priority": 1258,
-      "source_url": "https://www.thedailybeast.com",
-      "source_icon": "https://i.newsdata.io/thedailybeast.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 4.1,
-        "neutral": 95.73,
-        "positive": 0.17
-      },
-      "ai_tag": [
-        "national security"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
     }
   ],
-  "nextPage": "1792959364109920047"
+  "nextPage": "1792972800276112759"
 }

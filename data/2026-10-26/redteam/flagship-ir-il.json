@@ -2,101 +2,115 @@
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Livemint"
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
       },
-      "author": "Elizabeth Roche",
-      "title": "As Israel goes to the polls, West Asia holds its breath",
-      "description": "The world is watching Israel\u2019s elections closely, as West Asia\u2019s future hinges on Benjamin Netanyahu\u2019s electoral fortunes.",
-      "url": "https://www.livemint.com/opinion/columns/as-israel-goes-to-the-polls-west-asia-holds-its-breath-11792921468940.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/10/25/1600x900/logo/Israel-Elections-18_1792929057306_gnGt_1792929075144_U3Se_61d8020f-b0c9-4a8b-b2a5-e68906766d88_6d8e.jpg",
-      "publishedAt": "2026-10-25T13:06:13Z",
-      "content": "Palestinian gunmen killed two Israeli soldiers near Hebron in the occupied West Bank on 23 October, prompting Netanyahu to threaten a major offensive. Meanwhile, Iran warned of retaliation if the US \u2026 [+7049 chars]",
+      "author": "Al Jazeera Staff",
+      "title": "Netanyahu\u2019s pitch: Can Israel use crypto to evade economic sanctions?",
+      "description": "Prime Minister Netanyahu mulls cryptocurrency as answer to economic sanctions on Israel, but there are few buyers.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac01956-1790974294.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-25T14:46:38Z",
+      "content": "Two days before the general elections, Prime Minister Benjamin Netanyahu has said that Israel should prepare to use cryptocurrency to circumvent potential sanctions on the country amid growing global\u2026 [+7245 chars]",
       "cocom": "USCENTCOM",
       "_original_topic_id": "flagship-ru-ua"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Israel National News",
+      "title": "Former IDF Chief compares rabbis to ayatollahs, draws backlash",
+      "description": "Former IDF Chief Dan Halutz compares Israeli rabbis to Iran's ayatollahs, prompting MK Yaakov Asher to revive his stock sale controversy during the war.",
+      "url": "https://www.israelnationalnews.com/news/435136",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1228624.jpg",
+      "publishedAt": "2026-10-25T16:42:16Z",
+      "content": "Former IDF Chief of Staff Dan Halutz set off controversy on Sunday when he compared rabbis to Iran's ayatollahs.\r\nHis remarks drew an angry response from United Torah Judaism Chairman MK Yaakov Asher\u2026 [+1296 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "AMIR-HUSSEIN RADJY Associated Press",
+      "title": "Iranians fear a possible return to all-out war as US and Israeli elections approach",
+      "description": "Many Iranians are bracing for a return to all-out war as elections in Israel and the United States heighten uncertainty",
+      "url": "https://abcnews.com/International/wireStory/iranians-fear-return-war-us-israeli-elections-approach-137554143",
+      "urlToImage": "https://i.abcnewsfe.com/a/93bd04e8-0406-4933-9d69-6513ff411d99/wirestory_6ca2df0cfa031d211ea025fd8520015d_16x9.jpg?w=1600",
+      "publishedAt": "2026-10-25T16:41:14Z",
+      "content": "CAIRO -- Many Iranians are bracing for a return to all-out war as Israeli and U.S. leaders sharpen their threats ahead of elections in both countries in the coming days, and as Irans leaders remain d\u2026 [+5981 chars]",
+      "cocom": "USCENTCOM"
     },
     {
       "source": {
         "id": "cbs-news",
         "name": "CBS News"
       },
-      "author": "Matt  Gutman",
-      "title": "Israeli election to test Benjamin Netanyahu's ability to hold power",
-      "description": "On Tuesday, Israel will hold its first parliamentary elections since the October 7, 2023 terror attacks. Essentially one man is on the ballot: Prime Minister Benjamin Netanyahu. How might Israeli policy change if the opposition succeeds?",
-      "url": "https://www.cbsnews.com/news/israeli-election-to-test-benjamin-netanyahus-ability-to-hold-power/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/25/0b411018-3549-42ec-bf02-b502493a9ed1/thumbnail/1200x630/42dcc91eb3cddce4219447abaaf15e6b/netanyahu-poster-1280.jpg",
-      "publishedAt": "2026-10-25T13:27:06Z",
-      "content": "Tens of thousands marched in Tel Aviv last night demanding Benjamin Netanyahu's government answer for the failures that led to the October 7 terror attacks. \"We cannot be a dictatorship!\" said one wo\u2026 [+3844 chars]",
+      "author": null,
+      "title": "Transcript: Rep. Jason Crow on \"Face the Nation with Margaret Brennan,\" Oct. 25, 2026",
+      "description": "The following is the transcript of the interview with Rep. Jason Crow, Democrat of Colorado, that aired on \"Face the Nation with Margaret Brennan\" on Oct. 25, 2026.",
+      "url": "https://www.cbsnews.com/news/jason-crow-colorado-democrat-face-the-nation-transcript-10-25-2026/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/25/9a022308-b06d-4efe-8caf-94ee9d64f068/thumbnail/1200x630/2cb17bdd2204b2dae2a3b82922253cf0/1792945772825.png",
+      "publishedAt": "2026-10-25T16:30:26Z",
+      "content": "The following is the transcript of the interview with Rep. Jason Crow, Democrat of Colorado, that aired on \"Face the Nation with Margaret Brennan\" on Oct. 25, 2026.\r\nMARGARET BRENNAN: We go now to De\u2026 [+9354 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AP",
+      "title": "Iranians fear a possible return to all-out war as US and Israeli elections approach",
+      "description": "Many residents in Tehran are increasingly anxious as threats of war loom ahead of elections in the U.S. and Israel. Iranian leadership remains defiant despite mounting pressures due to a naval blockade and economic challenges. Citizens are stockpiling food an\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iranians-fear-escalating-conflict-as-us-and-israeli-elections-approach-amid-rising-tensions/articleshow/135194383.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-135194890,width-1200,height-900,imgsize-251450,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-25T16:28:51Z",
+      "content": "CAIRO: Many Iranians are bracing for a return to all-out war as Israeli and U.S. leaders sharpen their threats ahead of elections in both countries in the coming days, and as Iran's leaders remain de\u2026 [+6262 chars]",
       "cocom": "USCENTCOM"
     },
     {
       "source": {
         "id": null,
-        "name": "Sputnikglobe.com"
+        "name": "Israelnationalnews.com"
       },
-      "author": "Sputnik International",
-      "title": "Israeli Political Scientist Outlines 3 Possible Scenarios for Parliamentary Elections",
-      "description": "TEL AVIV (Sputnik) - Events surrounding parliamentary elections in Israel could unfold according to one of three scenarios, with the possibility of a coalition led by Prime Minister Benjamin Netanyahu securing a parliamentary majority being virtually ruled ou\u2026",
-      "url": "https://sputnikglobe.com/20261025/israeli-political-scientist-outlines-3-possible-scenarios-for-parliamentary-elections-1124935138.html",
-      "urlToImage": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1124935138.jpg?11194207161792933944",
-      "publishedAt": "2026-10-25T13:12:24Z",
-      "content": "Get the latest news from around the world, live coverage, off-beat stories, features and analysis.\r\nhttps://sputnikglobe.com/20261025/israeli-political-scientist-outlines-3-possible-scenarios-for-par\u2026 [+5038 chars]",
+      "author": "Hezki Baruch",
+      "title": "Netanyahu warns Iran: 'Do not test us' ahead of elections",
+      "description": "Visiting an Arrow air defense battery, Prime Minister Benjamin Netanyahu warns Iran and its proxies against attacks on Israel, threatening blows of 'a magnitude beyond proportion.'",
+      "url": "https://www.israelnationalnews.com/news/435130",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1228629.jpg",
+      "publishedAt": "2026-10-25T16:16:13Z",
+      "content": "Israeli Prime Minister Benjamin Netanyahu issued a stern warning to Iran and its proxies on Sunday during a visit to an Arrow air defense system battery, following intelligence indicating the possibi\u2026 [+720 chars]",
       "cocom": "USCENTCOM"
     },
     {
       "source": {
         "id": null,
-        "name": "Livemint"
+        "name": "Biztoc.com"
       },
-      "author": "Elizabeth Roche",
-      "title": "As Israel goes to the polls, West Asia holds its breath",
-      "description": "The world is watching Israel\u2019s elections closely, as West Asia\u2019s future hinges on Benjamin Netanyahu\u2019s electoral fortunes.",
-      "url": "https://www.livemint.com/opinion/columns/as-israel-goes-to-the-polls-west-asia-holds-its-breath-11792921468940.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/10/25/1600x900/logo/Israel-Elections-18_1792929057306_gnGt_1792929075144_U3Se_61d8020f-b0c9-4a8b-b2a5-e68906766d88_6d8e.jpg",
-      "publishedAt": "2026-10-25T13:06:13Z",
-      "content": "Palestinian gunmen killed two Israeli soldiers near Hebron in the occupied West Bank on 23 October, prompting Netanyahu to threaten a major offensive. Meanwhile, Iran warned of retaliation if the US \u2026 [+7049 chars]",
+      "author": "breakingthenews.net",
+      "title": "Trump: There will be no strike on Iran today",
+      "description": "United States President Donald Trump spoke to reporters in front of the White House on Sunday, saying that \"there will not be a strike [on Iran] today.\"More to come......",
+      "url": "https://biztoc.com/x/12603f7f9baf0545",
+      "urlToImage": "https://biztoc.com/cdn/12603f7f9baf0545_s.webp",
+      "publishedAt": "2026-10-25T16:14:13Z",
+      "content": "United States President Donald Trump spoke to reporters in front of the White House on Sunday, saying that \"there will not be a strike [on Iran] today.\"More to come......\r\nThis story appeared on brea\u2026 [+36 chars]",
       "cocom": "USCENTCOM"
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Azhar Sukri",
-      "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-      "description": "Saudi Arabia says it intercepted Houthi missiles and drones, while the Houthis claimed attacks on airports and energy sites amid rising regional supply risks.",
-      "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108381290-1791546538218-2026-10-08T170517Z_1387630975_RC24ZNA4231I_RTRMADP_3_IRAN-CRISIS-SAUDI-AIRPORT.JPG?v=1792928626&w=1920&h=1080",
-      "publishedAt": "2026-10-25T12:49:33Z",
-      "content": "The U.S. embassy HQ in Riyadh is pictured on March 3, 2026.\r\nSaudi Arabia intercepted drones and missiles headed for several cities, including the capital Riyadh, fired by Iran-aligned Houthis on Sun\u2026 [+3296 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Press Trust of India",
-      "title": "Crude nears $120 as W Asia risks collide with Fed rate decision: Analysts",
-      "description": "Crude oil prices are heading into another volatile week, with escalating geopolitical tensions in West Asia keeping supply fears alive and the US Federal Reserve's monetary policy decision expected to dictate market direction, analysts said.\nWith Brent crude \u2026",
-      "url": "https://www.business-standard.com/economy/news/crude-nears-120-as-w-asia-risks-collide-with-fed-rate-decision-analysts-126102500398_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/09/thumb/fitandfill/1200X628/1786294489-6084.jpg",
-      "publishedAt": "2026-10-25T12:38:27Z",
-      "content": "Crude oil prices are heading into another volatile week, with escalating geopolitical tensions in West Asia keeping supply fears alive and the US Federal Reserve's monetary policy decision expected t\u2026 [+3880 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dailymail.com"
-      },
-      "author": "David Churchill",
-      "title": "Motorists have shelled out extra \u00a310billion at the pumps because of Iran war, research shows, piling pressure on Chancellor John Healey to ditch Labour's planned Fuel Duty hike in the Budget",
-      "description": "The study found the extra forked out by petrol drivers surged past \u00a33billion last week and \u00a37billion for diesel motorists.",
-      "url": "https://www.dailymail.com/news/article-16237185/Motorists-shelled-extra-10billion-pumps.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/10/25/12/112078631-0-image-m-12_1792930361532.jpg",
-      "publishedAt": "2026-10-25T12:17:20Z",
-      "content": "Motorists have shelled out an extra \u00a310billion at the pumps because of sky-high fuel prices sparked by the Iran war, research shows.\r\nThe study found the extra forked out by petrol drivers surged pas\u2026 [+3343 chars]",
+      "author": "Tal Shalev, CNN",
+      "title": "What's at stake as Israel holds its most important election in years",
+      "description": "Election campaign posters of Israeli Prime Minister Benjamin Netanyahu beside a billboard featuring opposition rival Gadi Eisenkot ahead of Israel's general election in Dimona, Israel, on Wednesday. - Ohad Zwigenberg/AP\r\n\nWhen Israelis go the polls on October\u2026",
+      "url": "https://www.cnn.com/2026/10/25/middleeast/israel-election-2026-whats-at-stake-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26294328761487.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-10-25T16:01:15Z",
+      "content": "When Israelis go the polls on October 27, they will face a familiar question: Should Benjamin Netanyahu, the countrys longest-serving prime minister, stay in power?\r\nNearly every recent election has \u2026 [+12370 chars]",
       "cocom": "USCENTCOM"
     },
     {
@@ -104,27 +118,125 @@
         "id": null,
         "name": "NPR"
       },
-      "author": "Ayesha Rascoe",
-      "title": "How the Iran war is influencing voters in the U.S. and Israel",
-      "description": "NPR's Ayesha Rascoe speaks with Middle East Institute senior fellow Natan Sachs about striking Iran, developments in the West Bank, and elections in Israel and the U.S.",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6012350/how-the-iran-war-is-influencing-voters-in-the-u-s-and-israel",
-      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "publishedAt": "2026-10-25T12:06:28Z",
-      "content": "NPR's Ayesha Rascoe speaks with Middle East Institute senior fellow Natan Sachs about striking Iran, developments in the West Bank, and elections in Israel and the U.S.",
+      "author": "Daniel Estrin",
+      "title": "Israelis have changed. Will they change their leadership?",
+      "description": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
+      "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5007x2816+0+261/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2Ffa%2F7b23b0984f658a11dcb117c174a6%2Fgettyimages-2300594386.jpg",
+      "publishedAt": "2026-10-25T16:00:00Z",
+      "content": "TEL AVIV, Israel Israelis are convinced that elections scheduled for Tuesday are the most pivotal in their nation's history.\r\nWill they vote out Prime Minister Benjamin Netanyahu and his coalition of\u2026 [+18334 chars]",
       "cocom": "USCENTCOM"
     },
     {
       "source": {
         "id": null,
-        "name": "Cointelegraph"
+        "name": "Biztoc.com"
       },
-      "author": "Cointelegraph by Robert Lakin",
-      "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
-      "description": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions, to the dismay of opponents and the country\u2019s central banker.",
-      "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions",
-      "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5SCA4VS7NKA06DYBPJVW2FM/benjamin-netanyahu.png",
-      "publishedAt": "2026-10-25T11:42:00Z",
-      "content": "Blockchain has become an issue in this weeks Israeli elections after Prime Minister Benjamin Netanyahu said Friday that the country could turn to cryptocurrency to avoid strains on the economy from a\u2026 [+2973 chars]",
+      "author": "wsj.com",
+      "title": "Saudi-Led Troops Had Just Gathered When a Houthi Missile Left Dozens Dead",
+      "description": "A deadly strike and others like it show the tactical and intelligence shortcomings Saudi Arabia faces as it confronts its Iran-backed enemy.",
+      "url": "https://biztoc.com/x/f2d43c3fe7cd3310",
+      "urlToImage": "https://biztoc.com/cdn/996/og.png",
+      "publishedAt": "2026-10-25T15:43:08Z",
+      "content": "A deadly strike and others like it show the tactical and intelligence shortcomings Saudi Arabia faces as it confronts its Iran-backed enemy.\r\nThis story appeared on wsj.com, 2026-10-25 15:00:00.",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dpa-international.com"
+      },
+      "author": "DPA",
+      "title": "Dakar Rally in Saudi Arabia next year cancelled due to Houthi attacks",
+      "description": "The 2027 Dakar Rally has been cancelled in Saudi Arabia amid the tense situation caused by ongoing attacks by Houthi rebels, but it is set to held elsewhere. Organizers said in a statement on Sunday that the endurance race, originally scheduled to take place \u2026",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:261025-930-891734/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0ed51c004c38c8e04afd5b7c2e82fec99c40c157db59f341a462ce09fc1f7eb8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F98284e57b3ab64b025adac24e7f92997.jpg",
+      "publishedAt": "2026-10-25T15:33:32Z",
+      "content": "The 2027 Dakar Rally has been cancelled in Saudi Arabia amid the tense situation caused by ongoing attacks by Houthi rebels, but it is set to held elsewhere.\r\nOrganizers said in a statement on Sunday\u2026 [+964 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fair Observer"
+      },
+      "author": "Jean-Daniel Ruch",
+      "title": "FO Talks: The End of Unipolar Power? How T\u00fcrkiye Shapes Geopolitics",
+      "description": "Fair Observer\u2019s Chief Strategy Officer Peter Isackson, Editorial Assistant Alexandros Ouzounis and former Swiss diplomat Jean-Daniel Ruch discuss Ankara\u2019s growing geopolitical influence. They examine relations with Europe and Israel, Kurdish reconciliation an\u2026",
+      "url": "https://www.fairobserver.com/region/middle_east_north_africa/fo-talks-the-end-of-unipolar-power-how-turkiye-shapes-geopolitics/",
+      "urlToImage": "https://www.fairobserver.com/wp-content/uploads/2026/10/The-End-of-Unipolar-Power-How-Turkey-Shapes-Geopolitics-Fair-Observer.jpeg",
+      "publishedAt": "2026-10-25T15:26:05Z",
+      "content": "Fair Observers Chief Strategy Officer Peter Isackson, Editorial Assistant Alexandros Ouzounis and former Swiss diplomat Jean-Daniel Ruch discuss Ankaras growing geopolitical influence. They examine r\u2026 [+5707 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "HuffPost",
+      "title": "Saudi Arabia Partly Reopens Riyadh Airport Despite Renewed Houthi Threats",
+      "description": "King Khalid International Airport previously halted operations after an attack claimed by the Houthis that killed 13 people.",
+      "url": "https://www.huffpost.com/entry/saudi-arabia-reopens-airport-houthi-attacks_n_6ade1d89e4b0320e45d2c1e7",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6ade1f181800001641250a2d.jpeg?cache=cJ5SlZUN0w&ops=1200_630",
+      "publishedAt": "2026-10-25T15:25:28Z",
+      "content": "Oct 25 (Reuters) - Saudi Arabia said its main airport resumed operations at two terminals on Sunday even as Yemens Iran-aligned Houthis vowed to keep striking the facility, saying it remained a milit\u2026 [+2865 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "The Associated Press",
+      "title": "Tens of thousands of Israelis living abroad are expected to fly home to vote in a close election after many anti-Netanyahu liberals left the country",
+      "description": "Israeli law generally requires citizens to vote in person in the country, with narrow exceptions for diplomats and certain official emissaries abroad.",
+      "url": "https://fortune.com/2026/10/25/israel-election-voters-abroad-flying-home-anti-netanyahu-liberals/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2301361718-e1792940474870.jpg?resize=1200,600",
+      "publishedAt": "2026-10-25T15:07:04Z",
+      "content": "Meanwhile, Israel pressed ahead with a broad military operation in the occupied West Bank in response to an attack that killed two Israeli soldiers and wounded three in the city of Hebron on Friday. \u2026 [+4604 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Associated Press",
+      "title": "Dakar Rally off-road race moved out of Saudi Arabia over 'developments' in Middle East",
+      "description": "PARIS (AP) \u2014 The Dakar Rally, one of the world's toughest and best-known off-road races, has been moved out of Saudi Arabia next year after what organizers called \u201crecent developments in the region.\u201dThe rally was scheduled for January.",
+      "url": "https://sports.yahoo.com/articles/dakar-rally-off-road-race-150035460.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-25T15:00:35Z",
+      "content": "PARIS (AP) The Dakar Rally, one of the world's toughest and best-known off-road races, has been moved out of Saudi Arabia next year after what organizers called \"recent developments in the region.\"\r\n\u2026 [+892 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Mar\u00eda Paula Mijares Torres and Hadriana Lowenkron",
+      "title": "Trump says he's weighing deal with Iran against action to 'finish them off'",
+      "description": "(Bloomberg) -- President Donald Trump said it\u2019s \u201cgetting to be decision time\u201d on whether he will make a deal with Tehran or resume attacks as Iranian and Houthi threats against Americans in the Middle East continue to grow.Most Read from Bloomberg<ul><li>Trum\u2026",
+      "url": "https://finance.yahoo.com/economy/policy/articles/trump-says-decision-time-nears-145705688.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6635c1bfb8d5c4ee8a51ef9e5324238ae89a6d1d4634c67c2fbcc5f8d833f02e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F442001943ceae0c551d7935f57d7a1f3.jpg",
+      "publishedAt": "2026-10-25T14:57:05Z",
+      "content": "(Bloomberg) -- President Donald Trump said it's \"getting to be decision time\" on whether he will make a deal with Tehran or resume attacks as Iranian and Houthi threats against Americans in the Middl\u2026 [+1108 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Bloomberg",
+      "title": "Israel election masks economic fault lines as war spending surges",
+      "description": "Soaring defence spending, rising debt, talent outflows and ultra-Orthodox exemptions pose long-term economic challenges despite strong headline growth",
+      "url": "https://www.business-standard.com/world-news/israel-election-masks-economic-fault-lines-as-war-spending-surges-126102500634_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/25/thumb/fitandfill/1200X628/1792939406-1981.JPG",
+      "publishedAt": "2026-10-25T14:48:33Z",
+      "content": "Soaring defence spending, rising debt, talent outflows and ultra-Orthodox exemptions pose long-term economic challenges despite strong headline growth\r\nIsraels election puts soaring defence spending,\u2026 [+8203 chars]",
       "cocom": "USCENTCOM"
     },
     {
@@ -133,82 +245,12 @@
         "name": "Al Jazeera English"
       },
       "author": "Caol\u00e1n Magee",
-      "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
-      "description": "Reports say Pentagon has drawn up plans for strikes after midterm polls, but analysts question what it could achieve.",
-      "url": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac557ed-1791317997.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-10-25T11:39:41Z",
-      "content": "The US military has drawn up options for renewed attacks on Iran, according to the Washington-based website The Hill, raising the prospect of another round of major fighting in a war approaching its \u2026 [+7090 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "Iran says resumption of war would not change its stances",
-      "description": "Iran\u2019s Foreign Minister Abbas Araghchi said on Oct. 25 that a potential resumption of war with Israel and the United States would not change his country\u2019s positions.",
-      "url": "https://www.hurriyetdailynews.com/iran-says-resumption-of-war-would-not-change-its-stances-228590",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6adde8712818a025f780d25a.jpg",
-      "publishedAt": "2026-10-25T11:25:00Z",
-      "content": "TEHRAN\r\nAP Photo\r\nIrans Foreign Minister Abbas Araghchi said on Oct. 25 that a potential resumption of war with Israel and the United States would not change his countrys positions.\r\nRecently, there \u2026 [+2258 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Punch"
-      },
-      "author": "Punch Newspapers",
-      "title": "Iran parliament speaker urges cutting gas consumption as winter nears",
-      "description": "Iran\u2019s parliament speaker has called for a nationwide campaign to cut gas consumption by 10% as officials anticipate shortages this winter due to war damag\n\nRead More: https://punchng.com/iran-parliament-speaker-urges-cutting-gas-consumption-as-winter-nears/",
-      "url": "https://punchng.com/iran-parliament-speaker-urges-cutting-gas-consumption-as-winter-nears/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/12/01110230/gas-pipelines.jpg",
-      "publishedAt": "2026-10-25T11:05:43Z",
-      "content": "Iran\u2019s parliament speaker Mohammad Ghalibaf on Sunday called for a campaign to cut gas consumption by at least 10 per cent, with officials anticipating shortages as winter approaches.\r\nWhile a major \u2026 [+1834 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "Yemen FM meets Fidan, hails T\u00fcrkiye\u2019s regional role",
-      "description": "Yemen\u2019s foreign minister praised T\u00fcrkiye\u2019s regional role and longstanding bilateral ties on Oct. 24, saying Ankara\u2019s diplomatic efforts were important for maintaining regional security amid renewed fighting in Yemen and growing threats to international shippi\u2026",
-      "url": "https://www.hurriyetdailynews.com/yemen-fm-meets-fidan-hails-turkiyes-regional-role-228587",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6adde8d42818a025f780d262.jpg",
-      "publishedAt": "2026-10-25T11:04:00Z",
-      "content": "ISTANBUL\r\nAFP Photo\r\nYemens foreign minister praised T\u00fcrkiyes regional role and longstanding bilateral ties on Oct. 24, saying Ankaras diplomatic efforts were important for maintaining regional secur\u2026 [+2191 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "The Associated Press",
-      "title": "Saudi Arabia reopens airport as attacks by Houthi rebels persist, and other Mideast news",
-      "description": "Saudi Arabia has reopened its main airport for international flights after strikes by Yemen's Houthi rebels knocked it out of service",
-      "url": "https://abcnews.com/International/wireStory/saudi-arabia-reopens-airport-attacks-houthi-rebels-persist-137549261",
-      "urlToImage": "https://i.abcnewsfe.com/a/73144fc4-7a1b-4e87-8dc5-23f4e5bc10ea/wirestory_4779a3deeb1a23f59414164532d5c885_16x9.jpg?w=1600",
-      "publishedAt": "2026-10-25T11:01:09Z",
-      "content": "Saudi Arabia reopened its main airport for international flights, more than two weeks after deadly strikes by Yemen's Iranian-backed Houthi rebels knocked the facility out of service. Earlier Sunday,\u2026 [+4157 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Aryan Singh",
-      "title": "\u2018Nuclear threat will overshadow all\u2019: Netanyahu\u2019s Iran warning ahead of polls",
-      "description": "Israeli Prime Minister Benjamin Netanyahu has issued a stark warning about the looming Iranian nuclear threat. Analyst Yuval Blumberg emphasizes the urgency of the next two years for Israel to take decisive measures. He cautioned against letting internal poli\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/nuclear-threat-will-overshadow-all-netanyahus-iran-warning-ahead-of-polls/articleshow/135189218.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-135189270,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-25T11:00:43Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service",
+      "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
+      "description": "Rising energy costs and protests are sharpening European opposition to renewed US-Israeli attacks on Iran.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6addf920-1792932128.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-25T14:47:55Z",
+      "content": "Several Western European nations have expressed their opposition to the potential resumption of the Iran war, as spiralling global oil prices have worsened the cost of living crisis across Europe.\r\nC\u2026 [+9272 chars]",
       "cocom": "USCENTCOM"
     },
     {
@@ -217,66 +259,26 @@
         "name": "Al Jazeera English"
       },
       "author": "Al Jazeera Staff",
-      "title": "Iran\u2019s authorities take \u2018self-sacrifice\u2019 mobilisation campaign nationwide",
-      "description": "The IRGC says it wants to use main squares in every capital of Iran\u2019s 31 provinces for the Janfada campaign.",
-      "url": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-04T173352Z_1996444406_RC2DWNAEGNZ2_RTRMADP_3_IRAN-CRISIS-1792921842.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-10-25T10:50:38Z",
-      "content": "Irans authorities are increasing investment in a campaign to arm and train civilians who would serve in the state security apparatus against domestic and foreign threats amid growing fears that fight\u2026 [+6321 chars]",
+      "title": "Netanyahu\u2019s pitch: Can Israel use crypto to evade economic sanctions?",
+      "description": "Prime Minister Netanyahu mulls cryptocurrency as answer to economic sanctions on Israel, but there are few buyers.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac01956-1790974294.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-25T14:46:38Z",
+      "content": "Two days before the general elections, Prime Minister Benjamin Netanyahu has said that Israel should prepare to use cryptocurrency to circumvent potential sanctions on the country amid growing global\u2026 [+7245 chars]",
       "cocom": "USCENTCOM"
     },
     {
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
+        "id": null,
+        "name": "BusinessLine"
       },
-      "author": "Al Jazeera Staff",
-      "title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
-      "description": "Saudi-led coalition says intercepted drone, missile launched towards Riyadh and 10 missiles targeting southern region.",
-      "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261024__D4BK9T6__v3__HighRes__TopshotYemenIranSaudiIsraelUsWar-1792923341.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-10-25T10:42:51Z",
-      "content": "Saudi Arabia has intercepted drones and missiles over its capital, Riyadh, and southern areas, the Saudi-led coalition has said, as fighting with Yemens Houthis continues.\r\nCoalition spokesman Major-\u2026 [+3110 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": null,
-      "title": "Iran says resumption of war with US would not change its mind",
-      "description": "Iran's Foreign Minister Abbas Araghchi says \"whether there is war or not, our policies remain the same\", amid renewed threats from US President Donald Trump to begin bombing again.",
-      "url": "https://www.abc.net.au/news/2026-10-25/iran-says-resumption-of-war-with-us-would-not-change-its-stances/107307004",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/56bc2e2e37bd802e126f054decfce17f?impolicy=wcms_watermark_news&cropH=2071&cropW=3681&xPos=0&yPos=15&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-10-25T10:25:04Z",
-      "content": "Iran's Foreign Minister Abbas Araghchi says a potential resumption of war with Israel and the United States would not change his country's positions.\r\nThe remarks on Sunday came amid mounting US and \u2026 [+3518 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Reuters",
-      "title": "Four ways US foreign policy could change if Democrats win in November",
-      "description": "Nonpartisan analysts predict that Democrats could gain control of the US House and possibly the Senate. If successful, they could restrict President Trump's foreign policy actions regarding Iran and Ukraine and other nations. Democrats may seek to limit signi\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/four-ways-us-foreign-policy-could-change-if-democrats-win-in-november/articleshow/135188691.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-135188690,width-1200,height-900,imgsize-143612,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-25T10:17:52Z",
-      "content": "Nonpartisan analysts say Democrats stand a good chance of winning the US House of Representatives and possibly the Senate in the November 3 midterm elections, which would give them a slice of power i\u2026 [+3226 chars]",
-      "cocom": "Transregional"
-    },
-    {
-      "title": "Houthi Shelling Kills Child in Southern Taiz",
-      "url": "http://www.sabanew.net/viewstory/154616",
-      "description": "TAIZ-SABA A nine-year-old child was killed on Sunday when Iranian-backed Houthi militia shelled villages in Al-Aqroud area, south of Taiz Governorate. Local sources told the Yemeni News Agency (Saba) that Mohammed Taher Saeed was killed in the shelling, as the Houthi militia continues its attacks on villages and residential areas across the governorate.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "\u0633\u0628\u0623 \u0646\u062a"
-      },
-      "_provider": "newsdata.io",
+      "author": "ANI",
+      "title": "US updates UAE travel advisory citing heightened threat of \u2018terrorism and armed conflict\u2019 by Iranian-supported Houthis",
+      "description": "The development comes amid heightened security concerns in the region, with attacks targeting civilian and critical infrastructure in Saudi Arabia.",
+      "url": "https://www.thehindubusinessline.com/news/world/us-updates-uae-travel-advisory-citing-heightened-threat-of-terrorism-and-armed-conflict-by-iranian-supported-houthis/article71622512.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/2t7747/article71622567.ece/alternates/LANDSCAPE_1200/2026-10-15T100127Z_518335984_RC243OATADPP_RTRMADP_3_IRAN-CRISIS-INFRASTRUCTURE-ATTACKS.JPG",
+      "publishedAt": "2026-10-25T04:48:30Z",
+      "content": "The US has updated its travel advisory for the United Arab Emirates, highlighting an increased threat of potential armed attacks by Iranian-supported Houthi forces in the region. While the formal adv\u2026 [+3903 chars]",
       "cocom": "USCENTCOM",
       "_original_topic_id": "T01"
     },
@@ -288,19 +290,6 @@
       "publishedAt": "",
       "source": {
         "name": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633"
-      },
-      "_provider": "newsdata.io",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T01"
-    },
-    {
-      "title": "Yemen vows to continue military offensive until Houthis are disarmed",
-      "url": "https://saudigazette.com.sa/article/665703/world/yemen-vows-to-continue-operation-dawn-of-yemen-until-houthis-are-disarmed",
-      "description": "ISTANBUL \u2014 Yemen's Foreign Minister Afrah Al-Zouba said Saturday that nearly a decade of negotiations with the Houthi militia had failed to produce a political settlement, vowing to continue military operations until the government's objectives are achieved and the group is disarmed. Speaking to journalists in Istanbul, Al-Zouba accused the Houthis of exploiting periods of calm to strengthen their military capabilities and repeatedly obstructing efforts to end Yemen's prolonged conflict. She stressed that the internationally recognized government would not accept negotiations that allow the Houthis to regroup or replenish their weapons. Al-Zouba pointed to peace talks held in 2016, saying the Houthis refused to sign a proposed agreement despite approximately 100 days of negotiations. She also accused the group of undermining subsequent diplomatic initiatives, including Saudi-backed peace efforts launched in 2022. The foreign minister said Operation \"Dawn of Yemen\" would continue firmly until its objectives were achieved, reaffirming the government's determination to confront the militia and end its armed control. Her remarks came during her first official visit to T\u00fcrkiye since assuming office in July. Earlier Saturday, Al-Zouba met Turkish Foreign Minister Hakan Fidan in Istanbul.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Saudi Gazette"
       },
       "_provider": "newsdata.io",
       "cocom": "USCENTCOM",
@@ -373,6 +362,36 @@
     },
     {
       "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Kanchan Yadav",
+      "title": "Pope Leo urges end to Yemen violence after lung cancer surgery",
+      "description": "Pope Leo on Sunday called for an end to the violence in Yemen and expressed concern over the humanitarian crisis in the southwestern city of Taiz, less",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/pope-leo-urges-end-to-yemen-violence-after-lung-cancer-surgery/articleshow/135192155.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-135192152,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-25T15:08:36Z",
+      "content": "Follow Us On Social Media\r\nSuper Sukhoi: India, Russia Test New Fighter Jet As IAF Weighs Su-30 Upgrade With New Engine &amp; RadarBagulbua - Official TeaserTrump Privately FUMES At Son Donald Jr. Af\u2026 [+2921 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T02"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ewtnnews.com"
+      },
+      "author": "Antonio Tarallo",
+      "title": "Pope Leo XIV: Love for neighbor begins with a personal relationship with God",
+      "description": "During his Sunday Angelus, the pope reflected on the greatest commandment and called for peace in Yemen and Jordan.",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-love-for-neighbor-begins-with-a-personal-relationship-with-god",
+      "urlToImage": "https://res.cloudinary.com/ewtn/image/upload/c_fill,g_auto,w_1200,h_630/v1792932384/ewtn-news/en/_TRE5628_dbshmm.jpg",
+      "publishedAt": "2026-10-25T12:48:02Z",
+      "content": "Beginning with the question posed in Sundays Gospel, Which commandment in the law is the greatest? Pope Leo XIV focused his reflection before the Angelus on the theme of love.\r\nThe faithful gathered \u2026 [+3537 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T02"
+    },
+    {
+      "source": {
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
@@ -388,46 +407,18 @@
     },
     {
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Fayha Shalash",
-      "title": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
-      "description": "Already struggling after losing homes to Israeli military operations, Palestinians face hardship as WFP halves aid.",
-      "url": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/Fawza-Awad-lives-in-a-small-room-after-being-displaced-from-Tulkarem-Camp.-Photo-by-Hatem-Hamdan-1792771470.jpg?resize=1600%2C1080",
-      "publishedAt": "2026-10-24T07:09:55Z",
-      "content": "Tulkarem, occupied West Bank Fawza Awad, a 75-year-old widow, couldnt hold back her tears as she described the living conditions she has endured since being displaced from the Tulkarem refugee camp i\u2026 [+7116 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T02"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Naturalnews.com"
+        "name": "NPR"
       },
-      "author": "Coco Somers",
-      "title": "UN Food Agency Cuts Gaza Aid by One-Third Amid Funding Shortages",
-      "description": "The World Food Programme announced earlier this week that it is reducing food assistance to Gaza by approximately one-third, a move the UN agency attributed to funding shortages that will leave about half a million people without access to critical aid [1][2]\u2026",
-      "url": "https://www.naturalnews.com/2026-10-24-un-food-agency-cuts-gaza-aid-one-third.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/un-food-agency-gaza-aid-cut-famine-risk-5520-7d3f1ce3-original.jpg",
-      "publishedAt": "2026-10-24T06:00:00Z",
-      "content": "The World Food Programme announced earlier this week that it is reducing food assistance to Gaza by approximately one-third, a move the UN agency attributed to funding shortages that will leave about\u2026 [+7364 chars]",
+      "author": "Daniel Estrin",
+      "title": "Israelis have changed. Will they change their leadership?",
+      "description": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
+      "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5007x2816+0+261/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2Ffa%2F7b23b0984f658a11dcb117c174a6%2Fgettyimages-2300594386.jpg",
+      "publishedAt": "2026-10-25T16:00:00Z",
+      "content": "TEL AVIV, Israel Israelis are convinced that elections scheduled for Tuesday are the most pivotal in their nation's history.\r\nWill they vote out Prime Minister Benjamin Netanyahu and his coalition of\u2026 [+18334 chars]",
       "cocom": "USCENTCOM",
-      "_original_topic_id": "T02"
-    },
-    {
-      "title": "Obama Gets DESTROYED After Making Bizarre Claim About Iran",
-      "url": "https://pjmedia.com/matt-margolis/2026/10/25/did-obama-seriously-just-say-that-about-iran-n4958667",
-      "description": "Former President Barack Obama kept his promise and returned to the campaign trail, rallying in Michigan for Democrat Senate candidate...",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Pjmedia.com"
-      },
-      "_provider": "newsdata.io",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T03"
+      "_original_topic_id": "T05"
     },
     {
       "source": {
@@ -443,6 +434,51 @@
       "content": "Irans authorities are increasing investment in a campaign to arm and train civilians who would serve in the state security apparatus against domestic and foreign threats amid growing fears that fight\u2026 [+6321 chars]",
       "cocom": "USCENTCOM",
       "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Nils Adler",
+      "title": "Election posters, mass tourism and property: Israel\u2019s footprint in Cyprus",
+      "description": "Cypriots say Israeli money is moving fast and shutting them out as their government embraces Israel as a key ally.",
+      "url": "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-24-071907-2-1792819425.jpg?resize=1200%2C675",
+      "publishedAt": "2026-10-25T05:33:10Z",
+      "content": "Various locations, Cyprus This summer in Cyprus, on a road near Larnaca airport, a billboard greeted holidaymakers in Hebrew: Israelis, enjoy! Now come back and win!\r\nIt was an election poster in the\u2026 [+10993 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Daniel Estrin",
+      "title": "Israelis have changed. Will they change their leadership?",
+      "description": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
+      "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5007x2816+0+261/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2Ffa%2F7b23b0984f658a11dcb117c174a6%2Fgettyimages-2300594386.jpg",
+      "publishedAt": "2026-10-25T16:00:00Z",
+      "content": "TEL AVIV, Israel Israelis are convinced that elections scheduled for Tuesday are the most pivotal in their nation's history.\r\nWill they vote out Prime Minister Benjamin Netanyahu and his coalition of\u2026 [+18334 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Caol\u00e1n Magee",
+      "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
+      "description": "Rising energy costs and protests are sharpening European opposition to renewed US-Israeli attacks on Iran.",
+      "url": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6addf920-1792932128.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-25T14:47:55Z",
+      "content": "Several Western European nations have expressed their opposition to the potential resumption of the Iran war, as spiralling global oil prices have worsened the cost of living crisis across Europe.\r\nC\u2026 [+9272 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
     },
     {
       "source": {
@@ -476,96 +512,6 @@
     },
     {
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera Staff",
-      "title": "Obama\u2019s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
-      "description": "The former US president warns of rising costs, corruption and threats to democratic values ahead of the November 3 vote.",
-      "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26297857014939-1792919723.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-10-25T08:44:17Z",
-      "content": "Former President Barack Obama has railed against the Trump administration on a range of issues, including dragging the United States into an unnecessary war against Iran, as he campaigned for Democra\u2026 [+8071 chars]",
-      "cocom": "USNORTHCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Iran\u2019s oil lifeline is drying up. The biggest pain may fall on ordinary citizens",
-      "description": "Iran's floating oil inventory has fallen to zero as the U.S. naval blockade tightens, but the IRGC may be shielded while civilians bear the pain.",
-      "url": "https://www.foxnews.com/politics/irans-oil-lifeline-drying-up-biggest-pain-may-fall-ordinary-citizens",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/Iranian-Leaders.jpg",
-      "publishedAt": "2026-10-25T08:00:09Z",
-      "content": "Iran is approaching a financial reckoning as a U.S. naval blockade threatens to wipe out its seaborne crude oil revenues by mid-December but the economic pain may fall more heavily on ordinary Irania\u2026 [+6454 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Ramon Tomey",
-      "title": "Israeli fighter jets stage provocative flight toward Iranian border",
-      "description": "Dozens of Israeli fighter jets and refueling aircraft flew toward the Iranian border in a military exercise that multiple sources say may have been intended to provoke an Iranian response to justify an Israeli strike. The operation occurred overnight Oct. 19\u2013\u2026",
-      "url": "https://www.naturalnews.com/2026-10-25-israeli-jets-stage-provocative-flight-iran-border.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/Military-Formation-Planes-Jets-Flying.jpg",
-      "publishedAt": "2026-10-25T06:00:00Z",
-      "content": "<ul><li>Dozens of Israeli fighter jets and refueling aircraft flew toward the Iranian border in a military exercise that multiple sources say may have been intended to provoke an Iranian response to \u2026 [+5719 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "Trump raises prospect of new Iran strikes or agreement",
-      "description": "US President Donald Trump said on Oct. 24 Washington could launch fresh strikes on Iran as soon as the following day or reach an agreement, leaving both military action and negotiations on the table.",
-      "url": "https://www.hurriyetdailynews.com/trump-raises-prospect-of-new-iran-strikes-or-agreement-228551",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6add90c12818a025f780cffb.jpg",
-      "publishedAt": "2026-10-25T05:16:59Z",
-      "content": "WASHINGTON\r\nAA Photo\r\nU.S. President Donald Trump said on Oct. 24 Washington could launch fresh strikes on Iran as soon as the following day or reach an agreement, leaving both military action and ne\u2026 [+1178 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Israelnationalnews.com"
-      },
-      "author": "Israel National News",
-      "title": "Trump on Iran: We have to make sure they never have a nuclear weapon",
-      "description": "Trump warns Iran could face additional US strikes while leaving the door open to a nuclear deal.",
-      "url": "https://www.israelnationalnews.com/news/435098",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1226590.jpg",
-      "publishedAt": "2026-10-25T03:14:26Z",
-      "content": "US President Donald Trump addressed the ongoing confrontation with Iran during a campaign rally in Georgia on Saturday night, declaring that American military operations had severely weakened the Isl\u2026 [+5879 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Priyanka Jaiswal",
-      "title": "\u2018Maybe tomorrow\u2019: Trump hints at fresh Iran strikes as Tehran denies Hormuz deal offer",
-      "description": "US President Donald Trump has hinted at the possibility of renewed military action against Iran as early as Sunday, while keeping the door open to a",
-      "url": "https://timesofindia.indiatimes.com/world/us/maybe-tomorrow-trump-hints-at-fresh-iran-strikes-as-tehran-denies-hormuz-deal-offer/articleshow/135181851.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-135182036,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-25T02:44:15Z",
-      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>Maybe tomorrow: Trump hints at fresh Iran strikes as Tehran denies Hormuz deal offer</li></ul>\r\nFollow Us On Social Media\r\nHouthis Attack\u2026 [+3390 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Israelnationalnews.com"
       },
@@ -582,6 +528,21 @@
     {
       "source": {
         "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Bloomberg",
+      "title": "Israel election masks economic fault lines as war spending surges",
+      "description": "Soaring defence spending, rising debt, talent outflows and ultra-Orthodox exemptions pose long-term economic challenges despite strong headline growth",
+      "url": "https://www.business-standard.com/world-news/israel-election-masks-economic-fault-lines-as-war-spending-surges-126102500634_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/25/thumb/fitandfill/1200X628/1792939406-1981.JPG",
+      "publishedAt": "2026-10-25T14:48:33Z",
+      "content": "Soaring defence spending, rising debt, talent outflows and ultra-Orthodox exemptions pose long-term economic challenges despite strong headline growth\r\nIsraels election puts soaring defence spending,\u2026 [+8203 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T10"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Rt-english.com"
       },
       "author": "RT",
@@ -591,32 +552,6 @@
       "urlToImage": "https://mf.b37mrtl.ru/files/2026.10/article/6add4c1885f5400adc1fb7de.jpg",
       "publishedAt": "2026-10-25T00:51:30Z",
       "content": "Israeli Prime Minister Benjamin Netanyahu has said his country must prepare to adapt its economy to global sanctions, citing declining international support and a potential end to US financial and mi\u2026 [+2590 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T10"
-    },
-    {
-      "title": "America Can't Stockpile Missiles Without Reloading On Conflict-Free Critical Materials",
-      "url": "https://www.zerohedge.com/military/america-cant-stockpile-missiles-without-reloading-conflict-free-critical-materials",
-      "description": "America Can't Stockpile Missiles Without Reloading On Conflict-Free Critical Materials Authored by Anthony Milewski of The Oregon Group, Sixteen days of the Iran war left coalition forces needing an estimated 4,000kg of tungsten just to replace the expended gun ammunition \u2014 but US mines produced none of the metal in 2025 and, instead, China accounted for 79% of global tungsten mine production. And it's not just tungsten. In a RUSI analysis of the Iran war, researchers estimated coalition forces expended more than 11,000 munitions in the first 16 days. And replenishing these arsenals will require secure access to a wide range critical minerals \u2014 from antimony to copper, rare earths to titanium \u2014 that make advanced weapon systems possible. And the West's exposure, especially dependence on Chinese supply, is substantial. \"If the war in Ukraine was a wake-up call for the Western defence industrial base, the first 16 days of the Iran conflict are a fire alarm signalling a crisis of endurance\" \u2014 Over 11,000 munitions in 16 Days of the Iran War: 'Command of the Reload' Governs Endurance Material risk matrix from War on the Rocks, August 2025. The authors' scores show relative risks, not measured percentages. The critical mineral risks behind the weaponry In their August 2025 War on the Rocks analysis, Macdonald Amoah, Morgan Bazilian, Clarkson Kamurai and Jahara Matisek, ranks across two broad tiers: first-tier risks are gallium, the battery-chemicals chain, tungsten, and graphite second tier includes titanium sponge, germanium, antimony, indium, magnesium, and molybdenum, with nitrocellulose and finish-line capacity in specialty steels and aerospace aluminum (requiring near-term hedges because surge capacity is slow to add) The assessment combines concentration of supply, military importance, limited substitutes and the time needed to add capacity. For example, refining, separation and specialised finishing are frequent constraints if a mine whose output still passes through a vulnerable refining process that leaves part of the exposure intact. Across ammunition, missiles and supporting military systems, six critical mineral priorities stand out: Magnet rare earths, including samarium, specialised magnets support military aircraft, missiles and control systems, making a secure supply chain from mining through magnet production strategically important Tungsten, its role in armaments, turbine alloys and metalworking tools connects mineral supply to both weapons and the equipment used to manufacture them Antimony, antimony trisulfide is used in ammunition primers; defence support for Perpetua's military-specification antimony programme connects mine development to that requirement Gallium, its semiconductor applications support radar and military communications; the Pentagon announced a US$174 million investment in planned Australian gallium production in August 2026 Germanium, infrared optics and thermal-sensing equipment need dependable material supply; the Defense Logistics Agency has supported domestic recycling of optical-grade germanium Titanium, strong, lightweight materials are essential to military aerospace; defence backing for IperionX's domestic titanium supply chain illustrates the effort to expand alternative supply For example, tungsten and gallium illustrate America's (and the West's) vulnerability because they underpin both weapons and the systems that support them: tungsten is used in armaments and the cutting tools needed to manufacture military equipment, while gallium enables semiconductors used in advanced military radars. Yet, China accounted for approx 79% of global tungsten mine production and 99% of primary low-purity gallium production in 2025, exposing these capabilities to highly concentrated mineral supply chains. An arsenal built on imported minerals US vulnerability extends across the critical-mineral supply chain. A July 2026 Government Accountability Office assessment reported that the US was fully import-dependent for 12 critical minerals and relied on imports for at least half its requirements for another 34. USGS Mineral Commodity Summaries 2026. Total import reliance is for 2025; China's share of imports covers 2021\u201324. The two measures have different denominators Despite recent government funding, the scale of the challenge for the US remains significant, for example: recycling and substitution can help, but their contribution varies, with the US Government Accountability Office warning that alternatives for semiconductor minerals such as gallium are unlikely to reduce import dependence significantly in the near term. the antimony supply crisis illustrates the scale of that challenge with S&P Global's August 2026 assessment estimating that, even if announced projects proceed, smelting capacity outside China could remain approximately 27% below projected demand outside China in 2030. It also warned that new processing facilities could face shortages of mine feedstock a 2026 Hoover Institution policy paper, citing Stanford research, recounts a defence contractor tracing a titanium supply chain through 13 tiers to Chinese mines and transport infrastructure \u2014 leading directly to \"Chinese mines, Chinese roads, and Chinese trucks\" The Pentagon is increasingly explicit about the stakes. \"Securing resilient domestic and allied supply chains is a fundamental warfighting requirement,\" said Mike Cadenazzi, the Pentagon's assistant secretary responsible for industrial base policy, in an August 2026 announcement committing US$750 million to secure rare-earth supply from Brazil's Serra Verde. Acting Secretary of the Army Honorable Adam Telle recently announced the Army's first\u2011ever \"Manufacturing Rodeo\", describing it as a competitive stress test for both the Army's organic industrial base and the nation's broader manufacturing network. Meanwhile, the mineral demands of military rearmament are becoming more pressing. Global military expenditure reached a record US$2.887 trillion in 2025, with European spending rising 14% in real terms. US expenditure fell that year, but the wider rearmament cycle continued. Larger budgets create purchasing power; they cannot immediately create additional mineral supply. Tungsten shows why securing supply takes more than money The four tonnes of tungsten used in the weapons fired in the 11 days of the Iran War is a relatively small quantity in the wider tungsten market (the US imported an estimated 11,700 tonnes of tungsten in 2025) \u2014 but securing dependable supplies outside China increasingly means committing years ahead. In July 2026, US processor Global Tungsten & Powders extended its agreement for approximately 90% of Sangdong's first-phase production to 21 years; buyers seeking additional material face a market where substantial volumes of new supply already have a customer. And China has tightened access to its own production after, in February 2025, Beijing introduced export licensing requirements for selected tungsten products. S&P Global's August 2026 report found that prices more than quadrupled between January-July in 2026. (See our recent article Tungsten price shock signals deeper supply crisis) US sourcing requirements are tightening too: from January 2027, defence procurement restrictions on covered tungsten products extend back to the mining and feedstock stages, generally excluding Chinese-origin material even when processed elsewhere, subject to specified exceptions. Turning defence demand into secure mineral supply The clearest evidence of the strategic urgency is Washington's growing intervention in mining finance \u2014 particularly domestic projects \u2014 including: MP Materials' July 2025 Pentagon partnership combined equity, a ten-year price floor for neodymium-praseodymium products, long-term magnet purchases and financing the Pentagon's commitment of up to US$450 million to Elmet for tungsten mining in Nevada, including an initial US$200 million investment closed in September 2026 USA Rare Earth's June 2026 agreement with the Commerce Department provides access to approx US$1.6 billion, to support the Round Top mining and processing project in Texas and expand US metal and magnet production the Pentagon's US$750 million investment announced in August 2026 to secure rare-earth supply from Brazil's Serra Verde forms part of a US$1.55 billion financing structure supporting an offtake agreement, alongside a US$300 million Defense Logistics Agency purchase commitment and US$500 million bank commitment The Pentagon's approx US$174 million equity investment announced in August 2026 for Australian gallium production will support construction of a facility at Alcoa's Wagerup refinery, projected to produce 100 tonnes annually, through a partnership involving Australia and Japan The US International Development Finance Corporation's US$600 million investment in the US$1.8 billion Orion Critical Mineral Consortium closed in January 2026. By July, its board had approved a further US$900 million in financing to support a portfolio of critical-mineral projects, including a proposed investment in copper and cobalt operations in the DRC Conclusion Before America can reload its missile stockpiles, it must first reload its critical-mineral supply chains \u2014 potentially making the mining companies capable of delivering those materials at scale strategic pillars of the US defense industrial base. * * * Our Take The Oregon Group's assessment that the US must \"reload its critical-mineral supply chains\" before accelerating the rearmament supercycle reinforces our focus on miners already producing these materials. Yet a sharp disconnect has emerged between mining stocks and underlying spot metal prices. We highlighted that divergence in \"Great Rare Earth Disconnect,\" a view shared by William Blair analysts, which suggested that rare earth stocks trading at 52-week lows... ... may present a buying opportunity, arguing that optimism surrounding Chinese supply is \"incorrect.\" Tyler Durden Sun, 10/25/2026 - 21:00",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Zerohedge"
-      },
-      "_provider": "newsdata.io",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T10"
-    },
-    {
-      "title": "Dana Bash Coaches Troy Jackson Through the Details of the Iran War",
-      "url": "https://www.mediaite.com/opinion/dana-bash-coaches-troy-jackson-through-the-details-of-the-iran-war/",
-      "description": "Troy Jackson has just been exposed as a shallow-thinking candidate. This was the result of a media effort, but it was not done with intent. Dana Bash flew out to Maine to sit with Jackson for what she described as a \u201crare national interview.\u201d It did not take long for us to find out why [\u2026] The post Dana Bash Coaches Troy Jackson Through the Details of the Iran War first appeared on Mediaite.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Mediaite"
-      },
-      "_provider": "newsdata.io",
       "cocom": "USCENTCOM",
       "_original_topic_id": "T10"
     },
@@ -647,54 +582,13 @@
       "_original_topic_id": "T11"
     },
     {
-      "title": "Israel, Greece conduct joint naval exercise for operational scenarios, sinking hostile ships",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-912752",
-      "description": "The exercise, attended by the commanders of both countries' navies, highlights the growing military cooperation between Jerusalem and Athens and could also be interpreted as a signal to Ankara.",
+      "title": "Yemen Slams Houthi Missile Attack on Displaced Persons Camp",
+      "url": "https://menafn.com/1111865243/Yemen-Slams-Houthi-Missile-Attack-on-Displaced-Persons-Camp",
+      "description": "(MENAFN) Yemen\u2013s Information Ministry accused the Houthi group on Sunday of striking a camp for displaced people west of Aden with three ballistic missiles. The ministry named the site as a ...",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "Jpost"
-      },
-      "_provider": "newsdata.io",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T11"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wnd.com"
-      },
-      "author": "RealClearWire",
-      "title": "Holding Iran accountable for its cyber operations",
-      "description": "Has disrupted water supply and healthcare, threatens energy and telecommunications",
-      "url": "https://www.wnd.com/2026/10/holding-iran-accountable-its-cyber-operations/",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2025/10/cyber-connectivity-1200x630.jpg",
-      "publishedAt": "2026-10-25T00:12:42Z",
-      "content": "Americans have long found comfort in the two oceans that separate us from Middle East wars, but the vulnerabilities Iranian cyber operations pose bring these conflicts much closer to home. Through cy\u2026 [+5556 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T12"
-    },
-    {
-      "title": "Israeli Hospitals Face 13 Major Cyberattacks, State Comptroller Says - BW Healthcare World",
-      "url": "https://www.bwhealthcareworld.com/article/israeli-hospitals-face-13-major-cyberattacks-state-comptroller-says-477143",
-      "description": "Israeli hospitals were hit with 13 major cyberattacks in 2021, making the healthcare sector one of the most targeted by hackers, according to a report released on Tuesday by State Comptroller Matanyahu Englman. The comptroller, also known as the state ombudsman, periodically releases reports auditing Israeli preparedness and the effectiveness of government policies. Engelman's report said ten cyberattacks were \"of the most severe level.\"To test the preparedness of the hospitals, a team of hackers overseen by the Comptroller's Office staged a controlled penetration of one major hospital identified as Medical Center A. The attack revealed deficiencies in the medical centre's security precautions and responses to the \"hack.\" According to Engelman, the shortcomings can also be applied to other medical centres.\"Ten of the findings were of high severity and three of moderate severity,\" the report said.\"Following the penetration test, the management of Medical Center A corrected several deficiencies, and in particular, updated the security level of certain systems. According to the management of the medical centre, the total cost of correcting the defects can amount to more than 10 million shekels [or USD 2.7 million] per year on an ongoing basis,\" the report added. The ombudsman also cited the vulnerability of hospital equipment, such as ultrasound and MRI scanning devices, which are also integrated into hospital information networks. The report recommended that hospital managers formulate a work plan to eradicate or minimise the risks and that regular penetration tests be carried out. Engelman also called on the Health Ministry to examine the findings of the penetration test on Medical Center A to develop and implement recommendations for other medical institutions. Since 2021, Israeli hospitals have encountered a series of cyber attacks with severe consequences. These incidents have included ransomware attacks, distributed denial-of-service (DDoS) attacks, and data breaches, all aimed at crippling the hospitals' operations and compromising patient information. In October of that year, Israel's National Cyber Directorate thwarted attacks on several medical institutions. But a ransomware attack on the Hillel Yaffe Medical Center in Hadera paralyzed the computer systems, patient registry and even electric doors.(ANI)",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Businessworld Healthcare World"
-      },
-      "_provider": "newsdata.io",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T12"
-    },
-    {
-      "title": "260 tons of UAE aid arrive in the Gaza Strip as part of Operation Gallant Knight 3",
-      "url": "https://alquds.com/en/posts/265156-260-tons-of-uae-aid-arrive-in-the-gaza-strip-as-part-of-operation-gallant-knight",
-      "description": "Two new Emirati convoys entered the Gaza Strip carrying 260 tons of food supplies to enhance humanitarian and medical support for Palestinians.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633"
+        "name": "Menafn"
       },
       "_provider": "newsdata.io",
       "cocom": "USCENTCOM",
@@ -716,26 +610,52 @@
       "_original_topic_id": "T14"
     },
     {
-      "title": "US forces ready for major strikes on Iran within 96 hours of Trump's order: Report",
-      "url": "https://www.aninews.in/news/world/us/us-forces-ready-for-major-strikes-on-iran-within-96-hours-of-trumps-order-report20261026135827/",
-      "description": "US forces in West Asia are prepared to launch new, potentially major military operations against Iran within 96 hours of receiving an order from US President Donald Trump, with sufficient forces deployed in the region to carry out the attacks, CNN reported, citing two US officials.",
+      "title": "Israel accuses Albanese Government of diplomatic ineptitude over Palestinian recognition",
+      "url": "https://thenightly.com.au/world/middle-east/israel-accuses-albanese-government-of-diplomatic-ineptitude-over-palestinian-recognition-c-23047246",
+      "description": "The Israeli Government encouraged Australia to move beyond its support for the Palestinians cause and pursue potentially commercial contacts covering AI, cyber security and quantum computing.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "Ani (asian News International)"
+        "name": "The Nightly"
       },
       "_provider": "newsdata.io",
       "cocom": "USCENTCOM",
       "_original_topic_id": "T14"
     },
     {
-      "title": "Iran fully united, on highest alert amid US-Israeli threats: official",
-      "url": "https://www.tehrantimes.com/news/531505/Iran-fully-united-on-highest-alert-amid-US-Israeli-threats",
-      "description": "TEHRAN\u2014 Iran remains fully united and on the highest level of alert amid continuing threats from the United States and Israel, Saeed Khatibzadeh, head of the Foreign Ministry\u2019s Center for Political and International Studies, has said, warning that any further US military action would lead to another failure.",
+      "title": "\"We Have To Finish A Job\": Trump's Big Backing To Netanyahu Amid Iran War",
+      "url": "https://www.ndtv.com/world-news/israel-election-2026-we-have-to-finish-a-job-donald-trumps-big-backing-to-benjamin-netanyahu-amid-iran-war-12235824",
+      "description": "Netanyahu, 77, is Israel's longest-serving prime minister",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "Tehran Times"
+        "name": "Ndtv"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "title": "UPDATES: US War on Iran, Day 242 \u2014 Tehran In Discussions With Saudi Arabia, Turkey, and Pakistan",
+      "url": "https://eaworldview.com/2026/10/us-war-iran-saudi-arabia-turkey-pakistan/",
+      "description": "Iran will convene with Mecca Pact members --- Saudi Arabia, Turkey, and Pakistan --- in Tehran on Monday. to discuss regional coordination. The post UPDATES: US War on Iran, Day 242 \u2014 Tehran In Discussions With Saudi Arabia, Turkey, and Pakistan appeared first on EA WorldView.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Ea Worldview"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "title": "US has plans for major Iran strikes if Trump chooses",
+      "url": "https://www.cnn.com/2026/10/26/politics/us-iran-strike-plans-trump",
+      "description": "US forces in the Middle East are prepared to launch new, potentially major, military operations against Iran \u201cwithin 96 hours of receiving\u201d an order from President Donald Trump, according to two US officials.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Cnn"
       },
       "_provider": "newsdata.io",
       "cocom": "USCENTCOM",

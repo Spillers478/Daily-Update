@@ -6,9 +6,7 @@
     "T01",
     "T02",
     "T04",
-    "T05",
     "T06",
-    "T08",
     "T10",
     "T11",
     "T13",
@@ -17,8 +15,20 @@
   "skipped": [
     "T03",
     "T07",
-    "T09",
-    "T12"
+    "T09"
   ],
-  "failed": []
+  "failed": [
+    {
+      "topic": "T05",
+      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0) (cause: None)"
+    },
+    {
+      "topic": "T08",
+      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0) (cause: None)"
+    },
+    {
+      "topic": "T12",
+      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0) (cause: None)"
+    }
+  ]
 }

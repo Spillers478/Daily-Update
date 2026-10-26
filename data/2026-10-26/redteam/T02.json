@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Kanchan Yadav",
+      "title": "Pope Leo urges end to Yemen violence after lung cancer surgery",
+      "description": "Pope Leo on Sunday called for an end to the violence in Yemen and expressed concern over the humanitarian crisis in the southwestern city of Taiz, less",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/pope-leo-urges-end-to-yemen-violence-after-lung-cancer-surgery/articleshow/135192155.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-135192152,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-25T15:08:36Z",
+      "content": "Follow Us On Social Media\r\nSuper Sukhoi: India, Russia Test New Fighter Jet As IAF Weighs Su-30 Upgrade With New Engine &amp; RadarBagulbua - Official TeaserTrump Privately FUMES At Son Donald Jr. Af\u2026 [+2921 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "flagship-ru-ua"
+    },
+    {
       "title": "Brutal Houthi siege and shelling drive Taiz to humanitarian disaster",
       "url": "https://www.arabnews.pk/middle-east/brutal-houthi-siege-and-shelling-drive-taiz-to-humanitarian-disaster-3005257",
       "description": "ADEN: Taiz governorate in Yemen faces ongoing Houthi military escalation, increasing hardship for residents. Continued shelling targets residential areas, while tightened restrictions hinder civilian movement and block essential supplies. Human rights reports document hundreds of civilian casualties and abductions, along with extensive damage to homes and vehicles. The Yemeni Network for Rights and Freedoms recorded 1,891 crimes and violations by the Houthi group against civilians and civilia",
@@ -15,20 +30,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Ewtnnews.com"
-      },
-      "author": "Antonio Tarallo",
-      "title": "Pope Leo XIV: Love for neighbor begins with a personal relationship with God",
-      "description": "During his Sunday Angelus, the pope reflected on the greatest commandment and called for peace in Yemen and Jordan.",
-      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-love-for-neighbor-begins-with-a-personal-relationship-with-god",
-      "urlToImage": "https://res.cloudinary.com/ewtn/image/upload/c_fill,g_auto,w_1200,h_630/v1792932384/ewtn-news/en/_TRE5628_dbshmm.jpg",
-      "publishedAt": "2026-10-25T12:48:02Z",
-      "content": "Beginning with the question posed in Sundays Gospel, Which commandment in the law is the greatest? Pope Leo XIV focused his reflection before the Angelus on the theme of love.\r\nThe faithful gathered \u2026 [+3537 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
@@ -40,6 +41,63 @@
       "publishedAt": "2026-10-24T20:52:55Z",
       "content": "Bakeries across Gaza are struggling to find flour to make bread for people desperate for food. As families queue for dwindling supplies, aid agencies are unable to provide the basics due to a lack of\u2026 [+63 chars]",
       "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ajmc.com"
+      },
+      "author": "Giuliana Grossi",
+      "title": "Former USAID Health Chief Says Aid Cuts Are Costing Children's Lives | AJMC",
+      "description": "At IDWeek 2026, Atul Gawande, MD, MPH, said USAID cuts are costing lives but that the field is \"not back at square one.\"",
+      "url": "https://www.ajmc.com/view/former-usaid-health-chief-says-aid-cuts-are-costing-childrens-lives",
+      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/ajmc/38e6eff53ed04da0b0fd7dc82dd511ee033bcaf3-5184x3888.jpg",
+      "publishedAt": "2026-10-24T17:23:30Z",
+      "content": "A 2025 Lancet study of 133 countries, which Gawande displayed on a slide, associated higher USAID funding with a 15% reduction in all-cause mortality and a 32% reduction in under-5 mortality and esti\u2026 [+6593 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Fayha Shalash",
+      "title": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
+      "description": "Already struggling after losing homes to Israeli military operations, Palestinians face hardship as WFP halves aid.",
+      "url": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/Fawza-Awad-lives-in-a-small-room-after-being-displaced-from-Tulkarem-Camp.-Photo-by-Hatem-Hamdan-1792771470.jpg?resize=1600%2C1080",
+      "publishedAt": "2026-10-24T07:09:55Z",
+      "content": "Tulkarem, occupied West Bank Fawza Awad, a 75-year-old widow, couldnt hold back her tears as she described the living conditions she has endured since being displaced from the Tulkarem refugee camp i\u2026 [+7116 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Coco Somers",
+      "title": "UN Food Agency Cuts Gaza Aid by One-Third Amid Funding Shortages",
+      "description": "The World Food Programme announced earlier this week that it is reducing food assistance to Gaza by approximately one-third, a move the UN agency attributed to funding shortages that will leave about half a million people without access to critical aid [1][2]\u2026",
+      "url": "https://www.naturalnews.com/2026-10-24-un-food-agency-cuts-gaza-aid-one-third.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/un-food-agency-gaza-aid-cut-famine-risk-5520-7d3f1ce3-original.jpg",
+      "publishedAt": "2026-10-24T06:00:00Z",
+      "content": "The World Food Programme announced earlier this week that it is reducing food assistance to Gaza by approximately one-third, a move the UN agency attributed to funding shortages that will leave about\u2026 [+7364 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Enas Abu Ghayad",
+      "title": "Gaza\u2019s visually and hearing-impaired children miss school due to Israel war",
+      "description": "Children in Gaza with auditory and visual challenges often have no access to specialist education.",
+      "url": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/WA_1792089112416-1792568917.jpeg?resize=1200%2C675",
+      "publishedAt": "2026-10-25T13:46:51Z",
+      "content": "Gaza City With the help of his father, 13-year-old Kenan al-Sabaa attempts to adjust his hearing aid, which has malfunctioned. The plastic tubing and rubber ear mould on the device need fixing, but t\u2026 [+7713 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T13"
     },
     {
       "source": {
@@ -99,32 +157,6 @@
       "publishedAt": "2026-10-24T05:20:35Z",
       "content": "Taiz, Yemen It was approaching 10:30am in the dialysis centre of the Republican Hospital in Taiz when a machine began filtering excess fluids, toxins and salts from the blood of Omar Mukhtar Hammoud.\u2026 [+6783 chars]",
       "cocom": "USCENTCOM",
-      "_original_topic_id": "T13"
-    },
-    {
-      "title": "Cambodia warns unexploded ordnance threatening displaced",
-      "url": "https://www.khmertimeskh.com/502045434/cambodia-warns-unexploded-ordnance-threatening-displaced/",
-      "description": "Cambodia told the United Nations on Thursday that unexploded submunitions are threatening civilian lives and impeding the return of displaced people, calling for stronger mine action programmes. The post Cambodia warns unexploded ordnance threatening displaced appeared first on Khmer Times.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Khmer Times"
-      },
-      "_provider": "newsdata.io",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T13"
-    },
-    {
-      "title": "Haiti - Artibonite : Violence continues to cause population displacement",
-      "url": "https://www.haitilibre.com/en/news-48744-haiti-artibonite-violence-continues-to-cause-population-displacement.html",
-      "description": "UN Spokesperson St\u00e9phane Dujarric stated, based on information provided by humanitarian colleagues on the ground, that violence continues to cause population displacement in the Artibonite department...",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Haitilibre"
-      },
-      "_provider": "newsdata.io",
-      "cocom": "USSOUTHCOM",
       "_original_topic_id": "T13"
     }
   ]
