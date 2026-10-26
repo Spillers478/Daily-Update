@@ -1,0 +1,451 @@
+{
+  "status": "success",
+  "totalResults": 53,
+  "results": [
+    {
+      "article_id": "72edbffce75c8c95920e266addf0b165",
+      "link": "https://www.bwhealthcareworld.com/article/israeli-hospitals-face-13-major-cyberattacks-state-comptroller-says-477143",
+      "title": "Israeli Hospitals Face 13 Major Cyberattacks, State Comptroller Says - BW Healthcare World",
+      "description": "Israeli hospitals were hit with 13 major cyberattacks in 2021, making the healthcare sector one of the most targeted by hackers, according to a report released on Tuesday by State Comptroller Matanyahu Englman. The comptroller, also known as the state ombudsman, periodically releases reports auditing Israeli preparedness and the effectiveness of government policies. Engelman's report said ten cyberattacks were \"of the most severe level.\"To test the preparedness of the hospitals, a team of hackers overseen by the Comptroller's Office staged a controlled penetration of one major hospital identified as Medical Center A. The attack revealed deficiencies in the medical centre's security precautions and responses to the \"hack.\" According to Engelman, the shortcomings can also be applied to other medical centres.\"Ten of the findings were of high severity and three of moderate severity,\" the report said.\"Following the penetration test, the management of Medical Center A corrected several deficiencies, and in particular, updated the security level of certain systems. According to the management of the medical centre, the total cost of correcting the defects can amount to more than 10 million shekels [or USD 2.7 million] per year on an ongoing basis,\" the report added. The ombudsman also cited the vulnerability of hospital equipment, such as ultrasound and MRI scanning devices, which are also integrated into hospital information networks. The report recommended that hospital managers formulate a work plan to eradicate or minimise the risks and that regular penetration tests be carried out. Engelman also called on the Health Ministry to examine the findings of the penetration test on Medical Center A to develop and implement recommendations for other medical institutions. Since 2021, Israeli hospitals have encountered a series of cyber attacks with severe consequences. These incidents have included ransomware attacks, distributed denial-of-service (DDoS) attacks, and data breaches, all aimed at crippling the hospitals' operations and compromising patient information. In October of that year, Israel's National Cyber Directorate thwarted attacks on several medical institutions. But a ransomware attack on the Hillel Yaffe Medical Center in Hadera paralyzed the computer systems, patient registry and even electric doors.(ANI)",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "state comptroller says"
+      ],
+      "language": "english",
+      "country": [
+        "united kingdom"
+      ],
+      "category": [
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 01:27:14",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 05:35:22",
+      "image_url": "https://static.businessworld.in/1665858650_mNc7uB_cybersecurity_awareness.PNG",
+      "video_url": null,
+      "source_id": "bwhealthcareworld",
+      "source_name": "Businessworld Healthcare World",
+      "source_priority": 99999999,
+      "source_url": "https://www.bwhealthcareworld.com",
+      "source_icon": "https://i.newsdata.io/bwhealthcareworld.png",
+      "sentiment": null,
+      "sentiment_stats": null,
+      "ai_tag": null,
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "1e3fe19ab5d27558fa848576c82d7d20",
+      "link": "https://www.bwhealthcareworld.com/article/why-healthcare-is-the-number-one-target-in-cybersecurity-war-481384",
+      "title": "Why Healthcare Is The Number One Target In Cybersecurity War - BW Healthcare World",
+      "description": "Hospitals, nursing homes, doctors\u2019 offices and other medical facilities typically sit at the top of the food chain for cybercriminals and malware purveyors. That\u2019s because while hospitals face pressure to optimize and improve patient care by leveraging more advanced technologies like the internet of things (IoT), hackers are busy exploiting these \u201copen doors.\u201d In response, cybersecurity has risen to the level of military-grade protection in this battle to shield a patient\u2019s sensitive information and avoid hefty penalties and class action lawsuits. What does it mean for MSPs and IT service providers? Opportunities for modernising a healthcare provider\u2019s security and backup systems with integrated protection that create an impenetrable barrier between a patient\u2019s personal information and cybercriminals looking to exploit system weaknesses. Hackers are Way Ahead of the Game:During the pandemic people were sharing personal information like never before with virtual doctor and clinic visits and remote testing. Even prior to 2020, healthcare organizations were storing vast amounts of sensitive data. Unfortunately, antiquated systems and limited budgets made the medical industry particularly vulnerable. According to a report in Security Magazine, there are three reasons why healthcare organizations experienced a spike in attacks: a high probability to pay the ransom, the value of patient records, and often inadequate security. Patient data is a prime target for criminals today. Protected health information (PHI) is one of the hottest commodities on the dark web, with consumer credit reporting company Experian putting a price tag of USD 1000 on each stolen patient record. How are cybercriminals infiltrating practices, clinics, and hospitals? Email: Phishing scams are one of the most frequent entry points for cybercriminals. There was a 61 per cent increase in the rate of these attacks in the last six months ending October 2022 compared to 2021. The CNBC report also found the sophistication of these incidents is rising. The Department of Health and Human Services is investigating more than 850 open cases of breaches of unsecured protected health information (the HITECH Act requires the Secretary to post a list of breaches affecting 500 or more individuals), many through email. In February of this year, for example, nearly 240,000 individuals were affected by an email hack at healthcare plan provider Highmark Inc. Medical Devices: These same bad actors are finding other ways to creep into network servers. A study by online marketplace vendor Capterra late last year also found that healthcare organizations with connected medical devices also experience a greater number of cyberattacks. Of those breaches, nearly half (48 per cent) affected patient care and two thirds (67 per cent) affected patient data. Several related studies have shown devices from MRI machines to heart rate monitors as a weak link in a hospital\u2019s cyber defense in most data breaches. Healthcare Organizations Must Act Now:Data breaches can be costly to medical providers and organizations. The Health Insurance Portability and Accountability Act (HIPAA) rules covering patients\u2019 medical records are extremely strict, and regulators can levy huge fines for breaches of personal health information (PHI), which gives cybercriminals the upper hand with ransomware demands. Government and industry sanctions are just one consequence of a cyberattack. CommonSpirit Health, one of the largest nonprofit hospitals in the U.S., is facing class action lawsuits for a 2022 cyberattack that disrupted operations at some of its facilities. According to reports, that incident exposed the confidential and potentially sensitive information of more than 623,700 people. This example shows a single attack could escalate quickly into multi-million-dollar settlements \u2013 in addition to regulatory fines and the cost of restoring systems and data. Cybercriminals continue to gain unauthorized network access through email phishing and by exploiting weak passwords. External facing servers and databases without the proper cybersecurity practices and technology in place also provide easy access to sensitive records. Implementing staff/awareness training programs and locking down easily accessible systems are two of the many steps MSPs can take to better protect their healthcare clients today. Edge security is also becoming a priority to increase cyber hygiene and reduce risk. A recent report found that 44 per cent of healthcare organizations expect to spend between 11 per cent to 20 per cent of their overall IT budget in this tech segment.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "guest author"
+      ],
+      "language": "english",
+      "country": [
+        "united kingdom"
+      ],
+      "category": [
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 01:03:38",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 05:29:21",
+      "image_url": "https://static.businessworld.in/1665858650_mNc7uB_cybersecurity_awareness.PNG",
+      "video_url": null,
+      "source_id": "bwhealthcareworld",
+      "source_name": "Businessworld Healthcare World",
+      "source_priority": 99999999,
+      "source_url": "https://www.bwhealthcareworld.com",
+      "source_icon": "https://i.newsdata.io/bwhealthcareworld.png",
+      "sentiment": null,
+      "sentiment_stats": null,
+      "ai_tag": null,
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "61e5ec778114584eb1d8258335f530b2",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
+      "title": "After threatening AI export bans, China allows DeepSeek to keep selling",
+      "description": "PLUS: AI datacenter bubble wobbles in Australia; E-commerce app suggests it can detect diseases; India\u2019s top telco to IPO amid investor frenzy; and more!",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "ai and ml"
+      ],
+      "creator": [
+        "simon sharwood"
+      ],
+      "language": "english",
+      "country": [
+        "nigeria"
+      ],
+      "category": [
+        "science",
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 00:39:57",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 02:34:43",
+      "image_url": "https://image.theregister.com/260439.webp?width=1200",
+      "video_url": null,
+      "source_id": "theregister",
+      "source_name": "The Register",
+      "source_priority": 27110,
+      "source_url": "https://www.theregister.com",
+      "source_icon": "https://i.newsdata.io/theregister.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 49.41,
+        "neutral": 50.06,
+        "positive": 0.53
+      },
+      "ai_tag": [
+        "artificial intelligence"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "a15635ca75d809ee69b55cb6928a626c",
+      "link": "https://straitsresearch.com/report/cyber-weapon-market",
+      "title": "Cyber Weapon Market Size, Share, Growth, Analysis, Report, 2034",
+      "description": "The cyber weapon market size is projected to grow from $72.05 billion in 2026 to $123.15 billion by 2034, at a CAGR of 6.93% during the forecast period 2026-2034.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "cyber weapon market size",
+        "cyber weapon market trends",
+        "cyber weapon market research",
+        "cyber weapon market share",
+        "cyber weapon market growth",
+        "cyber weapon market drivers"
+      ],
+      "creator": null,
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "business"
+      ],
+      "datatype": "research",
+      "pubDate": "2026-10-26 00:00:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 12:42:41",
+      "image_url": "https://straitsresearch.com/uploads/reports/cyber-weapon-market-6588.webp",
+      "video_url": null,
+      "source_id": "straitsresearch",
+      "source_name": "Straitsresearch",
+      "source_priority": 49229,
+      "source_url": "https://straitsresearch.com",
+      "source_icon": "https://i.newsdata.io/straitsresearch.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.84,
+        "neutral": 5.62,
+        "positive": 93.54
+      },
+      "ai_tag": [
+        "research",
+        "cybercrime and cybersecurity"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "819911c7e277fa374f7ac9a263c973d0",
+      "link": "https://straitsresearch.com/report/exposure-management-market",
+      "title": "Exposure Management Market Size, Share, Growth, Analysis, 2034",
+      "description": "The exposure management market size is projected to grow from $4.16 billion in 2026 to $29.77 billion by 2034, at a CAGR of 27.9% during the forecast period 2026-2034.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "exposure management market size",
+        "exposure management market trends",
+        "exposure management market share",
+        "exposure management market research",
+        "exposure management market drivers",
+        "exposure management market growth"
+      ],
+      "creator": null,
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "business"
+      ],
+      "datatype": "research",
+      "pubDate": "2026-10-26 00:00:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 13:10:32",
+      "image_url": "https://straitsresearch.com/uploads/reports/exposure-management-market-6646.webp",
+      "video_url": null,
+      "source_id": "straitsresearch",
+      "source_name": "Straitsresearch",
+      "source_priority": 49229,
+      "source_url": "https://straitsresearch.com",
+      "source_icon": "https://i.newsdata.io/straitsresearch.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.7,
+        "neutral": 8.15,
+        "positive": 91.15
+      },
+      "ai_tag": [
+        "financial markets",
+        "chemicals"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "9deba61c57edb5540c4a2b69537e2b59",
+      "link": "https://straitsresearch.com/report/enterprise-firewall-market",
+      "title": "Enterprise Firewall Market Size, Share, Growth, Analysis, 2034",
+      "description": "The enterprise firewall market size is projected to grow from $17.69 billion in 2026 to $38.86 billion by 2034, at a CAGR of 10.34% during the forecast period 2026-2034.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "enterprise firewall market size",
+        "enterprise firewall market trends",
+        "enterprise firewall market share",
+        "enterprise firewall market growth",
+        "enterprise firewall market research",
+        "enterprise firewall market drivers"
+      ],
+      "creator": null,
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "business"
+      ],
+      "datatype": "research",
+      "pubDate": "2026-10-26 00:00:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 12:39:23",
+      "image_url": "https://straitsresearch.com/uploads/reports/enterprise-firewall-market-6590.webp",
+      "video_url": null,
+      "source_id": "straitsresearch",
+      "source_name": "Straitsresearch",
+      "source_priority": 49229,
+      "source_url": "https://straitsresearch.com",
+      "source_icon": "https://i.newsdata.io/straitsresearch.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.76,
+        "neutral": 6.28,
+        "positive": 92.96
+      },
+      "ai_tag": [
+        "research",
+        "financial markets"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "3c7233accfe41094a8d6d846c30bd9a1",
+      "link": "https://straitsresearch.com/report/security-automation-market",
+      "title": "Security Automation Market Size, Share, Growth, Analysis, 2034",
+      "description": "The security automation market size is projected to grow from $11.03 billion in 2026 to $29.73 billion by 2034, at a CAGR of 13.2% during the forecast period 2026-2034.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "security automation market trends",
+        "security automation market research",
+        "security automation market growth",
+        "security automation market size",
+        "security automation market share",
+        "security automation market drivers"
+      ],
+      "creator": null,
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "business"
+      ],
+      "datatype": "research",
+      "pubDate": "2026-10-26 00:00:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 13:14:24",
+      "image_url": "https://straitsresearch.com/uploads/reports/security-automation-market-6611.webp",
+      "video_url": null,
+      "source_id": "straitsresearch",
+      "source_name": "Straitsresearch",
+      "source_priority": 49229,
+      "source_url": "https://straitsresearch.com",
+      "source_icon": "https://i.newsdata.io/straitsresearch.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.74,
+        "neutral": 5.79,
+        "positive": 93.47
+      },
+      "ai_tag": [
+        "research",
+        "financial markets"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "78a1a33b1a74b5287ea53c18c279de16",
+      "link": "https://straitsresearch.com/report/cybersecurity-insurance-market",
+      "title": "Cybersecurity Insurance Market Size, Share, Growth, Analysis, 2034",
+      "description": "The cybersecurity insurance market size is projected to grow from $23.34 billion in 2026 to $66.78 billion by 2034, at a CAGR of 14.04% during the forecast period 2026-2034.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "cybersecurity insurance market size",
+        "cybersecurity insurance market trends",
+        "cybersecurity insurance market research",
+        "cybersecurity insurance market drivers",
+        "cybersecurity insurance market share",
+        "cybersecurity insurance market growth"
+      ],
+      "creator": null,
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "business"
+      ],
+      "datatype": "research",
+      "pubDate": "2026-10-26 00:00:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 11:09:25",
+      "image_url": "https://straitsresearch.com/uploads/reports/cybersecurity-insurance-market-2180.webp",
+      "video_url": null,
+      "source_id": "straitsresearch",
+      "source_name": "Straitsresearch",
+      "source_priority": 49229,
+      "source_url": "https://straitsresearch.com",
+      "source_icon": "https://i.newsdata.io/straitsresearch.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.71,
+        "neutral": 5.07,
+        "positive": 94.22
+      },
+      "ai_tag": [
+        "insurance",
+        "pharma and healthcare"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "6d476d49f533735433a78cf105d57aaa",
+      "link": "https://en.bonikbarta.com/bangladesh/eLVZtUZdfSlnBcKm",
+      "title": "PHP security flaws put public, private organisations in Bangladesh at cyberattack risk",
+      "description": "Following the discovery of security flaws in the PHP programming language, organisations were instructed to identify vulnerabilities, issue warnings and take protective measures.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": null,
+      "language": "english",
+      "country": [
+        "bangladesh"
+      ],
+      "category": [
+        "top",
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 00:00:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 08:44:49",
+      "image_url": "https://static.bonikbarta.com/original_images/3_BCrhyeb.jpg",
+      "video_url": null,
+      "source_id": "bonikbarta",
+      "source_name": "Daily Bonik Barta",
+      "source_priority": 283629,
+      "source_url": "https://bonikbarta.com",
+      "source_icon": "https://i.newsdata.io/bonikbarta.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 97.54,
+        "neutral": 1.75,
+        "positive": 0.71
+      },
+      "ai_tag": [
+        "cybercrime and cybersecurity"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "52c69cc16738fedfea50b72759a45a68",
+      "link": "https://orangenews9.com/cybersecurity-disruption-what-it-means-for-you/",
+      "title": "Cybersecurity Disruption: What It Means for You",
+      "description": "The cybersecurity developments of the past 72 hours offer a timely reminder that the digital world, while making life faster and more convenient, is also exposing individuals, businesses and governments to increasingly sophisticated threats. The emerging risks are not evidence of an impending internet collapse. Rather, they highlight how rapidly cyberattacks are evolving\u2014and how Artificial... The post Cybersecurity Disruption: What It Means for You appeared first on OrangeNews9.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "special reports",
+        "raja rao pochiraju"
+      ],
+      "creator": [
+        "newsnow9"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "technology"
+      ],
+      "datatype": "blog",
+      "pubDate": "2026-10-25 23:54:15",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 00:18:33",
+      "image_url": "https://orangenews9.com/wp-content/uploads/2026/07/Raja-Rao.jpeg",
+      "video_url": null,
+      "source_id": "orangenews9",
+      "source_name": "Orangenews9",
+      "source_priority": 765004,
+      "source_url": "https://orangenews9.com",
+      "source_icon": "https://i.newsdata.io/orangenews9.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.56,
+        "neutral": 26.56,
+        "positive": 72.88
+      },
+      "ai_tag": [
+        "technology"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    }
+  ],
+  "nextPage": "1792972455868220724"
+}

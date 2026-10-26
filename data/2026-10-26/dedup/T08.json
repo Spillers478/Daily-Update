@@ -1,0 +1,49 @@
+{
+  "groups": {
+    "https://www.dailymail.com/news/article-16229095/British-Islamic-preacher-accused-celebrating-terrorists-radicalising-followers-sets-religious-training-camp-Thailand.html": "a",
+    "https://www.theatlantic.com/ideas/2026/10/ai-terrorism-technology/689137/?utm_source=feed": "b",
+    "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger": "c",
+    "https://freerepublic.com/focus/f-news/4400424/posts": "d",
+    "https://sputnikglobe.com/20261024/russia-strongly-condemns-terrorist-attack-in-jordan-1124930792.html": "e",
+    "https://economictimes.indiatimes.com/news/international/world-news/shooting-in-paris-suburbs-kills-1-wounds-5-macron-condemns-racist-terrorist-attack/articleshow/135161655.cms": "f",
+    "https://freerepublic.com/focus/f-news/4400395/posts": "e",
+    "https://nationalpost.com/news/world/israel-middle-east/jordan-church-terrorist-attack": "e",
+    "https://jordantimes.com/news/local/cabinet-pays-tribute-to-victims-of-karak-terrorist-attack-vows-to-combat-extremism": "e",
+    "https://jordantimes.com/news/local/embassies-fly-flags-to-half-mast-as-more-countries-condemn-terrorist-attack-on-karak-church": "e",
+    "https://jordantimes.com/news/opinion/jordanians-stand-stronger-after-terrorist-attack": "e",
+    "https://nltimes.nl/2026/10/25/man-faces-4-years-prison-planning-terrorist-attack-proposed-asylum-shelter": "g",
+    "https://menafn.com/1111863057/Indonesia-Condemns-Terrorist-Attack-On-Karak-Church": "e",
+    "https://menafn.com/1111862888/Pope-Offers-Prayers-For-Terrorist-Attack-Victims-On-Karak-Church": "e",
+    "https://www.jordannews.jo/Section-109/News/U-S-Embassy-in-Amman-Lowers-Flag-to-Half-Staff-to-Mourn-Victims-of-Karak-Terrorist-Attack-57901": "e",
+    "https://www.jordannews.jo/Section-109/News/Malaysia-Condemns-Terrorist-Attack-on-Karak-Church-57900": "e",
+    "https://menafn.com/1111862521/Breaking-News-Victims-Of-Karak-Terrorist-Attack-Laid-To-Rest-In-Hmoud-Village-Petra": "e",
+    "https://dailyimphalnews.com/congress-demands-manipur-cms-resignation-over-continuing-violence/": "h",
+    "https://www.vanguardngr.com/2026/10/killings-we-are-not-bandits-herdsmen-reject-profiling-demand-dialogue/": "i",
+    "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack": "e",
+    "https://www.christiantoday.com/news/8-killed-in-attack-on-church-in-jordan": "e"
+  },
+  "contradictions": [
+    {
+      "group": "e",
+      "claim_type": "figures",
+      "summary": "Sources give different death tolls for the Karak church attack: seven killed versus eight killed.",
+      "sources": [
+        {
+          "source": "Freerepublic.com",
+          "url": "https://freerepublic.com/focus/f-news/4400395/posts",
+          "says": "Seven killed as gunmen opened fire at a church in Jordan"
+        },
+        {
+          "source": "National Post",
+          "url": "https://nationalpost.com/news/world/israel-middle-east/jordan-church-terrorist-attack",
+          "says": "At least seven killed and dozens injured"
+        },
+        {
+          "source": "Christiantoday.com",
+          "url": "https://www.christiantoday.com/news/8-killed-in-attack-on-church-in-jordan",
+          "says": "8 killed in the attack on the church"
+        }
+      ]
+    }
+  ]
+}
