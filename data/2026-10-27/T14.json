@@ -1,7 +1,46 @@
 {
   "status": "ok",
-  "totalResults": 7,
+  "totalResults": 10,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "DYEPKAZAH SHIBAYAN Associated Press, MARK BANCHEREAU Associated Press",
+      "title": "Swiss Ebola patient in Nigeria evacuated to Switzerland",
+      "description": "A Swiss woman being treated for Ebola in Nigeria has been medically evacuated to Switzerland with her husband",
+      "url": "https://abcnews.com/International/wireStory/swiss-ebola-patient-nigeria-evacuated-switzerland-137570624",
+      "urlToImage": "https://i.abcnewsfe.com/a/70a07fbe-2003-4119-9000-7f200d463ccd/wirestory_6390efb6d55bb43a40695425ef2317fb_16x9.jpg?w=1600",
+      "publishedAt": "2026-10-26T14:00:40Z",
+      "content": "ABUJA, Nigeria -- A Swiss woman being treated for Ebola in Nigeria was medically evacuated to Switzerland with her husband Monday, officials said, as Nigerian authorities continued monitoring 52 peop\u2026 [+2458 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slate Magazine"
+      },
+      "author": "Aymann Ismail",
+      "title": "Joe Biden\u2019s Worst Decision Is Even More Stunning When You Know How He Made It",
+      "description": "Kamala Harris\u2019 own role is not what she implies.",
+      "url": "https://slate.com/news-and-politics/2026/10/joe-biden-israel-gaza-donald-trump.html",
+      "urlToImage": "https://compote.slate.com/images/b5318d8d-bc87-49e4-9ae5-adb11027af71.jpeg?crop=7680%2C5120%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2026-10-26T14:00:00Z",
+      "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nNearly two years after leaving office, the officials who helped shape Joe\u2026 [+13196 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fair Observer"
+      },
+      "author": "Peter Isackson",
+      "title": "Alice in Threatland: The Gray Lady in the Rabbit Hole",
+      "description": "Even though I\u2019ve spent years highlighting The New York Times incestuous dependence on the CIA and the State Department, there are moments in my experience of its journalism when annoyance is replaced by existential fear. The latest contribution by the \u201cnewspa\u2026",
+      "url": "https://www.fairobserver.com/world-news/us-news/alice-in-threatland-the-gray-lady-in-the-rabbit-hole/",
+      "urlToImage": "https://www.fairobserver.com/wp-content/uploads/2026/10/meeting.jpg",
+      "publishedAt": "2026-10-26T13:44:20Z",
+      "content": "Even though Ive spent years highlighting The New York Times incestuous dependence on the CIA and the State Department, there are moments in my experience of its journalism when annoyance is replaced \u2026 [+10514 chars]"
+    },
     {
       "source": {
         "id": "fortune",
@@ -94,20 +133,31 @@
       "content": "The US has updated its travel advisory for the United Arab Emirates, highlighting an increased threat of potential armed attacks by Iranian-supported Houthi forces in the region. While the formal adv\u2026 [+3903 chars]"
     },
     {
-      "title": "US coastal combat ship Canberra returns to Colombo for second visit this year",
-      "url": "http://island.lk/us-coastal-combat-ship-canberra-returns-to-colombo-for-second-visit-this-year/",
-      "description": "Littoral Combat Ship USS Canberra returned to the Port of Colombo yesterday ( 26) for a routine port call. The US Embassy said that this was the ship\u2019s second visit to Sri Lanka this year, following a port call in June, and underscored the longstanding partnership between the US and Sri Lankan navies and their [\u2026]",
+      "title": "US-Israel-Iran war: What UAE residents need to know today (Oct. 27, 2026)",
+      "url": "https://gulfnews.com/uae/us-israel-iran-war-what-uae-residents-need-to-know-today-oct-27-2026-1.500724760",
+      "description": "Strait of Hormuz at risk as global powers seek to prevent wider Middle East war",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "The Island"
+        "name": "Gulf News"
       },
       "_provider": "newsdata.io"
     },
     {
-      "title": "Ebola: Why Nigeria evacuated patient to Switzerland \u2013 NCDC",
-      "url": "https://www.premiumtimesng.com/health/health-news/920545-ebola-why-nigeria-evacuated-patient-to-switzerland-ncdc.html",
-      "description": "Speaking on Channels Television\u2019s Politics Today on Monday, Mr Idris said the federal government approved the transfer after consultations with the Coordinating Minister of Health and Social Welfare, Muhammad Pate. The post Ebola: Why Nigeria evacuated patient to Switzerland \u2013 NCDC appeared first on Premium Times Nigeria.",
+      "title": "Letters to THE EDITOR: Dismantle the network behind illegal migration",
+      "url": "https://www.sentinelassam.com/letters-to-the-editor/letters-to-the-editor-dismantle-the-network-behind-illegal-migration",
+      "description": "Letters to the editor discuss alleged illegal migration via Assam, India\u2019s diplomat literature festival as soft power, and praise athletes as the real Gen Z.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "The Sentinel"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Ebola: How much have Nigerian states allocated to emergency preparedness?",
+      "url": "https://www.premiumtimesng.com/health/health-features/920551-ebola-how-much-have-nigerian-states-allocated-to-emergency-preparedness.html",
+      "description": "Some states made substantial provisions for health emergencies, while others allocated smaller sums to specific disease-control activities. The post Ebola: How much have Nigerian states allocated to emergency preparedness? appeared first on Premium Times Nigeria.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
@@ -116,31 +166,53 @@
       "_provider": "newsdata.io"
     },
     {
-      "title": "Commentary: Trump needs partners when it comes to China\u2019s overcapacity",
-      "url": "https://www.channelnewsasia.com/commentary/trump-china-tariffs-partners-action-overcapacity-6490791",
-      "description": "A recent joint statement about overcapacity suggests a shift in how US and its trade partners are looking to respond to China Shock 2.0, says US politics observer Steven Okun.",
+      "title": "Nigeria Not Declared Ebola-Free, WHO Clarifies",
+      "url": "https://independent.ng/nigeria-not-declared-ebola-free-who-clarifies/",
+      "description": "\u2026Country\u2019s Lone Ebola Patient Evacuated To Switzerland ABUJA \u2013 The World Health Organisation (WHO) has clarified that Nigeria has not been declared Ebola-free, stressing that the country currently has no\u2026",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "Channel Newsasia"
+        "name": "Independentng"
       },
       "_provider": "newsdata.io"
     },
     {
-      "title": "Israel and the US on the eve of crucial votes, elections could reshape global power balances",
-      "url": "https://albeu.com/english/israel-and-the-us-on-the-eve-of-crucial-votes-elections-could-reshape-global-power-balances/1075176/",
-      "description": "Brenda pak dit\u00ebsh, qytetar\u00ebt n\u00eb Izrael dhe Shtetet e Bashkuara do t\u2019u drejtohen kutive t\u00eb votimit. Rezultatet mund t\u00eb ndikojn\u00eb drejtp\u00ebrdrejt n\u00eb t\u00eb ardhmen e luft\u00ebs me Iranin, sigurin\u00eb e Lindjes s\u00eb Mesme dhe ekonomin\u00eb globale. [...] Read More... The post Izrael dhe SHBA n\u00eb prag t\u00eb votimeve ky\u00e7e, zgje [...] The post Israel and the US on the eve of crucial votes, elections could reshape global power balances appeared first on Albeu.com.",
+      "title": "PACNEWS THREE, 27 OCTOBER 2026",
+      "url": "https://islandsbusiness.com/pacnews/pacnews-three-27-october-2026/",
+      "description": "In this bulletin: 1. PACIFIC \u2014 SPC must stay accountable to members as it approaches 80th anniversary2. PACIFIC \u2014 Tonga urges SPC members to ensure decisions deliver for Pacific people3. FIJI \u2014 Fiji Coalition partner SODELPA rejects Bill 32, demands full repeal of 2013 constitution4. PACIFIC \u2014 \u2018Strengthening ties\u2019 or \u2018Shameful\u2019? Why Israel\u2019s new Pacific [\u2026] The post PACNEWS THREE, 27 OCTOBER 2026 appeared first on Islands Business.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "Albeu"
+        "name": "Islands Business News"
       },
       "_provider": "newsdata.io"
     },
     {
-      "title": "Nigeria could become Ebola-free in December \u2013 Pate",
-      "url": "https://businessday.ng/news/article/nigeria-could-become-ebola-free-in-december-pate/",
-      "description": "Nigeria could become Ebola-free as early as December 7 if no further confirmed or probable cases of Ebola are detected,",
+      "title": "Scott Stinson: Olivia Chow cruised to a mayoral victory by promising not to break stuff \u2014 or fix it",
+      "url": "https://nationalpost.com/opinion/scott-stinson-olivia-chow-cruised-to-a-mayoral-victory-by-promising-not-to-break-stuff-or-fix-it",
+      "description": "Councillor Brad Bradford's late surge as the change candidate didn't come close to victory in the end",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "National Post"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Russian troops evacuate 87 civilians from Kupyansk-Uzlovoy \u2014 diplomat",
+      "url": "https://tass.com/society/2208297",
+      "description": "According to Rodion Miroshnik, Ukrainian forces carried out a series of mortar and drone attacks on civilians during the evacuation, causing casualties",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "\u0422\u0430\u0441\u0441"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "WORLD IN BRIEF: US, Canada seek tariff deal, measles cases rise in Pennsylvania, Libya lifts aviation restrictions and other stories",
+      "url": "https://businessday.ng/world/article/world-in-brief-us-canada-seek-tariff-deal-measles-cases-rise-in-pennsylvania-libya-lifts-aviation-restrictions-and-other-stories/",
+      "description": "Trump questions Brazil election as Bolsonaro refuses to concede Donald Trump, the US President, has questioned the outcome of Brazil\u2019s",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
@@ -149,57 +221,24 @@
       "_provider": "newsdata.io"
     },
     {
-      "title": "West must be aware that Russia, Belarus can repel any threat \u2014 diplomat",
-      "url": "https://tass.com/politics/2208265",
-      "description": "Boris Gryzlov said that statements by national leaders that the Europeans must be ready for war by 2030 go beyond words",
+      "title": "Herzog Welcomes European, African Ambassadors, Calls for Stronger Diplomatic Ties",
+      "url": "https://www.algemeiner.com/2026/10/26/herzog-welcomes-european-african-ambassadors-calls-stronger-diplomatic-ties/",
+      "description": "New ambassadors from France, the Netherlands, Austria, Rwanda, and Ghana formally presented their diplomatic credentials to Israel on Monday, signaling...",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "\u0422\u0430\u0441\u0441"
+        "name": "The Algemeiner"
       },
       "_provider": "newsdata.io"
     },
     {
-      "title": "1st confirmed Ebola patient in Nigeria evacuated to Switzerland",
-      "url": "https://www.pbs.org/newshour/world/1st-confirmed-ebola-patient-in-nigeria-evacuated-to-switzerland",
-      "description": "A Swiss woman being treated for Ebola in Nigeria has been medically evacuated to Switzerland with her husband.",
+      "title": "US coastal combat ship Canberra returns to Colombo for second visit this year",
+      "url": "http://island.lk/us-coastal-combat-ship-canberra-returns-to-colombo-for-second-visit-this-year/",
+      "description": "Littoral Combat Ship USS Canberra returned to the Port of Colombo yesterday ( 26) for a routine port call. The US Embassy said that this was the ship\u2019s second visit to Sri Lanka this year, following a port call in June, and underscored the longstanding partnership between the US and Sri Lankan navies and their [\u2026]",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "Pbs"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "Vucic\u2019s Reign Is Over",
-      "url": "https://foreignpolicy.com/2026/10/26/serbia-elections-vucic-student-list-protests-lula-brazil/",
-      "description": "A student-led grassroots movement in Serbia will replace one of Europe\u2019s staunchest populists.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Foreign Policy"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "Western borders of Russia-Belarus Union State under growing threat \u2014 ambassador",
-      "url": "https://tass.com/politics/2208259",
-      "description": "Boris Gryzlov pointed to NATO\u2019s eastward expansion, the military buildup near the Union State borders, and the violation of agreements on arms control",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "\u0422\u0430\u0441\u0441"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "Trump Floats 'Epic Fury 2' on Iran While Gas Prices Squeeze Latino Families",
-      "url": "https://www.latintimes.com/trump-warns-new-iran-operation-oil-prices-surge-600577",
-      "description": "President Trump signaled that the U.S. could resume military action against Iran, while diplomatic evacuations, Houthi attacks and surging oil prices raised concerns for Latino households and service members.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Latin Times"
+        "name": "The Island"
       },
       "_provider": "newsdata.io"
     }

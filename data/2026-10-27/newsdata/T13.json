@@ -1,7 +1,227 @@
 {
   "status": "success",
-  "totalResults": 78,
+  "totalResults": 76,
   "results": [
+    {
+      "article_id": "01ba3c27fa503a63ac01411bf87bc701",
+      "link": "https://www.devdiscourse.com/article/other/3997740-bahraini-filmmaker-omar-farooq-named-unhcr-goodwill-ambassador-for-the-mena",
+      "title": "Bahraini filmmaker Omar Farooq named UNHCR Goodwill Ambassador for the MENA",
+      "description": "Bahraini filmmaker and content creator Omar Farooq has been named a Goodwill Ambassador for UNHCR the UN Refugee Agency in the Middle East and North Africa The appointment recognizes his years of work bringing the experiences of people forced to flee to wider audiences Through documentaries digital storytelling and public campaigns he has helped raise awareness and mobilize support for displaced communities",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "forced displacement",
+        "goodwill ambassador",
+        "refugees",
+        "50 by 35",
+        "middle east and north africa",
+        "omar farooq",
+        "unhcr",
+        "refugee zakat fund",
+        "beyond borders",
+        "rohingya refugees"
+      ],
+      "creator": [
+        "devdiscourse news desk&#x9"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "entertainment",
+        "lifestyle"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-27 04:09:56",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-27 10:46:19",
+      "image_url": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/03_12_2024_23_33_27_3640276.jpg&amp;width=920",
+      "video_url": null,
+      "source_id": "devdiscourse",
+      "source_name": "Devdiscourse",
+      "source_priority": 566021,
+      "source_url": "https://www.devdiscourse.com",
+      "source_icon": "https://i.newsdata.io/devdiscourse.jpg",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.94,
+        "neutral": 2.73,
+        "positive": 96.33
+      },
+      "ai_tag": [
+        "awards and recognitions",
+        "celebrity"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "ee76a6e5f5e2d737a6715c87defe0399",
+      "link": "https://www.news24.com.au/latest/randa-abdelfattah-to-return-to-adelaide-writers-week-after-axing/news-story/209e38cc2a1a6be7ee3bf48b98366713",
+      "title": "Controversial author set for festival return",
+      "description": "The author at the centre of this year\u2019s Adelaide Festival controversy has accepted an invitation to appear at the event next year.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "a mass speaker exodus and cancellation",
+        "54 events",
+        "the centre",
+        "the controversy",
+        "the 2026 event",
+        "an apology",
+        "speakers",
+        "randa abdel-fattah",
+        "common people.the festival",
+        "the event",
+        "week",
+        "this unprecedented time",
+        "adelaide town hall",
+        "an address",
+        "the line",
+        "an event",
+        "\u2019s adelaide festival controversy",
+        "march 14",
+        "several other writers",
+        "this year"
+      ],
+      "creator": [
+        "news24"
+      ],
+      "language": "english",
+      "country": [
+        "australia"
+      ],
+      "category": [
+        "top",
+        "politics",
+        "entertainment"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-27 02:04:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-27 07:38:16",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "news24_au",
+      "source_name": "News24",
+      "source_priority": 65124,
+      "source_url": "https://www.news24.com.au",
+      "source_icon": null,
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 18.85,
+        "neutral": 79.34,
+        "positive": 1.81
+      },
+      "ai_tag": [
+        "entertainment",
+        "politics"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "b81e0af41e2d355906ae3c5dbe41b822",
+      "link": "https://www.perthnow.com.au/news/randa-abdel-fattah-to-return-to-adelaide-writers-week-after-axing-c-23076914",
+      "title": "Randa Abdel-Fattah to return to Adelaide Writers\u2019 Week after axing",
+      "description": "The author whose removal from Adelaide Writers\u2019 Week triggered a mass speaker exodus and cancellation has now been invited back by the new festival board.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "news"
+      ],
+      "creator": [
+        "david hannant"
+      ],
+      "language": "english",
+      "country": [
+        "australia"
+      ],
+      "category": [
+        "breaking"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-27 01:59:34",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-27 02:08:15",
+      "image_url": "https://images.perthnow.com.au/publication/C-23076914/4ad0c3fda0f0d07c8b35c4f6655dc98b33569622-16x9-x0y642w1666h937.jpg",
+      "video_url": null,
+      "source_id": "perthnow",
+      "source_name": "Perthnow",
+      "source_priority": 49457,
+      "source_url": "https://www.perthnow.com.au",
+      "source_icon": "https://i.newsdata.io/perthnow.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 5.19,
+        "neutral": 81.77,
+        "positive": 13.04
+      },
+      "ai_tag": [
+        "politics",
+        "entertainment"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "0d7f67015fd5648a4c26efa0a23ee4ee",
+      "link": "https://punchng.com/caritas-unveils-solar-powered-borehole-in-adamawa/",
+      "title": "Caritas unveils solar powered borehole in Adamawa",
+      "description": "Caritas Nigeria has commissioned a 60,000-litre solar powered borehole in Malkohi IDP camp, Adamawa State, to end acute water scarcity for the community.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "malkohi",
+        "borehole",
+        "abia community\u2019s water scarcity",
+        "abuja idp camp",
+        "adamawa state",
+        "caritas nigeria",
+        "home solar power"
+      ],
+      "creator": [
+        "punch newspapers"
+      ],
+      "language": "english",
+      "country": [
+        "nigeria"
+      ],
+      "category": [
+        "environment",
+        "top",
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-27 01:28:03",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-27 03:03:34",
+      "image_url": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+      "video_url": null,
+      "source_id": "punchng",
+      "source_name": "Punch",
+      "source_priority": 11843,
+      "source_url": "https://punchng.com",
+      "source_icon": "https://i.newsdata.io/punchng.jpg",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.74,
+        "neutral": 1.14,
+        "positive": 98.12
+      },
+      "ai_tag": [
+        "energy",
+        "renewable energy"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
     {
       "article_id": "dca59983bd8892808076943a7202c505",
       "link": "https://www.pedestrian.tv/entertainment/jack-antonoff-ed-sheeran-loop-tour-controversy",
@@ -315,204 +535,7 @@
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
       "duplicate": false
-    },
-    {
-      "article_id": "a21042f7134be037dec9e9192960819c",
-      "link": "https://www.vanguardngr.com/2026/10/2027-inec-seeks-inclusive-polls-sensitises-pwds-electoral-officers-in-benue/",
-      "title": "2027: INEC seeks inclusive polls, sensitises PWDs, Electoral Officers in Benue",
-      "description": "The Independent National Electoral Commission (INEC) in Benue State has held a sensitisation workshop for Persons With Disabilities (PWDs), Electoral Officers (EOs) and Disability Desk Officers, targeting improved accessibility, effective deployment of assistive devices and inclusive participation in the 2027 general elections. The post 2027: INEC seeks inclusive polls, sensitises PWDs, Electoral Officers in Benue appeared first on Vanguard News.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "news",
-        "inec",
-        "benue state"
-      ],
-      "creator": [
-        "emmanuel okogba"
-      ],
-      "language": "english",
-      "country": [
-        "nigeria"
-      ],
-      "category": [
-        "top",
-        "politics"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-26 18:48:58",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 19:07:23",
-      "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2026/10/Benue-INEC.jpg",
-      "video_url": null,
-      "source_id": "vanguardngr",
-      "source_name": "Vanguard News",
-      "source_priority": 32322,
-      "source_url": "https://www.vanguardngr.com",
-      "source_icon": "https://i.newsdata.io/vanguardngr.png",
-      "sentiment": "positive",
-      "sentiment_stats": {
-        "negative": 0.85,
-        "neutral": 10.65,
-        "positive": 88.5
-      },
-      "ai_tag": [
-        "elections",
-        "government"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "344185cc8009865adccbb0d5e633cb8b",
-      "link": "https://www.nationalreview.com/2026/10/europes-mad-voyage-meets-the-whirlwind/",
-      "title": "Europe\u2019s Mad Voyage Meets the Whirlwind",
-      "description": null,
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "nrplus member articles",
-        "europe",
-        "topic: world",
-        "topic: immigration",
-        "section: article",
-        "france",
-        "germany",
-        "ukraine",
-        "premium content"
-      ],
-      "creator": [
-        "michael brendan dougherty"
-      ],
-      "language": "english",
-      "country": [
-        "united states of america"
-      ],
-      "category": [
-        "top",
-        "politics"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-26 18:44:54",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 00:06:29",
-      "image_url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/france-protests.jpg?fit=617%2C360&ssl=1",
-      "video_url": null,
-      "source_id": "nationalreview",
-      "source_name": "National Review",
-      "source_priority": 232088,
-      "source_url": "https://www.nationalreview.com",
-      "source_icon": "https://i.newsdata.io/nationalreview.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 31.05,
-        "neutral": 66.77,
-        "positive": 2.18
-      },
-      "ai_tag": [
-        "immigration and migrant issues",
-        "conflicts & war"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "97a8f3cb27dc879502c8cf48a7da9f82",
-      "link": "https://www.essentiallysports.com/golf-news-unserious-competitively-golf-analyst-questions-motivations-of-fifteen-reported-liv-two-point-zero-signees-amid-mass-exodus/",
-      "title": "\u2018Unserious Competitively\u2019: Golf Analyst Questions Motivations of 15 Reported LIV 2.0 Signees Amid Mass Exodus",
-      "description": "When players left the PGA Tour for LIV Golf, each had their own motivation. Some were promised more money, some a lighter schedule, and others simply wanted to try something new. Four years later, the question has only changed shape. What is LIV 2.0 offering players this time? Many of the league\u2019s biggest names have [\u2026] The post \u2018Unserious Competitively\u2019: Golf Analyst Questions Motivations of 15 Reported LIV 2.0 Signees Amid Mass Exodus appeared first on EssentiallySports.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "ryan lavner",
-        "gary williams",
-        "liv golf",
-        "golf"
-      ],
-      "creator": [
-        "roshni dhawan"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "sports"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-26 18:44:22",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 19:04:59",
-      "image_url": "https://image-cdn.essentiallysports.com/wp-content/uploads/LIV.jpg.jpeg?width=1200",
-      "video_url": null,
-      "source_id": "essentiallysports",
-      "source_name": "Essentially Sports",
-      "source_priority": 21450,
-      "source_url": "https://www.essentiallysports.com",
-      "source_icon": null,
-      "sentiment": null,
-      "sentiment_stats": null,
-      "ai_tag": null,
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "376eb47e76d5590b157350cb41185290",
-      "link": "https://www.yourtango.com/family/people-born-in-50s-60s-70s-80s-different-ideas-of-what-made-good-parent",
-      "title": "People Born In The 50s, 60s, 70s & 80s Have Very Different Ideas Of What Made A Good Parent",
-      "description": "The definition of good parenting has evolved rapidly over the past 75 or so years, with shifts from a traditional provider-homemaker balance to an emphasis on children's individuality.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "1970s",
-        "decades",
-        "good parents",
-        "1980s",
-        "generational gap",
-        "1960s",
-        "family",
-        "parenting",
-        "kids",
-        "growing up"
-      ],
-      "creator": [
-        "mary-faith martinez"
-      ],
-      "language": "english",
-      "country": [
-        "united states of america"
-      ],
-      "category": [
-        "lifestyle"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-26 18:30:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 22:33:40",
-      "image_url": "https://www.yourtango.com/sites/default/files/image_blog/2026-10/people-born-50s-60s-70s-80s-have-different-ideas-what-made-good-parent.png",
-      "video_url": null,
-      "source_id": "yourtango",
-      "source_name": "Yourtango Relationships Magazine",
-      "source_priority": 12606,
-      "source_url": "https://www.yourtango.com",
-      "source_icon": "https://i.newsdata.io/yourtango.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 0.87,
-        "neutral": 89.2,
-        "positive": 9.93
-      },
-      "ai_tag": [
-        "education",
-        "mental health"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
     }
   ],
-  "nextPage": "1793039400945220398"
+  "nextPage": "1793041416814262635"
 }

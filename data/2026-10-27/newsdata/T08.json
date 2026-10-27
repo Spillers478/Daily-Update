@@ -1,7 +1,53 @@
 {
   "status": "success",
-  "totalResults": 22,
+  "totalResults": 23,
   "results": [
+    {
+      "article_id": "432645a32d6658a707335396badcdfdc",
+      "link": "https://kuwaittimes.com/article/52457/world/jordan-strikes-militant-groups-in-syria-after-deadly-church-attack/",
+      "title": "Jordan strikes militant groups in Syria after deadly church attack",
+      "description": "AMMAN: The Jordanian military said it struck \u201cterrorist organizations\u201d in neighboring Syria on Monday in retaliation for last week\u2019s deadly attack on a church, hours after authorit...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "\u0622\u062e\u0631 \u0627\u0644\u0627\u062e\u0628\u0627\u0631"
+      ],
+      "creator": [
+        "kuwaittimes"
+      ],
+      "language": "english",
+      "country": [
+        "kuwait"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-27 03:53:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-27 06:14:47",
+      "image_url": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/10/27/463344.jpg",
+      "video_url": null,
+      "source_id": "kuwaittimes",
+      "source_name": "Kuwait Times",
+      "source_priority": 295375,
+      "source_url": "https://www.kuwaittimes.com",
+      "source_icon": "https://i.newsdata.io/kuwaittimes.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 39.94,
+        "neutral": 30.38,
+        "positive": 29.68
+      },
+      "ai_tag": [
+        "terrorism",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
     {
       "article_id": "d6f7457259bcbd8d44a88e38f95d847d",
       "link": "https://www.wionews.com/world/jordan-strikes-terrorist-organisations-in-syria-after-deadly-church-attack-as-damascus-shuts-main-border-crossing-1793058044662",
@@ -439,58 +485,7 @@
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
       "duplicate": false
-    },
-    {
-      "article_id": "a658a299e8a99650a3f8b9f8e85de2e5",
-      "link": "https://www.jordannews.jo/Section-109/News/Public-Security-Director-Names-Perpetrators-of-Karak-Terrorist-Attack-57972",
-      "title": "Public Security Director Names Perpetrators of Karak Terrorist Attack",
-      "description": "Public Security Director Major General Dr. Obeidallah Maaytah expressed his condolences to the families of those killed in the terrorist attack in Karak Governorate.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "jordan",
-        "jordan news",
-        "public security director"
-      ],
-      "creator": [
-        "latest news from jordan",
-        "jordan news&#160",
-        "|&#160",
-        "mena"
-      ],
-      "language": "english",
-      "country": [
-        "jordan"
-      ],
-      "category": [
-        "crime",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-26 11:55:58",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 11:55:58",
-      "image_url": "https://www.jordannews.jo/Content/Upload/Slider/1020262614311732458661.jpg",
-      "video_url": null,
-      "source_id": "jordannews_jo",
-      "source_name": "Jordan News | Latest News From Jordan, Mena",
-      "source_priority": 99999999,
-      "source_url": "https://www.jordannews.jo",
-      "source_icon": "https://i.newsdata.io/jordannews_jo.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 5.78,
-        "neutral": 90.77,
-        "positive": 3.45
-      },
-      "ai_tag": [
-        "terrorism",
-        "accidents"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
     }
   ],
-  "nextPage": "1793015758885281007"
+  "nextPage": "1793017346494078815"
 }

@@ -1,12 +1,30 @@
 {
   "groups": {
-    "https://www.upi.com/Top_News/US/2026/10/26/man-charged-with-sending-letters-to-illinois-lawmakers/1291793060768/": "a",
-    "https://chicago.suntimes.com/2026/10/26/quincy-man-charged-mailed-letters-white-powder-congress-members-unglesbee": "a",
-    "https://www.nbcchicago.com/investigations/illinois-man-with-lengthy-criminal-history-arrested-in-white-powder-threats-to-members-of-congress/4007650/": "a",
-    "https://radaronline.com/p/illinois-man-accused-of-mailing-anthrax-style-scare-letters-to-congress-matthew-unglesbee/": "a",
-    "https://www.huffpost.com/entry/illinois-man-accused-of-mailing-white-powder-to-members-of-congress_n_6adfd37de4b065fbf4c1e840": "a",
-    "https://www.washingtonsun.com/legal/illinois-man-charged-white-powder-members-of-congress": "a",
-    "https://www.wionews.com/world/illinois-man-charged-with-sending-threatening-notes-and-mailing-white-powder-letters-to-congress-members-1793049753959": "a"
+    "https://newatlas.com/materials/fabric-coating-hazmat-suits-break-down-toxins/": "a",
+    "https://bnonews.com/index.php/2026/10/illinois-man-charged-with-mailing-white-powder-to-4-members-of-congress/": "b",
+    "https://www.upi.com/Top_News/US/2026/10/26/man-charged-with-sending-letters-to-illinois-lawmakers/1291793060768/": "b",
+    "https://chicago.suntimes.com/2026/10/26/quincy-man-charged-mailed-letters-white-powder-congress-members-unglesbee": "b",
+    "https://www.nbcchicago.com/investigations/illinois-man-with-lengthy-criminal-history-arrested-in-white-powder-threats-to-members-of-congress/4007650/": "b",
+    "https://radaronline.com/p/illinois-man-accused-of-mailing-anthrax-style-scare-letters-to-congress-matthew-unglesbee/": "b",
+    "https://www.huffpost.com/entry/illinois-man-accused-of-mailing-white-powder-to-members-of-congress_n_6adfd37de4b065fbf4c1e840": "b"
   },
-  "contradictions": []
+  "contradictions": [
+    {
+      "group": "b",
+      "claim_type": "figures",
+      "summary": "Sources give different ages for the accused man, Matthew Unglesbee.",
+      "sources": [
+        {
+          "source": "Breaking News Online",
+          "url": "https://bnonews.com/index.php/2026/10/illinois-man-charged-with-mailing-white-powder-to-4-members-of-congress/",
+          "says": "Matthew G. Unglesbee is 36 years old"
+        },
+        {
+          "source": "Huffpost",
+          "url": "https://www.huffpost.com/entry/illinois-man-accused-of-mailing-white-powder-to-members-of-congress_n_6adfd37de4b065fbf4c1e840",
+          "says": "Matthew Ungelsbee is 37 years old"
+        }
+      ]
+    }
+  ]
 }

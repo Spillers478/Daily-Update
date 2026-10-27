@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 1,
+  "totalResults": 3,
   "articles": [
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Wyatte Grantham-Philips",
+      "title": "In his own words: Trump on gas prices and energy costs since launching the war with Iran - AP News",
+      "description": "Since launching the war with Iran nearly eight months ago, U.S. President Donald Trump has struggled to quell soaring energy costs, undermining Republicans\u2019 attempt to keep control of Congress in the midterm elections next week. Low gas prices were a key prom\u2026",
+      "url": "https://apnews.com/article/trump-oil-gas-prices-midterms-iran-war-0ca3059bb35a0f70e15eb0ccb9c207c5",
+      "urlToImage": "https://dims.apnews.com/dims4/default/3a4ac9a/2147483647/strip/true/crop/3870x2580+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe4%2F64%2F8adc104d5cf3a2463a57ddfb0ffa%2Faec12858402d47abb1ba567c82a86103",
+      "publishedAt": "2026-10-26T10:50:00Z",
+      "content": "Since launching the war with Iran nearly eight months ago, U.S. President Donald Trump has struggled to quell soaring energy costs, undermining Republicans attempt to keep control of Congress in the \u2026 [+7027 chars]"
+    },
     {
       "source": {
         "id": "cnn",

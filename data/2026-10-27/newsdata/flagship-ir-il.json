@@ -1,100 +1,51 @@
 {
   "status": "success",
-  "totalResults": 1831,
+  "totalResults": 1849,
   "results": [
     {
-      "article_id": "207459ae330fe1f606cd9c9e191e151b",
-      "link": "https://www.malaymail.com/news/world/2026/10/27/netanyahu-rivals-trade-attacks-over-iran-as-israel-election-looms/240727",
-      "title": "Netanyahu, rivals trade attacks over Iran as Israel election looms",
-      "description": "TEL AVIV, Oct 27 \u2014 Prime Minister Benjamin Netanyahu wrapped up his campaign to remain in power on Monday with a c...",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "israel",
-        "iran",
-        "as",
-        "looms",
-        "rivals",
-        "election",
-        "over",
-        "trade",
-        "attacks",
-        "netanyahu"
-      ],
-      "creator": [
-        "malay mail"
-      ],
-      "language": "english",
-      "country": [
-        "singapore",
-        "malaysia"
-      ],
-      "category": [
-        "world"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-27 01:10:26",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 01:33:36",
-      "image_url": "https://www.malaymail.com/malaymail/uploads/images/2026/10/27/370651.jpg",
-      "video_url": null,
-      "source_id": "malaymail",
-      "source_name": "Malay Mail",
-      "source_priority": 12892,
-      "source_url": "https://www.malaymail.com",
-      "source_icon": "https://i.newsdata.io/malaymail.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 6.58,
-        "neutral": 90.84,
-        "positive": 2.58
-      },
-      "ai_tag": [
-        "elections",
-        "government"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "44c831a8953420b398e3937f96eaeb76",
-      "link": "https://www.fxstreet.com/news/wti-falls-to-near-100-as-middle-east-talks-ease-supply-fears-202610270109",
-      "title": "WTI falls to near $100 as Middle East talks ease supply fears",
-      "description": "West Texas Intermediate (WTI) oil price extends its losses for the second successive day, trading around $100.10 per barrel during Asian hours on Tuesday. Crude oil prices fell as renewed diplomatic efforts in the Middle East raised hopes of preventing a wider escalation of the US-Iran conflict.",
+      "article_id": "465c092d6277c4d8584a0d8f8cb1ba7a",
+      "link": "https://news.metal.com/newscontent/104180281/geopolitical-tensions-ease-but-macro-guidance-unclear-spot-silver-supply-and-demand-both-weak-smm-daily-review/",
+      "title": "Geopolitical tensions ease but macro guidance unclear; spot silver supply and demand both weak [SMM Daily Review]",
+      "description": "[SMM Daily Review: Geopolitical Tensions Ease but Macro Guidance Unclear; Silver Spot Supply and Demand Both Weak] SMM, October 27: The Middle East situation is now marked by parallel diplomatic mediation and military deterrence, with slight easing. The market is in a news vacuum period, awaiting signals from this week's FOMC meeting. In the spot market, overnight transactions at low levels were moderate, but downstream purchasing weakened in early trading. Suppliers held low inventory and showed strong willingness to hold prices firm. Overall, supply and demand were both weak, and the basis narrowed slightly.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": null,
-      "creator": [
-        "akhtar faruqui"
-      ],
+      "creator": null,
       "language": "english",
       "country": [
-        "spain"
+        "brazil",
+        "japan",
+        "united states of america",
+        "india",
+        "south korea",
+        "germany",
+        "united kingdom",
+        "australia",
+        "china"
       ],
       "category": [
-        "top",
+        "breaking",
         "business"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-27 01:09:29",
+      "pubDate": "2026-10-27 04:12:43",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 05:24:20",
-      "image_url": "https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_1.png",
+      "fetched_at": "2026-10-27 04:12:43",
+      "image_url": "https://static.metal.com/common.metal.com/images/header-en/smm-logo.png",
       "video_url": null,
-      "source_id": "fxstreet",
-      "source_name": "Fxstreet",
-      "source_priority": 116812,
-      "source_url": "https://www.fxstreet.com",
-      "source_icon": "https://i.newsdata.io/fxstreet.png",
-      "sentiment": "negative",
+      "source_id": "metal_news",
+      "source_name": "Shanghai Metals Market",
+      "source_priority": 165025,
+      "source_url": "https://news.metal.com",
+      "source_icon": "https://i.newsdata.io/metal_news.jpg",
+      "sentiment": "neutral",
       "sentiment_stats": {
-        "negative": 92.85,
-        "neutral": 6.44,
-        "positive": 0.71
+        "negative": 1.06,
+        "neutral": 96.69,
+        "positive": 2.25
       },
       "ai_tag": [
-        "financial markets",
-        "energy"
+        "metal & mining",
+        "economy"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -102,45 +53,48 @@
       "duplicate": false
     },
     {
-      "article_id": "9da034f9b5f4bb50961e2d9e55bbd813",
-      "link": "https://www.cnbctv18.com/market/commodities/crude-oil-prices-brent-wti-us-iran-war-west-asia-russia-strait-of-hormuz-supply-usd115-saudi-houthi-attacks-20019831.htm",
-      "title": "Brent remains near $115; Oil extends slide as diplomacy eases fears of wider US-Iran escalation",
-      "description": "Oil prices fell for a second session on Tuesday as diplomacy raised hopes that the US-Iran war will not widen, with Brent crude trading at $114.99 a barrel.",
+      "article_id": "078f66d0db371d585a8231ac65ce2e3f",
+      "link": "https://news.metal.com/newscontent/104180777/smm-nickel-midday-review-nickel-prices-consolidate-on-a-subdued-note-on-oct-27-with-strong-wait-and-see-sentiment-ahead-of-the-us-fed-decision/",
+      "title": "[SMM Nickel Midday Review] Nickel prices consolidate on a subdued note on Oct 27, with strong wait-and-see sentiment ahead of the US Fed decision",
+      "description": "Nickel prices consolidate in a subdued range on October 27, with strong wait-and-see sentiment ahead of the US Fed's rate decision. SMM #1 refined nickel averaged 119,850 yuan/mt, down 850 yuan/mt.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "latest"
-      ],
-      "creator": [
-        "gautham.krishna"
-      ],
+      "keywords": null,
+      "creator": null,
       "language": "english",
       "country": [
-        "india"
+        "brazil",
+        "japan",
+        "united states of america",
+        "india",
+        "south korea",
+        "germany",
+        "united kingdom",
+        "australia",
+        "china"
       ],
       "category": [
-        "top",
-        "politics",
+        "breaking",
         "business"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-27 01:06:16",
+      "pubDate": "2026-10-27 04:12:43",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 01:34:58",
-      "image_url": "https://images.cnbctv18.com/uploads/2026/10/image-2026-10-599d2ce979f58e83b97d2f57d86676d8.jpg",
+      "fetched_at": "2026-10-27 04:12:43",
+      "image_url": "https://static.metal.com/common.metal.com/images/header-en/smm-logo.png",
       "video_url": null,
-      "source_id": "cnbctv18",
-      "source_name": "Cnbctv18",
-      "source_priority": 17950,
-      "source_url": "https://www.cnbctv18.com",
-      "source_icon": "https://i.newsdata.io/cnbctv18.jpg",
+      "source_id": "metal_news",
+      "source_name": "Shanghai Metals Market",
+      "source_priority": 165025,
+      "source_url": "https://news.metal.com",
+      "source_icon": "https://i.newsdata.io/metal_news.jpg",
       "sentiment": "neutral",
       "sentiment_stats": {
-        "negative": 4.23,
-        "neutral": 89.32,
-        "positive": 6.45
+        "negative": 2.6,
+        "neutral": 96.58,
+        "positive": 0.82
       },
       "ai_tag": [
-        "conflicts & war",
+        "metal & mining",
         "financial markets"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -149,317 +103,76 @@
       "duplicate": false
     },
     {
-      "article_id": "aff15cfac7688bc226672a2f3d8eb225",
-      "link": "https://www.malaymail.com/news/world/2026/10/27/saudi-arabia-turkey-and-pakistan-hold-talks-with-iran-to-avert-renewed-regional-war/240724",
-      "title": "Saudi Arabia, Turkey and Pakistan hold talks with Iran to avert renewed regional war",
-      "description": "TEHRAN, Oct 27 \u2014 Senior officials from Saudi Arabia, Turkey and Pakistan held talks with Iran on Monday in an atte...",
+      "article_id": "8ad5f3d8496d1346f7e2a9b6ea3a73b4",
+      "link": "https://www.france24.com/en/middle-east/20261027-israel-election-2026-netanyahu-october-7",
+      "title": "Israel votes in first election since October 7 attack as Netanyahu faces crucial test",
+      "description": "Israelis head to the polls on Tuesday for the first time since Hamas's October 7, 2023 attack, in a closely contested election seen as a referendum on Prime Minister Benjamin Netanyahu. The vote follows three years of regional wars, with Netanyahu running neck and neck with centrist rival Gadi Eisenkot.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
+        "middle east"
+      ],
+      "creator": [
+        "france 24"
+      ],
+      "language": "english",
+      "country": [
+        "kyrgyzstan",
+        "israel",
         "pakistan",
-        "war",
-        "and",
-        "saudi",
-        "to",
+        "lebanon",
+        "united arab emirates",
+        "qatar",
+        "azerbaijan",
         "turkey",
-        "renewed",
-        "with",
-        "talks",
-        "regional",
-        "hold",
-        "avert",
+        "syria",
+        "iraq",
+        "kuwait",
         "iran",
-        "arabia"
-      ],
-      "creator": [
-        "malay mail"
-      ],
-      "language": "english",
-      "country": [
-        "singapore",
-        "malaysia"
-      ],
-      "category": [
-        "top",
-        "politics"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-27 01:01:30",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 01:04:09",
-      "image_url": "https://www.malaymail.com/malaymail/uploads/images/2026/10/27/370645.jpg",
-      "video_url": null,
-      "source_id": "malaymail",
-      "source_name": "Malay Mail",
-      "source_priority": 12892,
-      "source_url": "https://www.malaymail.com",
-      "source_icon": "https://i.newsdata.io/malaymail.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 1.23,
-        "neutral": 91.22,
-        "positive": 7.55
-      },
-      "ai_tag": [
-        "conflicts & war"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "818104e65a5ec7f1f36ec7dc2e4a0abe",
-      "link": "https://www.thevibes.com/articles/business/128826/oil-prices-slide-ringgit-weakens-as-middle-east-diplomacy-offsets-supply-risks",
-      "title": "Oil prices slide, ringgit weakens as Middle East diplomacy offsets supply risks",
-      "description": "FALLING global oil prices and a weaker ringgit presented mixed economic signals for Malaysia on Tuesday, as renewed diplomatic efforts to ease US-Iran tensions reduced some immediate concerns over oil supplies but left geopolitical risks unresolved. ...",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "dollar index",
-        "wti",
-        "middle east",
-        "oil prices",
-        "federal reserve",
-        "ringgit",
-        "malaysia economy",
-        "brent crude",
-        "energy markets",
-        "us-iran tensions",
-        "crude oil",
-        "usdmyr",
-        "inflation",
-        "us dollar"
-      ],
-      "creator": [
-        "the vibes"
-      ],
-      "language": "english",
-      "country": [
-        "malaysia"
-      ],
-      "category": [
-        "lifestyle"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-27 01:01:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 01:10:48",
-      "image_url": "https://media.thevibes.com/images/uploads/covers/_large/Repsol_Oil__Gas_Malaysia_pic.jpg",
-      "video_url": null,
-      "source_id": "thevibes",
-      "source_name": "The Vibes",
-      "source_priority": 128849,
-      "source_url": "https://www.thevibes.com",
-      "source_icon": "https://i.newsdata.io/thevibes.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 3.26,
-        "neutral": 95.65,
-        "positive": 1.09
-      },
-      "ai_tag": [
-        "economy"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "8c166398b93cbf00b6fe7b7dc9854509",
-      "link": "https://www.pakistantimes.com/iran-reports-positive-talks-with-pakistan-saudi-arabia-and-turkiye-in-tehran-15839/",
-      "title": "Iran reports positive talks with Pakistan, Saudi Arabia and Turkiye in Tehran",
-      "description": "Iran has described talks with Pakistan, Saudi Arabia and Turkiye in Tehran as positive, saying the four countries agreed that regional states should take responsibility for their own security and prevent foreign intervention. The consultations on Monday brought senior Iranian officials together with representatives of the three countries that signed the Makkah Joint Defence Agreement [\u2026]",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "editor's pick",
-        "world news",
-        "iran"
-      ],
-      "creator": [
-        "hira shah"
-      ],
-      "language": "english",
-      "country": [
-        "pakistan"
+        "ethiopia",
+        "jordan",
+        "algeria",
+        "saudi arabia",
+        "turkmenistan",
+        "morocco",
+        "cyprus",
+        "armenia",
+        "kazakhstan",
+        "djibouti",
+        "india",
+        "afghanistan",
+        "sudan",
+        "tajikistan",
+        "mauritania",
+        "somalia",
+        "tunisia",
+        "oman",
+        "uzbekistan",
+        "egypt",
+        "libya",
+        "bahrain",
+        "georgia",
+        "yemen"
       ],
       "category": [
         "top",
         "politics"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-27 01:00:16",
+      "pubDate": "2026-10-27 04:12:41",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 01:18:19",
-      "image_url": "https://media.pakistantimes.com/2026/10/iran.webp",
+      "fetched_at": "2026-10-27 04:32:25",
+      "image_url": "https://s.france24.com/media/display/38436e56-cf0c-11f1-af1b-bba4eee3dc72/w:1024/p:16x9/2026-10-22T214048Z-992217913-RC2L8OAE7RTT-RTRMADP-3-ISRAEL-ELECTION-NETANYAHU.jpg",
       "video_url": null,
-      "source_id": "pakistantimes",
-      "source_name": "Pakistan Times",
-      "source_priority": 856580,
-      "source_url": "https://www.pakistantimes.com",
-      "source_icon": "https://i.newsdata.io/pakistantimes.png",
-      "sentiment": "positive",
-      "sentiment_stats": {
-        "negative": 0.74,
-        "neutral": 0.96,
-        "positive": 98.3
-      },
-      "ai_tag": [
-        "government",
-        "conflicts & war"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "aef395afab74dba828deae663dbe44c3",
-      "link": "https://www.crescent-news.com/opinion/opinion_columnists/arthur-cyr---defensive-offensive-missiles-now-vital-in-war/article_33f021c8-78dc-418d-bdd3-9e8eb29eab28.html",
-      "title": "Arthur Cyr - Defensive, offensive missiles now vital in war",
-      "description": "Missiles have established a central role in warfare, a trend which began in World War II and has expanded since, though not steadily. Iran and Ukraine use them in part to help even the odds against more powerful opponents, Russia\u2026",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "president of south korea",
-        "2015)",
-        "friedrich merz",
-        "interest rate",
-        "foreign policy",
-        "islamism",
-        "thomas edison",
-        "human spaceflight programs",
-        "conflicts",
-        "economic sanctions",
-        "theaters and campaigns of world war ii",
-        "nicol\u00e1s maduro",
-        "lindsey graham",
-        "astronautics",
-        "politics of east asia",
-        "spaceflight",
-        "soviet union",
-        "space program of the united states",
-        "united states army",
-        "pyongyang"
-      ],
-      "creator": null,
-      "language": "english",
-      "country": [
-        "united states of america"
-      ],
-      "category": [
-        "top",
-        "politics"
-      ],
-      "datatype": "opinion",
-      "pubDate": "2026-10-27 01:00:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 06:00:06",
-      "image_url": "https://bloximages.newyork1.vip.townnews.com/crescent-news.com/content/tncms/assets/v3/editorial/5/dd/5ddf823a-65e7-5188-907e-5a8955e46353/5a7a085327e11.image.jpg",
-      "video_url": null,
-      "source_id": "crescentnews",
-      "source_name": "Crescent-news",
-      "source_priority": 529263,
-      "source_url": "https://www.crescent-news.com",
-      "source_icon": "https://i.newsdata.io/crescentnews.jpg",
+      "source_id": "france24",
+      "source_name": "France 24",
+      "source_priority": 2706,
+      "source_url": "https://www.france24.com/en",
+      "source_icon": "https://i.newsdata.io/france24.png",
       "sentiment": "neutral",
       "sentiment_stats": {
-        "negative": 3.09,
-        "neutral": 82.18,
-        "positive": 14.73
-      },
-      "ai_tag": [
-        "conflicts & war",
-        "national security"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "e60a726661979fed0709c4b6e3544ce3",
-      "link": "https://www.citynewsservice.cn/articles/china-biz-buzz/daily-buzz/daily-buzz-27-october-2026-amyyoe4m",
-      "title": "Daily Buzz: 27 October 2026",
-      "description": "A quick look at the market, business, and economic news making headlines in China.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "gree",
-        "bank of china",
-        "guangzhou",
-        "visa",
-        "amazon",
-        "zte",
-        "apple"
-      ],
-      "creator": [
-        "city news service"
-      ],
-      "language": "english",
-      "country": [
-        "united states of america"
-      ],
-      "category": [
-        "top",
-        "business"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-27 01:00:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 02:27:19",
-      "image_url": "https://obj.shine.cn/files/2026/10/27/0bff5720-c208-44ca-9af1-bdffd74589e7_0.jpg",
-      "video_url": null,
-      "source_id": "citynewsservice_cn",
-      "source_name": "City News Service",
-      "source_priority": 99999999,
-      "source_url": "https://www.citynewsservice.cn/articles/cns",
-      "source_icon": "https://i.newsdata.io/citynewsservice_cn.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 0.96,
-        "neutral": 97.46,
-        "positive": 1.58
-      },
-      "ai_tag": [
-        "economy"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "cc2f1e4a40119b951d097b49d55f093c",
-      "link": "https://www.geo.tv/latest/688458-netanyahu-faces-fight-for-political-survival-as-israelis-vote",
-      "title": "Netanyahu faces fight for political survival as Israelis vote",
-      "description": "A drone view of an election campaign display for Israeli Prime Minister Benjamin Netanyahu's Likud party, depicting Netanyahu and US President Donald Trump with the words in Hebrew \"we have one opportunity to win!\", the day before Israel's national election, in Tel Aviv, Israel, October 26,...",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": null,
-      "creator": [
-        "reuters"
-      ],
-      "language": "english",
-      "country": [
-        "pakistan"
-      ],
-      "category": [
-        "top",
-        "politics"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-27 00:59:06",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 02:10:01",
-      "image_url": "https://www.geo.tv/assets/uploads/updates/2026-10-27/688458_060358_updates.jpg",
-      "video_url": null,
-      "source_id": "geo",
-      "source_name": "Geo Tv",
-      "source_priority": 114092,
-      "source_url": "https://www.geo.tv",
-      "source_icon": "https://i.newsdata.io/geo.png",
-      "sentiment": "negative",
-      "sentiment_stats": {
-        "negative": 83.39,
-        "neutral": 16.1,
-        "positive": 0.51
+        "negative": 1.53,
+        "neutral": 91.92,
+        "positive": 6.55
       },
       "ai_tag": [
         "elections",
@@ -471,16 +184,279 @@
       "duplicate": false
     },
     {
-      "article_id": "fa87c38a27e63deb4299a00c232a5723",
-      "link": "https://www.theatlantic.com/podcasts/2026/10/ra-midterm-scramble/689146/",
-      "title": "How the Campaign War Chests Are Being Spent",
-      "description": "The Republican spending strategy is about turnout, not persuasion.",
+      "article_id": "05255291e835bab9d3079f9a19faa9c7",
+      "link": "https://cbnc.com/israel-heads-to-the-polls-in-pivotal-election-trump-backs-netanyahu-polls-show-deadlock/",
+      "title": "Israel Heads to the Polls in Pivotal Election \u2014 Trump Backs Netanyahu, Polls Show Deadlock",
+      "description": "Israelis head to the polls Tuesday in a pivotal election after nearly three years of war, with Prime Minister Benjamin Netanyahu seeking another term, President Donald Trump making an extraordinary intervention on his behalf, and nearly every major poll pointing to a political deadlock. Israel\u2019s first national election since Hamas\u2019s October 7, 2023, massacre comes [\u2026] The post Israel Heads to the Polls in Pivotal Election \u2014 Trump Backs Netanyahu, Polls Show Deadlock appeared first on CBNC.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "podcasts"
+        "breaking news"
       ],
       "creator": [
-        "adam harris"
+        "breitbart"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-27 04:12:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-27 08:54:38",
+      "image_url": "https://cbnc.com/wp-content/uploads/2026/10/10-27-2026-Israeli-voters-queue-vote-Ministry-of-The-Interior-getty-640x335.jpg",
+      "video_url": null,
+      "source_id": "cbnc",
+      "source_name": "Cbnc",
+      "source_priority": 3307222,
+      "source_url": "https://cbnc.com",
+      "source_icon": "https://i.newsdata.io/cbnc.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 1.5,
+        "neutral": 92.49,
+        "positive": 6.01
+      },
+      "ai_tag": [
+        "elections",
+        "government"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "d0ee9d4b9948f706fa0f911480b98ae1",
+      "link": "https://www.jns.org/feature/how-israel-is-using-technology-to-guard-its-election",
+      "title": "How Israel is using technology to guard its election",
+      "description": "The Shin Bet, social media platforms and independent researchers are working to expose influence operations and protect election systems.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "feature"
+      ],
+      "creator": [
+        "james\u00a0spiro"
+      ],
+      "language": "english",
+      "country": [
+        "israel"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-27 04:11:31",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-27 04:19:38",
+      "image_url": "https://static.jns.org/dims4/default/17e7791/2147483647/strip/false/crop/2048x1366+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fk2-prod-jns-prod.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe9%2F2d%2Fe9925e734a06908a5dfe90dd67a8%2Fmeeting-with-the-president.jpeg",
+      "video_url": null,
+      "source_id": "jns_org",
+      "source_name": "Jns.org",
+      "source_priority": 893411,
+      "source_url": "https://www.jns.org",
+      "source_icon": "https://i.newsdata.io/jns_org.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 8.25,
+        "neutral": 83.37,
+        "positive": 8.38
+      },
+      "ai_tag": [
+        "elections",
+        "government"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "64f6fb922bd5b66263c4491d20c28c89",
+      "link": "https://7news.com.au/sunrise/motorists-warned-fuel-prices-likely-to-stay-high-beyond-2030-c-23076413",
+      "title": "Motorists warned fuel prices likely to stay high beyond 2030",
+      "description": "Petrol prices remain about 65 cents a litre higher than they were in February, before the Iran war started.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "sunrise",
+        "on the show",
+        "business",
+        "united states (usa)",
+        "energy",
+        "middle east",
+        "personal finance",
+        "news",
+        "lifestyle",
+        "money"
+      ],
+      "creator": [
+        "aimee edwards"
+      ],
+      "language": "english",
+      "country": [
+        "australia"
+      ],
+      "category": [
+        "top",
+        "politics",
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-27 04:10:55",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-27 04:34:26",
+      "image_url": "https://images.7news.com.au/publication/C-23076413/35ce28f11df58fe7e4e97d57e442681e9ef39ccb-16x9-x0y0w1280h720.png",
+      "video_url": null,
+      "source_id": "7news",
+      "source_name": "7news",
+      "source_priority": 23845,
+      "source_url": "https://7news.com.au",
+      "source_icon": "https://i.newsdata.io/7news.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 93.57,
+        "neutral": 5.77,
+        "positive": 0.66
+      },
+      "ai_tag": [
+        "economy",
+        "conflicts & war"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "cc90dc9cfd1bba2fda063d2ae80ab733",
+      "link": "https://www.travelandtourworld.com/news/article/j9goz9th3mlg/",
+      "title": "Saudi Arabia Faces Flight Chaos as Iran, Israel and 10 Others Feature in Updated US Travel Advisory Warnings",
+      "description": "Saudi Arabia Faces Flight Chaos as Iran, Israel and 10 Others Feature in Updated US Travel Advisory Warnings US travel advisory updates flag 13 Middle Eastern destinations as attacks on Saudi airports trigger severe flight disruption. The post Saudi Arabia Faces Flight Chaos as Iran, Israel and 10 Others Feature in Updated US Travel Advisory Warnings appeared first on Travel And Tour World.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "lebanon travel warning",
+        "latest travel news of middle east",
+        "latest travel news of iran",
+        "bahrain travel news",
+        "iraq travel advisory",
+        "america travel news",
+        "israel travel news",
+        "middle east travel news",
+        "iran travel warning",
+        "travel alerts october 2026"
+      ],
+      "creator": [
+        "ankita neogi khan"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "tourism"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-27 04:10:28",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-27 04:18:19",
+      "image_url": "https://www.travelandtourworld.com/wp-content/uploads/2026/10/ME-travel-warning.jpg",
+      "video_url": null,
+      "source_id": "travelandtourworld",
+      "source_name": "Travel And Tour World",
+      "source_priority": 702160,
+      "source_url": "https://www.travelandtourworld.com",
+      "source_icon": "https://i.newsdata.io/travelandtourworld.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 92.99,
+        "neutral": 6.43,
+        "positive": 0.58
+      },
+      "ai_tag": [
+        "accidents",
+        "conflicts & war"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "a295fe9b4437ffbecb50b13541c4e1c2",
+      "link": "https://www.devdiscourse.com/article/international/3997731-saudi-arabia-offered-houthis-1-bn-in-iran-brokered-ceasefire-deal-israeli-media",
+      "title": "Saudi Arabia offered Houthis $1 bn in Iran-brokered ceasefire deal: Israeli media",
+      "description": "Saudi Arabia has reportedly offered USD 1 billion to Yemens Houthi group as part of an Iran-brokered deal to secure a ceasefire and halt attacks on the kingdom Israeli media reported citing diplomatic sources in the Gulf According to the reports Saudi Defence Minister Prince Khalid bin Salman travelled to Tehran for talks aimed at securing a ceasefire with the Houthis with the proposed arrangement involving the transfer of USD 1 billion to the group through Iran",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "yemen",
+        "army",
+        "state",
+        "saudi arabia",
+        "tehran",
+        "israeli",
+        "ibrahim kalin",
+        "israel",
+        "turkish",
+        "mohsen rezaei",
+        "iranian",
+        "pakistani",
+        "pakistan",
+        "asim munir",
+        "supreme national security council"
+      ],
+      "creator": [
+        "ani"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-27 04:08:06",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-27 04:17:18",
+      "image_url": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/27_10_2026_09_38_03_4827679.jpg&amp;width=920",
+      "video_url": null,
+      "source_id": "devdiscourse",
+      "source_name": "Devdiscourse",
+      "source_priority": 566021,
+      "source_url": "https://www.devdiscourse.com",
+      "source_icon": "https://i.newsdata.io/devdiscourse.jpg",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 1.57,
+        "neutral": 90.05,
+        "positive": 8.38
+      },
+      "ai_tag": [
+        "conflicts & war",
+        "government"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "028a84c4c83b1cbe6eab33435210b62c",
+      "link": "https://www.local10.com/news/2026/10/27/voters-in-israel-will-decide-whether-to-oust-netanyahu-after-3-years-of-war/",
+      "title": "Voters in Israel will decide whether to oust Netanyahu after 3 years of war",
+      "description": "JERUSALEM (AP) \u2014 Israelis will vote in a pivotal election Tuesday as their country is embroiled in unresolved wars, still reeling from Hamas' 2023 attack and deeply divided over the character of the state and the right person to lead it.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "gadi eisenkot",
+        "benjamin netanyahu"
+      ],
+      "creator": [
+        "by cara anna and tia goldenberg"
       ],
       "language": "english",
       "country": [
@@ -488,29 +464,74 @@
       ],
       "category": [
         "top",
-        "technology",
-        "entertainment"
+        "politics"
       ],
-      "datatype": "podcast",
-      "pubDate": "2026-10-27 00:57:08",
+      "datatype": "news",
+      "pubDate": "2026-10-27 04:07:12",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 01:04:56",
-      "image_url": "https://cdn.theatlantic.com/thumbor/vsfBC4ru6Jd03glsgSRkmOQUBhY=/media/img/mt/2026/10/2026_10_26_Midterm_scramble_RA_Horizontal/original.jpg",
+      "fetched_at": "2026-10-27 04:14:32",
+      "image_url": "https://www.local10.com/resizer/v2/DIR52K4ZJEGB2O67LKVWILEGEU.jpg?auth=73057f3db78cb0a98e13169d3e25570a63a7675a361e962dba3116d5ced5c2b3&smart=true&width=1200&height=900",
       "video_url": null,
-      "source_id": "theatlantic",
-      "source_name": "The Atlantic",
-      "source_priority": 23494,
-      "source_url": "https://www.theatlantic.com/world",
-      "source_icon": "https://i.newsdata.io/theatlantic.png",
-      "sentiment": "negative",
+      "source_id": "local10",
+      "source_name": "Local 10 News",
+      "source_priority": 266443,
+      "source_url": "https://www.local10.com",
+      "source_icon": "https://i.newsdata.io/local10.png",
+      "sentiment": "neutral",
       "sentiment_stats": {
-        "negative": 88.57,
-        "neutral": 10.58,
-        "positive": 0.85
+        "negative": 5.82,
+        "neutral": 93.14,
+        "positive": 1.04
       },
       "ai_tag": [
-        "social media and internet",
-        "television"
+        "elections",
+        "government"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "33a75b0b60415a4064f1a4bb7c15c776",
+      "link": "https://gulfnews.com/uae/us-israel-iran-war-what-uae-residents-need-to-know-today-oct-27-2026-1.500724760",
+      "title": "US-Israel-Iran war: What UAE residents need to know today (Oct. 27, 2026)",
+      "description": "Strait of Hormuz at risk as global powers seek to prevent wider Middle East war",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "uae",
+        "mena"
+      ],
+      "creator": [
+        "jay hilotin"
+      ],
+      "language": "english",
+      "country": [
+        "united arab emirates"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-27 04:06:32",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-27 04:31:25",
+      "image_url": "https://media.assettype.com/gulfnews/2026-10-27/1xhb9l4j/EA-18G-Growler.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "video_url": null,
+      "source_id": "gulfnews",
+      "source_name": "Gulf News",
+      "source_priority": 7546,
+      "source_url": "https://gulfnews.com",
+      "source_icon": "https://i.newsdata.io/gulfnews.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 34.39,
+        "neutral": 64.74,
+        "positive": 0.87
+      },
+      "ai_tag": [
+        "conflicts & war"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -518,5 +539,5 @@
       "duplicate": false
     }
   ],
-  "nextPage": "1793062628050475299"
+  "nextPage": "1793073992852402656"
 }

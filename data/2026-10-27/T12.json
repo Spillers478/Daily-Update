@@ -1,7 +1,72 @@
 {
   "status": "ok",
-  "totalResults": 17,
+  "totalResults": 22,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+      "description": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malwa\u2026",
+      "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGj3R5UeJnb_pAG2XH5cEGUzKbzeRHLNAES48EgHC8ssOnuDbDOqJA9ydPHJqmxYONu2lCeu42YOv_e_XA2RtX5jVGsMkQY0QAGrzoqmY4qU6NnWrPTfX0V-U68B9Z80KHLJvZDtUeSm4dvkp06oJ9JmgJvr7CDYZ-48fwAOENt31Lrcpr4M6O_4x6ovLZ/s1700-nu-rw-lo-l85-e365/support.jpg",
+      "publishedAt": "2026-10-26T15:52:40Z",
+      "content": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creatio\u2026 [+5037 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ryukoku.ac.jp"
+      },
+      "author": null,
+      "title": "(NLnetLabs, 10/21) https://nlnetlab ...",
+      "description": "(NLnetLabs, 10/21) https://nlnetlabs.nl/projects/nsd/security-advisories/ \u83f4\u9055\uff1c \u7949\u30e5\u30e3\u300d\u7bc6\u2462",
+      "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/10.html#20261027__nsd",
+      "urlToImage": null,
+      "publishedAt": "2026-10-26T15:00:00Z",
+      "content": "Last modified: Tue Oct 27 13:16:52 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019\u2026 [+20071 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ryukoku.ac.jp"
+      },
+      "author": null,
+      "title": "DNS \u62f7 (BIND, Unbound, Knot DNS, Knot Resolver, PowerDNS) (various, 2026.10.21)",
+      "description": "c\u51b4\u0441\u33cd\n\r\n BIND\r\n \n<ul> <li> Changelog: BIND 9.20.30 (ISC / readthedocs.io)\u30b5\u33cd\u24a2\uff44\u4fe1\u7f694 \u7bc1\u541f \r\n <ul> <li>\u941a\u8151\u9436IND 9.x\u337d\u7da3\u63a9'\u941a\u6802S\u6ce3\u30b1\u7f69\u941a\u7f6eE-2026-97313\u941a - RPZ\u2471\u7db5\u2503\u7d4e\u7feb\u7d72\u4e57\u9662\u82e5\u30af\u0441\u226a\u7da3\u6fc0\u30a8 - (JPRS, 2026.10.22) <li>\u941a\u8151\u9436IND 9.x\u337d\u7da3\u63a9'\u941a\u6802S\u6ce3\u30b1\u7f69\u941a\u7f6eE-2026-96888\u941a - \u543e\u6f5f\u300c\u4e03\u30a8 - (JPRS, 2026.10.22) <li>\u941a\u8151\u9436IND 9.x\u337d\u7da3\u63a9\u2026",
+      "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/10.html#20261027_dns",
+      "urlToImage": null,
+      "publishedAt": "2026-10-26T15:00:00Z",
+      "content": "Last modified: Tue Oct 27 13:16:52 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019\u2026 [+20071 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ryukoku.ac.jp"
+      },
+      "author": null,
+      "title": "Tailworm - we have zero-trust in our infrastructure (Erica Windisch / tailworm.com, 2026.10.25)",
+      "description": "a href=\"https://tailscale.com/\">Tailscale\n\u30e3\u2503\u7d4e\u2664\u81831\u9055\u277c\u24a4\u4f39\u277c\n\u792b\u7b67\u24a2\nDeepL AI \u8350\n\r\n\n\n\n\u7bb4\u7403\u838e\u6fc0\u0441\u04411\u9055\u3083\u30b1\u7b5d\u8387\u559d(\u7b5d\u32a6) \u7bc1\u337d\u217a\u7d2b\uff1c\u6fc0 1\u3083\u5e7b\u337d\u606d\u773c\u6fc0\u58be\u0441\u24a2\u7e56\u53f7\u2524\u226a\u30c3\u7949\u30b1\u543e\u7d0a\u969c\u305e\u3083\u30b1\u30b1\u3083\u7bc6\u2642\u76bf\u7d4e\u24a2\u30ad\u82e5\u7912\u8350\u4e11\u7b5df\u0441\u543e\u30a1\u6f5f\u337e\u7f54\u7bcf\u53f7\u2524\u30b5\u30ad\u0441\u300c\u30b5\u52ab\u0441\n\r\n\n\u277c\u8350\u32a4\u334e\u7b6e\u79ae\u7907lt;/b>Tailscale SSH\u9d3b\u24a2\u935c\u792b\u7abf\u3001\u6f5f\u7d0a\u792b\u7ac7\u7bcf\u941a1\u3083\u226a\u30a9\u9083\u627f\u7d4e\u30aa\u82e5\u82e5root\u7f54\u9038\u82e5\u30c3\u277c\u30b11\u941a\u277c\u7ae2\u8005ailnet-Lock\u9d3b\u941a\u2503\u7d4e\u7d19\u30ad\u6f5f\u7f69\uff45\u24a2\u30bd\u907a\u30aa\u82e5\u82e5\u792b\u7dbd\u969c\u969c\u300c\u6f5f\u30bd\u2503\u7d4e\u7feb\u941a\u24a2\u30ad\u82e5\u2026",
+      "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/10.html#20261027_tailworm",
+      "urlToImage": null,
+      "publishedAt": "2026-10-26T15:00:00Z",
+      "content": "Last modified: Tue Oct 27 20:03:01 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019\u2026 [+20535 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "\u26a1 Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+      "description": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security tea\u2026",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjztmxBbaYZEAd_HSv1heMQm8UuLym1h7XcN8NrgWjJmaoghOIR2O1rHwQzunUd9jlQn4R_8ft4Y0K9xLQOhs2xM8vVh1eHoEsZIFonHd7K6TA1cd0aIJ6jK-K2RNVBCwMfQwq7WWpuFtB8inWvubRjIEw_9fetsRFllw-fsAAnjCnpMCqFIL28ovMhJwbd/s1700-nu-rw-lo-l85-e365/recap2monday.jpg",
+      "publishedAt": "2026-10-26T14:06:13Z",
+      "content": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, so\u2026 [+28830 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -224,64 +289,9 @@
       "content": "Americans have long found comfort in the two oceans that separate us from Middle East wars, but the vulnerabilities Iranian cyber operations pose bring these conflicts much closer to home. Through cy\u2026 [+5556 chars]"
     },
     {
-      "title": "Police and fire services in UK issued urgent warning over 'significant' cyber attack threats",
-      "url": "https://www.independent.co.uk/news/uk/home-news/police-fire-service-cyber-b3073647.html",
-      "description": "Police and fire leaders say using outdated systems is their biggest risk factor in IT security, a new report has said",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "The Independent"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "Kyodo News Digest: Oct. 27, 2026",
-      "url": "https://english.kyodonews.net/articles/-/89491",
-      "description": "The following is the latest list of selected news summaries by Kyodo News.----------Cyberattack-hit GMO says hacker threatens to d Read full story here",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Kyodo News"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "Copenhagen University Breach Compromises Data on Half a Million People",
-      "url": "https://www.infosecurity-magazine.com/news/copenhagen-university-data-breach/",
-      "description": "Hackers have stolen personal information on over 520,000 people from the University of Copenhagen",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Infosecurity Magazine"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "Mobile Security Market Size, Share, Growth, Analysis, Report, 2034",
-      "url": "https://straitsresearch.com/report/mobile-security-market",
-      "description": "The mobile security market size is projected to grow from $119.82 billion in 2026 to $756.37 billion by 2034, at a CAGR of 25.9% during the forecast period 2026-2034.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Straitsresearch"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "Penetration Testing Market Size, Share, Growth, Analysis, 2034",
-      "url": "https://straitsresearch.com/report/penetration-testing-market",
-      "description": "The penetration testing market size is projected to grow from $2.77 billion in 2026 to $8.63 billion by 2034, at a CAGR of 15.28% during the forecast period 2026-2034.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Straitsresearch"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574",
-      "description": "Not a bombshell, but it rivals pricier models on some tasks at a tenth of Astra's API price",
+      "title": "IBM admits mainframes need to be modernized and will use AI to do the job",
+      "url": "https://www.theregister.com/systems/2026/10/27/ibm-admits-mainframes-need-to-be-modernized-and-will-use-ai-to-do-the-job/5305618",
+      "description": "Promises to build \u2018IBM Z Atlas\u2019 tool that will tidy up messy big iron and enable AIOps",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
@@ -290,46 +300,101 @@
       "_provider": "newsdata.io"
     },
     {
-      "title": "IT Security News Daily Summary 2026-10-26",
-      "url": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-10-26/",
-      "description": "200 posts published today 22:32Worm armed 42 GitHub repos by hiding a payload too big to fail 22:31CrowdStrike and Nvidia Expand AI Agent Security Partnership 22:03Former pentester used ARTEX AI to steal 8.2 million data records 22:03Hackers Weaponize Public PHP2Shell\u2026 Read more \u2192 The post IT Security News Daily Summary 2026-10-26 appeared first on IT Security News.",
+      "title": "Beyond Compliance to Uninterrupted Operations: Delia Shipping\u2019s Konstantinos Stais on Maritime Cyber Resilience, LEO Expansion, and AI Governance",
+      "url": "https://cyprusshippingnews.com/2026/10/27/beyond-compliance-to-uninterrupted-operations-delia-shippings-konstantinos-stais-on-maritime-cyber-resilience-leo-expansion-and-ai-governance/",
+      "description": "As the global maritime industry navigates an era of intense digital acceleration, the traditional boundaries separating shipboard operational technology (OT) [\u2026]",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "It Security News"
+        "name": "Cyprus Shipping News"
       },
       "_provider": "newsdata.io"
     },
     {
-      "title": "90 Days No Help: Fortress America\u2019s Goal To Make Bases Resilient Bastions In A Crisis",
-      "url": "https://www.twz.com/nuclear/90-days-no-help-fortress-americas-goal-to-make-bases-resilient-bastions-in-a-crisis",
-      "description": "Cyber threats against critical infrastructure are exploding, with worries enemies could neuter U.S. military units before they even leave their garrisons. The post 90 Days No Help: Fortress America\u2019s Goal To Make Bases Resilient Bastions In A Crisis appeared first on TWZ.",
+      "title": "Cybersecurity in universities: How campuses are easy prey for AI-powered attacks",
+      "url": "https://www.thehindu.com/education/cybersecurity-in-universities-how-campuses-are-easy-prey-for-ai-powered-attacks/article71627548.ece",
+      "description": "With education the most-attacked sector worldwide and the DPDP Act holding institutions liable for student data, campuses need audited vendor contracts, real policies and student red teams, not paper compliance",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "The War Zone"
+        "name": "The Hindu"
       },
       "_provider": "newsdata.io"
     },
     {
-      "title": "AMGEN APPOINTS DAVID W. GIBBS TO BOARD OF DIRECTORS",
-      "url": "https://www.prnewswire.com/news-releases/amgen-appoints-david-w-gibbs-to-board-of-directors-302919950.html",
-      "description": "THOUSAND OAKS, Calif., Oct. 26, 2026 /PRNewswire/ -- Amgen (NASDAQ: AMGN) today announced the appointment of David W. Gibbs to its Board of Directors, effective immediately. Gibbs will serve on the Board's Audit Committee and Compensation and Management Development Committee. Gibbs...",
+      "title": "PACNEWS ONE, 27 OCTOBER 2026",
+      "url": "https://islandsbusiness.com/pacnews/pacnews-one-27-october-2026/",
+      "description": "In this bulletin: 1. PACIFIC \u2014 U.S commits more than US$44 million to combat Pacific Transnational crime2. PNG \u2014 NCD Governor Parkop says Bougainville referendum result must be respected3. FIJI \u2014 This is a new Constitution, not an amendment \u2013 Unity Fiji4. FIJI \u2014 U.S, Fiji launch partnership to strengthen disease detection5. NZ \u2014 Luxon [\u2026] The post PACNEWS ONE, 27 OCTOBER 2026 appeared first on Islands Business.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "Pr Newswire"
+        "name": "Islands Business News"
       },
       "_provider": "newsdata.io"
     },
     {
-      "title": "S.C. launches cybersecurity pilot program for rural hospitals",
-      "url": "https://www.wrdw.com/2026/10/26/sc-launches-cybersecurity-pilot-program-rural-hospitals/",
-      "description": "Healthcare providers remain a prime target for hackers, from AnMed\u2019s cyberattack in South Carolina to last week\u2019s data breach at Quest Diagnostics.",
+      "title": "The Real Cost of Managed Cybersecurity: What Business Owners Should Know Before Signing a Contract",
+      "url": "https://moguldom.com/466451/the-real-cost-of-managed-cybersecurity-what-business-owners-should-know-before-signing-a-contract/",
+      "description": "Managed cybersecurity is an outsourced security service that combines continuous threat monitoring, risk management, incident detection, and technical protection to help businesses defend their systems without building an entire in-house security team. For business owners, however, the real question is not simply how much the service costs each month, but what level of protection that [\u2026] The post The Real Cost of Managed Cybersecurity: What Business Owners Should Know Before Signing a Contract appeared first on Moguldom.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Afk Insider"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Cyberattack-hit GMO says hacker threatens to disclose customer info at noon",
+      "url": "https://english.kyodonews.net/articles/-/89496",
+      "description": "Japanese internet service provider GMO Internet Group Inc. said late Monday that a hacker claiming to have launched an unauthorize Read full story here",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Kyodo News"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Douzone Bizon Suffers Second Cyberattack in Five Days, Government Launches Investigation \u2013 The Elec Inc",
+      "url": "https://cedarnews.net/newstasks/1100966/douzone-bizon-suffers-second-cyberattack-five-days/",
+      "description": "\u0646\u064f\u0634\u0631 \u0647\u0630\u0627 \u0627\u0644\u0645\u0642\u0627\u0644 \u0623\u0648\u0644\u0627\u064b \u0639\u0628\u0631 Cedarnews.net. \u0644\u0645\u062a\u0627\u0628\u0639\u0629 \u0627\u0644\u0645\u0632\u064a\u062f \u0645\u0646 \u0627\u0644\u0623\u062e\u0628\u0627\u0631 \u0648\u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u062d\u0635\u0631\u064a\u0629\u060c \u0632\u0648\u0631\u0648\u0646\u0627 \u0639\u0644\u0649 \u0645\u0648\u0642\u0639\u0646\u0627. Douzone Bizon Suffers: The South Korean government classified the incidents as serious cybersecurity breaches and launched a joint public-private. \u062a\u0645 \u0646\u0634\u0631 \u0647\u0630\u0627 \u0627\u0644\u062e\u0628\u0631 \u0639\u0628\u0631 \u0645\u0648\u0642\u0639 Cedarnews \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a. \u0644\u0644\u0627\u0637\u0644\u0627\u0639 \u0639\u0644\u0649 \u0645\u0632\u064a\u062f \u0645\u0646 \u0627\u0644\u0623\u062e\u0628\u0627\u0631 \u0627\u0644\u0639\u0627\u062c\u0644\u0629 \u0648\u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u062d\u0635\u0631\u064a\u0629\u060c \u0632\u0648\u0631\u0648\u0627 \u0645\u0648\u0642\u0639\u0646\u0627 \u0627\u0644\u0631\u0633\u0645\u064a.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Cedar News"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "AI will make cyber outages inevitable\" Australia's top cyber offial warns as business losses climb",
+      "url": "https://www.insurancebusinessmag.com/au/news/cyber/ai-will-make-cyber-outages-inevitable-australias-top-cyber-offial-warns-as-business-losses-climb-595023.aspx",
+      "description": "Incidents are surging and medium-sized firms lost 45% more per attack in 2025\u201326.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Insurance Business"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "S.C. to launch program to protect rural hospitals from cyberattacks",
+      "url": "https://www.wrdw.com/2026/10/27/sc-launch-program-protect-rural-hospitals-cyberattacks/",
+      "description": "Cyberattacks targeting health care providers are becoming more common, with recent incidents exposing patient data and disrupting critical services.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
         "name": "Https://www.wrdw.com"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Police and fire services in UK issued urgent warning over 'significant' cyber attack threats",
+      "url": "https://www.independent.co.uk/news/uk/home-news/police-fire-service-cyber-b3073647.html",
+      "description": "Police and fire leaders say using outdated systems is their biggest risk factor in IT security, a new report has said",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "The Independent"
       },
       "_provider": "newsdata.io"
     }

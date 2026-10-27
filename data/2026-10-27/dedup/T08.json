@@ -1,38 +1,41 @@
 {
   "groups": {
-    "https://www.gbnews.com/news/world/charlotte-may-lee-sri-lanka-prison-riots-negombo": "a",
-    "https://www.naturalnews.com/2026-10-26-russia-condemns-terrorist-attack-jordan-reaffirms-solidarity.html": "b",
-    "https://www.wionews.com/world/jordan-strikes-terrorist-organisations-in-syria-after-deadly-church-attack-as-damascus-shuts-main-border-crossing-1793058044662": "c",
-    "https://bdnews24.com/world/middle-east/ch1o4qr0br": "c",
-    "https://gulfnews.com/world/mena/jordan-strikes-militant-groups-in-syria-after-church-attack-1.500724002": "c",
-    "https://www.news18.com/world/jordan-strikes-militant-targets-in-syria-over-church-attack-8-killed-damascus-shuts-key-crossing-ws-l-10398831.html": "c",
-    "https://albeu.com/english/jordan-strikes-terrorist-bases-in-southern-syria-after-deadly-attack-on-orthodox-church/1075172/": "c",
-    "https://www.devdiscourse.com/article/international/3997640-jordan-says-its-air-force-struck-militant-hideouts-in-syria-after-church-attack": "c",
-    "https://catholicreview.org/jordan-reels-after-terrorist-attack-on-church-king-vows-harshest-retaliation/": "d",
-    "https://menafn.com/1111869508/Afro-Asian-Latin-American-Media-Union-Condemns-Terrorist-Attack-On-Karak-Church": "e",
-    "https://en.ammonnews.net/article/96551": "d",
-    "https://www.jordannews.jo/Section-109/News/Public-Security-Director-Names-Perpetrators-of-Karak-Terrorist-Attack-57972": "d"
+    "https://www.dw.com/en/why-ukraine-may-be-involved-in-malis-conflict/a-79743423": "a",
+    "https://rt-english.com/africa/647734-third-russia-africa-summit-explained/": "b",
+    "https://www.washingtonsun.com/legal/illinois-man-charged-white-powder-members-of-congress": "c",
+    "https://www.wionews.com/world/illinois-man-charged-with-sending-threatening-notes-and-mailing-white-powder-letters-to-congress-members-1793049753959": "c",
+    "https://www.naturalnews.com/2026-10-26-russia-condemns-terrorist-attack-jordan-reaffirms-solidarity.html": "e",
+    "https://kuwaittimes.com/article/52457/world/jordan-strikes-militant-groups-in-syria-after-deadly-church-attack/": "d",
+    "https://www.wionews.com/world/jordan-strikes-terrorist-organisations-in-syria-after-deadly-church-attack-as-damascus-shuts-main-border-crossing-1793058044662": "d",
+    "https://bdnews24.com/world/middle-east/ch1o4qr0br": "d",
+    "https://gulfnews.com/world/mena/jordan-strikes-militant-groups-in-syria-after-church-attack-1.500724002": "d",
+    "https://www.news18.com/world/jordan-strikes-militant-targets-in-syria-over-church-attack-8-killed-damascus-shuts-key-crossing-ws-l-10398831.html": "d",
+    "https://albeu.com/english/jordan-strikes-terrorist-bases-in-southern-syria-after-deadly-attack-on-orthodox-church/1075172/": "d",
+    "https://www.devdiscourse.com/article/international/3997640-jordan-says-its-air-force-struck-militant-hideouts-in-syria-after-church-attack": "d",
+    "https://catholicreview.org/jordan-reels-after-terrorist-attack-on-church-king-vows-harshest-retaliation/": "f",
+    "https://menafn.com/1111869508/Afro-Asian-Latin-American-Media-Union-Condemns-Terrorist-Attack-On-Karak-Church": "g",
+    "https://en.ammonnews.net/article/96551": "h"
   },
   "contradictions": [
     {
-      "group": "c",
+      "group": "d",
       "claim_type": "figures",
-      "summary": "Sources give different death tolls for the church attack that prompted the Jordanian strikes: nine killed in some reports, eight in another.",
+      "summary": "Sources give different death tolls for the church attack that prompted the Jordanian strikes: eight versus nine killed.",
       "sources": [
-        {
-          "source": "Wion",
-          "url": "https://www.wionews.com/world/jordan-strikes-terrorist-organisations-in-syria-after-deadly-church-attack-as-damascus-shuts-main-border-crossing-1793058044662",
-          "says": "The church attack killed nine people."
-        },
         {
           "source": "News 18",
           "url": "https://www.news18.com/world/jordan-strikes-militant-targets-in-syria-over-church-attack-8-killed-damascus-shuts-key-crossing-ws-l-10398831.html",
           "says": "The church attack killed 8 people."
         },
         {
+          "source": "Wion",
+          "url": "https://www.wionews.com/world/jordan-strikes-terrorist-organisations-in-syria-after-deadly-church-attack-as-damascus-shuts-main-border-crossing-1793058044662",
+          "says": "The church attack killed nine people."
+        },
+        {
           "source": "Albeu",
           "url": "https://albeu.com/english/jordan-strikes-terrorist-bases-in-southern-syria-after-deadly-attack-on-orthodox-church/1075172/",
-          "says": "The church attack killed nine people and wounded 34 others."
+          "says": "The attack killed nine people and wounded 34 others."
         }
       ]
     }

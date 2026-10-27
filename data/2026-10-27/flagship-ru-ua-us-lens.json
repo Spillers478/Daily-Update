@@ -1,5 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 0,
-  "articles": []
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Matthew Loh",
+      "title": "Elon Musk's Dust-up With Ukraine on Starlink Isn't Over yet - Business Insider",
+      "description": "Ukrainian drone advisors have disputed Musk's accusation that Kyiv's forces used Starlink's civilian-only service to conduct drone strikes.",
+      "url": "https://www.businessinsider.com/elon-musk-dust-up-starlink-ukraine-civilian-starshield-violate-terms-2026-10#article",
+      "urlToImage": "https://i.insider.com/6adefa48ab741a2ebdf112dc?width=1200&format=jpeg",
+      "publishedAt": "2026-10-26T08:28:00Z",
+      "content": "Ukraine said its access to Starshield was restored this weekend, but Elon Musk isn't finished with Kyiv yet.\r\nIn an X post on Sunday, Musk accused Ukrainian forces of breaching Starlink's terms of se\u2026 [+4823 chars]"
+    }
+  ]
 }

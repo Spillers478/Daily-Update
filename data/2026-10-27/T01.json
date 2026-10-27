@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Playstation.com"
+      },
+      "author": "Kevin Chiasson",
+      "title": "New Marvel Cosmic Invasion: The Siege of Castle Doom gameplay details",
+      "description": "What was Doctor Doom up to during the Annihilation Wave? How would the master of Latveria react to an invasion of this magnitude to his doorstep? This was the first question we\u2019ve asked ourselves while tackling the design of our second DLC for Marvel Cosmic I\u2026",
+      "url": "https://blog.playstation.com/2026/10/26/new-marvel-cosmic-invasion-the-siege-of-castle-doom-gameplay-details/",
+      "urlToImage": "https://blog.playstation.com/tachyon/2046/10/37cdc359029369148c8c4b23876f980ae2de984a.jpg",
+      "publishedAt": "2026-10-26T16:00:09Z",
+      "content": "What was Doctor Doom up to during the Annihilation Wave? How would the master of Latveria react to an invasion of this magnitude to his doorstep? This was the first question weve asked ourselves whil\u2026 [+4269 chars]"
+    },
     {
       "source": {
         "id": "breitbart-news",
@@ -92,6 +105,17 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/2t7747/article71622567.ece/alternates/LANDSCAPE_1200/2026-10-15T100127Z_518335984_RC243OATADPP_RTRMADP_3_IRAN-CRISIS-INFRASTRUCTURE-ATTACKS.JPG",
       "publishedAt": "2026-10-25T04:48:30Z",
       "content": "The US has updated its travel advisory for the United Arab Emirates, highlighting an increased threat of potential armed attacks by Iranian-supported Houthi forces in the region. While the formal adv\u2026 [+3903 chars]"
+    },
+    {
+      "title": "John Albaugh Reports 13 Airstrike Alerts in One Day in Kyiv, Ukraine",
+      "url": "https://cedarnews.net/newstasks/1101050/john-albaugh-reports-13-airstrike-alerts-in-one-day-in-kyiv-ukraine/",
+      "description": "\u0646\u064f\u0634\u0631 \u0647\u0630\u0627 \u0627\u0644\u0645\u0642\u0627\u0644 \u0623\u0648\u0644\u0627\u064b \u0639\u0628\u0631 Cedarnews.net. \u0644\u0645\u062a\u0627\u0628\u0639\u0629 \u0627\u0644\u0645\u0632\u064a\u062f \u0645\u0646 \u0627\u0644\u0623\u062e\u0628\u0627\u0631 \u0648\u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u062d\u0635\u0631\u064a\u0629\u060c \u0632\u0648\u0631\u0648\u0646\u0627 \u0639\u0644\u0649 \u0645\u0648\u0642\u0639\u0646\u0627. John Albaugh, a missionary from Colorado Springs, Colorado, told KKTV he received at least 13 airstrike alerts in Kyiv within a single day. Albaugh, who provides aid through Together for Eastern Ukraine, said attacks had intensified over the past month and previously safer roads were increasingly threatened by Russian drones. He said he purchased a \u2026 \u062a\u0645 \u0646\u0634\u0631 \u0647\u0630\u0627 \u0627\u0644\u062e\u0628\u0631 \u0639\u0628\u0631 \u0645\u0648\u0642\u0639 Cedarnews \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a. \u0644\u0644\u0627\u0637\u0644\u0627\u0639 \u0639\u0644\u0649 \u0645\u0632\u064a\u062f \u0645\u0646 \u0627\u0644\u0623\u062e\u0628\u0627\u0631 \u0627\u0644\u0639\u0627\u062c\u0644\u0629 \u0648\u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u062d\u0635\u0631\u064a\u0629\u060c \u0632\u0648\u0631\u0648\u0627 \u0645\u0648\u0642\u0639\u0646\u0627 \u0627\u0644\u0631\u0633\u0645\u064a.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Cedar News"
+      },
+      "_provider": "newsdata.io"
     },
     {
       "title": "UNSC Marks 30 Years of Children and Armed Conflict Mandate",
@@ -189,17 +213,6 @@
       "publishedAt": "",
       "source": {
         "name": "\u0422\u0430\u0441\u0441"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "Helen McEntee witnesses \u2018devastating\u2019 impact of Israeli bombardment in southern Lebanon",
-      "url": "https://www.irishexaminer.com/news/arid-41929128.html",
-      "description": "\u201cIt looks like everywhere has been hit by an earthquake, although it\u2019s not an earthquake,\u201d she said",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Irish Examiner"
       },
       "_provider": "newsdata.io"
     }

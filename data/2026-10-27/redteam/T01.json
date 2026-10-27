@@ -2,6 +2,21 @@
   "articles": [
     {
       "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "description": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e457/live/393c15f0-d11a-11f1-9a61-7b8d75492b97.jpg",
+      "publishedAt": "2026-10-26T13:18:57Z",
+      "content": "Algeria is to send troops to Niger in its first foreign deployment since sending forces to Egypt during the Arab-Israeli war in 1973.\r\nThe deployment follows a visit to Algiers by Niger's defence min\u2026 [+2082 chars]",
+      "cocom": "USAFRICOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
@@ -31,17 +46,34 @@
       "_original_topic_id": "T07"
     },
     {
-      "title": "Western borders of Russia-Belarus Union State under growing threat \u2014 ambassador",
-      "url": "https://tass.com/politics/2208259",
-      "description": "Boris Gryzlov pointed to NATO\u2019s eastward expansion, the military buildup near the Union State borders, and the violation of agreements on arms control",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
       "source": {
-        "name": "\u0422\u0430\u0441\u0441"
+        "id": null,
+        "name": "Antiwar.com"
       },
-      "_provider": "newsdata.io",
+      "author": "David Stockman",
+      "title": "Russia Is No Threat to America",
+      "description": "When you boil down the essence of the alleged Russian military threat to America\u2019s homeland security it amounts to just plain barking idiocy; it\u2019s so out to lunch as to be offensive to even a modicum of human intelligence. As we have seen in Parts 1 & 2, any \u2026",
+      "url": "https://original.antiwar.com/david_stockman/2026/10/25/russia-is-no-threat-to-america/",
+      "urlToImage": "https://dyn3qbr4ue2vr.cloudfront.net/2026/10/russia-us-ds.jpg",
+      "publishedAt": "2026-10-26T00:00:38Z",
+      "content": "When you boil down the essence of the alleged Russian military threat to Americas homeland security it amounts to just plain barking idiocy; its so out to lunch as to be offensive to even a modicum o\u2026 [+22526 chars]",
       "cocom": "USEUCOM",
-      "_original_topic_id": "T14"
+      "_original_topic_id": "T10"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "Four ways US foreign policy could change if Democrats win in November",
+      "description": "Nonpartisan analysts predict that Democrats could gain control of the US House and possibly the Senate. If successful, they could restrict President Trump's foreign policy actions regarding Iran and Ukraine and other nations. Democrats may seek to limit signi\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/four-ways-us-foreign-policy-could-change-if-democrats-win-in-november/articleshow/135188691.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-135188690,width-1200,height-900,imgsize-143612,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-25T10:17:52Z",
+      "content": "Nonpartisan analysts say Democrats stand a good chance of winning the US House of Representatives and possibly the Senate in the November 3 midterm elections, which would give them a slice of power i\u2026 [+3226 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T10"
     }
   ]
 }

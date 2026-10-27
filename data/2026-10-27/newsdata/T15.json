@@ -1,7 +1,65 @@
 {
   "status": "success",
-  "totalResults": 43,
+  "totalResults": 41,
   "results": [
+    {
+      "article_id": "6fb54be1ec00753a2ae9f4be9cdefa3a",
+      "link": "https://kutv.com/newsletter-daily/two-seriously-injured-in-rollover-crash-on-i-15-in-washington-county",
+      "title": "Two seriously injured in rollover crash on I-15 in Washington County",
+      "description": "Two people were seriously injured after a vehicle left the road and rolled on northbound Interstate 15 in Washington County. First responders were called to the",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "washington county",
+        "vehicle crash",
+        "hurricane valley fire & rescue",
+        "root",
+        "st. george regional hospital",
+        "newsletters",
+        "news",
+        "i-15",
+        "intermountain life flight",
+        "utah highway patrol",
+        "newsletter daily",
+        "rollover",
+        "local"
+      ],
+      "creator": [
+        "heidi hatch",
+        "kutv"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-27 02:30:22",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-27 03:38:51",
+      "image_url": "https://kutv.com/resources/media2/16x9/624/1320/23x0/90/269fe9ed-fd88-4bee-9d74-06f0ad036713-h6.jpg",
+      "video_url": null,
+      "source_id": "kutv",
+      "source_name": "Kutv",
+      "source_priority": 39041,
+      "source_url": "https://kutv.com",
+      "source_icon": "https://i.newsdata.io/kutv.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 89.12,
+        "neutral": 10.32,
+        "positive": 0.56
+      },
+      "ai_tag": [
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
     {
       "article_id": "1283d01de09a218e4436b313d91271c3",
       "link": "https://cedarnews.net/newstasks/1100920/hurricane-flood-victims-say-evacuation-alert-came/",
@@ -451,59 +509,7 @@
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
       "duplicate": false
-    },
-    {
-      "article_id": "66aa2d595cddf770997f4f6a14f82013",
-      "link": "https://www.glamour.com/gallery/heidi-klum-halloween-costumes-through-the-years",
-      "title": "25 Best Heidi Klum Halloween Costumes So Far",
-      "description": "A look back at all of Heidi Klum\u2019s extravagant Halloween costumes over the years, including an old lady, Jessica Rabbit, and this year's Medusa look.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "halloween costumes",
-        "shopping",
-        "halloween",
-        "entertainment",
-        "heidi klum",
-        "entertainment / celebrity gossip"
-      ],
-      "creator": [
-        "lynsey eidell",
-        "christopher rosa"
-      ],
-      "language": "english",
-      "country": [
-        "united states of america"
-      ],
-      "category": [
-        "entertainment",
-        "lifestyle"
-      ],
-      "datatype": "multimedia",
-      "pubDate": "2026-10-26 17:07:06",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 17:30:27",
-      "image_url": "https://media.glamour.com/photos/69062b0d519f9786299c9d42/master/pass/2244412855",
-      "video_url": null,
-      "source_id": "glamour",
-      "source_name": "Glamour",
-      "source_priority": 722,
-      "source_url": "https://www.glamour.com",
-      "source_icon": "https://i.newsdata.io/glamour.png",
-      "sentiment": "positive",
-      "sentiment_stats": {
-        "negative": 0.9,
-        "neutral": 13.63,
-        "positive": 85.47
-      },
-      "ai_tag": [
-        "fashion and lifestyle",
-        "entertainment"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
     }
   ],
-  "nextPage": "1793034426588171251"
+  "nextPage": "1793037445822428586"
 }
