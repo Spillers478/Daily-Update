@@ -1,0 +1,493 @@
+{
+  "status": "success",
+  "totalResults": 58,
+  "results": [
+    {
+      "article_id": "1e3623840c1ea1d7151eafe9724dcd00",
+      "link": "https://www.upi.com/Top_News/US/2026/10/26/man-charged-with-sending-letters-to-illinois-lawmakers/1291793060768/",
+      "title": "Man charged with mailing threatening letters to Illinois lawmakers",
+      "description": "An Illinois man has been charged with mailing four letters containing a white granular substance to members of Congress in the Chicago area.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "u.s. news",
+        "jan schakowsky",
+        "mike quigley"
+      ],
+      "creator": [
+        "upi"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "crime"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-27 00:44:18",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-27 01:02:05",
+      "image_url": "https://cdnph.upi.com/ph/st/th/1291793060768/2026/upi/ea9093e7749831a65fa5a5983c18665c/v1.5/Man-charged-with-mailing-threatening-letters-to-Illinois-lawmakers.jpg",
+      "video_url": null,
+      "source_id": "upi",
+      "source_name": "Upi",
+      "source_priority": 4470,
+      "source_url": "https://www.upi.com",
+      "source_icon": "https://i.newsdata.io/upi.jpg",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 94.68,
+        "neutral": 4.75,
+        "positive": 0.57
+      },
+      "ai_tag": [
+        "crime",
+        "law and justice"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "72b9d3278a648ca305a5c5ff918c0303",
+      "link": "https://chicago.suntimes.com/2026/10/26/quincy-man-charged-mailed-letters-white-powder-congress-members-unglesbee",
+      "title": "Feds say Quincy man mailed letters containing white powder to members of Illinois congressional delegation",
+      "description": "The letters were postmarked in Springfield on Oct. 19 and contained handwritten messages, including \u201cHA HA\u201d and \u201cHAH enjoy the gift,\u201d according to an FBI affidavit.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "crime",
+        "u-s-senate",
+        "politics",
+        "u-s-house",
+        "public-safety",
+        "front-page"
+      ],
+      "creator": [
+        "misha manjuran oberoi"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-27 00:12:18",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-27 00:32:08",
+      "image_url": "https://cst.brightspotcdn.com/dims4/default/6bd04ee/2147483647/strip/false/crop/4034x2689+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2Ff2%2F24d59a810cc3a8690d64f327adad%2F1237570576.jpg",
+      "video_url": null,
+      "source_id": "chicago_suntimes",
+      "source_name": "Chicago Suntimes",
+      "source_priority": 2578,
+      "source_url": "https://chicago.suntimes.com",
+      "source_icon": "https://i.newsdata.io/chicago_suntimes.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 85.93,
+        "neutral": 13.26,
+        "positive": 0.81
+      },
+      "ai_tag": [
+        "accidents",
+        "law and justice"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "35ba929a4b1f5bb0fcf1a45ab401847d",
+      "link": "https://www.nbcchicago.com/investigations/illinois-man-with-lengthy-criminal-history-arrested-in-white-powder-threats-to-members-of-congress/4007650/",
+      "title": "Illinois man with lengthy criminal history arrested in white-powder threats to members of Congress",
+      "description": "Matthew Unglesbee is facing his first federal charge after the FBI said he admitted sending threatening envelopes to four Illinois members of Congress.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "nbc 5 investigates"
+      ],
+      "creator": [
+        "chuck goudie"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-27 00:05:12",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-27 00:43:03",
+      "image_url": "https://media.nbcchicago.com/2026/10/0_29-WMAQ-6P-M-F-_-PKG-CHI-Investigates-White-Powder-Arrest.png?resize=1200%2C675&quality=85&strip=all",
+      "video_url": null,
+      "source_id": "nbcchicago",
+      "source_name": "Nbc Chicago",
+      "source_priority": 244879,
+      "source_url": "https://www.nbcchicago.com",
+      "source_icon": "https://i.newsdata.io/nbcchicago.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 93.81,
+        "neutral": 5.44,
+        "positive": 0.75
+      },
+      "ai_tag": [
+        "crime",
+        "law and justice"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "d50cf811bbd6db9db12744371e195074",
+      "link": "https://radaronline.com/p/illinois-man-accused-of-mailing-anthrax-style-scare-letters-to-congress-matthew-unglesbee/",
+      "title": "EXCLUSIVE: FBI Says Man Sent Anthrax-Style Scare Letters to Four Members of Congress \u2014 As Agents Uncover Fifth Envelope",
+      "description": "Illinois man Matthew Unglesbee faces federal charges after allegedly mailing white powder and chilling messages to four members of Congress.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "news",
+        "exclusives",
+        "top stories right"
+      ],
+      "creator": [
+        "ashlyn walker"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 23:55:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-27 00:34:25",
+      "image_url": "https://media.radaronline.com/brand-img/b1YWCj8K9/0x0/ashlyn-walker-image-templates-1280-x-720-px-4-1793055982015.jpg",
+      "video_url": null,
+      "source_id": "radaronline",
+      "source_name": "Radaronline",
+      "source_priority": 26640,
+      "source_url": "https://radaronline.com",
+      "source_icon": "https://i.newsdata.io/radaronline.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 91.11,
+        "neutral": 8.17,
+        "positive": 0.72
+      },
+      "ai_tag": [
+        "crime",
+        "law and justice"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "c66504fdc38498014201a80281f6a50a",
+      "link": "https://headtopics.com/news/jean-grey-stepping-into-the-helm-of-the-x-men-after-89228989",
+      "title": "Jean Grey Stepping Into the Helm of the X\u2011Men After Cyclops' Departure",
+      "description": "After a monumental showdown at the DNX event, Cyclops is handing over leadership of the X\u2011Men to Jean Grey, who will now steer the mutant team while confronting a newly emerged foe from the X\u2011Virus fallout. The transition, showcased in upcoming issues of the flagship series, underscores the shifting dynamics within the well\u2011known superhero lineup and raises questions about how the powerful Phoenix\u2011imbued hero will now guide her team amid fresh threats.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "entertainment",
+        "marvel comics",
+        "dnx",
+        "jean grey",
+        "x-men",
+        "cyclops"
+      ],
+      "creator": [
+        "headtopics.com"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "sports"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 22:46:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 23:06:21",
+      "image_url": "https://i.headtopics.com/images/2026/10/26/screenrant/jean-grey-stepping-into-the-helm-of-the-x-men-afte-jean-grey-stepping-into-the-helm-of-the-x-men-afte-D19CFDBC29E84EBFC299444E75344BF7.webp",
+      "video_url": null,
+      "source_id": "headtopics",
+      "source_name": "Headtopics",
+      "source_priority": 43039,
+      "source_url": "https://headtopics.com",
+      "source_icon": "https://i.newsdata.io/headtopics.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 1.02,
+        "neutral": 16.88,
+        "positive": 82.1
+      },
+      "ai_tag": [
+        "wrestling",
+        "sports"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "f32fb9c6a1f9483095e2217953be2a71",
+      "link": "https://www.huffpost.com/entry/illinois-man-accused-of-mailing-white-powder-to-members-of-congress_n_6adfd37de4b065fbf4c1e840",
+      "title": "Illinois Man Accused Of Mailing White Powder To Members Of Congress",
+      "description": "Matthew Ungelsbee, 37, is charged with sending threatening letters to members of Congress containing a white powder, including one with a note reading \u201cHAH enjoy the gift.\u201d.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "springfield ill.",
+        "illinois",
+        "washington dc",
+        "ungelsbee",
+        "springfield",
+        "matthew unglesbee",
+        "matthew ungelsbee"
+      ],
+      "creator": [
+        "ap"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 22:33:23",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 23:02:43",
+      "image_url": "https://img.huffingtonpost.com/asset/6adfd37f1800008077250c9a.jpeg?cache=S37gEr1zqO&ops=1778_1000",
+      "video_url": null,
+      "source_id": "huffpost",
+      "source_name": "Huffpost",
+      "source_priority": 700,
+      "source_url": "https://www.huffpost.com",
+      "source_icon": "https://i.newsdata.io/huffpost.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 94.73,
+        "neutral": 4.68,
+        "positive": 0.59
+      },
+      "ai_tag": [
+        "crime",
+        "law and justice"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "443a568c12219efe5d42df59cef75921",
+      "link": "https://www.washingtonsun.com/legal/illinois-man-charged-white-powder-members-of-congress",
+      "title": "Illinois Man Charged With Mailing White Powder to Four Members of Congress",
+      "description": "The suspect said the substance was actually salt but that it \u201ckind of looks like\u201d anthrax.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "gavin j. quinton"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 21:51:03",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 22:20:46",
+      "image_url": "https://static.washingtonsun.com/dims4/default/efd3a1f/2147483647/strip/false/crop/1023x682+1+0/resize/1872x1248!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2F2b%2Fbac4e47945439b929375493f359c%2Fap26286571883153.jpg",
+      "video_url": null,
+      "source_id": "washingtonsun",
+      "source_name": "The Washington Sun",
+      "source_priority": 1281177,
+      "source_url": "https://www.washingtonsun.com",
+      "source_icon": null,
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 86.56,
+        "neutral": 12.79,
+        "positive": 0.65
+      },
+      "ai_tag": [
+        "crime",
+        "law and justice"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "c2e6daf2b4a026dffe1ba9e3c5c858e9",
+      "link": "https://www.wionews.com/world/illinois-man-charged-with-sending-threatening-notes-and-mailing-white-powder-letters-to-congress-members-1793049753959",
+      "title": "Illinois man charged with sending 'threatening notes' and mailing 'white powder letters' to Congress members",
+      "description": "An Illinois man has been charged with mailing four threatening letters containing a white granular substance to members of Congress, prompting an FBI investigation",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "fbi investigation",
+        "threatening communications charges",
+        "mailing threatening communications",
+        "white substance letters",
+        "white powder scare",
+        "threatening notes to lawmakers",
+        "congressional offices security",
+        "us political news",
+        "congress members threatened",
+        "threatening letters to congress",
+        "suspicious white powder letters",
+        "mail hoax charges",
+        "false information and hoaxes",
+        "matthew unglesbee",
+        "federal criminal charges",
+        "fbi anonymous tip",
+        "congressional mail threats",
+        "suspicious letters investigation",
+        "letters to members of congress",
+        "fbi suspicious substance investigation"
+      ],
+      "creator": [
+        "jatin verma"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "world"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 21:37:45",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 22:10:18",
+      "image_url": "https://cdn1.wionews.com/prod/wion/images/2026/20261027/image-1793049992849.jpg?rect=(0,101,1598,1198)",
+      "video_url": null,
+      "source_id": "wionews",
+      "source_name": "Wion",
+      "source_priority": 112977,
+      "source_url": "https://www.wionews.com",
+      "source_icon": "https://i.newsdata.io/wionews.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 94.14,
+        "neutral": 5.31,
+        "positive": 0.55
+      },
+      "ai_tag": [
+        "crime",
+        "law and justice"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "40311b938a16d4ac8ad40b28fe5524de",
+      "link": "https://www.bwhealthcareworld.com/article/china-reports-deadly-anthrax-pneumonia-case-400121",
+      "title": "China Reports Deadly Anthrax Pneumonia Case - BW Healthcare World",
+      "description": "China on Monday reported an anthrax pneumonia patient from northern Hebei province's Chengde city, who had contact history with cattle, sheep and products that come from these animals. The patient was transported to Beijing by an ambulance four days ago after showing symptoms and the person was later quarantined and put under treatment, state-run Global Times reported, quoting the Beijing centre for disease control and prevention (Beijing CDC).Anthrax is prevalent among cattle and sheep. Human beings usually get infected after coming in contact with sick animals or contaminated products. The most common way of infection - 95% of reported cases - are caused by skin contact which lead to blisters and skin necrosis, the Beijing CDC said. The most dangerous infection is anthrax pneumonia, which happens when a patient inhales dust containing bacillus anthracis and gets infected. People can get intestinal anthrax after eating contaminated food, usually meat, and will develop symptoms such as nausea, vomiting and diarrhoea. Anthrax can be transmitted directly between human beings but it is not as infectious as flu or COVID-19. Bacillus anthracis is a bacterium and multiple antibiotics are effective for treatment, the report said. Since Sunday, Beijing has stepped up measures to prevent the spread of coronavirus cases by virtually banning people from travelling to the Chinese capital from provinces with Covid-19 cases in the country. Beijing has rolled out a range of measures to strengthen the management of people returning from regions with relatively high virus transmission rates, including imposing restrictions on their purchase of railway tickets and air services. So far, the coronavirus has claimed 4,848 lives, along with 105,904 confirmed infections, in China, according to Johns Hopkins University. (PTI)",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": null,
+      "language": "english",
+      "country": [
+        "united kingdom"
+      ],
+      "category": [
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 21:33:48",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-27 07:09:55",
+      "image_url": "https://static.businessworld.in/1628579638_I5H6zL_X_ray_of_lobar_pneumonia.jpg",
+      "video_url": null,
+      "source_id": "bwhealthcareworld",
+      "source_name": "Businessworld Healthcare World",
+      "source_priority": 99999999,
+      "source_url": "https://www.bwhealthcareworld.com",
+      "source_icon": "https://i.newsdata.io/bwhealthcareworld.png",
+      "sentiment": null,
+      "sentiment_stats": null,
+      "ai_tag": null,
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "80b8e8d85919f181b3c8f67ea6a150a9",
+      "link": "https://www.abnewswire.com/pressreleases/chinas-breathable-vent-manufacturers-respond-to-global-market-needs_843987.html",
+      "title": "China\u2019s Breathable Vent Manufacturers Respond to Global Market Needs",
+      "description": null,
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "admin"
+      ],
+      "language": "english",
+      "country": [
+        "france",
+        "united kingdom",
+        "australia",
+        "germany",
+        "canada",
+        "india",
+        "united states of america",
+        "china"
+      ],
+      "category": [
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-26 20:59:02",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-26 22:22:43",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "abnewswire",
+      "source_name": "Abnewswire",
+      "source_priority": 2344368,
+      "source_url": "https://www.abnewswire.com",
+      "source_icon": "https://i.newsdata.io/abnewswire.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 1.72,
+        "neutral": 10.27,
+        "positive": 88.01
+      },
+      "ai_tag": [
+        "e-commerce",
+        "technology"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    }
+  ],
+  "nextPage": "1793048342269506418"
+}
