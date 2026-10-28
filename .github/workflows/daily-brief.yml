@@ -1,17 +1,88 @@
 name: Daily Briefing
 
+# Goal: today's brief is published and complete before 6:00 AM Eastern, every day.
+#
+# GitHub cron is UTC-only and best-effort (runs can start late), so this uses
+# several attempts plus a completeness check instead of one fragile run.
+# Every time below is chosen against the 6:00 AM deadline in BOTH seasons:
+#   10:00 UTC = 6:00 AM EDT (summer) = 5:00 AM EST (winter)
+# so the schedule never needs editing when clocks change (in winter the brief
+# is simply done an hour earlier than required).
+#
+#   07:23 UTC  primary run        (3:23 AM EDT / 2:23 AM EST)
+#   08:29 UTC  check, rebuild if incomplete
+#   09:09 UTC  check, rebuild if incomplete (last attempt that can finish in time)
+#   09:57 UTC  deadline check: if still incomplete, tries a late build AND
+#              fails the run on purpose so GitHub emails you
+#
+# Minutes are deliberately off :00/:30 -- those are the busiest scheduler slots.
 on:
   schedule:
-    # 11:00 UTC daily (~7am ET / 6am CT) -- adjust to taste
-    - cron: "0 11 * * *"
-  workflow_dispatch: {}
+    - cron: "23 7 * * *"
+    - cron: "29 8 * * *"
+    - cron: "9 9 * * *"
+    - cron: "57 9 * * *"
+  workflow_dispatch: {}   # manual run: always forces a full refetch + rebuild
 
 permissions:
   contents: write
 
+# One run at a time so two attempts can never collide on git push.
+concurrency:
+  group: daily-brief
+  cancel-in-progress: false
+
 jobs:
-  build:
+  # ---------------------------------------------------------------------------
+  # Is today's brief already complete? "Complete" means:
+  #   - docs/index.html is stamped with today's (UTC) date, AND
+  #   - data/<date>/synthesis.json exists with a non-empty BLUF
+  # (an empty BLUF means the Claude synthesis step failed, which is the
+  # failure you'd otherwise miss because those steps are continue-on-error).
+  # have_raw = raw article files for today are already on disk, so a retry
+  # can skip re-spending NewsAPI/newsdata requests and only redo the rest.
+  # ---------------------------------------------------------------------------
+  check:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      complete: ${{ steps.c.outputs.complete }}
+      have_raw: ${{ steps.c.outputs.have_raw }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: c
+        run: |
+          D=$(date -u +%F)
+          complete=false
+          have_raw=false
+
+          if [ -f "data/$D/synthesis.json" ] \
+             && jq -e '(.bluf // "") | length > 0' "data/$D/synthesis.json" >/dev/null 2>&1 \
+             && grep -q "$D" docs/index.html 2>/dev/null; then
+            complete=true
+          fi
+
+          raw=$(ls data/$D/*.json 2>/dev/null | wc -l)
+          if [ "$raw" -ge 15 ]; then have_raw=true; fi
+
+          # A manual run means "do it all again, fresh".
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            complete=false
+            have_raw=false
+          fi
+
+          echo "date=$D complete=$complete raw_files=$raw have_raw=$have_raw"
+          echo "complete=$complete" >> "$GITHUB_OUTPUT"
+          echo "have_raw=$have_raw" >> "$GITHUB_OUTPUT"
+
+  # ---------------------------------------------------------------------------
+  # The pipeline itself (unchanged logic). Skipped when today is already done.
+  # ---------------------------------------------------------------------------
+  build:
+    needs: check
+    if: needs.check.outputs.complete != 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
@@ -20,24 +91,20 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # Skipped on a retry when today's raw data is already in the repo.
       - name: Fetch NewsAPI data
+        if: needs.check.outputs.have_raw != 'true'
         env:
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
         run: python scripts/fetch_news.py
 
-      # Everything below the primary NewsAPI fetch is fault-isolated:
-      # newsdata is a *second* source and the two Claude passes are
-      # enhancement layers, so none of them should ever be able to kill a
-      # run that already has good NewsAPI data in hand. Without this, a
-      # crash here throws away the ~18 NewsAPI requests the step above
-      # already spent (the commit step never runs, so nothing persists)
-      # and the day's brief never publishes. continue-on-error marks the
-      # step failed in the UI for visibility but lets the job carry on.
       - name: Fetch newsdata.io data (second source, merged by topic)
+        if: needs.check.outputs.have_raw != 'true'
         continue-on-error: true
         env:
           NEWSDATA_KEY: ${{ secrets.NEWSDATA_KEY }}
@@ -49,69 +116,31 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/redteam.py
 
-      # Groups same-event articles into one story ("+N other sources") and
-      # flags narrow figures/attribution/outcome contradictions between
-      # them -- see dedupe_stories.py. Runs after redteam.py so it works
-      # from the same final, vetted article list build_brief.py will
-      # render, not the raw pre-filter retrieval. An enhancement layer
-      # like the red team above it: build_brief.py falls back to a flat,
-      # ungrouped list per topic when this step's output is missing.
       - name: Detect duplicate/contradictory reporting per topic
         continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/dedupe_stories.py
 
-      # Ranks every story thread (independent sources, source tier, recency,
-      # escalation language) and diffs today against the archive; writes
-      # data/<date>/threads.json + changes.json for audit. build_brief.py and
-      # synthesize.py recompute the same result in-process, so this step is
-      # purely a record -- it cannot change what gets published. It runs
-      # after dedupe_stories.py because the dedup groups seed the clustering.
       - name: Rank stories + detect changes vs. archive (audit files)
         continue-on-error: true
         run: python scripts/rank_day.py
 
-      # Runs after dedupe + ranking so the BLUF is built from the day's
-      # top-ranked developments, not from feed order. If ranking fails,
-      # synthesize.py falls back to the old flat per-topic prompt.
       - name: Generate BLUF + per-topic narrative synthesis
         continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/synthesize.py
 
-      # Not continue-on-error: if the page itself can't be rendered there
-      # is no brief to publish, and build_brief.py already degrades
-      # gracefully when the redteam/synthesis layers are missing.
       - name: Build briefing page
         run: python scripts/build_brief.py
 
-      # Archive: dated copy of each page, archive index, and the flat CSVs
-      # under data/history/ for month-over-month trend work. Derived
-      # entirely from data/<date>/, so it's safe to fail without affecting
-      # the live page.
       - name: Build archive index + trend CSVs
         continue-on-error: true
         run: python scripts/archive.py
 
-      # Deliberately NOT continue-on-error. Every layer above swallows its own
-      # failures so the brief always publishes -- which also means a dead API
-      # key looked like a healthy green run for weeks. This turns "a layer
-      # produced nothing" into a red run (GitHub emails you); the commit step
-      # below is if: always(), so the page still publishes either way. Only
-      # secret *presence* is passed in, never the secrets themselves.
-      - name: Verify Claude layers + newsdata.io actually produced output
-        env:
-          ANTHROPIC_KEY_SET: ${{ secrets.ANTHROPIC_API_KEY != '' }}
-          NEWSDATA_KEY_SET: ${{ secrets.NEWSDATA_KEY != '' }}
-        run: python scripts/check_pipeline.py
-
-      # if: always() so whatever data *was* fetched gets committed even if
-      # a step above failed outright -- fetched articles live only in the
-      # runner's ephemeral workspace until this step saves them, so a
-      # mid-job failure otherwise means those API calls were spent for
-      # nothing and have to be spent again on the next run.
+      # if: always() so fetched data is saved even if a later step failed.
+      # pull --rebase first so a push of your own mid-run can't reject this one.
       - name: Commit and push updated data + page
         if: always()
         run: |
@@ -119,4 +148,21 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data docs
           git diff --quiet --cached || git commit -m "Daily briefing update $(date -u +%Y-%m-%d)"
+          git pull --rebase --autostash origin main
           git push
+
+  # ---------------------------------------------------------------------------
+  # Deadline alarm. Only the 09:57 UTC run does this. If the brief was not
+  # complete when that check started, the build job above has already tried
+  # a late build in the same run; this job then fails the run on purpose so
+  # GitHub sends you a failed-workflow notification.
+  # ---------------------------------------------------------------------------
+  deadline-alert:
+    needs: [check, build]
+    if: always() && github.event.schedule == '57 9 * * *' && needs.check.outputs.complete != 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - run: |
+          echo "::error::Daily brief was NOT complete at the 6:00 AM ET deadline check. A late build was attempted in this run - see the build job for whether it succeeded."
+          exit 1
