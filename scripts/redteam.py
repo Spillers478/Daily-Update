@@ -264,7 +264,7 @@ Articles (format: <id> :: title :: description):
 
 {chr(10).join(lines)}
 
-Be conservative about discarding: only set "topic" to null when the article clearly has no genuine military/security/geopolitical relevance, not merely because it's a slow day for that specific topic. When genuinely unsure between two adjacent topics, pick the closer one rather than discarding.
+Scope rule for T16 (Elections / Electoral Integrity): keep national-level or major-subnational elections (presidential, parliamentary, general, snap, referendums), results and vote-count disputes, and election security, interference, fraud or violence stories. Discard municipal, school-board, club, union, association or corporate votes, awards/Hall-of-Fame \"elections\", and 'election' used as a metaphor. A pure domestic campaign-trail or polling story with no integrity, security or stability angle may stay under T16 but should not be moved into any other topic.\n\nBe conservative about discarding: only set "topic" to null when the article clearly has no genuine military/security/geopolitical relevance, not merely because it's a slow day for that specific topic. When genuinely unsure between two adjacent topics, pick the closer one rather than discarding.
 
 {_tripwire_rule()}
 

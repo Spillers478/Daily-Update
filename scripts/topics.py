@@ -5,7 +5,7 @@ Two layers:
 - TIER1: flagship geographic flashpoints, queried directly on /everything,
   plus a lightweight "US media attention" pull via /top-headlines. These
   are the two topics that get top billing on the page.
-- TOPICS: the full 14-topic taxonomy (adapted from the mil-awareness-brief
+- TOPICS: the full 15-topic taxonomy (adapted from the mil-awareness-brief
   taxonomy), each run once daily as a global (non-country-specific) sweep.
 
 Everything here is a *keyword* boolean query against NewsAPI's /v2/everything
@@ -19,7 +19,7 @@ Editing this file is the primary way to tune the product: add/remove
 topics, tighten/loosen a query, or change severity/tier labels. Nothing
 else in the pipeline needs to change.
 
-SCOPE: the two TIER1 flagships plus the full 14-topic TOPICS sweep are
+SCOPE: the two TIER1 flagships plus the full 15-topic TOPICS sweep are
 both fetched/rendered daily. Set TOPIC_SWEEP_ENABLED to False to scope
 back down to flagships-only (useful if noise/budget ever becomes a
 problem) without touching fetch_news.py or build_brief.py.
@@ -72,7 +72,7 @@ remaining backstops for that source. fetch_newsdata.py falls back to
 not required.
 """
 
-TOPIC_SWEEP_ENABLED = True  # False = flagships only; True = flagships + full 14-topic sweep
+TOPIC_SWEEP_ENABLED = True  # False = flagships only; True = flagships + full 15-topic sweep
 
 # Domains excluded from every /everything call (see fetch_news.py). Picked
 # from actual noise observed in a live run, not guessed in advance:
@@ -293,5 +293,32 @@ TOPICS = [
         "query": '("US embassy" OR "American consulate" OR diplomat OR "diplomatic mission") AND '
                   '(threat OR attack OR evacuation OR breach OR stormed)',
         "newsdata_query": '("US embassy" OR "American consulate" OR diplomat) AND (threat OR attack OR evacuation)',
+    },
+    {
+        # Added 2026-10-28. Elections are mostly routine political coverage, so
+        # this is a phrase-anchored "event" query (not a tripwire): national-level
+        # election events plus integrity / interference / disruption language.
+        # Bare "election" or "vote" would match sports awards ("Hall of Fame
+        # election"), club/HOA/student-council votes, "Election Day" sales and
+        # fantasy leagues, so only multi-word phrases are used here and the NOT
+        # list fences off those categories. redteam.py then applies the real
+        # scope rule (national/major elections and election security only; no
+        # municipal or school-board races) -- see its prompt. Not title-only:
+        # the phrases are specific enough that body matches are mostly real,
+        # and title-only would miss "X votes" style headlines.
+        # Known trade-off: during a US election season domestic horse-race
+        # coverage can crowd out foreign elections within the 100-article
+        # page. If that happens, add US-specific NOT terms here.
+        "id": "T16", "label": "Elections / Electoral Integrity", "tier": "event", "severity": 6,
+        "search_in": "title,description",
+        "query": '("presidential election" OR "parliamentary election" OR "general election" OR '
+                 '"snap election" OR "disputed election" OR "election interference" OR '
+                 '"election fraud" OR "election violence" OR "election postponed" OR '
+                 '"election observers" OR "vote count" OR "election results") NOT '
+                 '(NFL OR NBA OR NHL OR MLB OR "Hall of Fame" OR fantasy OR "student council" OR '
+                 '"homeowners association" OR "box office" OR "video game" OR "season finale" OR '
+                 '"Election Day sale")',
+        # 89 chars -- under newsdata's 100-char q cap (see module docstring).
+        "newsdata_query": '"presidential election" OR "snap election" OR "election interference" OR "election fraud"',
     },
 ]
