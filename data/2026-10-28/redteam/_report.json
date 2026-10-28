@@ -2,44 +2,44 @@
   "topics": {
     "flagship-ru-ua": {
       "retrieved": 25,
-      "kept_here": 21,
+      "kept_here": 19,
       "moved_out": 3,
-      "discarded": 1,
+      "discarded": 3,
       "unclassified": 0
     },
     "flagship-ir-il": {
       "retrieved": 25,
-      "kept_here": 16,
-      "moved_out": 3,
-      "discarded": 6,
+      "kept_here": 9,
+      "moved_out": 14,
+      "discarded": 2,
       "unclassified": 0
     },
     "T15": {
       "retrieved": 16,
-      "kept_here": 12,
+      "kept_here": 9,
       "moved_out": 1,
-      "discarded": 3,
+      "discarded": 6,
       "unclassified": 0
     },
     "T01": {
       "retrieved": 21,
-      "kept_here": 9,
-      "moved_out": 8,
+      "kept_here": 10,
+      "moved_out": 7,
       "discarded": 4,
       "unclassified": 0
     },
     "T02": {
       "retrieved": 25,
       "kept_here": 3,
-      "moved_out": 6,
-      "discarded": 16,
+      "moved_out": 9,
+      "discarded": 13,
       "unclassified": 0
     },
     "T03": {
       "retrieved": 25,
       "kept_here": 6,
-      "moved_out": 1,
-      "discarded": 18,
+      "moved_out": 2,
+      "discarded": 17,
       "unclassified": 0
     },
     "T04": {
@@ -51,29 +51,29 @@
     },
     "T05": {
       "retrieved": 25,
-      "kept_here": 6,
-      "moved_out": 4,
-      "discarded": 15,
+      "kept_here": 0,
+      "moved_out": 19,
+      "discarded": 6,
       "unclassified": 0
     },
     "T06": {
       "retrieved": 25,
-      "kept_here": 17,
+      "kept_here": 19,
       "moved_out": 0,
-      "discarded": 8,
+      "discarded": 6,
       "unclassified": 0
     },
     "T07": {
       "retrieved": 25,
-      "kept_here": 2,
-      "moved_out": 19,
-      "discarded": 4,
+      "kept_here": 3,
+      "moved_out": 16,
+      "discarded": 6,
       "unclassified": 0
     },
     "T08": {
       "retrieved": 12,
-      "kept_here": 12,
-      "moved_out": 0,
+      "kept_here": 10,
+      "moved_out": 2,
       "discarded": 0,
       "unclassified": 0
     },
@@ -86,9 +86,9 @@
     },
     "T10": {
       "retrieved": 25,
-      "kept_here": 8,
-      "moved_out": 8,
-      "discarded": 9,
+      "kept_here": 5,
+      "moved_out": 12,
+      "discarded": 8,
       "unclassified": 0
     },
     "T11": {
@@ -100,30 +100,37 @@
     },
     "T12": {
       "retrieved": 25,
-      "kept_here": 7,
-      "moved_out": 5,
-      "discarded": 13,
+      "kept_here": 13,
+      "moved_out": 4,
+      "discarded": 8,
       "unclassified": 0
     },
     "T13": {
       "retrieved": 25,
       "kept_here": 3,
-      "moved_out": 13,
-      "discarded": 9,
+      "moved_out": 14,
+      "discarded": 8,
       "unclassified": 0
     },
     "T14": {
       "retrieved": 25,
-      "kept_here": 1,
-      "moved_out": 20,
+      "kept_here": 3,
+      "moved_out": 18,
+      "discarded": 4,
+      "unclassified": 0
+    },
+    "T16": {
+      "retrieved": 25,
+      "kept_here": 21,
+      "moved_out": 0,
       "discarded": 4,
       "unclassified": 0
     }
   },
   "totals": {
-    "kept": 146,
-    "reassigned": 95,
-    "discarded": 124,
+    "kept": 156,
+    "reassigned": 125,
+    "discarded": 109,
     "unclassified": 0
   },
   "failed_topics": [],

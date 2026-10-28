@@ -1,19 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 1,
+  "totalResults": 2,
   "articles": [
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": null,
+        "name": "BBC News"
       },
-      "author": "Aidan  Stretch",
-      "title": "Photos show Ukraine's Starlink was throttled during Russian strike that killed 5 in park - CBS News",
-      "description": "Photos obtained by CBS News show Ukraine's vital connection to Starlink was throttled on Oct. 19, inhibiting its interception capacity when a deadly Russian strike hit a park.",
-      "url": "https://www.cbsnews.com/news/photos-show-ukraine-starlink-throttled-russian-strike-killed-5/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/27/11b66d5b-0b0f-4543-a11b-4e8ac78cd9e3/thumbnail/1200x630/03099382de06a56c604c2ae5f382f1ca/starlink.jpg",
-      "publishedAt": "2026-10-27T13:54:37Z",
-      "content": "Kharkiv, Ukraine \u2013 Yulia Spichak, a 34 year-old makeup artist in Ukraine's eastern Kharkiv region, dropped her son off at an English-language lesson on Oct. 19 and sat down in a nearby park to send a\u2026 [+3072 chars]"
+      "author": null,
+      "title": "Norway and Finland hold rare call with Putin to discuss ending war - BBC",
+      "description": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+      "url": "https://www.bbc.com/news/articles/c6vgj813mlelo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/62a7/live/0a738c90-d1fa-11f1-8c9f-8d21fef6ffad.jpg",
+      "publishedAt": "2026-10-27T18:28:23Z",
+      "content": "Finland and Norway, which border Russia, initiated the 90-minute call - held from Helsinki - to \"discuss Russia's war of aggression against Ukraine and the diplomatic efforts to end the war and promo\u2026 [+60 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Edith M. Lederer",
+      "title": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says - AP News",
+      "description": "A U.N.-backed inquiry is reporting that Russia committed war crimes and crimes against humanity in Ukraine by intentionally attacking energy infrastructure, which left millions of people without electricity and heat in freezing temperatures. The inquiry also \u2026",
+      "url": "https://apnews.com/article/un-russia-ukraine-commission-report-war-crimes-27ee6394694bb30a7f1eab9addced768",
+      "urlToImage": "https://dims.apnews.com/dims4/default/eb18c17/2147483647/strip/true/crop/8131x5421+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F88%2F15%2F1629a176ddc9482f5eccb06e390d%2F63bd5f8dbb0248cbb0f728150287a1b0",
+      "publishedAt": "2026-10-27T15:25:00Z",
+      "content": "UNITED NATIONS (AP) Russia committed war crimes and crimes against humanity in Ukraine by intentionally attacking energy infrastructure, leaving millions of people without electricity and heat in fre\u2026 [+3645 chars]"
     }
   ]
 }

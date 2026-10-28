@@ -1,51 +1,41 @@
 {
   "status": "success",
-  "totalResults": 1867,
+  "totalResults": 1922,
   "results": [
     {
-      "article_id": "a56da2c432b3f5f45904ef75700d85bc",
-      "link": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
-      "title": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
-      "description": "Talks are aimed at reopening strait of Hormuz and lifting sanctions on Iran, and for Houthis to withdraw in Yemen A multipronged peace deal to reopen the strait of Hormuz within four days of sanctions being lifted and for the Houthis to withdraw substantial forces inside Yemen are at the heart of Gulf states\u2019 plans to avert what they regard as a disastrous renewal of war between Iran and the US. The US is aware of the talks\u2019 progress but is holding out for a concession that European powers suggest could involve Iran allowing UN weapons inspectors back into the country. Continue reading...",
+      "article_id": "0d517bd881b8ccb3c8c792ac59c97d7b",
+      "link": "https://daijiworld.com/news/newsDisplay?newsID=1333700",
+      "title": "Qatar presents Iran with new draft deal to end US-Israel War",
+      "description": "Daijiworld Media Network - Tehran Tehran, Oct 28: Qatari mediators have presented Iran with a new draft agreement aimed at ending the war involving the United States and Israel, with Tehran expected to respond by the end of the week, an official briefed on the negotiations said on Wednes....",
       "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "middle east and north africa",
-        "iran",
-        "yemen",
-        "strait of hormuz",
-        "us-israel war on iran",
-        "middle east peace talks",
-        "world news",
-        "iran nuclear programme",
-        "houthis"
-      ],
+      "keywords": null,
       "creator": [
-        "patrick wintour diplomatic editor"
+        "daijiworld.com"
       ],
       "language": "english",
       "country": [
-        "iran"
+        "india"
       ],
       "category": [
         "top",
         "politics"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-28 05:00:55",
+      "pubDate": "2026-10-28 09:40:37",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 05:05:30",
-      "image_url": "https://i.guim.co.uk/img/media/7696200dce7254abdadd923a886adbbcc098804a/11_17_4694_3755/master/4694.jpg?width=140&quality=85&auto=format&fit=max&s=cfebc41dd9a7f62e6ae7dcf0d812e508",
+      "fetched_at": "2026-10-28 09:40:37",
+      "image_url": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/shakehnds_281026_1.jpg",
       "video_url": null,
-      "source_id": "theguardian",
-      "source_name": "The Guardian",
-      "source_priority": 106,
-      "source_url": "https://www.theguardian.com",
-      "source_icon": "https://i.newsdata.io/theguardian.jpg",
-      "sentiment": "neutral",
+      "source_id": "daijiworld",
+      "source_name": "Daijiworld",
+      "source_priority": 128227,
+      "source_url": "https://www.daijiworld.com",
+      "source_icon": "https://i.newsdata.io/daijiworld.jpg",
+      "sentiment": "positive",
       "sentiment_stats": {
-        "negative": 0.98,
-        "neutral": 79.04,
-        "positive": 19.98
+        "negative": 0.87,
+        "neutral": 34.56,
+        "positive": 64.57
       },
       "ai_tag": [
         "conflicts & war"
@@ -56,45 +46,274 @@
       "duplicate": false
     },
     {
-      "article_id": "e59acfbcd03d8aa7c3b0a04dfbc484b9",
-      "link": "https://foreignpolicy.com/2026/10/28/young-people-southeast-asia-underemployment/",
-      "title": "Young People Are Struggling in Southeast Asia Too",
-      "description": null,
+      "article_id": "c8a71bf2ae3054182e56e75a70254574",
+      "link": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-updates-us-war-bill-crosses-47-billion-as-trump-weighs-fresh-strikes-on-tehran-within-96-hours-313197/",
+      "title": "US-Israel-Iran War Latest Live Updates: US War Bill Crosses $47 Billion as Trump Weighs Fresh Strikes on Tehran Within 96 Hours",
+      "description": "The US military estimates that the war with Iran has cost at least $47.1 billion, with ammunition replacement accounting for the largest share of spending. The latest estimate comes as President Donald Trump weighs possible renewed strikes, while concerns grow over weapons stockpiles and the cost of the conflict. The post US-Israel-Iran War Latest Live Updates: US War Bill Crosses $47 Billion as Trump Weighs Fresh Strikes on Tehran Within 96 Hours appeared first on The Sunday Guardian.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "southeast asia",
-        "southeast asia brief"
+        "us iran war",
+        "world",
+        "us-israel-iran war"
       ],
       "creator": [
-        "joseph rachman"
+        "zainab khanam"
       ],
       "language": "english",
       "country": [
-        "united states of america"
+        "india"
+      ],
+      "category": [
+        "crime",
+        "politics",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:40:05",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 10:07:21",
+      "image_url": "https://sundayguardianlive.com/wp-content/uploads/2026/10/us-iran-war-2026-10-28t150948566.jpg",
+      "video_url": null,
+      "source_id": "thesundayguardian",
+      "source_name": "The Sunday Guardian",
+      "source_priority": 37169,
+      "source_url": "https://sundayguardianlive.com",
+      "source_icon": "https://i.newsdata.io/thesundayguardian.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 96.59,
+        "neutral": 2.7,
+        "positive": 0.71
+      },
+      "ai_tag": [
+        "conflicts & war",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "367ed7b1c3d31cd2bd606ade3af42f4f",
+      "link": "https://www.urdupoint.com/en/pakistan/trump-conditional-acceptance-midterm-election-results-2278622.html",
+      "title": "President Trump Signals Conditional Acceptance of Midterm Election Results",
+      "description": "Donald Trump says midterm election results could be challenged if Republicans lose, while indicating he would work with Democrats if they win.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "pakistan"
+      ],
+      "creator": [
+        "mian nadeem"
+      ],
+      "language": "english",
+      "country": [
+        "pakistan"
       ],
       "category": [
         "top",
         "politics"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-28 05:00:50",
+      "pubDate": "2026-10-28 09:39:32",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 05:30:49",
-      "image_url": "https://foreignpolicy.com/wp-content/uploads/2026/10/thai-unemployment-GettyImages-85440280.jpg",
+      "fetched_at": "2026-10-28 12:05:49",
+      "image_url": "https://photo-cdn.urdupoint.com/media-up/2026/_2/740x404/pic_64fa4_1791484185.jpg",
       "video_url": null,
-      "source_id": "foreignpolicy",
-      "source_name": "Foreign Policy",
-      "source_priority": 6121,
-      "source_url": "https://foreignpolicy.com",
-      "source_icon": "https://i.newsdata.io/foreignpolicy.jpg",
-      "sentiment": "negative",
+      "source_id": "urdupoint",
+      "source_name": "Urdupoint",
+      "source_priority": 21431,
+      "source_url": "https://www.urdupoint.com",
+      "source_icon": "https://i.newsdata.io/urdupoint.png",
+      "sentiment": "neutral",
       "sentiment_stats": {
-        "negative": 90.87,
-        "neutral": 7.93,
-        "positive": 1.2
+        "negative": 2.31,
+        "neutral": 86.82,
+        "positive": 10.87
       },
       "ai_tag": [
-        "politics",
+        "elections"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "ddc2fd2a4a3a610524d74a77f66abf3a",
+      "link": "https://www.ibtimes.co.uk/las-vegas-restaurateur-trump-rising-costs-sell-restaurant-1828398",
+      "title": "Trump-Hosting Restaurant Owner Says He May Have to Close as Costs Soar Under President: 'Everything Is Worse'",
+      "description": "Javier Barajas, who hosted Trump's no-tax-on-tips event, says rising fuel and food costs could force his Las Vegas restaurant to close.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "politics"
+      ],
+      "creator": [
+        "stephanie cruz"
+      ],
+      "language": "english",
+      "country": [
+        "united kingdom"
+      ],
+      "category": [
+        "top",
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:37:46",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 09:45:24",
+      "image_url": "https://d.ibtimes.co.uk/en/full/1839876/il-toro-e-la-capra-las-vegas.png?w=1600&h=900&q=88&f=f5a303d94b010ae912bd016456c978e9",
+      "video_url": null,
+      "source_id": "ibtimes",
+      "source_name": "International Business Times",
+      "source_priority": 458722,
+      "source_url": "https://www.ibtimes.com",
+      "source_icon": "https://i.newsdata.io/ibtimes.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 97.49,
+        "neutral": 1.87,
+        "positive": 0.64
+      },
+      "ai_tag": [
+        "fmcg",
+        "economy"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "cf469c27228b8f1255c8ef5d8f444b05",
+      "link": "https://www.news18.com/world/fresh-iran-war-after-november-midterms-us-warns-gulf-states-of-possible-short-intense-strikes-ws-l-10401326.html",
+      "title": "Fresh Iran War After November Midterms? US Warns Gulf States Of Possible 'Short, Intense' Strikes",
+      "description": "US forces are reinforcing missile defences in the region, moving personnel away from bases vulnerable to Iranian attacks and replenishing munition",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "latest"
+      ],
+      "creator": [
+        "news18"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:36:33",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 10:02:15",
+      "image_url": "https://images.news18.com/ibnlive/uploads/2026/07/Trump-facing-Iranians-2026-07-c229815ad9da524bba6e33a0666888be-1200x800.jpg",
+      "video_url": null,
+      "source_id": "news18",
+      "source_name": "News 18",
+      "source_priority": 1063,
+      "source_url": "https://www.news18.com",
+      "source_icon": "https://i.newsdata.io/news18.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 82.59,
+        "neutral": 16.53,
+        "positive": 0.88
+      },
+      "ai_tag": [
+        "conflicts & war",
+        "national security"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "351b16dd769790e2eb5f168e2914a78f",
+      "link": "https://www.themirror.com/entertainment/kaitlan-collins-cnn-donald-trump-2087039",
+      "title": "Kaitlan Collins exposes brutal truth for Donald Trump as voters demand answers",
+      "description": "Kaitlan Collins reported on the upcoming midterm elections as she hosted CNN's The Source on Tuesday night, revealing the general sentiment among American voters",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "donald trump",
+        "kaitlan collins",
+        "entertainment"
+      ],
+      "creator": [
+        "scarlett o'toole"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "entertainment"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:36:28",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 10:07:20",
+      "image_url": "https://i2-prod.themirror.com/incoming/article2087227.ece/ALTERNATES/s615/0_Kaitlan-Collins-exposes-brutal-truth-for-Donald-Trump.jpg",
+      "video_url": null,
+      "source_id": "themirror",
+      "source_name": "The Mirror Us",
+      "source_priority": 35286,
+      "source_url": "https://www.themirror.com",
+      "source_icon": "https://i.newsdata.io/themirror.jpg",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 88.66,
+        "neutral": 10.21,
+        "positive": 1.13
+      },
+      "ai_tag": [
+        "elections"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "1253623e065dc9d8e1a874c524e289c4",
+      "link": "https://www.tbsnews.net/videos/tbs-world/trump-faces-election-threat-leaked-documents-reveal-iran-war-costs-1585536",
+      "title": "Trump faces election threat as leaked documents reveal Iran war costs",
+      "description": "Leaked Pentagon documents reportedly show that the United States has spent $47 billion on its eight-month war with Iran, raising concerns for President Donald Trump ahead of the November 3 midterm elections. The figure exceeds the $37.5 billion estimate previously announced by Defense Secretary Pete Hegseth. According to Reuters, the US could spend more than $29 billion replenishing missile and ammunition stockpiles, with another $6 billion needed to replace lost military equipment.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "the business standard"
+      ],
+      "language": "english",
+      "country": [
+        "bangladesh"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "multimedia",
+      "pubDate": "2026-10-28 09:35:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 09:41:01",
+      "image_url": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/10/28/penttaagner_nthi_phaans_.jpg",
+      "video_url": null,
+      "source_id": "tbsnews_net",
+      "source_name": "The Business Standard",
+      "source_priority": 117950,
+      "source_url": "https://www.tbsnews.net",
+      "source_icon": "https://i.newsdata.io/tbsnews_net.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 95.68,
+        "neutral": 3.68,
+        "positive": 0.64
+      },
+      "ai_tag": [
+        "conflicts & war",
         "government"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -103,49 +322,49 @@
       "duplicate": false
     },
     {
-      "article_id": "9c8ec990299b3788e83ae932381e0a12",
-      "link": "https://www.santafenewmexican.com/news/local_news/u-s-rep-melanie-stansbury-candidate-questionnaire/article_cd2dae80-b983-4819-ab6e-16a8f9c374ea.html",
-      "title": "U.S. Rep. Melanie Stansbury candidate questionnaire",
-      "description": "U.S. Rep. Melanie Stansbury answers questions about her views on immigration, affordability, the war in Iran and more.",
+      "article_id": "5b92e4777281f23eae4cb1a147230f05",
+      "link": "https://sputnikglobe.com/20261028/trump-says-talks-with-putin-zelensky-may-not-be-in-person-1124961265.html",
+      "title": "Trump Says Talks With Putin, Zelensky May Not Be in Person",
+      "description": "MOSCOW (Sputnik) - US President Donald Trump said that potential trilateral talks with Russian President Vladimir Putin and Volodymyr Zelensky would not necessarily take place in person, but assured that the meeting would happen soon.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "melanie stansbury",
-        "new mexico",
-        "u.s. house of representatives",
-        "democrat",
-        "elections 2026"
+        "jd vance",
+        "china",
+        "russia",
+        "ukraine",
+        "volodymyr zelensky",
+        "donald trump"
       ],
       "creator": [
-        "courtesy photo"
+        "sputnik international"
       ],
       "language": "english",
       "country": [
-        "united states of america"
+        "russia"
       ],
       "category": [
         "top",
         "politics"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-28 05:00:00",
+      "pubDate": "2026-10-28 09:34:11",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 05:07:15",
-      "image_url": "https://bloximages.newyork1.vip.townnews.com/santafenewmexican.com/content/tncms/assets/v3/editorial/9/9a/99a449a7-3b65-4821-a34b-c53c302bc3d3/6ae0fb5d2fc12.image.jpg?resize=300%2C450",
+      "fetched_at": "2026-10-28 09:36:16",
+      "image_url": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1124961265.jpg?11244178541793180052",
       "video_url": null,
-      "source_id": "santafenewmexican",
-      "source_name": "Santa Fe New Mexican Homepage | Santa Fe New Mexic",
-      "source_priority": 34615,
-      "source_url": "https://www.santafenewmexican.com",
-      "source_icon": "https://i.newsdata.io/santafenewmexican.png",
+      "source_id": "sputnikglobe",
+      "source_name": "Sputnik News",
+      "source_priority": 33351,
+      "source_url": "https://sputnikglobe.com",
+      "source_icon": "https://i.newsdata.io/sputnikglobe.png",
       "sentiment": "neutral",
       "sentiment_stats": {
-        "negative": 1.04,
-        "neutral": 97.67,
-        "positive": 1.29
+        "negative": 1.5,
+        "neutral": 96.63,
+        "positive": 1.87
       },
       "ai_tag": [
-        "government",
-        "immigration and migrant issues"
+        "government"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -153,163 +372,17 @@
       "duplicate": false
     },
     {
-      "article_id": "5fe9e5506d660a556a86b59c20abc703",
-      "link": "https://www.dailyjournalonline.com/columnist/vfw-district-8-newsletter-119-f4d66f9f",
-      "title": "VFW District 8 urges veterans and citizens to use crisis resources, buddy checks and vote",
-      "description": "VFW District 8 shares crisis resources, an upcoming Nov. 1 meeting, youth scholarship deadlines and veterans news in Newsletter #119.",
+      "article_id": "ad1d610e17702226ad5043262a6650ce",
+      "link": "https://sundayguardianlive.com/world/trump-rejects-pakistan-brokered-iran-peace-deal-what-did-he-say-and-how-did-tehran-respond-313193/",
+      "title": "Trump Rejects Pakistan-Brokered Iran Peace Deal: What Did He Say And How Did Tehran Respond?",
+      "description": "Trump called the Pakistan-brokered Iran ceasefire a \u201cwaste of time,\u201d drawing criticism from Tehran over US commitments. The post Trump Rejects Pakistan-Brokered Iran Peace Deal: What Did He Say And How Did Tehran Respond? appeared first on The Sunday Guardian.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "columnist"
-      ],
-      "creator": [
-        "quartermaster/adjutant",
-        "randle tolliver"
-      ],
-      "language": "english",
-      "country": [
-        "united states of america"
-      ],
-      "category": [
-        "top",
-        "politics",
-        "lifestyle"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 05:00:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 05:39:34",
-      "image_url": "https://public-assets-prod.pubgen.ai/brand_30aba661-16ca-4251-9e86-d6697910f8a1/asset_284114ec-c5b8-4e6a-8f20-e67f3b5f39c2.jpg",
-      "video_url": null,
-      "source_id": "dailyjournalonline",
-      "source_name": "Daily Journal Online",
-      "source_priority": 74191,
-      "source_url": "https://dailyjournalonline.com",
-      "source_icon": "https://i.newsdata.io/dailyjournalonline.png",
-      "sentiment": "positive",
-      "sentiment_stats": {
-        "negative": 0.81,
-        "neutral": 14.47,
-        "positive": 84.72
-      },
-      "ai_tag": [
-        "nonprofit organizations",
-        "politics"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "544ea1f93284eb48665ebf142007e194",
-      "link": "https://apnlive.com/india-news/cyclone-arnab-andhra-pradesh-heavy-rain-wind-alert/",
-      "title": "Cyclone Arnab makes landfall in Andhra Pradesh, winds reach 140 Kmph",
-      "description": "Cyclone Arnab made landfall near the Andhra Pradesh coast early Wednesday, October 28, bringing heavy rain and winds of 115\u2013125 kmph, with gusts reaching 140 kmph. More than 1.8 lakh people were evacuated from vulnerable areas in Andhra Pradesh and Odisha. The post Cyclone Arnab makes landfall in Andhra Pradesh, winds reach 140 Kmph appeared first on APN News.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "cyclone arnab landfall",
-        "imd cyclone alert",
-        "cyclone arnab",
-        "odisha weather",
-        "top stories",
-        "heavy rainfall",
-        "india news",
-        "andhra pradesh cyclone"
-      ],
-      "creator": [
-        "apnlive desk"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "top",
-        "environment"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 04:59:38",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 08:57:07",
-      "image_url": "https://apnlive.com/wp-content/uploads/2023/06/in-cyclone_9.jpg",
-      "video_url": null,
-      "source_id": "apnlive",
-      "source_name": "Apn",
-      "source_priority": 684243,
-      "source_url": "https://www.apnlive.com",
-      "source_icon": "https://i.newsdata.io/apnlive.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 5.0,
-        "neutral": 93.89,
-        "positive": 1.11
-      },
-      "ai_tag": [
-        "natural disasters",
-        "climate and weather"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "0305bdb6e3d0e081994639ba90f6a1c9",
-      "link": "https://www.nst.com.my/world/world/2026/10/1565327/netanyahu-clings-power-eisenkot-declares-israel-voted-change",
-      "title": "Netanyahu clings to power as Eisenkot declares Israel voted for change",
-      "description": "JERUSALEM: Israeli Prime Minister Benjamin Netanyahu and rival Gadi Eisenkot each vowed on Wednesday to form a government after both came up short in the first election since the Oct 7, 2023 attack traumatised the country.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
+        "donald trump",
         "world"
       ],
       "creator": [
-        "afp"
-      ],
-      "language": "english",
-      "country": [
-        "malaysia"
-      ],
-      "category": [
-        "top",
-        "politics"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 04:58:10",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 05:47:59",
-      "image_url": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/EDB93B7D2508BB7AD3D20E79F061B2B7_data_0_1.jpg",
-      "video_url": null,
-      "source_id": "nst",
-      "source_name": "New Straits Times",
-      "source_priority": 197437,
-      "source_url": "https://www.nst.com.my",
-      "source_icon": "https://i.newsdata.io/nst.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 23.66,
-        "neutral": 72.29,
-        "positive": 4.05
-      },
-      "ai_tag": [
-        "government",
-        "elections"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "224d5a6a8968841d9a40aee655f0e0e7",
-      "link": "https://www.deccanherald.com/world/middle-east/needs-a-strong-right-wing-national-govt-netanyahus-bid-to-garner-support-after-deadlock-in-israel-voting-4197946",
-      "title": "'Needs a strong, right-wing national govt': Netanyahu's bid to garner support after deadlock in Israel voting",
-      "description": "Israeli politics: Benjamin Netanyahu and rival Gadi Eisenkot made competing claims to lead Israel after exit polls showed a deadlocked election without a clear majority.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "middle east"
-      ],
-      "creator": [
-        "dh online"
+        "nisha srivastava"
       ],
       "language": "english",
       "country": [
@@ -320,25 +393,25 @@
         "politics"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-28 04:57:36",
+      "pubDate": "2026-10-28 09:32:27",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 05:01:51",
-      "image_url": "https://media.assettype.com/deccanherald/2026-10-28/by0r39br/israel.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "fetched_at": "2026-10-28 09:36:56",
+      "image_url": "https://sundayguardianlive.com/wp-content/uploads/2026/10/2024-11-06t073212z-1852298969-hp1ekb60kxl5y-rtrmadp-3-usa-election-trump-new-atlanticist-1024x683.jpg",
       "video_url": null,
-      "source_id": "deccanherald",
-      "source_name": "Deccan Herald",
-      "source_priority": 4575,
-      "source_url": "https://www.deccanherald.com",
-      "source_icon": "https://i.newsdata.io/deccanherald.png",
-      "sentiment": "neutral",
+      "source_id": "thesundayguardian",
+      "source_name": "The Sunday Guardian",
+      "source_priority": 37169,
+      "source_url": "https://sundayguardianlive.com",
+      "source_icon": "https://i.newsdata.io/thesundayguardian.png",
+      "sentiment": "negative",
       "sentiment_stats": {
-        "negative": 5.81,
-        "neutral": 91.18,
-        "positive": 3.01
+        "negative": 93.96,
+        "neutral": 5.34,
+        "positive": 0.7
       },
       "ai_tag": [
-        "government",
-        "elections"
+        "conflicts & war",
+        "government"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -346,90 +419,44 @@
       "duplicate": false
     },
     {
-      "article_id": "85ffac505af24e6cbf6c810a6dcdc6a3",
-      "link": "https://www.koreaherald.com/article/10917631",
-      "title": "No Israel winner, but Netanyahu not defeated",
-      "description": "Israeli voters delivered a rebuke to Prime Minister Benjamin Netanyahu 's far-right and religious governing coalition, but exit polls Wednesday suggested the election had no clear winner and indicated that the long-serving Israeli leader was far from defeated after three years of war ignited on his watch. The exit polls suggested voters gave opponents of the current government a solid majority in the next parliament. But it's not clear if those disparate parties \u2014 which include Arab-led factions",
+      "article_id": "d3239d1b517f87bf19f2a7df4abbcf05",
+      "link": "https://www.haaretz.com/israel-news/elections/2026-10-28/ty-article/.premium/netanyahu-claims-victory-without-majority-declines-to-call-for-unity-govt/000001a1-80ee-def6-abff-ccfe81460000",
+      "title": "Netanyahu claims victory without majority, declines to call for unity gov't",
+      "description": "As exit polls cast doubt on his path to another term, Netanyahu claimed the right-wing bloc had a decisive majority and warned against letting foreign considerations distract Israel from confronting Iran",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "world"
+        "israeli elections",
+        "likud",
+        "israeli politics",
+        "benjamin netanyahu"
       ],
       "creator": [
-        "the korea herald"
+        "nir hasson"
       ],
       "language": "english",
       "country": [
-        "south korea"
-      ],
-      "category": [
-        "world"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 04:55:57",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 05:04:37",
-      "image_url": "https://wimg.heraldcorp.com/news/cms/2026/10/28/rcv.YNA.20261028.PEP20261028119201009_T1.jpg",
-      "video_url": null,
-      "source_id": "koreaherald",
-      "source_name": "The Korea Herald",
-      "source_priority": 15361,
-      "source_url": "http://www.koreaherald.com",
-      "source_icon": "https://i.newsdata.io/koreaherald.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 10.95,
-        "neutral": 88.18,
-        "positive": 0.87
-      },
-      "ai_tag": [
-        "politics",
-        "religion"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "6a72355663941322224904c50079847b",
-      "link": "https://www.newindianexpress.com/world/2026/Oct/28/netanyahu-bloc-leads-israeli-polls-after-50-per-cent-of-votes-counted-committee",
-      "title": "Netanyahu bloc leads Israeli polls after 50 per cent of votes counted: Committee",
-      "description": "The partial results are likely to change, and several exit polls showed the camps neck-and-neck without a majority.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "gadi eisenkot",
-        "benjamin netanayhu",
-        "knesset",
-        "world",
-        "israel elections"
-      ],
-      "creator": [
-        "agencies"
-      ],
-      "language": "english",
-      "country": [
-        "india"
+        "israel"
       ],
       "category": [
         "top",
         "politics"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-28 04:53:16",
+      "pubDate": "2026-10-28 09:31:54",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 07:04:21",
-      "image_url": "https://cf-images.assettype.com/newindianexpress/2026-10-28/6w0lqoe1/AP26301069753352.jpg",
+      "fetched_at": "2026-10-28 10:02:57",
+      "image_url": "https://img.haarets.co.il/bs/000001a1-80ee-def6-abff-ccfe84300006/ec/bb/6824ed2945198e5f15693c00560c/949333.jpg?width=108&height=81",
       "video_url": null,
-      "source_id": "newindianexpress",
-      "source_name": "The New Indian Express",
-      "source_priority": 15406,
-      "source_url": "https://www.newindianexpress.com/nation",
-      "source_icon": "https://i.newsdata.io/newindianexpress.jpg",
+      "source_id": "haaretz_is",
+      "source_name": "Haaretz",
+      "source_priority": 9051,
+      "source_url": "https://www.haaretz.com",
+      "source_icon": "https://i.newsdata.io/haaretz_is.png",
       "sentiment": "neutral",
       "sentiment_stats": {
-        "negative": 1.06,
-        "neutral": 93.48,
-        "positive": 5.46
+        "negative": 19.49,
+        "neutral": 77.7,
+        "positive": 2.81
       },
       "ai_tag": [
         "elections",
@@ -439,56 +466,7 @@
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
       "duplicate": false
-    },
-    {
-      "article_id": "7a96ab877344b63998f5aa31033bf613",
-      "link": "https://www.newindianexpress.com/world/2026/Oct/28/as-votes-are-counted-no-clear-winner-emerges-in-israels-election",
-      "title": "As votes are counted, no clear winner emerges in Israel's election",
-      "description": "The counts from Israel's Central Elections Committee kept coming in early Wednesday morning. The results are still partial as more voting stations are counted.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "world",
-        "israel elections",
-        "knesset",
-        "benjamin netanayhu",
-        "gadi eisenkot"
-      ],
-      "creator": [
-        "associated press"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "top",
-        "politics"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 04:53:16",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 05:04:24",
-      "image_url": "https://cf-images.assettype.com/newindianexpress/2026-10-28/vigjrkqg/AP26300361959344.jpg",
-      "video_url": null,
-      "source_id": "newindianexpress",
-      "source_name": "The New Indian Express",
-      "source_priority": 15406,
-      "source_url": "https://www.newindianexpress.com/nation",
-      "source_icon": "https://i.newsdata.io/newindianexpress.jpg",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 1.5,
-        "neutral": 97.91,
-        "positive": 0.59
-      },
-      "ai_tag": [
-        "elections"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
     }
   ],
-  "nextPage": "1793163196142081076"
+  "nextPage": "1793179914539670101"
 }

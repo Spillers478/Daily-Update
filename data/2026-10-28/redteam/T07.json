@@ -1,19 +1,45 @@
 {
   "articles": [
     {
+      "title": "UN hails Nigeria\u2019s pioneering disarmament initiative",
+      "url": "https://nigeriannewsdirect.com/un-hails-nigerias-pioneering-disarmament-initiative/",
+      "description": "The United Nations has acknowledged Nigeria\u2019s pioneering contribution to global disarmament diplomacy, revealing that a fellowship programme\u2026",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Nigeriannewsdirectcom"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USAFRICOM",
+      "_original_topic_id": "T03"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AFP",
+      "title": "UN nuclear watchdog chief urges Iran to grant access",
+      "description": "IAEA chief Rafael Grossi urged Iran to immediately grant inspectors access to its nuclear facilities and materials to verify its nuclear programme. The IAEA has been unable to access key sites since Israeli and US strikes in June 2025, while further attacks h\u2026",
+      "url": "https://economictimes.indiatimes.com/news/defence/un-nuclear-watchdog-chief-urges-iran-to-grant-access/articleshow/135244004.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-135244059,width-1200,height-900,imgsize-54400,overlay-etdefence/articleshow.jpg",
+      "publishedAt": "2026-10-27T18:37:12Z",
+      "content": "United Nations: IAEA chief Rafael Grossi urged Iran during a UN Security Council meeting on Tuesday to grant immediate access to his agency so it can verify the Islamic republic's nuclear materials.T\u2026 [+2471 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
       "source": {
         "id": null,
-        "name": "Wnd.com"
+        "name": "OilPrice.com"
       },
-      "author": "Daily Caller News Foundation",
-      "title": "\u2018Extremely destabilizing development\u2019: France pushes the envelope on global nuclear war",
-      "description": "'Generally speaking, the more nuclear weapons are out there in the world, the more likely the risk of accidental usage or unintended escalation'",
-      "url": "https://www.wnd.com/2026/10/extremely-destabilizing-development-france-pushes-envelope-global-nuclear/",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2019/10/nuclear-missile-launch-minmuteman-III-ICBM-adam-hartman-US-Defense-Department-photo-1200x630.jpg",
-      "publishedAt": "2026-10-27T12:55:59Z",
-      "content": "France is preparing to expand its nuclear arsenal and potentially deploy nuclear-capable fighter jets across Europe, raising the stakes of a confrontation with Russia as Moscow warns the initiative c\u2026 [+6687 chars]",
-      "cocom": "USEUCOM",
-      "_original_topic_id": "flagship-ru-ua"
+      "author": "RFE/RL staff",
+      "title": "Iran Turns to Russia for Nuclear Power as IAEA Oversight Falters",
+      "description": "Russia and Iran are expanding their nuclear cooperation as both countries face Western sanctions and international isolation. Their partnership includes the construction of nuclear power plants, fuel supplies, and broader technological cooperation. While Bush\u2026",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/Iran-Turns-to-Russia-for-Nuclear-Power-as-IAEA-Oversight-Falters.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-26_jub2gyi7pb.jpg",
+      "publishedAt": "2026-10-27T14:00:00Z",
+      "content": "A surge in attacks by\u2026\r\nThe Hormuz crisis is tightening\u2026\r\nOverall, for the month of\u2026\r\nBy RFE/RL staff - Oct 27, 2026, 9:00 AM CDTRussia and Iran are expanding their nuclear cooperation as both countr\u2026 [+7572 chars]",
+      "cocom": "USCENTCOM"
     },
     {
       "source": {
@@ -27,20 +53,6 @@
       "urlToImage": "https://www.wnd.com/wp-content/uploads/2019/10/nuclear-missile-launch-minmuteman-III-ICBM-adam-hartman-US-Defense-Department-photo-1200x630.jpg",
       "publishedAt": "2026-10-27T12:55:59Z",
       "content": "France is preparing to expand its nuclear arsenal and potentially deploy nuclear-capable fighter jets across Europe, raising the stakes of a confrontation with Russia as Moscow warns the initiative c\u2026 [+6687 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Caller"
-      },
-      "author": "Francis Kapper",
-      "title": "France Pushes The Envelope On Global Nuclear War",
-      "description": "France is preparing to expand its nuclear arsenal and potentially deploy nuclear-capable fighter jets across Europe.",
-      "url": "https://dailycaller.com/2026/10/27/france-pushes-the-envelope-on-global-nuclear-war",
-      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/GettyImages-2285296022%20(1).jpg",
-      "publishedAt": "2026-10-27T12:00:26Z",
-      "content": "France is preparing to expand its nuclear arsenal and potentially deploy nuclear-capable fighter jets across Europe, raising the stakes of a confrontation with Russia as Moscow warns the initiative c\u2026 [+6595 chars]",
       "cocom": "USEUCOM"
     }
   ]

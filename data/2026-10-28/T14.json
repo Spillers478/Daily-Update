@@ -1,7 +1,72 @@
 {
   "status": "ok",
-  "totalResults": 17,
+  "totalResults": 22,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Reuters",
+      "title": "Flavio Bolsonaro leaves Brazil for US after election defeat and passport order",
+      "description": "Brazilian Senator Flavio Bolsonaro has left for the US after losing Brazil\u2019s presidential election, with questions over a Supreme Court passport order.",
+      "url": "https://www.thehindubusinessline.com/news/world/flavio-bolsonaro-leaves-brazil-for-us-after-election-defeat-and-passport-order/article71633240.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/y1hrez/article71633242.ece/alternates/LANDSCAPE_1200/2026-10-26T022201Z_878003507_RC2PAOAYPYXJ_RTRMADP_3_BRAZIL-ELECTION.JPG",
+      "publishedAt": "2026-10-27T19:50:19Z",
+      "content": "Brazilian Senator Flavio Bolsonaro has left the country for the United States after losing Sundays presidential election and refusing to comply with a Supreme Court order to surrender his passports, \u2026 [+2894 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Protothema.gr"
+      },
+      "author": "\u0391\u03bb\u03b5\u03be\u03af\u03b1 \u0391\u03bc\u03b2\u03c1\u03ac\u03b6\u03b7",
+      "title": "Turkey rejects claims of concessions to Greece after opposition leader attacks Erdo\u011fan and Fidan over Aegean policy",
+      "description": "Turkish Foreign Ministry insists its positions in the Aegean and Eastern Mediterranean remain unchanged \u2013 Opposition leader \u00d6zg\u00fcr \u00d6zel accuses Ankara of diplomatic failures, saying Greece\u2019s maritime agreement with Egypt is internationally accepted while Turke\u2026",
+      "url": "https://en.protothema.gr/2026/10/27/turkey-rejects-claims-of-concessions-to-greece-after-opposition-leader-attacks-erdogan-and-fidan-over-aegean-policy/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/10/zel_chp-1.jpg",
+      "publishedAt": "2026-10-27T19:12:57Z",
+      "content": "Turkeys Foreign Ministry has rejected accusations that Ankara has made concessions to Greece in the Aegean and Eastern Mediterranean, responding to a fierce attack by opposition leader \u00d6zg\u00fcr \u00d6zel aga\u2026 [+11063 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Shouting match erupts at UN as Cuban foreign minister moves toward US ambassador's podium: 'Back up!'",
+      "description": "United Nations Ambassador Mike Waltz told Cuba's foreign minister to \"back up\" after he approached the podium as Waltz was making his address.",
+      "url": "https://www.foxnews.com/politics/shouting-match-erupts-un-cuban-foreign-minister-moves-toward-us-ambassadors-podium-back-up",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/waltz-michael-united-nations.jpg",
+      "publishedAt": "2026-10-27T18:58:33Z",
+      "content": "U.S. Ambassador to the United Nations Mike Waltz told Cuba's foreign minister to \"back up\" Tuesday after the Cuban diplomat approached the podium and interrupted his remarks on the floor of the U.N. \u2026 [+2327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "By Ricardo Brito and Gram Slattery",
+      "title": "Bolsonaro leaves Brazil for U.S. after presidential election loss, sources say",
+      "description": "By Ricardo Brito and Gram Slattery SAO PAULO, Oct 27 (Reuters) - Brazilian Senator Flavio Bolsonaro has left the country for the United States after losing Sunday's presidential election and refusing to comply with a \u200cSupreme Court order to hand over his pass\u2026",
+      "url": "https://www.yahoo.com/news/world/articles/brazil-wonders-where-earth-flavio-154803613.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b07f7212a1e30d03d456818f7e81b367b6f1656b5cf516c02a36ae9e4c61c741/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff4f58a504a16a9be1ca653889c7f02d2.jpg",
+      "publishedAt": "2026-10-27T18:43:31Z",
+      "content": "By Ricardo Brito and Gram Slattery\r\nSAO PAULO, Oct 27 (Reuters) - Brazilian Senator Flavio Bolsonaro has left the country for the United States after losing Sunday's presidential election and refusin\u2026 [+2754 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "HuffPost",
+      "title": "Flavio Bolsonaro Leaves Brazil For US After Election Defeat, Sources Say",
+      "description": "It was not immediately clear where Bolsonaro was heading, what time he would arrive or whether he would seek asylum.",
+      "url": "https://www.huffpost.com/entry/flavio-bolsonaro-leaves-brazil-for-us-after-election-defeat-sources-say_n_6ae0ea16e4b096363dd1e403",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6ae0ea7d140000838be01784.jpeg?cache=8OBa6wpCiE&ops=1200_630",
+      "publishedAt": "2026-10-27T18:19:13Z",
+      "content": "SAO PAULO, Oct 27 (Reuters) - Brazilian Senator Flavio Bolsonaro has left the country for the United States after losing Sundays presidential election and refusing to comply with a Supreme Court orde\u2026 [+2986 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -224,6 +289,83 @@
       "content": "US forces in the Middle East are prepared to launch new, potentially major, military operations against Iran within 96 hours of receiving an order from President Donald Trump, according to two US off\u2026 [+6795 chars]"
     },
     {
+      "title": "Raceballs 26: Genocideballs",
+      "url": "https://www.politicsweb.co.za/news/raceballs-26-genocideballs",
+      "description": "How the media, and others, re-framed a commemoration of thousands of murder victims as unhinged atrocity propaganda",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Politicsweb"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "PPP slams defense minister over remarks on trusting U.S. forces in event of war with North Korea",
+      "url": "https://www.koreajoongangdaily.com/korea/ppp-slams-defense-minister-over-remarks-on-trusting-us-forces-in-event-of-war-with-north-korea/12942830",
+      "description": "The People Power Party (PPP) accused Defense Minister Kang Shin-chul of undermining the alliance after questioning whether South Korea can 'really trust the U.S. military' if war broke out with the North.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Koreajoongangdaily Joins News"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Knifeman 'screaming 'Allahu Akbar' attacks officer outside embassy' in Serbia",
+      "url": "https://www.express.co.uk/news/world/2261025/knifeman-screaming-allahu-akbar-attacks",
+      "description": "Police are treating the incident as a \"terrorist attack\".",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Express"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Costa Rica Arrests Suspect in US Man\u2019s Death",
+      "url": "https://www.riotimesonline.com/costa-rica-arrests-main-suspect-us-man-killing-playas-del-coco-2026/",
+      "description": "Costa Rica's judicial police arrested a 22-year-old woman on 27 October as the main suspect in the killing of US citizen Marc Fleming in Guanacaste. The post Costa Rica Arrests Suspect in US Man\u2019s Death appeared first on The Rio Times.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "The Rio Times"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Russia denies role in Carfil industrial platform fire after ambassador summoned in Bucharest",
+      "url": "https://www.romania-insider.com/russia-denies-role-carfil-industrial-platform-fire-ambassador",
+      "description": "Romania said evidence links Moscow to the alleged sabotage operation, while the Russian Embassy claimed the accusation is unfounded.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Romania Insider"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "US-Israel-Iran War Latest News: International Atomic Energy Agency Chief Rafael Grossi Urges Iran to Cooperate; Iran Accuses US and Israel of War Crimes",
+      "url": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-news-international-atomic-energy-agency-chief-rafael-grossi-urges-iran-to-cooperate-iran-accuses-us-and-israel-of-war-crimes-313101/",
+      "description": "Rafael Grossi, the head of the International Atomic Energy Agency, has stated that Iran has not provided any information regarding its previously declared nuclear facilities and called on the country for cooperation. Meanwhile, Iran has said that the US and Israel are guilty of war crimes. The post US-Israel-Iran War Latest News: International Atomic Energy Agency Chief Rafael Grossi Urges Iran to Cooperate; Iran Accuses US and Israel of War Crimes appeared first on The Sunday Guardian.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "The Sunday Guardian"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Convicted ISIS terrorist linked to alleged Bondi gunman Naveed Akram set to walk free from prison",
+      "url": "https://thenightly.com.au/australia/convicted-isis-terrorist-linked-to-alleged-bondi-gunman-naveed-akram-set-to-walk-free-from-prison-c-23083954",
+      "description": "A convicted terrorist with links to the alleged Bondi Beach massacre gunman is set to walk free from prison on Sunday, despite authorities having the power to seek an extension of his detention.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "The Nightly"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
       "title": "PPP slams defense minister over remarks on trusting US forces in event of war with N. Korea",
       "url": "https://www.koreatimes.co.kr/southkorea/politics/20261028/ppp-slams-defense-minister-over-remarks-on-trusting-us-forces-in-event-of-war-with-n-korea",
       "description": "The main opposition People Power Party (PPP) on Wednesday accused Defense Minister Kang Shin-chul of undermining the South Korea-U.S. alliance over...",
@@ -253,83 +395,6 @@
       "publishedAt": "",
       "source": {
         "name": "Los Angeles Daily News"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "Terrorist linked to alleged Bondi Beach gunman Naveed Akram to walk free in days",
-      "url": "https://www.news24.com.au/national/crime/convicted-terrorist-with-links-to-bondi-beach-accused-shooter-naveed-akram-and-hate-preacher-wissam-haddad-to-walk-free-in-days/news-story/d5ca1dc594c5669d830ada4094b99b28",
-      "description": "A convicted terrorist who was a known associate of Naveed Akram, one of the alleged Bondi shooters, is set to walk free on Sunday after the Albanese government failed to keep him behind bars.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "News24"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "China downgrades envoy to South-east Asian meeting after sea row",
-      "url": "https://www.straitstimes.com/asia/china-downgrades-envoy-to-south-east-asian-meeting-after-sea-row",
-      "description": "Beijing will be represented by the defence attache of the Chinese embassy to the Philippines.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Straitstimes"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "Trump administration grants visa to fascist Fl\u00e1vio Bolsonaro",
-      "url": "https://www.wsws.org/en/articles/2026/10/28/dwks-o28.html",
-      "description": "By granting a visa to an aspiring dictator under criminal investigation, the US government has exploded whatever \u201clegal\u201d pretense it has used to justify its repressive immigration policies.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "World Socialist Web Site"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "Congo Ebola outbreak surpasses 10,000 cases as infections spread across borders",
-      "url": "https://canadianinquirer.net/2026/10/28/congo-ebola-outbreak-surpasses-10000-cases-as-infections-spread-across-borders/",
-      "description": "Floyd Brenz., Philippine Canadian Inquirer October 28, 2026 The Democratic Republic of Congo is facing its deadliest Ebola outbreak on record, with confirmed infections exceeding 10,000 and concerns mounting over [\u2026] The post Congo Ebola outbreak surpasses 10,000 cases as infections spread across borders appeared first on Philippine Canadian Inquirer.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Philippine Canadian Inquirer"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "Absence of political consensus 20 years after LTTE\u2019s eradication: Whom to blame!",
-      "url": "http://island.lk/absence-of-political-consensus-20-years-after-lttes-eradication-whom-to-blame/",
-      "description": "By Shamindra Ferdinando Last week\u2019s Midweek piece, headlined \u2018Nobel Peace Prize for Pillay draws global attention to Eelam War,\u2019 prompted one of the writer\u2019s ex-colleagues, now serving a foreign media group, to raise the failure on the part of Sri Lanka to achieve genuine post-war reconciliation and real development (https://island.lk/nobel-peace-prize-for-pillay-draws-global-attention-to-eelam-war/). He raised pertinent questions: But [\u2026]",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "The Island"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "Members push to revive SAARC, but India holds firm",
-      "url": "https://kathmandupost.com/national/2026/10/28/members-push-to-revive-saarc-but-india-holds-firm-1793201957",
-      "description": "Twelve years since the last summit, the bloc remains paralysed by deep-seated rivalry between India and Pakistan, and the requirement for unanimous consent among its eight members.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Kathmandupost"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "In Full: Netflix UK\u2019s most-watched TV shows and films (October 19-25)",
-      "url": "https://mediamole.co.uk/tv/in-full-netflix-uks-most-watched-tv-shows-and-films-october-19-25/45979/",
-      "description": "The top-ranked 10 films and TV shows on Netflix UK for last week.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Media Mole"
       },
       "_provider": "newsdata.io"
     }

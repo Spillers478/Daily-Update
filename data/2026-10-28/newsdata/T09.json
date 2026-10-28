@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 6,
   "results": [
     {
       "article_id": "2b93fec677ed06e62b27850176b62092",
@@ -324,51 +324,6 @@
       },
       "ai_tag": [
         "television"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "7d0a13f239f12ba509abe0f817a93a82",
-      "link": "https://radaronline.com/p/brian-kilmeade-goes-off-trump-ally-branding-vladimir-putin-humanitarian/",
-      "title": "'I Cannot Believe This': Fox News' Brian Kilmeade Goes Off on Trump Ally for Branding Vladimir Putin a 'Humanitarian'",
-      "description": "'The Russians must be laughing their heads off,' Kilmeade said.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "politics news"
-      ],
-      "creator": [
-        "patrick previty"
-      ],
-      "language": "english",
-      "country": [
-        "united states of america"
-      ],
-      "category": [
-        "politics"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-26 17:23:34",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 18:06:42",
-      "image_url": "https://media.radaronline.com/brand-img/8lxzIdIgQ/0x0/brian-kilmeade-goes-off-on-trump-ally-for-branding-putin-a-humanitarian-1-1792998063240.jpg",
-      "video_url": null,
-      "source_id": "radaronline",
-      "source_name": "Radaronline",
-      "source_priority": 26640,
-      "source_url": "https://radaronline.com",
-      "source_icon": "https://i.newsdata.io/radaronline.png",
-      "sentiment": "negative",
-      "sentiment_stats": {
-        "negative": 95.7,
-        "neutral": 3.22,
-        "positive": 1.08
-      },
-      "ai_tag": [
-        "politics",
-        "government"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",

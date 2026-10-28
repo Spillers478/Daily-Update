@@ -3,17 +3,57 @@
     {
       "source": {
         "id": null,
-        "name": "The Intercept"
+        "name": "Abcnews.com"
       },
-      "author": "Nick Turse",
-      "title": "Pentagon Fears Drone Attacks on U.S. and Foreign Bases",
-      "description": "Government officials said a series of recent attacks and threats have highlighted the vulnerability of U.S. military bases.\nThe post Pentagon Fears Drone Attacks on U.S. and Foreign Bases appeared first on The Intercept.",
-      "url": "https://theintercept.com/2026/10/27/pentagon-drone-attacks-military-bases/",
-      "urlToImage": "https://theintercept.com/wp-content/uploads/2026/10/GettyImages-2297963428-e1793050647362.jpg?fit=5805%2C2903&w=1200&h=800",
-      "publishedAt": "2026-10-27T15:00:07Z",
-      "content": "Top defense officials are expressing increasing worry about the vulnerability of U.S. bases around the world and even within the United States as cheap drone technology upends long-standing defense s\u2026 [+13237 chars]",
+      "author": "NICOLE WINFIELD Associated Press",
+      "title": "Pope says 'there is no such thing as a holy war' in message to religious leaders",
+      "description": "Pope Leo XIV has denounced the religious justification for wars raging around the world, saying \u201cthere is no such thing as a holy war.\u201d",
+      "url": "https://abcnews.com/International/wireStory/pope-thing-holy-war-message-religious-leaders-137610698",
+      "urlToImage": "https://i.abcnewsfe.com/a/22307cb1-353a-4f24-88de-2aa0b9444005/wirestory_f6b88a4526364c4302c5b783e20edb01_16x9.jpg?w=1600",
+      "publishedAt": "2026-10-27T18:31:47Z",
+      "content": "ROME -- ROME (AP) Pope Leo XIV on Tuesday denounced any religious justification for wars raging around the world, saying there is no such thing as a holy war.\r\nOnly peace is holy, Leo said in a video\u2026 [+3667 chars]",
       "cocom": "Transregional",
       "_original_topic_id": "flagship-ru-ua"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Matt Ford",
+      "title": "Jordan acknowledges civilian casualties in Syria airstrike against 'Islamic State'",
+      "description": "A Jordanian government spokesman has expressed \"regret\" over civilian casualties in an airstrike it said was targeting \"IS\" militants.",
+      "url": "https://www.dw.com/en/jordan-acknowledges-civilian-casualties-in-syria-airstrike-against-islamic-state/a-79775653",
+      "urlToImage": "https://static.dw.com/image/79776116_6.jpg",
+      "publishedAt": "2026-10-27T12:16:00Z",
+      "content": "The Jordanian government admitted on Tuesday that a number of civilians had been killed in airstrikes conducted against so-called \"Islamic State\" militants in southern Syria on Monday night.\r\nThe Jor\u2026 [+3033 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Jordan launches air strikes in Syria in response to a fatal church shooting",
+      "description": "Syria denies prior coordination with Jordan after deadly air strikes hit two provinces, killing at least seven people.",
+      "url": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6adfe116-1793057046.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-26T23:50:11Z",
+      "content": "Jordan has carried out air attacks in Syria against what it described as hideouts for armed groups, killing at least seven people, including a woman and children, according to initial reports.\r\nOn Mo\u2026 [+2623 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "title": "KP governor condemns Afghan Taliban shelling on civilian areas in South Waziristan",
+      "url": "https://arynews.tv/kp-governor-condemns-afghan-taliban-shelling-on-civilian-areas-in-south-waziristan",
+      "description": "KP governor condemns Afghan Taliban shelling on civilian areas in South Waziristan",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Ary News"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USCENTCOM"
     },
     {
       "title": "One killed, five injured in Afghan Taliban shelling in South Waziristan: security sources",
@@ -100,28 +140,34 @@
       "cocom": "USINDOPACOM"
     },
     {
-      "title": "Source details story of civilians killed in Jordanian airstrike in southern Syria",
-      "url": "https://en.ammonnews.net/article/96594",
-      "description": "An informed source said that the civilians killed in a Jordanian airstrike in southern Syria on Monday evening were staying in a tent near a terrorist target being engaged by the Jordanian Armed Forces. The source stressed that the tent was not a target and had not been directly targeted, and it also...",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
       "source": {
-        "name": "Ammon News"
+        "id": null,
+        "name": "Abcnews.com"
       },
-      "_provider": "newsdata.io",
-      "cocom": "USCENTCOM"
+      "author": "YASSIR ABDALLA Associated Press",
+      "title": "Large parts of Sudan's capital lose power after drone attack",
+      "description": "A drone strike hits a major power substation in Sudan's capital, leaving large parts of the city without electricity for over 12 hours",
+      "url": "https://abcnews.com/International/wireStory/large-parts-sudans-capital-lose-power-after-drone-137614732",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2026-10-27T20:15:27Z",
+      "content": "SHENDI, Sudan -- Large parts of Sudans capital were without electricity for more than 12 hours Tuesday after a drone strike on a major power substation, according to an electric company official. \r\nT\u2026 [+3436 chars]",
+      "cocom": "USAFRICOM",
+      "_original_topic_id": "T02"
     },
     {
-      "title": "Jordan acknowledges civilian casualties in Syria airstrike against 'Islamic State'",
-      "url": "https://www.dw.com/en/jordan-acknowledges-civilian-casualties-in-syria-airstrike-against-islamic-state/a-79775653?maca=en-rss-en-all-1573-rdf",
-      "description": "A Jordanian government spokesman has expressed \"regret\" over civilian casualties in an airstrike it said was targeting \"IS\" militants.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
       "source": {
-        "name": "Dw Akademie"
+        "id": null,
+        "name": "UN News"
       },
-      "_provider": "newsdata.io",
-      "cocom": "USCENTCOM"
+      "author": "United Nations",
+      "title": "Myanmar\u2019s Conflict Death Toll Surpasses 100,000, Third Committee Hears, as South Sudan\u2019s Elections Risk Triggering War",
+      "description": "Myanmar\u2019s military has intensified attacks on civilians as the country\u2019s death toll since the 2021 coup surpassed 100,000, United Nations experts warned the Third Committee (Social, Humanitarian and Cultural) today, while a separate investigation cautioned th\u2026",
+      "url": "https://press.un.org/en/2026/ga/shc4451.doc.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-10-27T20:42:14Z",
+      "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T05"
     },
     {
       "source": {
@@ -156,17 +202,17 @@
     {
       "source": {
         "id": null,
-        "name": "Antiwar.com"
+        "name": "Freerepublic.com"
       },
-      "author": "David Stockman",
-      "title": "Russia Is No Threat to America",
-      "description": "When you boil down the essence of the alleged Russian military threat to America\u2019s homeland security it amounts to just plain barking idiocy; it\u2019s so out to lunch as to be offensive to even a modicum of human intelligence. As we have seen in Parts 1 & 2, any \u2026",
-      "url": "https://original.antiwar.com/david_stockman/2026/10/25/russia-is-no-threat-to-america/",
-      "urlToImage": "https://dyn3qbr4ue2vr.cloudfront.net/2026/10/russia-us-ds.jpg",
-      "publishedAt": "2026-10-26T00:00:38Z",
-      "content": "When you boil down the essence of the alleged Russian military threat to Americas homeland security it amounts to just plain barking idiocy; its so out to lunch as to be offensive to even a modicum o\u2026 [+22526 chars]",
-      "cocom": "USNORTHCOM",
-      "_original_topic_id": "T10"
+      "author": "Epoch Times",
+      "title": "UK Must Be Ready for War in 1,000 Days, Says British Defense Secretary",
+      "description": "Wes Streeting\u2019s remarks were made following the launch of a government campaign urging Brits to stock up with emergency supplies. British Defense Secretary Wes Streeting has said the country must be ready for war in 1,000 days, after the government advised ci\u2026",
+      "url": "https://freerepublic.com/focus/f-news/4400806/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-10-27T19:23:18Z",
+      "content": "Skip to comments.\r\nUK Must Be Ready for War in 1,000 Days, Says British Defense SecretaryEpoch Times ^\r\n | 10/26/2026\r\n | Rachel Roberts\r\nPosted on 10/27/2026 12:23:18 PM PDT by george76\r\nWes Streeti\u2026 [+8253 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T12"
     },
     {
       "source": {
@@ -180,43 +226,32 @@
       "urlToImage": "https://theintercept.com/wp-content/uploads/2026/10/GettyImages-2297963428-e1793050647362.jpg?fit=5805%2C2903&w=1200&h=800",
       "publishedAt": "2026-10-27T15:00:07Z",
       "content": "Top defense officials are expressing increasing worry about the vulnerability of U.S. bases around the world and even within the United States as cheap drone technology upends long-standing defense s\u2026 [+13237 chars]",
-      "cocom": "Transregional",
+      "cocom": "USNORTHCOM",
       "_original_topic_id": "T12"
     },
     {
-      "title": "Drone Strikes Kill Couple Fleeing Clinic, Father With Four Children, in Tigray's Medebay Terer",
-      "url": "https://allafrica.com/stories/202610280040.html",
-      "description": "[Addis Standard] Addis Abeba -- Two drone strikes in Medebay Terer, Tahtay Koraro woreda in northwestern Tigray, killed seven civilians, including an eight-year-old girl, and injured six others on October 9 and October 21, residents told Addis Standard.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
       "source": {
-        "name": "Allafrica Ethiopia"
+        "id": null,
+        "name": "Protothema.gr"
       },
-      "_provider": "newsdata.io",
-      "cocom": "USAFRICOM",
-      "_original_topic_id": "T13"
-    },
-    {
-      "title": "PPP slams defense minister over remarks on trusting US forces in event of war with N. Korea",
-      "url": "https://www.koreatimes.co.kr/southkorea/politics/20261028/ppp-slams-defense-minister-over-remarks-on-trusting-us-forces-in-event-of-war-with-n-korea",
-      "description": "The main opposition People Power Party (PPP) on Wednesday accused Defense Minister Kang Shin-chul of undermining the South Korea-U.S. alliance over...",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "The Korea Times"
-      },
-      "_provider": "newsdata.io",
-      "cocom": "USINDOPACOM",
+      "author": "\u0391\u03bb\u03b5\u03be\u03af\u03b1 \u0391\u03bc\u03b2\u03c1\u03ac\u03b6\u03b7",
+      "title": "Turkey rejects claims of concessions to Greece after opposition leader attacks Erdo\u011fan and Fidan over Aegean policy",
+      "description": "Turkish Foreign Ministry insists its positions in the Aegean and Eastern Mediterranean remain unchanged \u2013 Opposition leader \u00d6zg\u00fcr \u00d6zel accuses Ankara of diplomatic failures, saying Greece\u2019s maritime agreement with Egypt is internationally accepted while Turke\u2026",
+      "url": "https://en.protothema.gr/2026/10/27/turkey-rejects-claims-of-concessions-to-greece-after-opposition-leader-attacks-erdogan-and-fidan-over-aegean-policy/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/10/zel_chp-1.jpg",
+      "publishedAt": "2026-10-27T19:12:57Z",
+      "content": "Turkeys Foreign Ministry has rejected accusations that Ankara has made concessions to Greece in the Aegean and Eastern Mediterranean, responding to a fierce attack by opposition leader \u00d6zg\u00fcr \u00d6zel aga\u2026 [+11063 chars]",
+      "cocom": "USEUCOM",
       "_original_topic_id": "T14"
     },
     {
-      "title": "China downgrades envoy to South-east Asian meeting after sea row",
-      "url": "https://www.straitstimes.com/asia/china-downgrades-envoy-to-south-east-asian-meeting-after-sea-row",
-      "description": "Beijing will be represented by the defence attache of the Chinese embassy to the Philippines.",
+      "title": "PPP slams defense minister over remarks on trusting U.S. forces in event of war with North Korea",
+      "url": "https://www.koreajoongangdaily.com/korea/ppp-slams-defense-minister-over-remarks-on-trusting-us-forces-in-event-of-war-with-north-korea/12942830",
+      "description": "The People Power Party (PPP) accused Defense Minister Kang Shin-chul of undermining the alliance after questioning whether South Korea can 'really trust the U.S. military' if war broke out with the North.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "Straitstimes"
+        "name": "Koreajoongangdaily Joins News"
       },
       "_provider": "newsdata.io",
       "cocom": "USINDOPACOM",

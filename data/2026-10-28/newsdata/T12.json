@@ -1,109 +1,18 @@
 {
   "status": "success",
-  "totalResults": 203,
+  "totalResults": 213,
   "results": [
     {
-      "article_id": "3ce8bb2f44ec26d9967740d752b1dc63",
-      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/",
-      "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies",
-      "description": "The CrowdStrike 2026 Legal Threat Landscape Report analyzes the key themes, trends, and events shaping the legal sector threat landscape.",
+      "article_id": "40184b49b38961d16c80737da1a53377",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/28/neocloud-thinks-ai-agents-not-meatbags-will-be-its-main-customers/5305496",
+      "title": "Neocloud thinks AI agents - not meatbags - will be its main customers",
+      "description": "Quake AI is developing APIs to let autonomous agents access its services more efficiently",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "threat hunting & intel"
+        "ai and ml"
       ],
       "creator": [
-        "counter adversary operations"
-      ],
-      "language": "english",
-      "country": [
-        "united states of america"
-      ],
-      "category": [
-        "technology"
-      ],
-      "datatype": "blog",
-      "pubDate": "2026-10-28 05:00:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 12:31:42",
-      "image_url": null,
-      "video_url": null,
-      "source_id": "crowdstrike",
-      "source_name": "Crowdstrike Holdings, Inc.",
-      "source_priority": 2721,
-      "source_url": "https://www.crowdstrike.com",
-      "source_icon": "https://i.newsdata.io/crowdstrike.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 35.24,
-        "neutral": 63.8,
-        "positive": 0.96
-      },
-      "ai_tag": [
-        "cybercrime and cybersecurity",
-        "government"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "686bc617e5cc4ff795dae6b4d37d7fed",
-      "link": "https://www.globenewswire.com/fr/news-release/2026/10/28/3389843/0/en/otsuka-corporation-and-acronis-launch-new-cloud-backup-service.html",
-      "title": "OTSUKA CORPORATION and Acronis Launch New Cloud Backup Service",
-      "description": "OTSUKA CORPORATION and Acronis Launch New Cloud Backup Service",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "partnerships",
-        "product / services announcement"
-      ],
-      "creator": [
-        "acronis",
-        "inc."
-      ],
-      "language": "english",
-      "country": [
-        "france"
-      ],
-      "category": [
-        "business"
-      ],
-      "datatype": "pressrelease",
-      "pubDate": "2026-10-28 05:00:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 05:04:20",
-      "image_url": null,
-      "video_url": null,
-      "source_id": "globenewswire_fr",
-      "source_name": "Globenewswire_fr",
-      "source_priority": 2022,
-      "source_url": "https://www.globenewswire.com/fr",
-      "source_icon": "https://i.newsdata.io/globenewswire_fr.jpg",
-      "sentiment": "positive",
-      "sentiment_stats": {
-        "negative": 0.8,
-        "neutral": 3.51,
-        "positive": 95.69
-      },
-      "ai_tag": [
-        "telecom"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "45bc9e845caaa1adb842b833c0dfb4f6",
-      "link": "https://www.theregister.com/systems/2026/10/28/sk-hynix-says-memory-shortages-to-persist-until-2030/5305887",
-      "title": "SK Hynix says memory shortages to persist until 2030",
-      "description": "Good for its bottom line, not great news for yours, or for the PC and smartphone markets",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "systems"
-      ],
-      "creator": [
-        "simon sharwood"
+        "dan robinson"
       ],
       "language": "english",
       "country": [
@@ -114,25 +23,24 @@
         "technology"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-28 04:21:23",
+      "pubDate": "2026-10-28 09:30:00",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 05:05:43",
-      "image_url": "https://image.theregister.com/5305894.webp?width=1200",
+      "fetched_at": "2026-10-28 09:34:46",
+      "image_url": "https://image.theregister.com/5239850.webp?width=1200",
       "video_url": null,
       "source_id": "theregister",
       "source_name": "The Register",
       "source_priority": 27110,
       "source_url": "https://www.theregister.com",
       "source_icon": "https://i.newsdata.io/theregister.png",
-      "sentiment": "negative",
+      "sentiment": "positive",
       "sentiment_stats": {
-        "negative": 92.99,
-        "neutral": 6.3,
-        "positive": 0.71
+        "negative": 1.48,
+        "neutral": 23.58,
+        "positive": 74.94
       },
       "ai_tag": [
-        "e-commerce",
-        "technology"
+        "artificial intelligence"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -140,92 +48,95 @@
       "duplicate": false
     },
     {
-      "article_id": "1b3c01eef47a02deae3a8e71f98d0e34",
-      "link": "https://www.governing.com/artificial-intelligence/governments-brace-for-new-normal-after-php-cybersecurity-scare",
-      "title": "Governments Brace for New Normal After PHP Cybersecurity Scare",
-      "description": "The discovery of two critical flaws in a foundational programming language led governments and companies around the world to take down their websites last week. State and local leaders are preparing for AI to unlock a new world of constant vigilance and heightened cyber risks.",
+      "article_id": "b69b4eb9a56f256a68715b3f9749a74c",
+      "link": "https://thenextweb.com/news/fec-hacker-breach-filing-system-offline",
+      "title": "US Federal Election Commission filing system down before midterms",
+      "description": "The US Federal Election Commission (FEC) has taken its electronic filing system offline following an attempted cyberattack, Reuters reported on Tuesday, citing an internal email. The disruption comes a week before the November 3 midterm elections and has temporarily blocked political groups from submitting campaign finance reports. According to them, an FEC electronic filings officer [\u2026] This story continues at The Next Web",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "cybersecurity"
+        "security",
+        "united states"
       ],
       "creator": [
-        "jule pattison-gordon"
+        "ana-maria stanciuc"
+      ],
+      "language": "english",
+      "country": [
+        "united kingdom"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:23:48",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 09:38:17",
+      "image_url": "https://media.thenextweb.com/2026/10/fec-headquarters-glass-office-building-washington.avif",
+      "video_url": null,
+      "source_id": "thenextweb",
+      "source_name": "Tnw",
+      "source_priority": 55704,
+      "source_url": "https://thenextweb.com/uk",
+      "source_icon": "https://i.newsdata.io/thenextweb.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 77.68,
+        "neutral": 21.65,
+        "positive": 0.67
+      },
+      "ai_tag": [
+        "elections"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "6600ee599ce4074e09d1ba2b12813238",
+      "link": "https://www.notebookcheck.net/ClickFix-How-to-spot-the-copy-paste-trap-on-Windows-and-Mac.1435418.0.html",
+      "title": "ClickFix: How to spot the copy-paste trap on Windows and Mac",
+      "description": "A CAPTCHA, an error message or an install guide for Claude or ChatGPT tells you to press Win + R, paste and hit Enter. Doing that installs malware on your own computer. Here is how ClickFix works on Windows and Mac, how to recognize the lures and what to do if you have already run the command.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "how to",
+        "ai",
+        "macos",
+        "windows",
+        "security"
+      ],
+      "creator": [
+        "steffen zahn"
       ],
       "language": "english",
       "country": [
         "united states of america"
       ],
       "category": [
-        "politics"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 04:05:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 04:35:59",
-      "image_url": "https://erepublic.brightspotcdn.com/dims4/default/89bb689/2147483647/strip/false/crop/2048x1366+0+0/resize/1486x991!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F17%2F2f%2F891738d249d490b06f36a2bd60b6%2F20261022-amx-biz-cybersecurity-flaw-forces-32-uk-1-dpa.jpg",
-      "video_url": null,
-      "source_id": "governing",
-      "source_name": "Governing",
-      "source_priority": 30075,
-      "source_url": "https://www.governing.com",
-      "source_icon": null,
-      "sentiment": null,
-      "sentiment_stats": null,
-      "ai_tag": null,
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "527c11ea66d3a1a5fdfce4b53f5b7f0a",
-      "link": "https://www.business-standard.com/world-news/hackers-target-us-federal-election-commission-s-website-ahead-of-midterms-126102800234_1.html",
-      "title": "Hackers target US Federal Election Commission's website ahead of midterms",
-      "description": "The FEC does not play a role in administering US elections and the outage should have no effect on voters' ability to cast ballots",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "dark money groups",
-        "donald trump",
-        "campaign finance",
-        "federal election commission",
-        "us midterm elections",
-        "us election security",
-        "cyberattack",
-        "political spending",
-        "fec website hack",
-        "super pacs"
-      ],
-      "creator": [
-        "reuters"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
         "top",
-        "politics"
+        "technology"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-28 03:56:59",
+      "pubDate": "2026-10-28 09:10:00",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 04:04:16",
-      "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/26/full/1785032575-7009.jpg",
+      "fetched_at": "2026-10-28 13:32:13",
+      "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/teaser_en_clickfix.jpg",
       "video_url": null,
-      "source_id": "business-standard",
-      "source_name": "Business Standard",
-      "source_priority": 9158,
-      "source_url": "https://www.business-standard.com",
-      "source_icon": "https://i.newsdata.io/business-standard.png",
+      "source_id": "notebookcheck",
+      "source_name": "Notebookcheck",
+      "source_priority": 9698,
+      "source_url": "https://www.notebookcheck.net",
+      "source_icon": "https://i.newsdata.io/notebookcheck.png",
       "sentiment": "neutral",
       "sentiment_stats": {
-        "negative": 37.98,
-        "neutral": 61.17,
-        "positive": 0.85
+        "negative": 1.64,
+        "neutral": 95.98,
+        "positive": 2.38
       },
       "ai_tag": [
-        "elections",
-        "government"
+        "social media and internet",
+        "technology"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -233,136 +144,46 @@
       "duplicate": false
     },
     {
-      "article_id": "a3ac81df11d66b3252691e4c1af6444a",
-      "link": "https://observer24.com.na/the-hidden-software-flaw-every-namibian-boardroom-should-be-discussing-this-week/",
-      "title": "The hidden software flaw every Namibian boardroom should be discussing this week",
-      "description": "If your organisation runs a website, customer portal, e-learning platform, staff webmail or online business system, there is a security question your IT team needs to answer today. Your IT team may already know. Your board probably does not.",
+      "article_id": "7dc1ade95413ff26b662d465fc66574f",
+      "link": "https://www.ibtimes.sg/anthropic-wants-more-us-government-agencies-using-claude-its-offering-40-discount-95617",
+      "title": "Anthropic Wants More US Government Agencies Using Claude: It's Offering a 40% Discount",
+      "description": "Claude use across US federal civilian agencies has grown 20-fold in a year as Anthropic offers governments a 40% discount and estimates $1 billion in savings.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "observer money"
+        "claude us government",
+        "anthropic claude",
+        "claude for government"
       ],
       "creator": [
-        "geemuvirimi"
+        "bhaswati guha majumder"
       ],
       "language": "english",
       "country": [
-        "namibia"
-      ],
-      "category": [
-        "top",
-        "technology"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 03:53:46",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 04:03:35",
-      "image_url": null,
-      "video_url": null,
-      "source_id": "observer24_na",
-      "source_name": "Observer24",
-      "source_priority": 4564563,
-      "source_url": "https://www.observer24.com.na",
-      "source_icon": "https://i.newsdata.io/observer24_na.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 46.0,
-        "neutral": 52.54,
-        "positive": 1.46
-      },
-      "ai_tag": [
-        "telecom",
-        "e-commerce"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "772d79883124ba021369d2b84ffd95b1",
-      "link": "https://www.firstpost.com/tech/us-campaign-finance-watchdog-faces-cyberattack-ahead-of-mid-term-elections-14055863.html",
-      "title": "US campaign finance watchdog faces cyberattack ahead of mid-term elections",
-      "description": "With the US mid-term elections approaching, a cyber incident has disrupted a crucial federal system responsible for tracking political money. Although voters are not expected to face any immediate impact, the outage has raised concerns about transparency, campaign finance oversight and the growing vulnerability of institutions entrusted with protecting democratic accountability.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "tech"
-      ],
-      "creator": [
-        "unnati gusain"
-      ],
-      "language": "english",
-      "country": [
-        "india"
+        "singapore"
       ],
       "category": [
         "technology"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-28 03:39:03",
+      "pubDate": "2026-10-28 08:53:14",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 04:03:32",
-      "image_url": "https://images.firstpost.com/uploads/2026/10/senate1-2026-10-f00ce41c507b3bc17f95b31237f069f2.jpg",
+      "fetched_at": "2026-10-28 09:17:40",
+      "image_url": "https://data.ibtimes.sg/en/full/87758/sam-altman-lays-out-ai-vision-built-democratization-prosperity-while-bernie-sanders-warns-us.jpg?w=1200&h=630?q=60",
       "video_url": null,
-      "source_id": "firstpost",
-      "source_name": "Firstpost",
-      "source_priority": 5906,
-      "source_url": "https://www.firstpost.com",
-      "source_icon": "https://i.newsdata.io/firstpost.png",
-      "sentiment": "negative",
-      "sentiment_stats": {
-        "negative": 87.19,
-        "neutral": 12.27,
-        "positive": 0.54
-      },
-      "ai_tag": [
-        "elections",
-        "government"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "8c0fd0183841d27599a88337fbfe5bc6",
-      "link": "https://www.indiandefensenews.in/2026/10/india-moves-towards-us-style-frontier.html",
-      "title": "India Moves Towards US-Style Frontier AI Oversight As New Law Takes Shape",
-      "description": "India is preparing a dedicated legal framework for artificial intelligence that could place the world's most advanced AI models under a separate safety regime before they are released to the public, NDTV reported. The proposed approach signals a significant shift from the country's largely technology-neutral regulatory strategy towards more direct oversight of highly capable AI systems. Recent",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "india",
-        "ai"
-      ],
-      "creator": [
-        "indian defence news"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "top",
-        "technology"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 03:26:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 03:57:50",
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEias72bpLoOdubR-UOZnIkNkwxfZOuJw0cqsrkyt8ZRByIydCpdRxDHeBbBIEWeZywQ18g3ZivwDTXD3_0nUP53QOP-Fcm_9TTpSvbC8F_hzfXCq5TKj7CPdML8mdNhFc2WDsQJ4UXTBYFPURB1ZgBmKMnyPPKRq6-jn_neF-S0f2nlY9bfocP9brmZ14I/s72-c/Artificial_Intelligence_AI.jpg",
-      "video_url": null,
-      "source_id": "indiandefensenews_in",
-      "source_name": "Indiandefensenews",
-      "source_priority": 99999999,
-      "source_url": "https://www.indiandefensenews.in",
-      "source_icon": "https://i.newsdata.io/indiandefensenews_in.png",
+      "source_id": "ibtimes",
+      "source_name": "International Business Times",
+      "source_priority": 458722,
+      "source_url": "https://www.ibtimes.com",
+      "source_icon": "https://i.newsdata.io/ibtimes.png",
       "sentiment": "positive",
       "sentiment_stats": {
-        "negative": 0.85,
-        "neutral": 6.6,
-        "positive": 92.55
+        "negative": 0.97,
+        "neutral": 2.09,
+        "positive": 96.94
       },
       "ai_tag": [
-        "artificial intelligence"
+        "economy",
+        "corporate news"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -370,48 +191,46 @@
       "duplicate": false
     },
     {
-      "article_id": "43b12580e757193cc8754fe5cd144683",
-      "link": "https://www.freepressjournal.in/tech/us-fec-hit-by-suspected-cyberattack-as-electronic-filing-system-goes-offline-days-before-november-3-midterm-elections",
-      "title": "US FEC Hit By Suspected Cyberattack As Electronic Filing System Goes Offline Days Before November 3 Midterm Elections",
-      "description": "The US Federal Election Commission (FEC) shut down its electronic filing system after a suspected cyberattack days before the November 3 midterm elections. The outage disrupted mandatory campaign spending reports but is not expected to affect voters' ability to cast ballots.",
+      "article_id": "e305e0910024ffdcc072020804fbd04b",
+      "link": "https://en.sedaily.com/technology/2026/10/28/satellites-in-ai-hackers-sights-kari-builds-new-cyber-shield",
+      "title": "Satellites in AI Hackers' Sights, KARI Builds New Cyber Shield",
+      "description": "KARI is building a new security system against AI-driven hacking of space assets, as 407 cyber breaches hit space organizations worldwide in 2025.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "tech",
-        "world",
-        "topnews",
-        "fpj shorts"
+        "technology"
       ],
       "creator": [
-        "ani"
+        "kim gi-hyeok",
+        "kim ki-hyuk"
       ],
       "language": "english",
       "country": [
-        "india"
+        "south korea"
       ],
       "category": [
         "top",
-        "politics"
+        "technology"
       ],
-      "datatype": "multimedia",
-      "pubDate": "2026-10-28 03:20:17",
+      "datatype": "news",
+      "pubDate": "2026-10-28 08:49:40",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 03:35:30",
-      "image_url": "https://media.assettype.com/freepressjournal/2026-10-28/fug3tcli/Untitled-design-2026-10-28T084854.010.jpg",
-      "video_url": "https://www.youtube.com/watch?v=Ni6UHJZC3NI",
-      "source_id": "freepressjournal",
-      "source_name": "The Free Press Journal",
-      "source_priority": 26427,
-      "source_url": "https://www.freepressjournal.in",
-      "source_icon": "https://i.newsdata.io/freepressjournal.png",
-      "sentiment": "negative",
+      "fetched_at": "2026-10-28 09:49:24",
+      "image_url": "https://wimg.sedaily.com/news/cms/2026/10/28/news-p.v1.20261028.20c762a545744a52b7823400ec2936a3_P1.jpg",
+      "video_url": null,
+      "source_id": "sedaily",
+      "source_name": "\uc11c\uc6b8\uacbd\uc81c",
+      "source_priority": 991635,
+      "source_url": "https://www.sedaily.com",
+      "source_icon": "https://i.newsdata.io/sedaily.png",
+      "sentiment": "positive",
       "sentiment_stats": {
-        "negative": 95.42,
-        "neutral": 3.8,
-        "positive": 0.78
+        "negative": 1.86,
+        "neutral": 10.69,
+        "positive": 87.45
       },
       "ai_tag": [
-        "elections",
-        "government"
+        "space",
+        "telecom"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -419,47 +238,239 @@
       "duplicate": false
     },
     {
-      "article_id": "32673bf5f4571a473fe7138f9fb36529",
-      "link": "https://www.androidheadlines.com/2026/10/pegasus-founder-urges-governments-build-sovereign-ai.html",
-      "title": "Pegasus Spyware Founder Urges Governments to Build Sovereign AI",
-      "description": "The post Pegasus Spyware Founder Urges Governments to Build Sovereign AI appeared first on Android Headlines.",
+      "article_id": "d9c6524f338328f28671a217b93d2772",
+      "link": "https://www.ibtimes.co.uk/japan-plans-emergency-request-three-day-food-water-stockpiles-amid-reports-online-war-1828362",
+      "title": "Japan Plans 'Emergency Request' for Three-Day Food and Water Stockpiles Amid Reports of Online War Speculation",
+      "description": "Japan plans to ask households to stockpile food, water and emergency toilet supplies, but officials say the appeal addresses disaster-related disruptions rather than an imminent war",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "ai",
-        "all the latest android & tech news",
-        "tech news",
-        "artificial intelligence news"
+        "politics"
       ],
       "creator": [
-        "jean leon"
+        "jeyn klare reyes"
       ],
       "language": "english",
       "country": [
-        "united states of america",
-        "canada"
+        "united kingdom"
+      ],
+      "category": [
+        "top",
+        "environment"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 08:11:41",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 08:16:31",
+      "image_url": "https://d.ibtimes.co.uk/en/full/1839830/goshi-hosono-discusses-japans-emergency-stockpiling-appeal.png?w=1600&h=900&q=88&f=229b4a70a9ebfe23a7ffeeed8095d691",
+      "video_url": null,
+      "source_id": "ibtimes",
+      "source_name": "International Business Times",
+      "source_priority": 458722,
+      "source_url": "https://www.ibtimes.com",
+      "source_icon": "https://i.newsdata.io/ibtimes.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 5.19,
+        "neutral": 93.54,
+        "positive": 1.27
+      },
+      "ai_tag": [
+        "natural disasters",
+        "pollution"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "c035d3b95202b58bfe664a5f25b4a964",
+      "link": "https://hackernoon.com/inside-republika-srpskas-chinese-tech-deal-and-russian-influence-network",
+      "title": "Inside Republika Srpska\u2019s Chinese Tech Deal and Russian Influence Network",
+      "description": "An FBI-honored cyber chief, a 57M BAM Chinese deal, and Russian propaganda ties: the secret contracts of Dodik\u2019s digital insider.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "privacy",
+        "cybercrime",
+        "surveillance",
+        "foreign-policy",
+        "digital-forensics",
+        "cybersecurity",
+        "geopolitics",
+        "politics"
+      ],
+      "creator": [
+        "digital power investigation"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
       ],
       "category": [
         "technology"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-28 02:18:07",
+      "pubDate": "2026-10-28 08:11:02",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 02:43:16",
-      "image_url": "https://www.androidheadlines.com/wp-content/uploads/2026/10/Pegasus-founder-Shalev-Hulio.jpg",
+      "fetched_at": "2026-10-28 10:02:43",
+      "image_url": "https://cdn.hackernoon.com/images/Rs77GLHCJigl4KObrU9XggaTv2q2-us835em.jpeg",
       "video_url": null,
-      "source_id": "androidheadlines",
-      "source_name": "Androidheadlines",
-      "source_priority": 140907,
-      "source_url": "https://www.androidheadlines.com",
-      "source_icon": "https://i.newsdata.io/androidheadlines.png",
+      "source_id": "hackernoon",
+      "source_name": "Hackernoon",
+      "source_priority": 9198,
+      "source_url": "https://hackernoon.com",
+      "source_icon": "https://i.newsdata.io/hackernoon.png",
       "sentiment": "neutral",
       "sentiment_stats": {
-        "negative": 6.19,
-        "neutral": 89.28,
-        "positive": 4.53
+        "negative": 4.96,
+        "neutral": 91.47,
+        "positive": 3.57
       },
       "ai_tag": [
-        "artificial intelligence"
+        "cybercrime and cybersecurity"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "ae789954a05ddf24827b23e6c78aeee2",
+      "link": "https://www.defenseworld.net/2026/10/28/rubrik-inc-rbrk-stock-bought-by-citizens-financial-group-inc-ri.html",
+      "title": "Rubrik, Inc. $RBRK Stock Bought by Citizens Financial Group Inc. RI",
+      "description": "Citizens Financial Group Inc. RI grew its holdings in Rubrik, Inc. (NYSE:RBRK \u2013 Free Report) by 88.5% in the 3rd quarter, according to the company in its most recent filing with the SEC. The firm owned 13,594 shares of the company\u2019s stock after buying an additional 6,383 shares during the quarter. Citizens Financial Group Inc. [\u2026]",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "companies",
+        "sec filing articles"
+      ],
+      "creator": [
+        "defense world staff"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 08:06:01",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 09:39:06",
+      "image_url": "https://www.marketbeat.com/logos/rubrik-inc-logo-1200x675.png?v=20250520075833",
+      "video_url": null,
+      "source_id": "defenseworld",
+      "source_name": "Defenseworld Net",
+      "source_priority": 92509,
+      "source_url": "https://www.defenseworld.net",
+      "source_icon": "https://i.newsdata.io/defenseworld.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.82,
+        "neutral": 1.84,
+        "positive": 97.34
+      },
+      "ai_tag": [
+        "financial markets",
+        "corporate news"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "61894af4d2db542b64a348409f7f3160",
+      "link": "https://cybersecuritynews.com/top-9-best-backup-recovery-solutions-in-2026-ranked-scored/",
+      "title": "Top 9 Best Backup & Recovery Solutions in 2026 [Ranked & Scored]",
+      "description": "Ransomware crews attack backups before they attack production encrypting or deleting recovery points first, then ransoming what\u2019s left. That inverted kill chain has turned backup from an infrastructure checkbox into a security control, judged now by immutability, blast-radius isolation, and verified restore speed rather than backup-window math. Our source sheet listed ten vendors, but Cohesity\u2019s [\u2026] The post Top 9 Best Backup & Recovery Solutions in 2026 [Ranked & Scored] appeared first on Cyber Security News.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "top 10",
+        "cyber security news"
+      ],
+      "creator": [
+        "kavichselvan"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "technology"
+      ],
+      "datatype": "blog",
+      "pubDate": "2026-10-28 08:00:49",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 08:07:55",
+      "image_url": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Best-Backup-Recovery-Solutions-1-1.webp",
+      "video_url": null,
+      "source_id": "cybersecuritynews",
+      "source_name": "Cybersecuritynews",
+      "source_priority": 85046,
+      "source_url": "https://cybersecuritynews.com",
+      "source_icon": "https://i.newsdata.io/cybersecuritynews.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 4.25,
+        "neutral": 25.86,
+        "positive": 69.89
+      },
+      "ai_tag": [
+        "cybercrime and cybersecurity",
+        "telecom"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "685af75c6e1dba88600cc27c39472841",
+      "link": "https://www.analyticsinsight.net/news/cyberattack-disrupts-us-campaign-finance-disclosures-before-midterm-polls",
+      "title": "Cyberattack Disrupts US Campaign-Finance Disclosures Before Midterm Polls",
+      "description": "Hackers targeted the US FEC\u2019s filing system, disrupting campaign-finance disclosures days before the midterms.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "disclosure outage",
+        "midterm elections",
+        "fec",
+        "cyberattack",
+        "campaign finance"
+      ],
+      "creator": [
+        "poulami saha"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "technology",
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 08:00:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 08:05:02",
+      "image_url": "https://media.assettype.com/analyticsinsight/2026-10-28/vqgp8hm9/Hackers-target-US-FEC-system-disrupting-campaign-finance-disclosures-days-before-midterms.jpg",
+      "video_url": null,
+      "source_id": "analyticsinsight",
+      "source_name": "Analytics And Insight",
+      "source_priority": 24556,
+      "source_url": "https://www.analyticsinsight.net",
+      "source_icon": "https://i.newsdata.io/analyticsinsight.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 93.89,
+        "neutral": 4.73,
+        "positive": 1.38
+      },
+      "ai_tag": [
+        "cybercrime and cybersecurity",
+        "government"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -467,5 +478,5 @@
       "duplicate": false
     }
   ],
-  "nextPage": "1793153887932635834"
+  "nextPage": "1793174400219326848"
 }

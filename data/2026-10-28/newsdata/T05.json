@@ -1,110 +1,16 @@
 {
   "status": "success",
-  "totalResults": 538,
+  "totalResults": 528,
   "results": [
     {
-      "article_id": "3f793d604dc659b0dee58ea27ff70f0f",
-      "link": "https://www.israelnationalnews.com/news/435279",
-      "title": "US to grant visas to Flavio Bolsonaro and family after Brazilian election defeat",
-      "description": "The US will grant visas to Flavio Bolsonaro and his family after his election defeat in Brazil, as questions surround his departure amid a passport surrender order.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "visas",
-        "us",
-        "brazil",
-        "flavio bolsonaro"
-      ],
-      "creator": [
-        "elad benari"
-      ],
-      "language": "english",
-      "country": [
-        "israel"
-      ],
-      "category": [
-        "top",
-        "politics"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 04:53:13",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 05:34:10",
-      "image_url": "https://www.israelnationalnews.com/files/pictures/0/1208941.jpg",
-      "video_url": null,
-      "source_id": "israelnationalnews",
-      "source_name": "Israelnationalnews",
-      "source_priority": 10196,
-      "source_url": "https://www.israelnationalnews.com",
-      "source_icon": "https://i.newsdata.io/israelnationalnews.png",
-      "sentiment": "positive",
-      "sentiment_stats": {
-        "negative": 0.96,
-        "neutral": 45.37,
-        "positive": 53.67
-      },
-      "ai_tag": [
-        "elections",
-        "government"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "183fb0c64e9fc71f6d87d8dd9eda0fef",
-      "link": "https://kuwaittimes.com/article/52537/world/us-to-grant-flavio-bolsonaro-visa-amid-reports-he-left-brazil-despite-exit-ban/",
-      "title": "US to grant Flavio Bolsonaro visa amid reports he left Brazil despite exit ban",
-      "description": "WASHINGTON: The United States will grant entry to defeated Brazilian presidential candidate Flavio Bolsonaro, the State Department said on Tuesday, amid media reports that he had l...",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "world"
-      ],
-      "creator": [
-        "kuwaittimes"
-      ],
-      "language": "english",
-      "country": [
-        "kuwait"
-      ],
-      "category": [
-        "world"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 04:50:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 08:45:29",
-      "image_url": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/10/28/463921.jpg",
-      "video_url": null,
-      "source_id": "kuwaittimes",
-      "source_name": "Kuwait Times",
-      "source_priority": 295375,
-      "source_url": "https://www.kuwaittimes.com",
-      "source_icon": "https://i.newsdata.io/kuwaittimes.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 2.04,
-        "neutral": 84.85,
-        "positive": 13.11
-      },
-      "ai_tag": [
-        "elections",
-        "government"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "d27bb944f482c4fdc679ce44c62805ad",
-      "link": "https://daijiworld.com/news/newsDisplay?newsID=1333669",
-      "title": "US to grant visas to Bolsonaro after election defeat",
-      "description": "Daijiworld Media Network - Washington Washington, Oct 28: The United States will issue visas to Brazilian senator Fl\u00e1vio Bolsonaro and his family following his election defeat to incumbent President Luiz In\u00e1cio Lula da Silva, a senior US State Department official said on Tu....",
+      "article_id": "52dfee6f0a4aa705ed2119e2097c1f8c",
+      "link": "https://www.ptinews.com/story/national/bihar-cm-leads-padayatra-in-patna-to-thwart-cong-s-false-narrative-against-democratic-institutions/4208059",
+      "title": "Bihar CM leads padayatra in Patna to thwart Cong's 'false narrative' against democratic institutions",
+      "description": null,
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": null,
       "creator": [
-        "daijiworld.com"
+        "pti news"
       ],
       "language": "english",
       "country": [
@@ -115,25 +21,25 @@
         "politics"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-28 04:41:06",
+      "pubDate": "2026-10-28 09:40:02",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 04:41:06",
-      "image_url": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/ASM_defeat_28102026_1.jpg",
+      "fetched_at": "2026-10-28 10:20:32",
+      "image_url": null,
       "video_url": null,
-      "source_id": "daijiworld",
-      "source_name": "Daijiworld",
-      "source_priority": 128227,
-      "source_url": "https://www.daijiworld.com",
-      "source_icon": "https://i.newsdata.io/daijiworld.jpg",
+      "source_id": "ptinews",
+      "source_name": "Ptinews",
+      "source_priority": 965458,
+      "source_url": "https://www.ptinews.com",
+      "source_icon": "https://i.newsdata.io/ptinews.png",
       "sentiment": "positive",
       "sentiment_stats": {
-        "negative": 0.9,
-        "neutral": 19.26,
-        "positive": 79.84
+        "negative": 0.95,
+        "neutral": 4.99,
+        "positive": 94.06
       },
       "ai_tag": [
-        "elections",
-        "government"
+        "government",
+        "politics"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -141,44 +47,45 @@
       "duplicate": false
     },
     {
-      "article_id": "fd3d5a3239d59952e28fb34647aa110e",
-      "link": "https://english.aaj.tv/news/330478272/flavio-bolsonaro-flees-to-us-after-brazil-election-defeat",
-      "title": "Flavio Bolsonaro flees to US after Brazil election defeat",
-      "description": "US to grant visas to Bolsonaro and family amid money laundering probe",
+      "article_id": "aa59890627dfbc5cce71e4fa6e450099",
+      "link": "https://newsable.asianetnews.com/markets/bitcoin-on-track-to-post-weakest-october-in-six-years-as-us-buyers-retreat-ahead-of-fed-decision-articleshow-7fvac1u",
+      "title": "Bitcoin On Track To Post Weakest October In Six Years As US Buyers Retreat Ahead Of Fed Decision",
+      "description": "Inflation risks could complicate the outlook for Bitcoin, with crude oil above $100 a barrel since early October, the Federal Reserve's rate decision, and the Nov. 3 U.S. midterm elections as potential macro factors.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "world"
+        "markets"
       ],
       "creator": [
-        "reuters"
+        "stocktwits inc"
       ],
       "language": "english",
       "country": [
-        "pakistan"
+        "india"
       ],
       "category": [
-        "politics"
+        "top",
+        "business"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-28 04:31:58",
+      "pubDate": "2026-10-28 09:35:01",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 04:42:44",
-      "image_url": "https://i.aaj.tv/large/2026/10/2808590010f442f.webp",
+      "fetched_at": "2026-10-28 10:08:03",
+      "image_url": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-1f719a78-ead8-4735-801d-11c80c98caf9.jpg",
       "video_url": null,
-      "source_id": "aaj_tv",
-      "source_name": "Aaj English Tv",
-      "source_priority": 179387,
-      "source_url": "https://english.aaj.tv",
-      "source_icon": "https://i.newsdata.io/aaj_tv.jpg",
-      "sentiment": "negative",
+      "source_id": "newsable_asianetnews",
+      "source_name": "Asianet Newsable",
+      "source_priority": 7749,
+      "source_url": "https://newsable.asianetnews.com",
+      "source_icon": "https://i.newsdata.io/newsable_asianetnews.jpg",
+      "sentiment": "neutral",
       "sentiment_stats": {
-        "negative": 81.18,
-        "neutral": 18.11,
-        "positive": 0.71
+        "negative": 4.95,
+        "neutral": 83.72,
+        "positive": 11.33
       },
       "ai_tag": [
-        "elections",
-        "government"
+        "cryptocurrencies",
+        "financial markets"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -186,16 +93,61 @@
       "duplicate": false
     },
     {
-      "article_id": "0e9b875c0401b9e1380d634416ec964a",
-      "link": "https://www.hindustantimes.com/ht-explainers/israel-election-2026-netanyahu-gadi-eisenkot-coalition-government-minority-government-unity-deal-political-deadlock-explained-101793161084482.html",
-      "title": "The options before Israel: A Netanyahu-Eisenkot deal, a minority government or no new government",
-      "description": "Arab-led parties, far-right and ultra-Orthodox parties could swing the outcome. If no one reaches 61 seats, Israel could face another election.",
+      "article_id": "22dce4eb298ab2cf9a55277b0fd3afad",
+      "link": "https://www.bostonglobe.com/2026/10/28/newsletters/starting-point/",
+      "title": "Is the latest \u2018Love is Blind\u2019 season really Boston?",
+      "description": "It\u2019s not \u2018The Town,\u2019 but the Boston season of the Netflix hit covers something fresh about our community.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "newsletter"
+      ],
+      "creator": [
+        "zipporah osei"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:34:56",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 09:56:52",
+      "image_url": "https://bostonglobe-bostonglobe-prod.web.arc-cdn.net/resizer/v2/AOVZ6KQ36UHPY2DZNOG4ZXKBIU.jpg?auth=83b9a46516aee9e5f56d0416645143150f445937d97f8290a406af46aaa2e3b1&smart=true&width=1350&height=900",
+      "video_url": null,
+      "source_id": "bostonglobe",
+      "source_name": "The Boston Globe",
+      "source_priority": 2335,
+      "source_url": "https://www.bostonglobe.com",
+      "source_icon": "https://i.newsdata.io/bostonglobe.jpg",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.85,
+        "neutral": 18.22,
+        "positive": 80.93
+      },
+      "ai_tag": [
+        "television"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "48da7dbf1a4cee0b7a1bb7b0fea1e0c7",
+      "link": "https://www.hindustantimes.com/world-news/flvio-bolsonaro-escape-path-brazil-cross-into-argentina-flew-to-ecuador-before-reaching-us-miami-florida-brazil-news-election-result-101793173269163.html",
+      "title": "Crossed into Argentina, flew to Ecuador before reaching US: Tracking Fl\u00e1vio Bolsonaro's escape path",
+      "description": "The 45-year-old has refused to concede after being defeated by Lula da Silva, similar to his father Jair Bolsonaro in 2022.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
         "latest"
       ],
       "creator": [
-        "ht explainers desk"
+        "danita yadav"
       ],
       "language": "english",
       "country": [
@@ -203,13 +155,13 @@
       ],
       "category": [
         "top",
-        "politics"
+        "sports"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-28 04:27:16",
+      "pubDate": "2026-10-28 09:33:08",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 05:03:13",
-      "image_url": "https://www.hindustantimes.com/ht-img/img/2026/10/28/1600x900/logo/TOPSHOT-ISRAEL-PALESTINIAN-VOTE-0_1793161562779_OUpK_1793161577577_2UWS_631c12db-ae57-443e-be54-c39b64c87ecd_cqNw.jpg",
+      "fetched_at": "2026-10-28 10:03:20",
+      "image_url": "https://www.hindustantimes.com/ht-img/img/2026/10/28/1600x900/logo/FILES-BRAZIL-ELECTION-RUNOFF-0_1793178018055_wZZo_1793178025906_QdpD_d2c7db2b-4889-464e-9d49-247e4c1a9456_zfF3.jpg",
       "video_url": null,
       "source_id": "hindustantimes",
       "source_name": "Hindustan Times",
@@ -218,9 +170,141 @@
       "source_icon": "https://i.newsdata.io/hindustantimes.png",
       "sentiment": "neutral",
       "sentiment_stats": {
-        "negative": 2.56,
-        "neutral": 96.61,
-        "positive": 0.83
+        "negative": 2.93,
+        "neutral": 93.31,
+        "positive": 3.76
+      },
+      "ai_tag": [
+        "boxing",
+        "sports"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "252e5af99c2bbd885f1c9836bf0b7ad7",
+      "link": "https://www.thebulwark.com/p/americas-other-middle-east-war-houthis-iran",
+      "title": "America\u2019s Other Middle East War",
+      "description": "Our on-again-off-again conflict with the Houthis is about more than Iran.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "mark hertling"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:30:55",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 09:46:34",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!1PkE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6262834e-4350-4a9a-9035-2a8bd204feb0_4368x2457.jpeg",
+      "video_url": null,
+      "source_id": "thebulwark",
+      "source_name": "Thebulwark",
+      "source_priority": 574126,
+      "source_url": "https://www.thebulwark.com",
+      "source_icon": "https://i.newsdata.io/thebulwark.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 23.3,
+        "neutral": 74.63,
+        "positive": 2.07
+      },
+      "ai_tag": [
+        "conflicts & war"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "381d0e7928aa1d9bdad032f5aa10759a",
+      "link": "https://suspensecrime.com/sport-news/abhishek-sharma-reclaims-world-no-1-t20-spot-marco-jansen-dethrones-jadeja",
+      "title": "Abhishek Sharma Reclaims World No. 1 T20 Spot, Marco Jansen Dethrones Jadeja",
+      "description": "The International Cricket Council (ICC) has unveiled its latest player rankings update, triggering massive movements across formats. India's explosive top-order\u2026",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "sports"
+      ],
+      "creator": [
+        "akanksha mishra"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "sports"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:26:37",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 09:26:37",
+      "image_url": "https://suspensecrime.com/wp-content/uploads/2026/10/37%20(1)_1458048277.jpg",
+      "video_url": null,
+      "source_id": "suspensecrime",
+      "source_name": "Suspense Crime",
+      "source_priority": 12013189,
+      "source_url": "https://suspensecrime.com",
+      "source_icon": "https://i.newsdata.io/suspensecrime.jpg",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.8,
+        "neutral": 1.8,
+        "positive": 97.4
+      },
+      "ai_tag": [
+        "cricket"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "91f11e978841c6fe06c2eb4dea065540",
+      "link": "https://suspensecrime.com/world/how-an-eizenkot-victory-over-netanyahu-could-reset-west-asias-conflict",
+      "title": "How an Eizenkot Victory Over Netanyahu Could Reset West Asia's Conflict",
+      "description": "As Israel's high-stakes general election plunges the 120-seat Knesset into an intense deadlock with neither Prime Minister Benjamin Netanyahu's right-wing bloc\u2026",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "world"
+      ],
+      "creator": [
+        "akanksha mishra"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "world"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:26:32",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 09:26:32",
+      "image_url": "https://suspensecrime.com/wp-content/uploads/2026/10/36%20(1)_1278536284.jpg",
+      "video_url": null,
+      "source_id": "suspensecrime",
+      "source_name": "Suspense Crime",
+      "source_priority": 12013189,
+      "source_url": "https://suspensecrime.com",
+      "source_icon": "https://i.newsdata.io/suspensecrime.jpg",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 1.75,
+        "neutral": 61.51,
+        "positive": 36.74
       },
       "ai_tag": [
         "government",
@@ -232,47 +316,48 @@
       "duplicate": false
     },
     {
-      "article_id": "3fdec00b6a59e5bb318fd77afbe2753f",
-      "link": "https://www.moneycontrol.com/world/why-did-fl-vio-bolsonaro-leave-brazil-after-losing-presidential-election-to-lula-article-14061976.html",
-      "title": "Why did Fl\u00e1vio Bolsonaro leave Brazil after losing presidential election to Lula?",
-      "description": "Fl\u00e1vio Bolsonaro reportedly arrived in the US after missing a Brazilian court's deadline to surrender his passports, amid financial investigations, an election defeat and a US offer of visas to his family.",
+      "article_id": "a89ef04c4165d23e8fbc203bf38a0e66",
+      "link": "https://collider.com/animated-thriller-movies-best-ranked/",
+      "title": "The 15 Best Animated Thriller Movies, Ranked",
+      "description": "Animated thrillers offer a compelling subgenre filled with classic hits and underrated films like Perfect Blue and A Scanner Darkly.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "lula",
-        "brazil",
-        "fl\u00e1vio bolsonaro"
+        "thriller",
+        "movie",
+        "animation",
+        "akira",
+        "perfect blue"
       ],
       "creator": [
-        "moneycontrol world desk"
+        "luc haasbroek"
       ],
       "language": "english",
       "country": [
-        "india"
+        "united states of america"
       ],
       "category": [
         "top",
-        "politics"
+        "entertainment"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-28 04:16:25",
+      "pubDate": "2026-10-28 09:24:12",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 06:01:56",
-      "image_url": "https://images.moneycontrol.com/static-mcnews/2026/10/20261026030040_Flavio-Bolsonaro.jpg",
+      "fetched_at": "2026-10-28 09:30:55",
+      "image_url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/perfect-blue-2.jpg",
       "video_url": null,
-      "source_id": "moneycontrol",
-      "source_name": "Moneycontrol",
-      "source_priority": 2087,
-      "source_url": "https://www.moneycontrol.com",
-      "source_icon": "https://i.newsdata.io/moneycontrol.png",
-      "sentiment": "neutral",
+      "source_id": "collider",
+      "source_name": "Collider",
+      "source_priority": 6329,
+      "source_url": "https://collider.com",
+      "source_icon": "https://i.newsdata.io/collider.png",
+      "sentiment": "positive",
       "sentiment_stats": {
-        "negative": 36.58,
-        "neutral": 62.72,
-        "positive": 0.7
+        "negative": 0.78,
+        "neutral": 6.7,
+        "positive": 92.52
       },
       "ai_tag": [
-        "elections",
-        "politics"
+        "movies"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -280,66 +365,20 @@
       "duplicate": false
     },
     {
-      "article_id": "f51305554fd90a4d3a5baae2f1d3c550",
-      "link": "https://islandsbusiness.com/pacnews/pacnews-three-28-october-2026/",
-      "title": "PACNEWS THREE 28 OCTOBER 2026",
-      "description": "In this bulletin: 1. PACIFIC \u2014 Pacific Elders call for reversal of Forum\u2019s Israel partnership2. PNG \u2014 PNG sets 20235 climate targets, pledges net-negative emissions3. UN \u2014 Record carbon dioxide levels will impact us for centuries, says UN weather agency4. FIJI \u2014 Son of 2000 coup victim urges removal of immunity provisions5. AUST \u2014 Missing [\u2026] The post PACNEWS THREE 28 OCTOBER 2026 appeared first on Islands Business.",
+      "article_id": "99acb515669bad2aeb824a6608973372",
+      "link": "https://www.thenational.scot/news/26676248.defeated-bolsonaro-family-arrive-us-brazil-cancels/",
+      "title": "Defeated presidential candidate arrives in US after Brazil cancels his passports",
+      "description": "A SENIOR US State Department official has said Brazilian opposition candidate Flavio Bolsonaro and his family will be granted US visas after his weekend defeat to incumbent President Luiz Inacio Lula da Silva",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "pacnews",
-        "diplomacy",
-        "economy",
-        "climate",
-        "pacific",
-        "fiji"
+        "article_types:news",
+        "content-level:1",
+        "topics:politics",
+        "source:newsquest",
+        "locations:scotland"
       ],
       "creator": [
-        "pina"
-      ],
-      "language": "english",
-      "country": [
-        "fiji"
-      ],
-      "category": [
-        "top",
-        "politics",
-        "environment"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 04:15:24",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 04:21:31",
-      "image_url": "https://islandsbusiness.com/wp-content/uploads/2026/03/image-2.jpg",
-      "video_url": null,
-      "source_id": "islandsbusiness",
-      "source_name": "Islands Business News",
-      "source_priority": 1452126,
-      "source_url": "https://islandsbusiness.com",
-      "source_icon": "https://i.newsdata.io/islandsbusiness.jpg",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 10.29,
-        "neutral": 84.85,
-        "positive": 4.86
-      },
-      "ai_tag": [
-        "climate and weather",
-        "government"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "f75718e3ce5c2c70864edda8da083b55",
-      "link": "https://www.gbnews.com/news/world/flavio-bolsonaro-flees-united-states-refusing-comply",
-      "title": "Flavio Bolsonaro flees to US after refusing to comply with order to surrender his passports following election defeat",
-      "description": "Fl\u00e1vio Bolsonaro has fled Brazil for the United States after losing Sunday's presidential election, refusing to comply with an order to surrender his passports. The Brazilian senator, who has yet to concede to leftist incumbent Luiz In\u00e1cio Lula da Silva, left the country after refusing to comply with the Supreme Court's order. The ruling relates to a money laundering probe in which he denies wrongdoing. Mr Bolsonaro's location, along with his wife and two daughters, was unclear at first, with one source close to the family saying he had landed in Florida but declined to specify where. On Monday, Mr Bolsonaro was given 24 hours to surrender his passports, but they were cancelled after the deadline lapsed, two sources told reporters. In an official ruling, the Supreme Court cited the risk of Mr Bolsonaro fleeing Brazil and his \"significant financial resources\" in ordering his passports seized. Bolsonaro, who loses his immunity from prosecution when his Senate term ends in February, said on Monday he had no plans to flee. He said: \"I have never thought about leaving the country. I will hand over my passports and defend myself against this travesty, which is a clear attempt to intimidate me.\" His departure from Brazil seemed to catch his campaign manager off guard. Senator Rog\u00e9rio Marinho told reporters: \"We are surprised by the news because, just yesterday, we discussed the need for Fl\u00e1vio, given the 60 million votes he received, to take on this role as leader of the opposition.\" Although Mr Bolsonaro has yet to officially concede defeat, saying on Sunday he would seek to annul the result over alleged voter irregularities, his Liberal Party said on Monday it acknowledged Lula's victory. It remains unclear how Mr Bolsonaro left the country while facing a 24-hour deadline to hand over his passports, with one senior Federal Police official saying he did not leave Brazil through any regular migration point. LATEST DEVELOPMENTS Donald Trump claims Brazil election was 'rigged' despite defeated party recognising Lula victory Brazil re-elects incumbent left-wing President Lula for historic fourth term over Flavio Bolsonaro in shock result Brazil election goes to runoffs as Flavio Bolsonaro exceeds expectations over left-wing President Lula Lula has previously accused Washington of colluding with the Bolsonaros to put them back in power. President Donald Trump has previously alleged that Flavio's father, former President Jair Bolsonaro, was a victim of judicial persecution in Brazil. The elder Bolsonaro also went to the United States after refusing to concede to Lula in 2022, when former US President Joe Biden was in office. He eventually returned but was later given a 27-year sentence for plotting a coup after his supporters stormed government buildings in Brasilia. President Trump did not mention Flavio Bolsonaro's departure while on the midterm election trail. However, he said the Brazilian vote \"looked like another rigged election.\" Lula, speaking in Brasilia, said he had just heard that his defeated opponent had left the country, and called it shameful, saying he should have stayed in Brazil and proved his innocence. Mr Bolsonaro was favoured to win Sunday's presidential election but lost in a shock result to Lula. Our Standards: The GB News Editorial Charter",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": null,
-      "creator": [
-        "george bunn"
+        "| laura pollock"
       ],
       "language": "english",
       "country": [
@@ -349,115 +388,22 @@
         "top",
         "politics"
       ],
-      "datatype": "multimedia",
-      "pubDate": "2026-10-28 04:13:16",
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:18:36",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 04:56:48",
-      "image_url": "https://assets.rbl.ms/68540484/origin.jpg",
-      "video_url": "https://www.gbnews.com/res/scraper/embed/?video_url=https%3A%2F%2Fvideo.primis.tech%2Fuploads%2Fcn1%2Fvideo%2Fusers%2Fhls%2F31875%2Fvideo_68d40f85bd57c824144604%2Fvid6adec473d2703567671850.mp4%2Fchunklist_440.m3u8",
-      "source_id": "gbnews",
-      "source_name": "Gb News",
-      "source_priority": 99999999,
-      "source_url": "https://www.gbnews.com",
-      "source_icon": "https://i.newsdata.io/gbnews.png",
+      "fetched_at": "2026-10-28 09:38:41",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "thenational_scot",
+      "source_name": "Thenational Scot",
+      "source_priority": 95578,
+      "source_url": "https://www.thenational.scot",
+      "source_icon": "https://i.newsdata.io/thenational_scot.png",
       "sentiment": "negative",
       "sentiment_stats": {
-        "negative": 92.79,
-        "neutral": 6.64,
-        "positive": 0.57
-      },
-      "ai_tag": [
-        "elections"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "b6eff9afa21a6e45d8eb275675e15f0f",
-      "link": "https://responsiblestatecraft.org/call-of-duty-4/",
-      "title": "Call of Duty 4: Injecting American empire right into the veins",
-      "description": "Next in the latest version of the first-person shooter classic: the US military must be everywhere, lest North Korea and Russia take over",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "call-of-duty",
-        "us-military",
-        "propaganda",
-        "enewsletter"
-      ],
-      "creator": [
-        "responsible statecraft"
-      ],
-      "language": "english",
-      "country": [
-        "united states of america"
-      ],
-      "category": [
-        "top",
-        "politics"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 04:05:02",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 07:56:08",
-      "image_url": "https://responsiblestatecraft.org/media-library/call-of-duty-4-modern-warfare.jpg?id=68538451&width=1200",
-      "video_url": null,
-      "source_id": "responsiblestatecraft_org",
-      "source_name": "Responsible Statecraft",
-      "source_priority": 56291,
-      "source_url": "https://responsiblestatecraft.org",
-      "source_icon": "https://i.newsdata.io/responsiblestatecraft_org.png",
-      "sentiment": "negative",
-      "sentiment_stats": {
-        "negative": 90.86,
-        "neutral": 5.79,
-        "positive": 3.35
-      },
-      "ai_tag": [
-        "conflicts & war",
-        "national security"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "f3f6f8483f807db7cba21b95b403f571",
-      "link": "https://english.aaj.tv/news/330478272/flavio-bolsonaro-leaves-brazil-for-us-after-election-defeat",
-      "title": "Flavio Bolsonaro leaves Brazil for US after election defeat",
-      "description": "US to grant visas to Bolsonaro and family amid money laundering probe",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "world"
-      ],
-      "creator": [
-        "reuters"
-      ],
-      "language": "english",
-      "country": [
-        "pakistan"
-      ],
-      "category": [
-        "politics"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 04:02:14",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 04:12:57",
-      "image_url": "https://i.aaj.tv/large/2026/10/2808590010f442f.webp",
-      "video_url": null,
-      "source_id": "aaj_tv",
-      "source_name": "Aaj English Tv",
-      "source_priority": 179387,
-      "source_url": "https://english.aaj.tv",
-      "source_icon": "https://i.newsdata.io/aaj_tv.jpg",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 13.78,
-        "neutral": 85.05,
-        "positive": 1.17
+        "negative": 96.3,
+        "neutral": 2.95,
+        "positive": 0.75
       },
       "ai_tag": [
         "elections",
@@ -467,7 +413,54 @@
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
       "duplicate": false
+    },
+    {
+      "article_id": "9aacb42eaab19628168637b54c8a6d25",
+      "link": "https://tj.news/tj-comment/henry-srebrnik-suspicious-election-result-in-brazil-means-trouble-ahead",
+      "title": "Henry Srebrnik: Suspicious election result in Brazil means trouble ahead",
+      "description": "Country's fiercely contested presidential race has come to a chaotic conclusion, but things may get even worse",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "columnist",
+        "tj comment"
+      ],
+      "creator": [
+        "global view",
+        "henry srebrnik"
+      ],
+      "language": "english",
+      "country": [
+        "canada"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:17:33",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 09:45:19",
+      "image_url": "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2026/10/1027-tj-srebrnik-col.jpg",
+      "video_url": null,
+      "source_id": "tj_news",
+      "source_name": "The Tj News",
+      "source_priority": 392367,
+      "source_url": "https://tj.news",
+      "source_icon": "https://i.newsdata.io/tj_news.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 73.15,
+        "neutral": 25.98,
+        "positive": 0.87
+      },
+      "ai_tag": [
+        "elections"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
     }
   ],
-  "nextPage": "1793160134835158110"
+  "nextPage": "1793179053160048166"
 }

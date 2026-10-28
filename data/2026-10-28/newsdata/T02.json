@@ -1,272 +1,47 @@
 {
   "status": "success",
-  "totalResults": 615,
+  "totalResults": 604,
   "results": [
     {
-      "article_id": "4d2875336ee5f411f3add03e43a896b3",
-      "link": "https://www.yourlocalguardian.co.uk/news/26675493.sound-lounge-sutton-serve-free-christmas-day-dinner/",
-      "title": "Popular Sutton spot to serve free Christmas dinner for those \u2018alone or hard-up\u2019",
-      "description": "A Sutton restaurant is serving up a full Christmas dinner on Christmas Day so people struggling or facing the day alone have somewhere to go.",
+      "article_id": "763459d8ec5855482822529c25349c31",
+      "link": "https://www.capemaycountyherald.com/opinion/the-art-of-the-deal-remembered-3d057f04-8b7993a1",
+      "title": "'The Art of the Deal' - Remembered",
+      "description": "What is at stake in the midterms is Trump\u2019s disastrous reign continuing unchecked by a complicit Republican Congress.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "source:newsquest",
-        "topics:leisure",
-        "locations:surrey:sutton-surrey",
-        "article_types:news",
-        "topics:leisure:food-and-drink"
+        "opinion"
       ],
       "creator": [
-        "| ezekiel bertrand"
+        "letter to the editor"
       ],
       "language": "english",
       "country": [
-        "united kingdom"
+        "united states of america"
       ],
       "category": [
         "top",
-        "lifestyle"
+        "politics"
       ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 05:00:00",
+      "datatype": "opinion",
+      "pubDate": "2026-10-28 09:30:00",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 06:12:02",
-      "image_url": "https://www.yourlocalguardian.co.uk/resources/images/19892626/",
+      "fetched_at": "2026-10-28 10:56:45",
+      "image_url": "https://public-assets-prod.pubgen.ai/brand_c51cfbaf-2d61-4dfa-9b08-2f67c5541691/asset_4c896ef8-13a1-51cd-90d8-38961593820b.jpg",
       "video_url": null,
-      "source_id": "yourlocalguardian_uk",
-      "source_name": "Your Local Guardian",
-      "source_priority": 148025,
-      "source_url": "https://www.yourlocalguardian.co.uk",
-      "source_icon": "https://i.newsdata.io/yourlocalguardian_uk.png",
-      "sentiment": "positive",
-      "sentiment_stats": {
-        "negative": 0.71,
-        "neutral": 0.86,
-        "positive": 98.43
-      },
-      "ai_tag": [
-        "nonprofit organizations"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "c4476540808737347525543e33ab799b",
-      "link": "https://www.zawya.com/en/business/polarized-zinc-becomes-a-bull-bear-battleground-andy-home-1853551",
-      "title": "Polarized zinc becomes a bull-bear battleground: Andy Home",
-      "description": "The fund community is split down the middle over whether this year's unexpected price rally is over or merely pausing for breath",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "commodities",
-        "metals",
-        "global markets"
-      ],
-      "creator": [
-        "andy home"
-      ],
-      "language": "english",
-      "country": [
-        "united arab emirates"
-      ],
-      "category": [
-        "top",
-        "business"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 04:59:39",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 05:04:59",
-      "image_url": null,
-      "video_url": null,
-      "source_id": "zawya",
-      "source_name": "Zawya",
-      "source_priority": 20534,
-      "source_url": "https://www.zawya.com/en/mena",
-      "source_icon": "https://i.newsdata.io/zawya.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 2.19,
-        "neutral": 96.74,
-        "positive": 1.07
-      },
-      "ai_tag": [
-        "financial markets",
-        "metal & mining"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "13d8ad14a8f49c787eb3ef9de95c9368",
-      "link": "https://indianexpress.com/article/sports/football/kylian-mbappe-apologises-for-chinese-dictator-comment-after-la-liga-statement-10939891/",
-      "title": "La Liga president meets Chinese ambassador as Mbappe\u2019s Mao Zedong comment hits league broadcast",
-      "description": "Kylian Mbappe's comment has sparked furore in Chinese media that has prompted La Liga to apologise and league president Javier Tebas to meet with China's ambassador to Spain.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "football",
-        "sports"
-      ],
-      "creator": [
-        "sports desk"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "sports"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 04:56:28",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 07:06:19",
-      "image_url": "https://images.indianexpress.com/2026/10/Mbappe-Real-2.jpg",
-      "video_url": null,
-      "source_id": "indianexpress",
-      "source_name": "The Indian Express",
-      "source_priority": 1386,
-      "source_url": "https://indianexpress.com",
-      "source_icon": "https://i.newsdata.io/indianexpress.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 34.37,
-        "neutral": 64.73,
-        "positive": 0.9
-      },
-      "ai_tag": [
-        "soccer",
-        "sports"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "3e48fd69c4a420cf9ba3547e5fe6cc18",
-      "link": "https://www.bwhealthcareworld.com/article/organic-farming-future-of-public-health-383114",
-      "title": "Organic Farming: Future of Public Health - BW Healthcare World",
-      "description": "A technique that involves agriculture of land, crops, rearing of animals and growing plants, vegetables, and fruits without using chemicals is called organic farming. This eco-friendly practice avoids synthetic substances such as fertilizers as far as possible. It relies on using only biological materials that help nourish the soil, keep it fertile, and make crops better. As a side result, it also helps in preserving the natural diversity and brings down pollution and wastage. Organic farming reduces public health risk by minimal exposure of toxic chemicals and pesticides, especially to children who are more vulnerable to pesticides and chemicals. Food produced organically not only reduces public health risk but also is rich in nutrients, such as Vitamin-C, iron, magnesium, and phosphorus. Even the fruits, vegetable and grains are rich in nutrients compared to conventionally grown products. There are multiple benefits of organic farming/food some of them are:Antibiotic Resistance: One of the benefits of organic food is that its antibiotic-resistance. Non-organic food is produced with chemicals thus people who consume non-organic food are susceptible to consume antibiotics, hormones and harmful chemicals. This can make them vulnerable to diseases and endanger their health. Strengthens immune system: The traditional farming focuses of increasing the production of farm output. For example, the notion of producing more cereals, more meat and bigger fruits through genetic modifications and use of growth hormones seems to solve some of the world\u2019s food insecurity concerns. The effects are not yet visible, but in the long-term, the consequences are sensitivity to allergens and a major reduction in immune system strength. By eating organic foods, the risks of decline in immune system strength are significantly reduced because organic foods are not altered at all. Furthermore, organic foods have quality and higher vitamin and mineral contents that help to strengthen the human immune system. Antioxidant content: The positive effect of antioxidants has emerged multiple times in the study of organic farming. It is because organic food is chemical free and are rich in nutrients, so they do not react with the vitamins and minerals thus lowering the essential positive impacts of antioxidants in food products. Latest studies propose that the consumption of organic food can contribute to more intake of nutritionally advantageous antioxidants and limited exposure to heavy metals. The positive impacts of antioxidants obtained from organic foods include prevention of heart disease, cancer, vision problems, premature aging, and cognitive malfunction. Environmental Safety: Not only health but organic farming also improves environmental factors. The use of chemicals in farming not only harm the food the also the land. It makes them infertile and increases soil erosion. Organic farming does not use any chemicals thus leading to a fertile and erosion free land. Fertile land also affects the global warming thus organic farming reduces the effect of global warming. Water conservation, discouraging algal bloom, supporting animal health and welfare, encouraging biodiversity are some of the environmental benefit of organic farming. Better overall health: According to research published in the journal JAMA, people who eat organic food have a 25% lower risk of getting cancer. This research was carried out for five years with a follow-up that found that organic food reduces the chances of breast cancer, prostate cancer, skin cancer and colorectal cancer. Organically grown food is also beneficial for heart health. The organic food consumes less oil and fats thus it also takes care of the heart. Organic food is also considered as a rich source of Vitamin C, iron, magnesium, and phosphorus. Individuals with heart-related issues are strictly advised to consume more organic food. With so many benefits of organic food, moreover, it improves the overall health. Having organic food regularly ensures better health and nourishment and leads to better living.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": null,
-      "creator": [
-        "guest author"
-      ],
-      "language": "english",
-      "country": [
-        "united kingdom"
-      ],
-      "category": [
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 04:48:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 07:30:34",
-      "image_url": "https://static.businessworld.in/1493715472_t5BJKW_kheti-cool-Khetify-Urban-Farm-2.jpg",
-      "video_url": null,
-      "source_id": "bwhealthcareworld",
-      "source_name": "Businessworld Healthcare World",
+      "source_id": "capemaycountyherald",
+      "source_name": "Cape May County Herald",
       "source_priority": 99999999,
-      "source_url": "https://www.bwhealthcareworld.com",
-      "source_icon": "https://i.newsdata.io/bwhealthcareworld.png",
-      "sentiment": null,
-      "sentiment_stats": null,
-      "ai_tag": null,
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "338408a7c005351623ecc179125727e6",
-      "link": "https://www.news18.com/photogallery/movies/hollywood/noah-wyle-named-people-magazines-sexiest-man-alive-2026-all-about-the-pitt-star-ws-l-10400698.html",
-      "title": "Noah Wyle Named People Magazine\u2019s Sexiest Man Alive 2026: All About \u2018The Pitt\u2019 Star",
-      "description": "Best known for playing doctors in ER and The Pitt, 55-year-old Noah Wyle has been named People\u2019s Sexiest Man Alive for 2026.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "latest"
-      ],
-      "creator": [
-        "news18"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 04:45:27",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 05:01:55",
-      "image_url": "https://images.news18.com/ibnlive/uploads/2026/10/Noah-Wyle-People-Sexiest-Man-Alive-2026-2026-10-0154d2bd40a51ab978adcbe08636323c-1200x800.jpg",
-      "video_url": null,
-      "source_id": "news18",
-      "source_name": "News 18",
-      "source_priority": 1063,
-      "source_url": "https://www.news18.com",
-      "source_icon": "https://i.newsdata.io/news18.png",
-      "sentiment": "positive",
-      "sentiment_stats": {
-        "negative": 0.89,
-        "neutral": 2.13,
-        "positive": 96.98
-      },
-      "ai_tag": [
-        "celebrity"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "b56d18954477411f50b7fab0d6e9864d",
-      "link": "https://alquds.com/en/posts/266348-occupation-army-continues-to-violate-the-truce-in-gaza-and-the-death-toll-is",
-      "title": "Occupation army continues to violate the truce in Gaza and the death toll is constantly rising",
-      "description": "The occupation army continues its violations of the ceasefire agreement in the Gaza Strip, leading to new martyrs and an increase in the total toll of the aggression amidst a worsening humanitarian crisis.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "palestine"
-      ],
-      "creator": [
-        "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633"
-      ],
-      "language": "english",
-      "country": [
-        "palestine"
-      ],
-      "category": [
-        "crime",
-        "politics",
-        "top"
-      ],
-      "datatype": "blog",
-      "pubDate": "2026-10-28 04:45:03",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 06:45:57",
-      "image_url": "https://cdn.alquds.com/uploads/7e3b4571a41ca6aaad658f11e59e5318.jpg",
-      "video_url": null,
-      "source_id": "alquds_ar",
-      "source_name": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633",
-      "source_priority": 345815,
-      "source_url": "https://www.alquds.com/ar/home",
-      "source_icon": "https://i.newsdata.io/alquds_ar.png",
+      "source_url": "https://www.capemaycountyherald.com",
+      "source_icon": "https://i.newsdata.io/capemaycountyherald.png",
       "sentiment": "negative",
       "sentiment_stats": {
-        "negative": 98.89,
-        "neutral": 0.73,
-        "positive": 0.38
+        "negative": 95.79,
+        "neutral": 3.49,
+        "positive": 0.72
       },
       "ai_tag": [
-        "conflicts & war",
-        "accidents"
+        "government",
+        "elections"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -274,188 +49,451 @@
       "duplicate": false
     },
     {
-      "article_id": "6adb6e6e9039f4ba1e608d38a826a59a",
-      "link": "https://www.abc.net.au/news/2026-10-28/ebola-latest-10000-cases/107318116",
-      "title": "Ebola outbreak passes 10,000 cases in DRC after nurse killed, another injured",
-      "description": "The outbreak is now the second largest Ebola virus outbreak globally, and the fastest growing in the DRC's history according to health officials.",
+      "article_id": "fe415cf15f52229d1936b1c24e33fa6e",
+      "link": "https://today.umd.edu/business-fraternities-to-feed-solutions-to-food-pantrys-data-challenges",
+      "title": "Business Fraternities to Feed Solutions to Food Pantry\u2019s Data Challenges",
+      "description": "A Smith School competition encourages undergrads to recommend strategy for a Montgomery County nonprofit.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "keywords": [
-        "ebola",
-        "diseases and disorders",
-        "health"
+        "amid",
+        "food",
+        "manna",
+        "improve",
+        "streamline",
+        "federal",
+        "serve",
+        "center\u2019s",
+        "cuts",
+        "montgomery",
+        "ideas",
+        "supplemental",
+        "county",
+        "work",
+        "snap"
       ],
       "creator": [
-        "brianna morris-grant"
+        "maryland today staff"
       ],
       "language": "english",
       "country": [
-        "australia"
-      ],
-      "category": [
-        "crime",
-        "top",
-        "environment"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 04:44:28",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 05:02:21",
-      "image_url": "https://live-production.wcms.abc-cdn.net.au/528ae496f52350dca5685d34255918c0?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485",
-      "video_url": null,
-      "source_id": "abc_net",
-      "source_name": "Abc",
-      "source_priority": 3795,
-      "source_url": "https://www.abc.net.au",
-      "source_icon": "https://i.newsdata.io/abc_net.png",
-      "sentiment": "negative",
-      "sentiment_stats": {
-        "negative": 96.91,
-        "neutral": 2.52,
-        "positive": 0.57
-      },
-      "ai_tag": [
-        "accidents",
-        "natural disasters"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "3f7e37944fe9e3b2681179ad29b4e6aa",
-      "link": "https://berwicknews.starcommunity.com.au/news/2026-10-28/lucky-country-no-more-food-insecurity-rises-community-services-on-the-frontlines/",
-      "title": "\u2018Lucky Country no more\u2019: Food insecurity rises, community services on the frontlines",
-      "description": "More than 3.6 million households are going hungry, warns Foodbank\u2019s 2026 hunger report, with local organisations facing the brunt as food insecurity climbs. \u201cThe Lucky Country is now the Hungry Country\u2026\u201d said Foodbank CEO, Kylea Tink on the report\u2019s findings. This year\u2019s Foodbank Hunger report, found that the national rate for food insecurity has stayed [\u2026]",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "news"
-      ],
-      "creator": [
-        "jin hui"
-      ],
-      "language": "english",
-      "country": [
-        "australia"
-      ],
-      "category": [
-        "top",
-        "environment"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 04:39:11",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 04:45:08",
-      "image_url": "https://berwicknews.starcommunity.com.au/files/2026/10/localHero_586856_01.jpg",
-      "video_url": null,
-      "source_id": "berwicknews_starcommunity",
-      "source_name": "Berwick Star News",
-      "source_priority": 343923,
-      "source_url": "https://berwicknews.starcommunity.com.au",
-      "source_icon": "https://i.newsdata.io/berwicknews_starcommunity.png",
-      "sentiment": "negative",
-      "sentiment_stats": {
-        "negative": 98.03,
-        "neutral": 1.37,
-        "positive": 0.6
-      },
-      "ai_tag": [
-        "pollution",
-        "natural disasters"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "877020d361969646acafc8bd347f94fb",
-      "link": "https://www.bwhealthcareworld.com/article/promoting-exclusive-breastfeeding-bottom-up-approach-to-tackle-nutritional-deficiency-in-infancy-529204",
-      "title": "Promoting Exclusive Breastfeeding; Bottom-up Approach To Tackle Nutritional Deficiency In Infancy - BW Healthcare World",
-      "description": "Thinking about breastfeeding a child during infancy might appear as \u2018natural\u2019 as breathing, almost instinctive across various species of mammals. However, its importance in ensuring the well-being of a child is often overlooked by humans. Moreover, various misconceptions and prevailing norms related to nutrition create problems, especially in India. The first two years of human life are critical, where the growth and development of a child is determined by how much optimal feeding practices have been adhered to by parents and caregivers. This includes early initiation of breastfeeding within first hour of birth, exclusive breastfeeding for the first six months, introducing nutrition-rich complementary foods after six months of age along with continued breastfeeding up to 2 years of age. This is important to prevent potential long-term adverse consequences from poor nutrition. As per the National Family Health Survey (2019-21) about one in three children under-5 years in India are stunted (height for age) and underweight (weight for age), and one in five are wasted (weight for height). India also carries one-third of the global burden of malnutrition. Exclusive breastfeeding is the cornerstone of a child\u2019s early development. Exclusive breastfeeding means that an infant should receive only breast milk and no other food items, be it liquid or solids, for the first six months. This includes even water! This is because breastmilk contains 88% water and is adequate to meet the infant\u2019s requirements. It protects them against diarrhoea and common illnesses such as pneumonia, laying the foundation for long-term immunity. In fact, the World Health Organisation (WHO) recommends that infants should not be given water, as it carries the risk of water-borne diseases. There are exceptions like oral rehydration solution (ORS), vitamin syrups or drops, or medicines prescribed by the doctor. The importance of breastfeeding within the first hour of birth is well documented. Mother\u2019s first milk contains a vital substance \u2013 colostrum or \u2018liquid gold\u2019 \u2013 that is rich in antibodies and nutrients. It establishes a newborn\u2019s immune system, contains prebiotics that are essential for digestion, and aids in growth and development. This simple life-saving intervention is often not prioritised. In India, water, raw honey, and a range of liquids are given to infants right after birth. Items like raw honey are riddled with danger as it is high in sugar levels and may also carry various disease causing bacteria. In the country, only 42% children under-3 are breastfed within the first hour of birth, while 64% are exclusively breastfed under six months. Breastfeeding also benefits lactating mothers. A longer period of breastfeeding is associated with a reduced risk of breast cancer and ovarian cancer and also reduces risks of type-2 diabetes. Whereas, a shorter duration of breastfeeding increases the risk of postpartum depression. Our own experiences of working with marginalised communities in hard-to-reach pockets in India reveal socio-economic factors that impact feeding practices. Whenever access to Primary Health Care Centres (PHCs) and Frontline Health Workers is not available on a regular basis, families tend to revert to generational knowledge passed down by elders in the family or community for childcare. Poor availability of nutritional foods and the subsequent ill health of the mother only exacerbates the problem. This forces vulnerable families to switch to formula-based feeding early in infancy. They also revert to myths and perceptions of infants being thirsty during summer months, and begin feeding them with water. Mothers from marginalised communities also face additional gender-linked challenges. Lack of resources often forces them to re-join the workforce immediately after birthing a child, making it difficult for them to nourish their own bodies in order to be able to effectively breastfeed. Factors like lack of privacy in their workplaces and the burden of household chores also play a role. The government of India lays heavy emphasis on promoting exclusive breastfeeding through ASHA and other Frontline Health Workers. Policy interventions have improved feeding practices over the years. However, we could achieve more through a concerted bottom-up approach, in-turn accelerate the performance on nutritional indicators. For this, the role of community-based social organisations and leaders is critical, especially as breastfeeding is deeply personal and gender sensitive. Community-led approaches have a proven and well-documented track record across developing countries in changing deeply entrenched nutritional practices and behaviours. Our own field experience of a project in Kandhamal District, Odisha shows this. Tribal community women trained by us led the change in their household\u2019s and neighbourhood\u2019s nutrition seeking behaviour, where their families have now started shifting consumption patterns to include more nutritious foods in their diet. These women have managed to create such an environment locally that their community members draw inspiration from each other to improve their practices, this is a factor that acts like a force-multiplier in such interventions. Viksit Bharat also means Swasth Bharat. It is necessary that governments, social and even private sector players come together to promote such bottom-up interventions that keep the community in the centre of the program, work closely to transform exclusive breastfeeding practices, one household at a time. It is only by making the fight against malnutrition a Jan Andolan (people\u2019s movement), with each stakeholder playing their role that we can accelerate the progress on key nutritional indicators for our mothers and children and achieve our SDG targets by 2030.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": null,
-      "creator": [
-        "guest author"
-      ],
-      "language": "english",
-      "country": [
-        "united kingdom"
-      ],
-      "category": [
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-28 04:38:28",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 07:06:02",
-      "image_url": "https://static.businessworld.in/1597045367_rayXW2_breastfeeding.jpg",
-      "video_url": null,
-      "source_id": "bwhealthcareworld",
-      "source_name": "Businessworld Healthcare World",
-      "source_priority": 99999999,
-      "source_url": "https://www.bwhealthcareworld.com",
-      "source_icon": "https://i.newsdata.io/bwhealthcareworld.png",
-      "sentiment": null,
-      "sentiment_stats": null,
-      "ai_tag": null,
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "3e3d05912727e19f2989e01424f057f6",
-      "link": "https://www.rediff.com/news/interview/we-are-on-the-brink-of-a-food-crisis/20261028.htm",
-      "title": "We Are On The Brink Of A Food Crisis",
-      "description": "The priority of the government should be to use agricultural production for human beings first, and only after that for biofuel and such things.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "kullu",
-        "india",
-        "himanshu",
-        "united nations",
-        "iran",
-        "external",
-        "united states",
-        "poverty",
-        "food prices",
-        "jnu",
-        "el nino",
-        "rediff"
-      ],
-      "creator": [
-        "shobha warrier"
-      ],
-      "language": "english",
-      "country": [
-        "india"
+        "united states of america"
       ],
       "category": [
         "top",
         "business",
+        "lifestyle"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:30:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 10:01:14",
+      "image_url": "https://umd-today.transforms.svdcdn.com/production/es/heroes/thumbnails/Beza-Outreach-1_1920x1080_thumb_1793116097.jpg?w=1920&h=1080&auto=compress%2Cformat&fit=crop&dm=1793116097&s=963ec05058e3da34f7dec65c7eba920d",
+      "video_url": null,
+      "source_id": "umd",
+      "source_name": "University Of Maryland",
+      "source_priority": 3480,
+      "source_url": "https://umd.edu",
+      "source_icon": "https://i.newsdata.io/umd.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 6.08,
+        "neutral": 88.02,
+        "positive": 5.9
+      },
+      "ai_tag": [
+        "nonprofit organizations",
+        "supply chain and logistics"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "36b476160eb9f69bd3003516f26cfd4d",
+      "link": "https://www.hrnww.com/?p=32067",
+      "title": "UN Warns Sudan\u2019s Darfur and Kordofan Regions Face Growing Famine Risk",
+      "description": "Darfur, Sudan (HRNW) \u2014 October 28, 2026 The United Nations-backed global hunger monitor has warned that the risk of famine is growing in parts of Sudan\u2019s Greater Darfur and Greater Kordofan regions, where conflict, displacement and drought are worsening food insecurity. An alert issued by the Integrated Food Security Phase Classification (IPC) on October 12...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "united nations"
+      ],
+      "creator": [
+        "hrnw web desk"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "top",
         "environment"
       ],
       "datatype": "news",
-      "pubDate": "2026-10-28 04:34:11",
+      "pubDate": "2026-10-28 09:27:03",
       "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 06:45:21",
-      "image_url": "https://im.rediff.com/1600-900/news/2026/oct/24food-prices.jpg",
+      "fetched_at": "2026-10-28 09:46:26",
+      "image_url": null,
       "video_url": null,
-      "source_id": "rediff",
-      "source_name": "Rediff",
-      "source_priority": 106392,
-      "source_url": "https://www.rediff.com",
-      "source_icon": "https://i.newsdata.io/rediff.png",
+      "source_id": "hrnww",
+      "source_name": "Human Rights News Worldwide Hrnw News Agency",
+      "source_priority": 99999999,
+      "source_url": "http://www.hrnww.com",
+      "source_icon": "https://i.newsdata.io/hrnww.png",
       "sentiment": "negative",
       "sentiment_stats": {
-        "negative": 84.68,
-        "neutral": 12.99,
-        "positive": 2.33
+        "negative": 97.39,
+        "neutral": 2.05,
+        "positive": 0.56
       },
       "ai_tag": [
-        "energy",
-        "renewable energy"
+        "natural disasters"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "fbf901baa41ea1e73106e8346e14847d",
+      "link": "https://time.com/article/2026/10/28/kylian-mbappe-china-mao-zedong-dictator-meme-backlash-controversy-explainer/",
+      "title": "Mbapp\u00e9 Apologizes After \u2018Dictator\u2019 Mao Comment: What to Know About the Chinese Backlash",
+      "description": "French soccer star Kylian Mbapp\u00e9 sparked intense backlash in China after referring to the late CCP founder Mao Zedong, when describing a meme, as \u201csome guy\u2014I think he\u2019s a Chinese dictator.\u201d",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "world"
+      ],
+      "creator": [
+        "miranda jeyaretnam"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "world"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:25:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 09:31:14",
+      "image_url": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf998d249d7024f45/6ae1b6dcd07e4ca1b74c74a1/mbappe_advertisement.jpg?branch=production",
+      "video_url": null,
+      "source_id": "time",
+      "source_name": "Time",
+      "source_priority": 432,
+      "source_url": "https://time.com",
+      "source_icon": "https://i.newsdata.io/time.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 92.59,
+        "neutral": 6.63,
+        "positive": 0.78
+      },
+      "ai_tag": [
+        "soccer",
+        "politics"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "d10c1c554fe4fb367da1656370752010",
+      "link": "https://www.hrnww.com/?p=32061",
+      "title": "UN Agencies Appeal for Urgent Help as Powerful El Ni\u00f1o Threatens Vulnerable Communities",
+      "description": "Geneva, Switzerland (HRNW) \u2014 October 28, 2026 United Nations agencies are calling for immediate assistance to protect vulnerable communities from the impacts of an exceptionally strong El Ni\u00f1o weather pattern, warning that the phenomenon could intensify food insecurity and extreme weather in several regions. The appeal, reported by the UN on October 21, highlights the...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "united nations"
+      ],
+      "creator": [
+        "hrnw web desk"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "environment"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:19:45",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 09:46:26",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "hrnww",
+      "source_name": "Human Rights News Worldwide Hrnw News Agency",
+      "source_priority": 99999999,
+      "source_url": "http://www.hrnww.com",
+      "source_icon": "https://i.newsdata.io/hrnww.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 93.54,
+        "neutral": 5.24,
+        "positive": 1.22
+      },
+      "ai_tag": [
+        "climate and weather",
+        "natural disasters"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "5e573d2f936928b3385824f700ca6e1e",
+      "link": "https://www.aa.com.tr/en/africa/drone-strikes-hit-power-station-in-sudan-s-managil-cutting-electricity/4103529",
+      "title": "Drone strikes hit power station in Sudan\u2019s Managil, cutting electricity",
+      "description": "Attack also targets fuel tanker, gas station as drone strikes hit electricity infrastructure in army-controlled states for 3rd consecutive day",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "adel abdelrheem and ikram kouachi"
+      ],
+      "language": "english",
+      "country": [
+        "turkey"
+      ],
+      "category": [
+        "world"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:15:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 09:38:03",
+      "image_url": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/28/thumbs_b_c_cd8a7f6d5667f963d98f21a44331f80a.jpg",
+      "video_url": null,
+      "source_id": "aa_tr",
+      "source_name": "Anadolu Agency",
+      "source_priority": 20839,
+      "source_url": "https://www.aa.com.tr/en",
+      "source_icon": "https://i.newsdata.io/aa_tr.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 96.26,
+        "neutral": 3.05,
+        "positive": 0.69
+      },
+      "ai_tag": [
+        "accidents",
+        "national security"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "90e22dbfda7b95d53d3259c2a13d6d0f",
+      "link": "https://reliefweb.int/report/democratic-republic-congo/ebola-10000-confirmed-cases-demands-rapid-scale-nrc",
+      "title": "DR Congo: Ebola: 10,000 confirmed cases demands rapid scale-up | NRC",
+      "description": "NRC is supporting affected communities in areas of Ituri Province, including with the provision of infection prevention and control kits which help fight the spread of Ebola. Photo: NRC Ebola: 10,000 confirmed cases demands rapid scale-up Norwegian Refugee Council (NRC) calls for urgent scale-up as outbreak continues to outstrip humanitarian operation Press release DR Congo Published 28. Oct 2026 The Democratic Republic of the Congo (DR Congo) has now confirmed more than 10,000 cases of Ebola in the current Bundibugyo virus outbreak. The outbreak has affected eight provinces in DR Congo, placing an enormous burden on affected communities. The epidemic is currently concentrated in eastern parts of the country, but recent cases in Kenya and Nigeria have raised fears of a regional flare-up. Almost five thousand deaths have now been confirmed in DR Congo alone. The outbreak comes on the backdrop of a chronic and neglected humanitarian crisis in eastern DR Congo. NRC has been operational in the country for over two decades, and is taking part in the Ebola response, including in the most affected province of Ituri. NRC urgently calls for sustained and coordinated efforts to protect communities, strengthen access to essential services, and address the needs of people affected by the outbreak and displacement. \u201cAs I move around Ituri I\u2019m seeing just how hard the disease is hitting communities, and I'm struck by how much more needs to be done to bring this outbreak under control,\u201d said Silvia Beccacece, NRC emergency team leader. \u201cFamilies here have been struggling for years as a result of extreme violence, forced displacement, and the lack of essential services. Ebola comes on top of that, at a point where many have exhausted their ability to cope with the additional challenge it brings. The fact remains that this response is in no way proportionate to the vast scale of the outbreak.\u201d Combating Ebola requires close cooperation between health authorities, humanitarian organisations, community-based organisations, and international partners. It is essential that the response is scaled up in a way that keeps communities at the centre and is grounded in local customs and traditions. NRC calls on donors and partners to increase their support for humanitarian operations in the DR Congo, particularly in areas affected by the outbreak and displacement. \u201c10,000 confirmed cases must be a wake-up call that this response is not getting ahead of the outbreak, and is not supporting communities with what they need to bring transmission under control. The warning signs are here for all to see: now it depends on whether leaders will take notice and take the required action,\u201d said Beccacece. Note to editors: The latest figure for confirmed Ebola cases in DR Congo is 10,060, with a mortality rate of almost 50 per cent (National Public Health Institute). The outbreak is now the largest and deadliest in DR Congo\u2019s history NRC operates in 19 affected health zones, with a targeted Ebola response in Ituri, and continues to scale- up its Ebola response while maintaining essential humanitarian assistance in affected and high-risk areas. NRC is contributing through an integrated approach combining infection, prevention and control measures, water and sanitation response (WASH), and risk communication and community engagement activities, with a major focus on schools, to make sure they can operate safely. (NRC) DR Congo has featured on NRC\u2019s neglected displacement crises list for ten consecutive years (NRC). For more information or to arrange an interview, please contact: NRC global media hotline: media@nrc.no, +47 905 62 329",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "protection and human rights",
+        "health",
+        "news and press release",
+        "norwegian refugee council",
+        "epidemic",
+        "democratic republic of the congo"
+      ],
+      "creator": [
+        "norwegian refugee council"
+      ],
+      "language": "english",
+      "country": [
+        "yemen",
+        "sudan",
+        "nigeria",
+        "myanmar",
+        "pakistan",
+        "haiti",
+        "afghanistan",
+        "syria",
+        "ukraine",
+        "somalia",
+        "ethiopia"
+      ],
+      "category": [
+        "top",
+        "environment",
+        "health"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:03:16",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 10:31:37",
+      "image_url": "https://reliefweb.int/modules/custom/reliefweb_meta/images/disaster-type/EP.png",
+      "video_url": null,
+      "source_id": "reliefweb",
+      "source_name": "Reliefweb",
+      "source_priority": 6281,
+      "source_url": "https://reliefweb.int",
+      "source_icon": "https://i.newsdata.io/reliefweb.jpg",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 7.26,
+        "neutral": 82.5,
+        "positive": 10.24
+      },
+      "ai_tag": [
+        "diseases",
+        "natural disasters"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "50e718b8f62ac3afbcaaf76661eeb816",
+      "link": "https://www.washingtonsun.com/foreign-policy/ex-biden-officials-want-2028-democrats-to-reject-biden-and-trump-israel-policies",
+      "title": "Ex-Biden Officials Want 2028 Democrats to Reject Biden and Trump Policies on Israel",
+      "description": "They\u2019re asking potential presidential candidates to pledge to reject controversial Israel-Gaza policies and to avoid hiring staff who shaped those policies.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "akbar shahid ahmed"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:03:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 09:22:15",
+      "image_url": "https://static.washingtonsun.com/dims4/default/475850f/2147483647/strip/false/crop/1024x683+0+0/resize/1872x1248!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd2%2F53%2F7f7aaebb43ab8f415a2919653bd3%2Fap24207628036752.jpg",
+      "video_url": null,
+      "source_id": "washingtonsun",
+      "source_name": "The Washington Sun",
+      "source_priority": 1281177,
+      "source_url": "https://www.washingtonsun.com",
+      "source_icon": null,
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 12.53,
+        "neutral": 83.0,
+        "positive": 4.47
+      },
+      "ai_tag": [
+        "government"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "5edeffb26cc8c790e14d3448c9b9546b",
+      "link": "https://www.usatoday.com/story/grocery/shopping/2026/10/28/rising-food-costs-grocery-debt/91547708007/",
+      "title": "'I have to pay her back.' One family's struggle to afford food",
+      "description": "As grocery prices climb, more families are turning to credit cards and loans just to put meals on the table.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "tag:seo team optimized",
+        "template:article plus",
+        "tag:economy news",
+        "ssts:grocery:shopping",
+        "tag:overall negative",
+        "tag:usat content sharing - money",
+        "sstsn:grocery shopping",
+        "tag:article plus",
+        "tag:food insecurity",
+        "tag:modular story",
+        "tag:grocery shopping",
+        "tag:budgets and budgeting",
+        "tag:food banks",
+        "source:usa today",
+        "access:free",
+        "tag:poverty & hunger",
+        "tag:personal finance and investing",
+        "type:story",
+        "tag:personal finance",
+        "tag:image topper"
+      ],
+      "creator": [
+        "betty lin-fisher"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:01:15",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 09:31:02",
+      "image_url": "https://www.gannett-cdn.com/authoring/authoring-images/2026/10/15/USAT/92269010007-economy-grocery-topper.png",
+      "video_url": null,
+      "source_id": "usatoday",
+      "source_name": "Usa Today",
+      "source_priority": 418,
+      "source_url": "https://www.usatoday.com",
+      "source_icon": "https://i.newsdata.io/usatoday.jpg",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 94.18,
+        "neutral": 4.9,
+        "positive": 0.92
+      },
+      "ai_tag": [
+        "banking and finance",
+        "economy"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "c7fa7ec897a60c70e237db5dfa2828ce",
+      "link": "https://www.dailysabah.com/world/africa/sudan-market-drone-strike-kills-at-least-36-as-darfur-crisis-deepens",
+      "title": "Sudan market drone strike kills at least 36 as Darfur crisis deepens",
+      "description": "At least 36 people have been killed in a drone strike on a crowded market in Sudan\u2019s Darfur region, a medical aid organization said Tuesday, as attacks on civilian areas intensify...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "world - africa"
+      ],
+      "creator": [
+        "daily sabah with agencies"
+      ],
+      "language": "english",
+      "country": [
+        "turkey"
+      ],
+      "category": [
+        "world"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 09:01:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 09:44:31",
+      "image_url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/28/467867.jpg",
+      "video_url": null,
+      "source_id": "dailysabah",
+      "source_name": "Daily Sabah",
+      "source_priority": 265067,
+      "source_url": "https://www.dailysabah.com",
+      "source_icon": "https://i.newsdata.io/dailysabah.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 98.35,
+        "neutral": 1.13,
+        "positive": 0.52
+      },
+      "ai_tag": [
+        "accidents"
       ],
       "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
@@ -463,5 +501,5 @@
       "duplicate": false
     }
   ],
-  "nextPage": "1793162051179983624"
+  "nextPage": "1793178060197020519"
 }

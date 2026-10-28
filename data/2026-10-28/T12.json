@@ -1,7 +1,111 @@
 {
   "status": "ok",
-  "totalResults": 42,
+  "totalResults": 50,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Megan Palin",
+      "title": "\u2018Black October\u2019 shows how criminals use AI to cause real-world chaos \u2014 but here\u2019s how you can protect yourself",
+      "description": "The world has been plunged into a cyber-security crisis, known as \u201cBlack October,\u201d which exposed how vulnerable much of the world\u2019s online infrastructure is.",
+      "url": "https://nypost.com/2026/10/27/tech/black-october-shows-how-criminals-use-ai-to-cause-real-world-chaos-but-heres-how-you-can-protect-yourself/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-r4gha2ncg-1793134524176.jpg?quality=75&strip=all&1793120163&w=1200",
+      "publishedAt": "2026-10-27T21:12:37Z",
+      "content": "The world has been plunged into a cyber-security crisis, known as Black October, which exposed how vulnerable much of the worlds online infrastructure is.\r\nMajor security incidents, hacks and flaws a\u2026 [+5893 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nextgov"
+      },
+      "author": "David DiMolfetta",
+      "title": "White House takes Texas water cybersecurity model to rural hospitals",
+      "description": "Project Lifeline 250 will provide free cybersecurity assistance to South Carolina hospitals, extending the administration\u2019s effort to connect vulnerable infrastructure operators with industry support.",
+      "url": "https://www.nextgov.com/cybersecurity/2026/10/white-house-takes-texas-water-cybersecurity-model-rural-hospitals/416852/",
+      "urlToImage": "https://cdn.nextgov.com/media/img/cd/2026/10/27/GettyImages_2282299502_1/open-graph.jpg",
+      "publishedAt": "2026-10-27T21:10:00Z",
+      "content": "The White House and South Carolina officials launched a six-month cybersecurity pilot Monday to help rural hospitals defend against hackers and keep treating patients during attacks, extending an app\u2026 [+3007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Epoch Times",
+      "title": "UK Must Be Ready for War in 1,000 Days, Says British Defense Secretary",
+      "description": "Wes Streeting\u2019s remarks were made following the launch of a government campaign urging Brits to stock up with emergency supplies. British Defense Secretary Wes Streeting has said the country must be ready for war in 1,000 days, after the government advised ci\u2026",
+      "url": "https://freerepublic.com/focus/f-news/4400806/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-10-27T19:23:18Z",
+      "content": "Skip to comments.\r\nUK Must Be Ready for War in 1,000 Days, Says British Defense SecretaryEpoch Times ^\r\n | 10/26/2026\r\n | Rachel Roberts\r\nPosted on 10/27/2026 12:23:18 PM PDT by george76\r\nWes Streeti\u2026 [+8253 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Italy \u2019s Parliament Under Cyber Pressure: Why the Attack on the Chamber Matters",
+      "description": "Italy \u2019s Parliament cyberattack highlights hybrid warfare risks and the need for transparency, stronger defenses and accountability. The cyberattack targeting email accounts at Italy\u2019s Chamber of Deputies, including a parliamentary account assigned to Prime M\u2026",
+      "url": "https://securityaffairs.com/201867/hacking/italys-parliament-under-cyber-pressure-why-the-attack-on-the-chamber-matters.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/06/Italy.jpg",
+      "publishedAt": "2026-10-27T19:12:30Z",
+      "content": "Italy s Parliament Under Cyber Pressure: Why the Attack on the Chamber Matters\r\nThe cyberattack targeting email accounts at Italys Chamber of Deputies, including a parliamentary account assigned to P\u2026 [+9138 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours",
+      "description": "One critical, three high-severity EPICS bugs could disrupt research experiments",
+      "url": "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811",
+      "urlToImage": "https://image.theregister.com/5305818.jpg?imageId=5305818&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-10-27T19:11:02Z",
+      "content": "An autonomous AI agent discovered four vulnerabilities in the decades-old, widely used EPICS (Experimental Physics and Industrial Control System) open source software toolkit, including a critical fl\u2026 [+5036 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "description": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator.\n\nTrendAI, which analyzed three exposed \u2026",
+      "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiniSfVwM2b4RVouLhc_nIvm2CdQCg9jtQDBVQP6BjvEC2NBaLFqU0A8RyC_GA3PkI4jF87W3h0GJ4xzycp6LAd4I3eRh3JnhnM9yi7CZ9dX2Pfe3MdDaaUSyrDUy1ksA-fdq0bUVzWcFRmS-JWOy3z7xiWB70DzgXLst_YspRqbGIAyv85_D4H9sPT7Sq3/s1700-nu-rw-lo-l85-e365/cyberstrikeai.jpg",
+      "publishedAt": "2026-10-27T18:26:46Z",
+      "content": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assi\u2026 [+12037 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Dheeraj Tiwari",
+      "title": "Regional rural banks to set up cybersecurity centres, develop threat intel",
+      "description": "Regional rural banks are set to improve their cyber security through the establishment of cyber security operations centres. They will also develop capabilities for vulnerability assessments and incident response as part of the reform agenda. The Financial St\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/regional-rural-banks-to-set-up-cybersecurity-centres-develop-threat-intel/articleshow/135243325.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-135243425,width-1200,height-900,imgsize-51554,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-27T18:08:29Z",
+      "content": "New Delhi: Regional rural banks (RRBs) will look to establish cyber security operations centres (CSOCs) with capabilities in threat intelligence, log management, and security information and event ma\u2026 [+2590 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Newton Gitonga",
+      "title": "Israeli ad tech firm tied to suspected Starlink tracking effort, report claims",
+      "description": "Citizen Lab and Confiant linked Israeli firm Discover-Tech to suspected surveillance through online advertising. Researchers said its ads appeared across nearly 200,000 websites and mobile apps. TrendAI separately identified related activity under the codenam\u2026",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/israeli-ad-tech-firm-tied-to-suspected-starlink-tracking-effort-report-claims-researchers-say-it-outbid-everyone-for-starlink-linked-ads-in-100-countries-including-where-the-service-is-banned",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ENC5zcxZ4NC6STP9xUUgpT-2000-80.jpg",
+      "publishedAt": "2026-10-27T17:37:00Z",
+      "content": "Discover-Tech, an Israeli advertising technology company, has reportedly been linked to a suspected surveillance effort aimed at Starlink users, according to Reuters. The report, which cites six peop\u2026 [+4242 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -536,31 +640,9 @@
       "content": "TOKYO: Japanese companies are moving to pay compensation to users following waves of cyberattacks that have disrupted internet services and raised concerns about economic stability.\r\nGMO Internet Gro\u2026 [+1649 chars]"
     },
     {
-      "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies",
-      "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/",
-      "description": "The CrowdStrike 2026 Legal Threat Landscape Report analyzes the key themes, trends, and events shaping the legal sector threat landscape.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Crowdstrike Holdings, Inc."
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "OTSUKA CORPORATION and Acronis Launch New Cloud Backup Service",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/10/28/3389843/0/en/otsuka-corporation-and-acronis-launch-new-cloud-backup-service.html",
-      "description": "OTSUKA CORPORATION and Acronis Launch New Cloud Backup Service",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "publishedAt": "",
-      "source": {
-        "name": "Globenewswire_fr"
-      },
-      "_provider": "newsdata.io"
-    },
-    {
-      "title": "SK Hynix says memory shortages to persist until 2030",
-      "url": "https://www.theregister.com/systems/2026/10/28/sk-hynix-says-memory-shortages-to-persist-until-2030/5305887",
-      "description": "Good for its bottom line, not great news for yours, or for the PC and smartphone markets",
+      "title": "Neocloud thinks AI agents - not meatbags - will be its main customers",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/28/neocloud-thinks-ai-agents-not-meatbags-will-be-its-main-customers/5305496",
+      "description": "Quake AI is developing APIs to let autonomous agents access its services more efficiently",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
@@ -569,79 +651,101 @@
       "_provider": "newsdata.io"
     },
     {
-      "title": "Governments Brace for New Normal After PHP Cybersecurity Scare",
-      "url": "https://www.governing.com/artificial-intelligence/governments-brace-for-new-normal-after-php-cybersecurity-scare",
-      "description": "The discovery of two critical flaws in a foundational programming language led governments and companies around the world to take down their websites last week. State and local leaders are preparing for AI to unlock a new world of constant vigilance and heightened cyber risks.",
+      "title": "US Federal Election Commission filing system down before midterms",
+      "url": "https://thenextweb.com/news/fec-hacker-breach-filing-system-offline",
+      "description": "The US Federal Election Commission (FEC) has taken its electronic filing system offline following an attempted cyberattack, Reuters reported on Tuesday, citing an internal email. The disruption comes a week before the November 3 midterm elections and has temporarily blocked political groups from submitting campaign finance reports. According to them, an FEC electronic filings officer [\u2026] This story continues at The Next Web",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "Governing"
+        "name": "Tnw"
       },
       "_provider": "newsdata.io"
     },
     {
-      "title": "Hackers target US Federal Election Commission's website ahead of midterms",
-      "url": "https://www.business-standard.com/world-news/hackers-target-us-federal-election-commission-s-website-ahead-of-midterms-126102800234_1.html",
-      "description": "The FEC does not play a role in administering US elections and the outage should have no effect on voters' ability to cast ballots",
+      "title": "ClickFix: How to spot the copy-paste trap on Windows and Mac",
+      "url": "https://www.notebookcheck.net/ClickFix-How-to-spot-the-copy-paste-trap-on-Windows-and-Mac.1435418.0.html",
+      "description": "A CAPTCHA, an error message or an install guide for Claude or ChatGPT tells you to press Win + R, paste and hit Enter. Doing that installs malware on your own computer. Here is how ClickFix works on Windows and Mac, how to recognize the lures and what to do if you have already run the command.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "Business Standard"
+        "name": "Notebookcheck"
       },
       "_provider": "newsdata.io"
     },
     {
-      "title": "The hidden software flaw every Namibian boardroom should be discussing this week",
-      "url": "https://observer24.com.na/the-hidden-software-flaw-every-namibian-boardroom-should-be-discussing-this-week/",
-      "description": "If your organisation runs a website, customer portal, e-learning platform, staff webmail or online business system, there is a security question your IT team needs to answer today. Your IT team may already know. Your board probably does not.",
+      "title": "Anthropic Wants More US Government Agencies Using Claude: It's Offering a 40% Discount",
+      "url": "https://www.ibtimes.sg/anthropic-wants-more-us-government-agencies-using-claude-its-offering-40-discount-95617",
+      "description": "Claude use across US federal civilian agencies has grown 20-fold in a year as Anthropic offers governments a 40% discount and estimates $1 billion in savings.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "Observer24"
+        "name": "International Business Times"
       },
       "_provider": "newsdata.io"
     },
     {
-      "title": "US campaign finance watchdog faces cyberattack ahead of mid-term elections",
-      "url": "https://www.firstpost.com/tech/us-campaign-finance-watchdog-faces-cyberattack-ahead-of-mid-term-elections-14055863.html",
-      "description": "With the US mid-term elections approaching, a cyber incident has disrupted a crucial federal system responsible for tracking political money. Although voters are not expected to face any immediate impact, the outage has raised concerns about transparency, campaign finance oversight and the growing vulnerability of institutions entrusted with protecting democratic accountability.",
+      "title": "Satellites in AI Hackers' Sights, KARI Builds New Cyber Shield",
+      "url": "https://en.sedaily.com/technology/2026/10/28/satellites-in-ai-hackers-sights-kari-builds-new-cyber-shield",
+      "description": "KARI is building a new security system against AI-driven hacking of space assets, as 407 cyber breaches hit space organizations worldwide in 2025.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "Firstpost"
+        "name": "\uc11c\uc6b8\uacbd\uc81c"
       },
       "_provider": "newsdata.io"
     },
     {
-      "title": "India Moves Towards US-Style Frontier AI Oversight As New Law Takes Shape",
-      "url": "https://www.indiandefensenews.in/2026/10/india-moves-towards-us-style-frontier.html",
-      "description": "India is preparing a dedicated legal framework for artificial intelligence that could place the world's most advanced AI models under a separate safety regime before they are released to the public, NDTV reported. The proposed approach signals a significant shift from the country's largely technology-neutral regulatory strategy towards more direct oversight of highly capable AI systems. Recent",
+      "title": "Japan Plans 'Emergency Request' for Three-Day Food and Water Stockpiles Amid Reports of Online War Speculation",
+      "url": "https://www.ibtimes.co.uk/japan-plans-emergency-request-three-day-food-water-stockpiles-amid-reports-online-war-1828362",
+      "description": "Japan plans to ask households to stockpile food, water and emergency toilet supplies, but officials say the appeal addresses disaster-related disruptions rather than an imminent war",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "Indiandefensenews"
+        "name": "International Business Times"
       },
       "_provider": "newsdata.io"
     },
     {
-      "title": "US FEC Hit By Suspected Cyberattack As Electronic Filing System Goes Offline Days Before November 3 Midterm Elections",
-      "url": "https://www.freepressjournal.in/tech/us-fec-hit-by-suspected-cyberattack-as-electronic-filing-system-goes-offline-days-before-november-3-midterm-elections",
-      "description": "The US Federal Election Commission (FEC) shut down its electronic filing system after a suspected cyberattack days before the November 3 midterm elections. The outage disrupted mandatory campaign spending reports but is not expected to affect voters' ability to cast ballots.",
+      "title": "Inside Republika Srpska\u2019s Chinese Tech Deal and Russian Influence Network",
+      "url": "https://hackernoon.com/inside-republika-srpskas-chinese-tech-deal-and-russian-influence-network",
+      "description": "An FBI-honored cyber chief, a 57M BAM Chinese deal, and Russian propaganda ties: the secret contracts of Dodik\u2019s digital insider.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "The Free Press Journal"
+        "name": "Hackernoon"
       },
       "_provider": "newsdata.io"
     },
     {
-      "title": "Pegasus Spyware Founder Urges Governments to Build Sovereign AI",
-      "url": "https://www.androidheadlines.com/2026/10/pegasus-founder-urges-governments-build-sovereign-ai.html",
-      "description": "The post Pegasus Spyware Founder Urges Governments to Build Sovereign AI appeared first on Android Headlines.",
+      "title": "Rubrik, Inc. $RBRK Stock Bought by Citizens Financial Group Inc. RI",
+      "url": "https://www.defenseworld.net/2026/10/28/rubrik-inc-rbrk-stock-bought-by-citizens-financial-group-inc-ri.html",
+      "description": "Citizens Financial Group Inc. RI grew its holdings in Rubrik, Inc. (NYSE:RBRK \u2013 Free Report) by 88.5% in the 3rd quarter, according to the company in its most recent filing with the SEC. The firm owned 13,594 shares of the company\u2019s stock after buying an additional 6,383 shares during the quarter. Citizens Financial Group Inc. [\u2026]",
       "content": "ONLY AVAILABLE IN PAID PLANS",
       "publishedAt": "",
       "source": {
-        "name": "Androidheadlines"
+        "name": "Defenseworld Net"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Top 9 Best Backup & Recovery Solutions in 2026 [Ranked & Scored]",
+      "url": "https://cybersecuritynews.com/top-9-best-backup-recovery-solutions-in-2026-ranked-scored/",
+      "description": "Ransomware crews attack backups before they attack production encrypting or deleting recovery points first, then ransoming what\u2019s left. That inverted kill chain has turned backup from an infrastructure checkbox into a security control, judged now by immutability, blast-radius isolation, and verified restore speed rather than backup-window math. Our source sheet listed ten vendors, but Cohesity\u2019s [\u2026] The post Top 9 Best Backup & Recovery Solutions in 2026 [Ranked & Scored] appeared first on Cyber Security News.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Cybersecuritynews"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Cyberattack Disrupts US Campaign-Finance Disclosures Before Midterm Polls",
+      "url": "https://www.analyticsinsight.net/news/cyberattack-disrupts-us-campaign-finance-disclosures-before-midterm-polls",
+      "description": "Hackers targeted the US FEC\u2019s filing system, disrupting campaign-finance disclosures days before the midterms.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Analytics And Insight"
       },
       "_provider": "newsdata.io"
     }

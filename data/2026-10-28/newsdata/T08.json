@@ -1,7 +1,504 @@
 {
   "status": "success",
-  "totalResults": 16,
+  "totalResults": 21,
   "results": [
+    {
+      "article_id": "b2d80d16fa21a99edd27e7dcf2e11034",
+      "link": "https://www.b92.net/english/society/280142/terrorist-attack-in-belgrade-interior-ministry-israeli-embassy-targeted-overnight-security-alert-raised-to-highest-level/vest",
+      "title": "Terrorist attack in Belgrade: Israeli Embassy targeted; Red Alert in effect PHOTO",
+      "description": "Deputy Prime Minister and outgoing Interior Minister Ivica Da\u010di\u0107 said that a terrorist attack was carried out in Belgrade shortly after midnight, targeting a member of the Gendarmerie who was guarding the Israeli Embassy.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "english"
+      ],
+      "creator": [
+        "tanjug"
+      ],
+      "language": "english",
+      "country": [
+        "serbia"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 08:39:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 10:04:18",
+      "image_url": "https://www.b92.net/data/images/2026-10-28/283545_5_f.jpg",
+      "video_url": null,
+      "source_id": "b92",
+      "source_name": "B92 - Internet",
+      "source_priority": 13200,
+      "source_url": "https://www.b92.net",
+      "source_icon": "https://i.newsdata.io/b92.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 89.45,
+        "neutral": 9.1,
+        "positive": 1.45
+      },
+      "ai_tag": [
+        "terrorism"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "063b7b574c7c8453b6c766a97b6d4db2",
+      "link": "https://www.telegraf.rs/english/4422340-telegraf-at-the-scene-terrorist-attack-near-israeli-embassy-in-belgrade-armed-special-police-outside",
+      "title": "TELEGRAF AT THE SCENE: Terrorist attack near Israeli embassy in Belgrade, armed special police outside!",
+      "description": "A Telegraf.rs portal team is at the scene outside the Israeli Embassy in Belgrade, where a terrorist attack took place shortly after midnight, according to an.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "ivica da\u010di\u0107",
+        "dragan vasiljevic",
+        "gendarmerie",
+        "terrorist attack belgrade",
+        "islamic state",
+        "mup",
+        "israeli embassy"
+      ],
+      "creator": [
+        "dragica rankovi\u0107"
+      ],
+      "language": "english",
+      "country": [
+        "serbia"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 08:06:59",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 08:10:43",
+      "image_url": "https://xdn.tf.rs/2026/10/28/untitled-1-134259-1200x630.webp",
+      "video_url": null,
+      "source_id": "telegraf",
+      "source_name": "Telegraf",
+      "source_priority": 102768,
+      "source_url": "https://www.telegraf.rs",
+      "source_icon": "https://i.newsdata.io/telegraf.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 86.63,
+        "neutral": 12.36,
+        "positive": 1.01
+      },
+      "ai_tag": [
+        "terrorism",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "d4c0f415a92df0de128a76c14e4ac0f0",
+      "link": "https://www.thesun.co.uk/news/40831002/terrorist-shot-dead-israel-embassy-serbia/",
+      "title": "Knifeman shot dead after attacking guard in \u2018terrorist attack\u2019 outside Israeli embassy in Serbia",
+      "description": "A SUSPECTED terrorist has been shot dead after attacking an elite police officer with knives outside an Israeli embassy. Serbia's threat level has been raised to its highest after the midnight rampage saw the attacker shout \"Allahu Akbar\" as he slashed at the officer, police say. Serbian Interior Minister Ivica Dacic said police are treating...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "section: news:world news"
+      ],
+      "creator": [
+        "georgie english"
+      ],
+      "language": "english",
+      "country": [
+        "united kingdom"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 07:57:28",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 08:02:45",
+      "image_url": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F10%2Fnewspress-collage-31zztzyx1-1793174173382.jpg?quality%3D90%26strip%3Dall%261793174197%261793174197",
+      "video_url": null,
+      "source_id": "thesun",
+      "source_name": "The Sun",
+      "source_priority": 1813,
+      "source_url": "https://www.thesun.co.uk",
+      "source_icon": "https://i.newsdata.io/thesun.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 94.87,
+        "neutral": 4.12,
+        "positive": 1.01
+      },
+      "ai_tag": [
+        "terrorism",
+        "crime"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "aba786a80df873c5924a6d8b74fc5b3f",
+      "link": "https://n1info.rs/english/news/dacic-terrorist-attack-targets-guard-at-israeli-embassy-assailant-killed/",
+      "title": "Dacic: Terrorist attack targets guard at Israeli Embassy; assailant killed",
+      "description": "Serbia\u2019s Deputy Prime Minister and caretaker Internal Affairs Minister Ivica Dacic said a terrorist attack was carried out in Belgrade shortly after m",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "terrorist attack",
+        "ivica dacic",
+        "news",
+        "internal affairs ministry (mup)",
+        "israeli embassy"
+      ],
+      "creator": [
+        "n1 belgrade"
+      ],
+      "language": "english",
+      "country": [
+        "serbia"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 07:49:33",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 08:01:52",
+      "image_url": "https://n1info.rs/media/images/2026/10/28/1793166940_2.width-1200.jpg",
+      "video_url": null,
+      "source_id": "n1info",
+      "source_name": "N1",
+      "source_priority": 69138,
+      "source_url": "https://rs.n1info.com",
+      "source_icon": "https://i.newsdata.io/n1info.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 92.22,
+        "neutral": 6.63,
+        "positive": 1.15
+      },
+      "ai_tag": [
+        "terrorism"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "cb08d9ffdf82133c04d1962866d20037",
+      "link": "https://www.telegraph.co.uk/world-news/2026/10/28/is-terrorist-shot-dead-after-knife-attack-israeli-embassy/",
+      "title": "\u2018IS terrorist\u2019 shot dead after knife attack at Israeli embassy in Serbia",
+      "description": "Belgrade attacker was minor known to security services as terror group supporter, interior minister says",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "us content",
+        "serbia",
+        "terrorism",
+        "belgrade",
+        "standard",
+        "israel",
+        "europe",
+        "islamic state",
+        "world news"
+      ],
+      "creator": [
+        "alexandra snow"
+      ],
+      "language": "english",
+      "country": [
+        "united kingdom"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 07:37:01",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 09:52:56",
+      "image_url": "https://www.telegraph.co.uk/content/dam/briefs/2026/10/28/TELEMMGLPICT000509325248_17931713741081_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "video_url": null,
+      "source_id": "telegraph",
+      "source_name": "The Telegraph",
+      "source_priority": 482,
+      "source_url": "https://www.telegraph.co.uk",
+      "source_icon": "https://i.newsdata.io/telegraph.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 90.17,
+        "neutral": 8.7,
+        "positive": 1.13
+      },
+      "ai_tag": [
+        "terrorism",
+        "crime"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "06967c19db34d8b965bf83c3837faa40",
+      "link": "https://www.euronews.com/2026/10/28/serbian-police-kill-attacker-outside-israeli-embassy-in-suspected-terrorist-attack",
+      "title": "Serbian police kill attacker outside Israeli Embassy in suspected \u2018terrorist attack\u2019",
+      "description": "A similar attack took place outside the Israeli Embassy in Belgrade in June 2024, when a man wounded a Serbian police officer before being shot dead by a guard.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "terrorism",
+        "elections",
+        "terrorist attack"
+      ],
+      "creator": [
+        "greta ruffino"
+      ],
+      "language": "english",
+      "country": [
+        "cyprus",
+        "serbia",
+        "belgium",
+        "slovakia",
+        "austria",
+        "vatican",
+        "kosovo",
+        "germany",
+        "slovenia",
+        "finland",
+        "belarus",
+        "united kingdom",
+        "albania",
+        "lithuania",
+        "ukraine",
+        "netherland",
+        "spain",
+        "italy",
+        "russia",
+        "poland",
+        "czech republic",
+        "san marino",
+        "latvia",
+        "ireland",
+        "andorra",
+        "montenegro",
+        "sweden",
+        "romania",
+        "iceland",
+        "france",
+        "macedonia",
+        "croatia",
+        "denmark",
+        "monaco",
+        "malta",
+        "moldova",
+        "switzerland",
+        "liechtenstein",
+        "estonia",
+        "norway",
+        "hungary",
+        "greece",
+        "bulgaria",
+        "portugal",
+        "luxembourg",
+        "bosnia and herzegovina"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 07:27:16",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 07:31:01",
+      "image_url": "https://images.euronews.com/articles/stories/09/96/99/46/1440x810_cmsv2_eadb04f3-7e54-5518-99bc-a9467da2732a-9969946.jpg",
+      "video_url": null,
+      "source_id": "euronews",
+      "source_name": "Euronews",
+      "source_priority": 3311,
+      "source_url": "https://www.euronews.com",
+      "source_icon": "https://i.newsdata.io/euronews.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 84.32,
+        "neutral": 11.51,
+        "positive": 4.17
+      },
+      "ai_tag": [
+        "terrorism",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "ab84dd1642d5a119db8e2c5f79f64003",
+      "link": "https://worldisraelnews.com/isis-terrorist-killed-during-knife-attack-outside-israeli-embassy-in-serbia/",
+      "title": "ISIS terrorist killed during knife attack outside Israeli embassy in Serbia",
+      "description": "ISIS terrorist brandishing knives outside of the Israeli embassy in Belgrade killed during midnight attack as he shouted 'Allahu Akbar.' The post ISIS terrorist killed during knife attack outside Israeli embassy in Serbia appeared first on World Israel News.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "belgrade",
+        "serbia",
+        "source-win",
+        "isis",
+        "world news"
+      ],
+      "creator": [
+        "david rosenberg"
+      ],
+      "language": "english",
+      "country": [
+        "palestine",
+        "iran",
+        "united states of america",
+        "germany",
+        "jordan",
+        "france",
+        "united kingdom",
+        "saudi arabia",
+        "egypt",
+        "israel"
+      ],
+      "category": [
+        "world"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 07:26:09",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 08:35:15",
+      "image_url": "https://worldisraelnews.com/wp-content/uploads/2026/10/AP26301251667954.jpg",
+      "video_url": null,
+      "source_id": "worldisraelnews",
+      "source_name": "Win",
+      "source_priority": 247278,
+      "source_url": "https://worldisraelnews.com",
+      "source_icon": "https://i.newsdata.io/worldisraelnews.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 92.82,
+        "neutral": 5.82,
+        "positive": 1.36
+      },
+      "ai_tag": [
+        "terrorism",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "6c956cc56e7c8b5f013a0315f5b4273e",
+      "link": "https://www.uzdaily.uz/en/uzbekistan-condemns-terrorist-attack-in-jordan/",
+      "title": "Uzbekistan Condemns Terrorist Attack in Jordan",
+      "description": "Uzbekistan\u2019s Foreign Minister Bakhtiyor Saidov condemned a terrorist attack in Jordan\u2019s Karak Governorate during a phone call with Jordanian counterpart Ayman Safadi.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "uzbekistan"
+      ],
+      "creator": [
+        "anvar umarov"
+      ],
+      "language": "english",
+      "country": [
+        "uzbekistan"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 06:10:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 13:56:50",
+      "image_url": "https://www.uzdaily.uz/media/filer_public/45/ff/45ff0caf-769c-4eea-80ca-d0d9213c3113/mid_20260613102352.webp",
+      "video_url": null,
+      "source_id": "uzdaily",
+      "source_name": "Uzdaily",
+      "source_priority": 9999999,
+      "source_url": "https://www.uzdaily.uz/ru",
+      "source_icon": "https://i.newsdata.io/uzdaily.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 79.22,
+        "neutral": 14.46,
+        "positive": 6.32
+      },
+      "ai_tag": [
+        "terrorism",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "239424baf3dd6003ce0d3a84e18e1e3e",
+      "link": "https://www.opindia.com/news-updates/uae-honours-smit-machchhar-and-flydubai-crew/",
+      "title": "UAE honours Indian pilot Smit Machchhar and flydubai crew for foiling mid-air terrorist attack, awards First Class Order of Zayed II",
+      "description": "UAE president Sheikh Mohamed bin Zayed Al Nahyan honoured Indian captain Smit Machchhar and the Flydubai crew.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "oman",
+        "zayed al nahyan",
+        "terrorist attack",
+        "news reports",
+        "dubai",
+        "uae",
+        "featured",
+        "smit machchhar"
+      ],
+      "creator": [
+        "opindia staff"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "crime",
+        "top",
+        "lifestyle"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 06:09:38",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 06:37:44",
+      "image_url": "https://www.opindia.com/wp-content/uploads/2026/10/UAE-honours-Smit-Machchhar.png",
+      "video_url": null,
+      "source_id": "opindia",
+      "source_name": "Op India",
+      "source_priority": 37271,
+      "source_url": "https://www.opindia.com",
+      "source_icon": "https://i.newsdata.io/opindia.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.75,
+        "neutral": 1.53,
+        "positive": 97.72
+      },
+      "ai_tag": [
+        "awards and recognitions",
+        "terrorism"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
     {
       "article_id": "65c849136af50052588f9015771eec44",
       "link": "https://www.manilatimes.net/2026/10/28/world/americas-emea/terrorist-groups-in-syria-hit-after-jordan-church-attack/2455040",
@@ -51,448 +548,7 @@
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
       "duplicate": false
-    },
-    {
-      "article_id": "535771ca7c20b8315dbfdc0f9597338b",
-      "link": "https://www.zerohedge.com/geopolitical/jordan-bombs-militant-camp-southern-syria-after-church-attack",
-      "title": "Jordan Bombs 'Militant Camp' In Southern Syria After Church Attack, High Death Toll",
-      "description": "Jordan Bombs 'Militant Camp' In Southern Syria After Church Attack, High Death Toll Jordan's response to the last Friday terror attack on an Orthodox Church in Hammoud, Karak - south of the capital Amman - has been somewhat unexpected. On Monday the country's air force carried out a major bombing raid on southern Syria. There were three gunmen that had targeted St. George church during a funeral. The attackers killed at least eight people and wounded around 40 more. Jordan's King Abdullah had ordered security forces on Saturday to respond with an \"iron fist\" amid the hunt for the killers. Since then, the government announced it arrested the trio of suspects, including two brothers and their brother-in-law, after a shootout at what was described as their hideout. But in addition to the arrests, \"Jordan said on Tuesday it had killed more than 20 Daesh militants in airstrikes on southern Syria the previous evening, launched in response to a deadly church attack in Jordan that authorities linked to militants operating across the border,\" according to Reuters. But the Syrian side, which has strongly condemned the incursion and violation of sovereignty, indicated that \"the strikes killed seven people, including three children and a woman. Jordan regretted the civilian casualties, Government Communication Minister Mohammed al-Momani said in a post on X.\" Amman further said that the target of the air raid was a 'militant hideout' and that the suspects in the church attack were linked to \"terrorist groups\" based there. The Jordanian government has elsewhere described that targeted group as members of ISIS, and offered a far higher death toll than the Syrian side, saying that \"more than 20 Islamic State militants\" were taken out. On the prior terror assault of the church last week, Priest Theodoros Soueiss described that \"A sense of panic took hold among those present. The gunfire was indiscriminate, and you never knew where a bullet might land.\" Reported scenes of the night time bombing of southern Syria: That among the first actions taken by the Jordanian government was to bomb southern Syria is deeply ironic and hypocritical considering the recent history of conflict and Amman's role. For years during the prior Syrian proxy war, Jordan played host to CIA and Pentagon training programs for anti-Assad militants, most which turned out to be jihadists. This in turned fueled the persecution of the region's ancient Christian community. Tyler Durden Tue, 10/27/2026 - 09:00",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": null,
-      "creator": [
-        "tyler durden"
-      ],
-      "language": "english",
-      "country": [
-        "bulgaria"
-      ],
-      "category": [
-        "business"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-27 13:00:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 13:06:19",
-      "image_url": "https://cms.zerohedge.com/sites/default/files/styles/16_9_max_700/public/2026-10/stgeorgefuneral.jpg?itok=UPdJ2OhA",
-      "video_url": null,
-      "source_id": "zerohedge",
-      "source_name": "Zerohedge",
-      "source_priority": 29647,
-      "source_url": "https://www.zerohedge.com",
-      "source_icon": "https://i.newsdata.io/zerohedge.png",
-      "sentiment": "negative",
-      "sentiment_stats": {
-        "negative": 92.5,
-        "neutral": 6.34,
-        "positive": 1.16
-      },
-      "ai_tag": [
-        "accidents",
-        "conflicts & war"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "ac17a1538cd8bf30620cf040b7765225",
-      "link": "https://www.b92.net/english/world/279913/two-men-charged-over-raf-fairford-incident/vest",
-      "title": "Two men charged over alleged terrorist attack at British military base",
-      "description": "Two British nationals have been charged with national security offences in connection with an incident at RAF Fairford airbase in Gloucestershire in September, British counterterrorism police announced today.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "english"
-      ],
-      "creator": [
-        "tanjug"
-      ],
-      "language": "english",
-      "country": [
-        "serbia"
-      ],
-      "category": [
-        "crime",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-27 11:43:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 12:34:23",
-      "image_url": "https://www.b92.net/data/images/2026-10-27/283361_profimedia-1139144506_f.jpg",
-      "video_url": null,
-      "source_id": "b92",
-      "source_name": "B92 - Internet",
-      "source_priority": 13200,
-      "source_url": "https://www.b92.net",
-      "source_icon": "https://i.newsdata.io/b92.png",
-      "sentiment": "negative",
-      "sentiment_stats": {
-        "negative": 65.54,
-        "neutral": 33.61,
-        "positive": 0.85
-      },
-      "ai_tag": [
-        "terrorism"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "7ca02cbe2d73c244abd41654ca62e5df",
-      "link": "https://saudigazette.com.sa/article/665770/world/jordan-attacks-militant-groups-in-syria-in-retaliation-for-church-attack",
-      "title": "Jordan attacks militant groups in Syria in retaliation for church attack",
-      "description": "AMMAN \u2014 Jordan has carried out airstrikes against what its military says were terrorist groups in Syria in retaliation for Friday\u2019s attack on a Greek Orthodox church in the southern governorate of Karak that killed nine people. Jordanian air force said the operation \u201cresulted in the killing and wounding of many members of these terrorist groups and the destruction of a number of their vehicles\u201d. It did not name the groups or the precise location of the strikes. Syrian state media reported that civilians had been killed in the strikes. The director of health in the southern province of Daraa, where the strikes took place, told the Syrian national news agency, Sana, that at least five civilians had been killed, including women and children and a 65-year-old man. Jordan\u2019s armed forces said the operation was conducted in coordination with Damascus, but Syria said it had not been notified of Monday's attack. Damascus said it had launched an investigation into the Jordanian attacks, and stressed in a statement the importance of field and security coordination in border areas. In response to the strike, Syria said it had closed a border crossing with Jordan.\"The decision includes the complete suspension of passenger and commercial traffic in both directions, to ensure the safety of travellers and workers at the crossing,\" Syrian authorities said in a statement carried by state media. It added that it had \"opened direct channels of communication\" with Jordanian officials and had launched \"comprehensive investigations to establish the full circumstances of the targeting\".Earlier on Monday, senior government security officials said Jordanian security forces had arrested two brothers and their brother-in-law over the church attack. The Public Security Directorate said the unnamed \"terrorists\" were found hiding in an abandoned house in Karak before dawn. Jordan's Interior Minister Mazen al-Faraya told state-affiliated TV the attackers were all Jordanians and \"had been holed up in a building in one of the villages near the site of the attack\".",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "world"
-      ],
-      "creator": [
-        "agencies"
-      ],
-      "language": "english",
-      "country": [
-        "saudi arabia"
-      ],
-      "category": [
-        "world"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-27 10:47:32",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-28 15:09:14",
-      "image_url": "https://saudigazette.com.sa/saudigazette/uploads/images/2026/10/27/2785821.webp",
-      "video_url": null,
-      "source_id": "saudigazette",
-      "source_name": "Saudi Gazette",
-      "source_priority": 356263,
-      "source_url": "https://saudigazette.com.sa",
-      "source_icon": "https://i.newsdata.io/saudigazette.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 38.14,
-        "neutral": 52.94,
-        "positive": 8.92
-      },
-      "ai_tag": [
-        "terrorism",
-        "accidents"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "3df72c67d6e9c59811883e91d707d5ce",
-      "link": "https://us.headtopics.com/news/jordan-airstrikes-in-syria-target-terrorist-sites-after-89245588",
-      "title": "Jordan Airstrikes in Syria Target Terrorist Sites After Church Attack but Admit Civilian Casualties",
-      "description": "Jordan's recent southern Syria airstrike claims civilian deaths while arresting alleged terrorist accomplices, sparking calls for better Jordan\u2011Syria cooperation on counter\u2011terrorism and criticism over unauthorized use of Syrian airspace.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "civilian casualties",
-        "airstrike",
-        "jordan",
-        "terrorism",
-        "syria",
-        "international relations"
-      ],
-      "creator": [
-        "headtopics.com"
-      ],
-      "language": "english",
-      "country": [
-        "united states of america"
-      ],
-      "category": [
-        "crime",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-27 10:34:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 10:36:55",
-      "image_url": "https://i.headtopics.com/images/2026/10/27/trtworld/jordan-airstrikes-in-syria-target-terrorist-sites--jordan-airstrikes-in-syria-target-terrorist-sites--9D7ABA9068F7D90EBE9709438C90112B-16x9.webp",
-      "video_url": null,
-      "source_id": "headtopics",
-      "source_name": "Headtopics",
-      "source_priority": 43039,
-      "source_url": "https://headtopics.com",
-      "source_icon": "https://i.newsdata.io/headtopics.png",
-      "sentiment": "negative",
-      "sentiment_stats": {
-        "negative": 82.43,
-        "neutral": 16.3,
-        "positive": 1.27
-      },
-      "ai_tag": [
-        "terrorism",
-        "accidents"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "7614da7f9f5b6328664abd9d88a8a943",
-      "link": "https://thesun.my/news/jordan-hits-targets-in-syria-after-church-attack/",
-      "title": "Jordan hits \u2018terrorist\u2019 targets in Syria after church attack",
-      "description": "Jordan said its jets struck \u201cterrorist\u201d positions in southern Syria in retaliation for a church attack that killed nine, hours after three suspects were arrested.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "world news",
-        "jordan",
-        "church attack",
-        "news",
-        "syria",
-        "airstrikes"
-      ],
-      "creator": [
-        "afp"
-      ],
-      "language": "english",
-      "country": [
-        "malaysia"
-      ],
-      "category": [
-        "crime",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-27 06:52:23",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 07:09:24",
-      "image_url": "https://cms.thesun.my/wp-content/uploads/2026/10/Jordan-hits-terrorist-targets-in-Syria-after-church-attack-150x100.webp",
-      "video_url": null,
-      "source_id": "thesun_my",
-      "source_name": "Thesun",
-      "source_priority": 81564,
-      "source_url": "https://thesun.my",
-      "source_icon": "https://i.newsdata.io/thesun_my.png",
-      "sentiment": "negative",
-      "sentiment_stats": {
-        "negative": 80.8,
-        "neutral": 11.05,
-        "positive": 8.15
-      },
-      "ai_tag": [
-        "terrorism",
-        "accidents"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "432645a32d6658a707335396badcdfdc",
-      "link": "https://kuwaittimes.com/article/52457/world/jordan-strikes-militant-groups-in-syria-after-deadly-church-attack/",
-      "title": "Jordan strikes militant groups in Syria after deadly church attack",
-      "description": "AMMAN: The Jordanian military said it struck \u201cterrorist organizations\u201d in neighboring Syria on Monday in retaliation for last week\u2019s deadly attack on a church, hours after authorit...",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "\u0622\u062e\u0631 \u0627\u0644\u0627\u062e\u0628\u0627\u0631"
-      ],
-      "creator": [
-        "kuwaittimes"
-      ],
-      "language": "english",
-      "country": [
-        "kuwait"
-      ],
-      "category": [
-        "crime",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-27 03:53:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 06:14:47",
-      "image_url": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/10/27/463344.jpg",
-      "video_url": null,
-      "source_id": "kuwaittimes",
-      "source_name": "Kuwait Times",
-      "source_priority": 295375,
-      "source_url": "https://www.kuwaittimes.com",
-      "source_icon": "https://i.newsdata.io/kuwaittimes.png",
-      "sentiment": "negative",
-      "sentiment_stats": {
-        "negative": 39.94,
-        "neutral": 30.38,
-        "positive": 29.68
-      },
-      "ai_tag": [
-        "terrorism",
-        "accidents"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "d6f7457259bcbd8d44a88e38f95d847d",
-      "link": "https://www.wionews.com/world/jordan-strikes-terrorist-organisations-in-syria-after-deadly-church-attack-as-damascus-shuts-main-border-crossing-1793058044662",
-      "title": "Jordan strikes 'terrorist organisations' in Syria after deadly church attack as Damascus shuts main border crossing",
-      "description": "Jordan launched airstrikes in Syria after a deadly church attack killed nine people. Three suspects were arrested as Syria closed its main border crossing",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "jordan military strikes",
-        "jordan latest news",
-        "jaber border crossing",
-        "jordan terrorist suspects arrested",
-        "deadly church attack jordan",
-        "jordan syria border",
-        "jordan king abdullah ii",
-        "jordan terrorism crackdown",
-        "jordan public security",
-        "daraa province airstrikes",
-        "jordan gunmen arrested",
-        "middle east breaking news",
-        "jordan security forces",
-        "jordan retaliatory strikes",
-        "jordan terrorism news",
-        "karak church attack",
-        "jordan church attack",
-        "syria border closure",
-        "syria jordan relations",
-        "jordan security operation"
-      ],
-      "creator": [
-        "jatin verma"
-      ],
-      "language": "english",
-      "country": [
-        "india"
-      ],
-      "category": [
-        "world"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-26 23:55:43",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 00:10:04",
-      "image_url": "https://cdn1.wionews.com/prod/wion/images/2026/20261027/image-1793058186378.jpg?rect=(0,68,1065,799)",
-      "video_url": null,
-      "source_id": "wionews",
-      "source_name": "Wion",
-      "source_priority": 112977,
-      "source_url": "https://www.wionews.com",
-      "source_icon": "https://i.newsdata.io/wionews.png",
-      "sentiment": "negative",
-      "sentiment_stats": {
-        "negative": 85.96,
-        "neutral": 6.75,
-        "positive": 7.29
-      },
-      "ai_tag": [
-        "accidents",
-        "terrorism"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "3ca1ef7ea67be84168332e8dc96f31c3",
-      "link": "https://bdnews24.com/world/middle-east/ch1o4qr0br",
-      "title": "Jordan targets militant hideouts in Syria after church attack",
-      "description": "Jordan says its air force struck 'militant hideouts' in Syria after church attack",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "church attack",
-        "air strikes",
-        "syria",
-        "jordan"
-      ],
-      "creator": [
-        "reuters"
-      ],
-      "language": "english",
-      "country": [
-        "bangladesh"
-      ],
-      "category": [
-        "crime",
-        "politics",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-26 23:11:34",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 23:38:51",
-      "image_url": "https://media.assettype.com/bdnews24-english/2026-10-26/ng0kl38q/jordan-01-27102026.jpg",
-      "video_url": null,
-      "source_id": "bdnews24",
-      "source_name": "Bdnews24.com",
-      "source_priority": 74089,
-      "source_url": "https://bdnews24.com",
-      "source_icon": null,
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 11.93,
-        "neutral": 82.16,
-        "positive": 5.91
-      },
-      "ai_tag": [
-        "accidents",
-        "conflicts & war"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "3c11b9fa0d1436eef7cb02bce6caa6d4",
-      "link": "https://gulfnews.com/world/mena/jordan-strikes-militant-groups-in-syria-after-church-attack-1.500724002",
-      "title": "Jordan strikes militant groups in Syria after church attack",
-      "description": "Jordan arrests three in dawn raid over church attack",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "mena"
-      ],
-      "creator": [
-        "afp"
-      ],
-      "language": "english",
-      "country": [
-        "united arab emirates"
-      ],
-      "category": [
-        "crime",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-26 23:04:09",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-26 23:31:32",
-      "image_url": "https://media.assettype.com/gulfnews/2026-10-26/e6doip9h/newsml_afp_com_20261026T201150Z_doc_d4h98q2.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "video_url": null,
-      "source_id": "gulfnews",
-      "source_name": "Gulf News",
-      "source_priority": 7546,
-      "source_url": "https://gulfnews.com",
-      "source_icon": "https://i.newsdata.io/gulfnews.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 15.29,
-        "neutral": 70.12,
-        "positive": 14.59
-      },
-      "ai_tag": [
-        "terrorism",
-        "accidents"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
     }
   ],
-  "nextPage": "1793055849945935175"
+  "nextPage": "1793117100379496999"
 }

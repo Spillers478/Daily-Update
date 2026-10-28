@@ -13,12 +13,17 @@
     "T08",
     "T10",
     "T11",
-    "T12",
-    "T13"
+    "T13",
+    "T14",
+    "T16"
   ],
   "skipped": [
-    "T09",
-    "T14"
+    "T09"
   ],
-  "failed": []
+  "failed": [
+    {
+      "topic": "T12",
+      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0) (cause: None)"
+    }
+  ]
 }

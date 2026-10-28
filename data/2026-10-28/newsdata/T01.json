@@ -1,7 +1,99 @@
 {
   "status": "success",
-  "totalResults": 17,
+  "totalResults": 16,
   "results": [
+    {
+      "article_id": "29113dc7447437d415cd0b361c2633de",
+      "link": "https://www.ukrinform.net/rubric-ato/4178839-russian-airstrike-on-sloviansk-city-center-injures-one-person.html",
+      "title": "Russian airstrike on Sloviansk city center injures one person",
+      "description": "On the evening of October 27, Russian troops carried out an airstrike on the center of Sloviansk; a woman was injured, and a school building was destroyed.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "war"
+      ],
+      "creator": [
+        "ukrinform"
+      ],
+      "language": "english",
+      "country": [
+        "ukraine"
+      ],
+      "category": [
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 07:59:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 08:08:24",
+      "image_url": "https://static.ukrinform.com/photos/2026_10/thumb_files/630_360_1793171237-954.jpg",
+      "video_url": null,
+      "source_id": "ukrinform",
+      "source_name": "Ukrinform",
+      "source_priority": 46699,
+      "source_url": "https://www.ukrinform.net",
+      "source_icon": "https://i.newsdata.io/ukrinform.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 96.74,
+        "neutral": 2.6,
+        "positive": 0.66
+      },
+      "ai_tag": [
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "bd3b990a44c43380c9ebd88dcb0ae26d",
+      "link": "https://arynews.tv/kp-governor-condemns-afghan-taliban-shelling-on-civilian-areas-in-south-waziristan",
+      "title": "KP governor condemns Afghan Taliban shelling on civilian areas in South Waziristan",
+      "description": "KP governor condemns Afghan Taliban shelling on civilian areas in South Waziristan",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "pakistan",
+        "must read"
+      ],
+      "creator": [
+        "laiq ur rehman"
+      ],
+      "language": "english",
+      "country": [
+        "pakistan"
+      ],
+      "category": [
+        "crime",
+        "politics",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-28 06:22:30",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-28 07:54:28",
+      "image_url": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Faisal-Karim-Kundi-1.jpg",
+      "video_url": null,
+      "source_id": "arynews",
+      "source_name": "Ary News",
+      "source_priority": 52455,
+      "source_url": "https://arynews.tv",
+      "source_icon": "https://i.newsdata.io/arynews.jpg",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 21.87,
+        "neutral": 76.33,
+        "positive": 1.8
+      },
+      "ai_tag": [
+        "conflicts & war",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
     {
       "article_id": "51d0f54c877de22e7dcd207c715bead5",
       "link": "https://arynews.tv/one-killed-five-injured-in-afghan-taliban-shelling-in-south-waziristan-security-sources",
@@ -379,97 +471,7 @@
       "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
       "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
       "duplicate": false
-    },
-    {
-      "article_id": "b0c369c7f893e4f4ba734ad8404cefd8",
-      "link": "https://en.ammonnews.net/article/96594",
-      "title": "Source details story of civilians killed in Jordanian airstrike in southern Syria",
-      "description": "An informed source said that the civilians killed in a Jordanian airstrike in southern Syria on Monday evening were staying in a tent near a terrorist target being engaged by the Jordanian Armed Forces. The source stressed that the tent was not a target and had not been directly targeted, and it also...",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "jordan news"
-      ],
-      "creator": null,
-      "language": "english",
-      "country": [
-        "jordan"
-      ],
-      "category": [
-        "crime",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-27 13:04:08",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 13:25:50",
-      "image_url": "https://en.ammonnews.net/image.php?token=dccdba1fb9071abdefa29ea276f9f6b1&size=medium",
-      "video_url": null,
-      "source_id": "en_ammonnews_net",
-      "source_name": "Ammon News",
-      "source_priority": 6333547,
-      "source_url": "https://en.ammonnews.net",
-      "source_icon": "https://i.newsdata.io/en_ammonnews_net.png",
-      "sentiment": "negative",
-      "sentiment_stats": {
-        "negative": 94.86,
-        "neutral": 4.37,
-        "positive": 0.77
-      },
-      "ai_tag": [
-        "accidents"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
-    },
-    {
-      "article_id": "551e6fd61cd4efd16e4fe2b2ab14006e",
-      "link": "https://www.dw.com/en/jordan-acknowledges-civilian-casualties-in-syria-airstrike-against-islamic-state/a-79775653?maca=en-rss-en-all-1573-rdf",
-      "title": "Jordan acknowledges civilian casualties in Syria airstrike against 'Islamic State'",
-      "description": "A Jordanian government spokesman has expressed \"regret\" over civilian casualties in an airstrike it said was targeting \"IS\" militants.",
-      "content": "ONLY AVAILABLE IN PAID PLANS",
-      "keywords": [
-        "news"
-      ],
-      "creator": [
-        "matt ford"
-      ],
-      "language": "english",
-      "country": [
-        "germany"
-      ],
-      "category": [
-        "crime",
-        "politics",
-        "top"
-      ],
-      "datatype": "news",
-      "pubDate": "2026-10-27 12:24:00",
-      "pubDateTZ": "UTC",
-      "fetched_at": "2026-10-27 12:34:18",
-      "image_url": "https://static.dw.com/image/79776116_804.jpg",
-      "video_url": null,
-      "source_id": "dw",
-      "source_name": "Dw Akademie",
-      "source_priority": 12499,
-      "source_url": "https://www.dw.com",
-      "source_icon": "https://i.newsdata.io/dw.png",
-      "sentiment": "neutral",
-      "sentiment_stats": {
-        "negative": 28.46,
-        "neutral": 70.44,
-        "positive": 1.1
-      },
-      "ai_tag": [
-        "accidents",
-        "conflicts & war"
-      ],
-      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-      "duplicate": false
     }
   ],
-  "nextPage": "1793103840028820132"
+  "nextPage": "1793108700903544381"
 }

@@ -3,32 +3,86 @@
     {
       "source": {
         "id": null,
-        "name": "Cloudflare.com"
+        "name": "New York Post"
       },
-      "author": "Lai Yi Ohlsen",
-      "title": "What took the Internet offline in Q3 2026",
-      "description": "An examination of global Internet disruptions observed by Cloudflare Radar during the third quarter of 2026. This review analyzes how power failures, natural disasters, and government shutdowns impacted network connectivity and traffic.",
-      "url": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
-      "urlToImage": "https://blog.cloudflare.com/_emdash/api/media/file/01M5GBGAS6XYY2YNES990T89AM.01M5GBGBN74R644AMRFN192MF2.png",
-      "publishedAt": "2026-10-27T13:00:00Z",
-      "content": "The Internet can feel invisible when everything is working normally. But when connectivity breaks, the many systems it depends upon become evident in an instant. Because Cloudflares global network ha\u2026 [+10710 chars]",
-      "cocom": "Transregional",
-      "_original_topic_id": "T02"
+      "author": "Megan Palin",
+      "title": "\u2018Black October\u2019 shows how criminals use AI to cause real-world chaos \u2014 but here\u2019s how you can protect yourself",
+      "description": "The world has been plunged into a cyber-security crisis, known as \u201cBlack October,\u201d which exposed how vulnerable much of the world\u2019s online infrastructure is.",
+      "url": "https://nypost.com/2026/10/27/tech/black-october-shows-how-criminals-use-ai-to-cause-real-world-chaos-but-heres-how-you-can-protect-yourself/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-r4gha2ncg-1793134524176.jpg?quality=75&strip=all&1793120163&w=1200",
+      "publishedAt": "2026-10-27T21:12:37Z",
+      "content": "The world has been plunged into a cyber-security crisis, known as Black October, which exposed how vulnerable much of the worlds online infrastructure is.\r\nMajor security incidents, hacks and flaws a\u2026 [+5893 chars]",
+      "cocom": "Transregional"
     },
     {
       "source": {
         "id": null,
-        "name": "Cloudflare.com"
+        "name": "Nextgov"
       },
-      "author": "Lai Yi Ohlsen",
-      "title": "What took the Internet offline in Q3 2026",
-      "description": "An examination of global Internet disruptions observed by Cloudflare Radar during the third quarter of 2026. This review analyzes how power failures, natural disasters, and government shutdowns impacted network connectivity and traffic.",
-      "url": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
-      "urlToImage": "https://blog.cloudflare.com/_emdash/api/media/file/01M5GBGAS6XYY2YNES990T89AM.01M5GBGBN74R644AMRFN192MF2.png",
-      "publishedAt": "2026-10-27T13:00:00Z",
-      "content": "The Internet can feel invisible when everything is working normally. But when connectivity breaks, the many systems it depends upon become evident in an instant. Because Cloudflares global network ha\u2026 [+10710 chars]",
-      "cocom": "Transregional",
-      "_original_topic_id": "T05"
+      "author": "David DiMolfetta",
+      "title": "White House takes Texas water cybersecurity model to rural hospitals",
+      "description": "Project Lifeline 250 will provide free cybersecurity assistance to South Carolina hospitals, extending the administration\u2019s effort to connect vulnerable infrastructure operators with industry support.",
+      "url": "https://www.nextgov.com/cybersecurity/2026/10/white-house-takes-texas-water-cybersecurity-model-rural-hospitals/416852/",
+      "urlToImage": "https://cdn.nextgov.com/media/img/cd/2026/10/27/GettyImages_2282299502_1/open-graph.jpg",
+      "publishedAt": "2026-10-27T21:10:00Z",
+      "content": "The White House and South Carolina officials launched a six-month cybersecurity pilot Monday to help rural hospitals defend against hackers and keep treating patients during attacks, extending an app\u2026 [+3007 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Italy \u2019s Parliament Under Cyber Pressure: Why the Attack on the Chamber Matters",
+      "description": "Italy \u2019s Parliament cyberattack highlights hybrid warfare risks and the need for transparency, stronger defenses and accountability. The cyberattack targeting email accounts at Italy\u2019s Chamber of Deputies, including a parliamentary account assigned to Prime M\u2026",
+      "url": "https://securityaffairs.com/201867/hacking/italys-parliament-under-cyber-pressure-why-the-attack-on-the-chamber-matters.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2021/06/Italy.jpg",
+      "publishedAt": "2026-10-27T19:12:30Z",
+      "content": "Italy s Parliament Under Cyber Pressure: Why the Attack on the Chamber Matters\r\nThe cyberattack targeting email accounts at Italys Chamber of Deputies, including a parliamentary account assigned to P\u2026 [+9138 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours",
+      "description": "One critical, three high-severity EPICS bugs could disrupt research experiments",
+      "url": "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811",
+      "urlToImage": "https://image.theregister.com/5305818.jpg?imageId=5305818&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-10-27T19:11:02Z",
+      "content": "An autonomous AI agent discovered four vulnerabilities in the decades-old, widely used EPICS (Experimental Physics and Industrial Control System) open source software toolkit, including a critical fl\u2026 [+5036 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "description": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator.\n\nTrendAI, which analyzed three exposed \u2026",
+      "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiniSfVwM2b4RVouLhc_nIvm2CdQCg9jtQDBVQP6BjvEC2NBaLFqU0A8RyC_GA3PkI4jF87W3h0GJ4xzycp6LAd4I3eRh3JnhnM9yi7CZ9dX2Pfe3MdDaaUSyrDUy1ksA-fdq0bUVzWcFRmS-JWOy3z7xiWB70DzgXLst_YspRqbGIAyv85_D4H9sPT7Sq3/s1700-nu-rw-lo-l85-e365/cyberstrikeai.jpg",
+      "publishedAt": "2026-10-27T18:26:46Z",
+      "content": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assi\u2026 [+12037 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Newton Gitonga",
+      "title": "Israeli ad tech firm tied to suspected Starlink tracking effort, report claims",
+      "description": "Citizen Lab and Confiant linked Israeli firm Discover-Tech to suspected surveillance through online advertising. Researchers said its ads appeared across nearly 200,000 websites and mobile apps. TrendAI separately identified related activity under the codenam\u2026",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/israeli-ad-tech-firm-tied-to-suspected-starlink-tracking-effort-report-claims-researchers-say-it-outbid-everyone-for-starlink-linked-ads-in-100-countries-including-where-the-service-is-banned",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ENC5zcxZ4NC6STP9xUUgpT-2000-80.jpg",
+      "publishedAt": "2026-10-27T17:37:00Z",
+      "content": "Discover-Tech, an Israeli advertising technology company, has reportedly been linked to a suspected surveillance effort aimed at Starlink users, according to Reuters. The report, which cites six peop\u2026 [+4242 chars]",
+      "cocom": "Transregional"
     },
     {
       "source": {
@@ -61,6 +115,34 @@
     {
       "source": {
         "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Sinisa Markovic",
+      "title": "Hackers bury inboxes in spam then show up on Microsoft Teams posing as IT support",
+      "description": "Threat actors are flooding employees\u2019 inboxes with spam and then contacting them on Microsoft Teams as IT support, offering to fix the problem they created, Arctic Wolf has found. The security company documented more than 400 incidents in which the external c\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/10/27/microsoft-teams-social-engineering-fake-it-help-desk/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/10152152/ms-teams3.jpg",
+      "publishedAt": "2026-10-27T14:16:43Z",
+      "content": "Threat actors are flooding employees inboxes with spam and then contacting them on Microsoft Teams as IT support, offering to fix the problem they created, Arctic Wolf has found.\r\nThe security compan\u2026 [+4735 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Sead Fadilpa\u0161i\u0107",
+      "title": "Over 525,000 hit in massive University of Copenhagen data breach",
+      "description": "Even some PIN codes were stolen, forcing the University to reset them.",
+      "url": "https://www.techradar.com/pro/security/over-525-000-hit-in-massive-university-of-copenhagen-data-breach",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z-2560-80.jpg",
+      "publishedAt": "2026-10-27T13:15:00Z",
+      "content": "<ul><li>University of Copenhagen discloses breach exposing personal data on more than 525,000 individuals</li><li>Stolen information included names, national ID numbers, contact details, and some cam\u2026 [+4603 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Internet"
       },
       "author": "info@thehackernews.com (The Hacker News)",
@@ -75,58 +157,30 @@
     {
       "source": {
         "id": null,
-        "name": "iTnews"
+        "name": "Infosecurity Magazine"
       },
-      "author": null,
-      "title": "Japanese companies compensate users as cyberattacks buffet economy",
-      "description": "\"The internet itself is now starting to break down\".",
-      "url": "https://www.itnews.com.au/news/japanese-companies-compensate-users-as-cyberattacks-buffet-economy-629918?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed",
-      "urlToImage": "https://i.nextmedia.com.au/News/2026-10-21T140114Z_1_LYNXMPEM9K1FG_RTROPTP_4_CYBERSECURITY-PHP.JPG",
-      "publishedAt": "2026-10-26T19:26:31Z",
-      "content": "Japanese companies are moving to pay compensation to users following waves of \u2060cyberattacks that have \u2060disrupted internet services and raised concerns about economic stability.\r\nGMO Internet Group, a\u2026 [+3859 chars]",
-      "cocom": "USINDOPACOM"
+      "author": "Phil Muncaster",
+      "title": "Copenhagen University Breach Compromises Data on Half a Million People",
+      "description": "Hackers have stolen personal information on over 520,000 people from the University of Copenhagen",
+      "url": "https://www.infosecurity-magazine.com/news/copenhagen-university-data-breach/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/4fa13a98-9cae-4ae7-89e6-d5d2b15ec2f0.jpg",
+      "publishedAt": "2026-10-27T11:00:00Z",
+      "content": "A cyber-attack on a leading Danish university has resulted in the compromise of sensitive personally identifiable information (PII) on over half a million individuals.\r\nThe University of Copenhagen (\u2026 [+3206 chars]",
+      "cocom": "USEUCOM"
     },
     {
       "source": {
         "id": null,
-        "name": "iTnews"
+        "name": "BleepingComputer"
       },
-      "author": null,
-      "title": "Japanese companies compensate users as cyberattacks buffet economy",
-      "description": "\"The internet itself is now starting to break down\".",
-      "url": "https://www.itnews.com.au/news/japanese-companies-compensate-users-as-cyberattacks-buffet-economy-629918?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed",
-      "urlToImage": "https://i.nextmedia.com.au/News/2026-10-21T140114Z_1_LYNXMPEM9K1FG_RTROPTP_4_CYBERSECURITY-PHP.JPG",
-      "publishedAt": "2026-10-26T19:24:16Z",
-      "content": "Japanese companies are moving to pay compensation to users following waves of \u2060cyberattacks that have \u2060disrupted internet services and raised concerns about economic stability.\r\nGMO Internet Group, a\u2026 [+3859 chars]",
-      "cocom": "USINDOPACOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "iTnews"
-      },
-      "author": null,
-      "title": "Japanese companies compensate users as cyberattacks buffet economy",
-      "description": "\"The internet itself is now starting to break down\".",
-      "url": "https://www.itnews.com.au/news/japanese-companies-compensate-users-as-cyberattacks-buffet-economy-629918?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "urlToImage": "https://i.nextmedia.com.au/News/2026-10-21T140114Z_1_LYNXMPEM9K1FG_RTROPTP_4_CYBERSECURITY-PHP.JPG",
-      "publishedAt": "2026-10-26T19:22:31Z",
-      "content": "Japanese companies are moving to pay compensation to users following waves of \u2060cyberattacks that have \u2060disrupted internet services and raised concerns about economic stability.\r\nGMO Internet Group, a\u2026 [+3859 chars]",
-      "cocom": "USINDOPACOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "iTnews"
-      },
-      "author": null,
-      "title": "Japanese companies compensate users as cyberattacks buffet economy",
-      "description": "\"The internet itself is now starting to break down\".",
-      "url": "https://www.itnews.com.au/news/japanese-companies-compensate-users-as-cyberattacks-buffet-economy-629918?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Security+feed",
-      "urlToImage": "https://i.nextmedia.com.au/News/2026-10-21T140114Z_1_LYNXMPEM9K1FG_RTROPTP_4_CYBERSECURITY-PHP.JPG",
-      "publishedAt": "2026-10-26T19:20:46Z",
-      "content": "Japanese companies are moving to pay compensation to users following waves of \u2060cyberattacks that have \u2060disrupted internet services and raised concerns about economic stability.\r\nGMO Internet Group, a\u2026 [+3859 chars]",
-      "cocom": "USINDOPACOM"
+      "author": "Sergiu Gatlan",
+      "title": "Energy giant ENGIE discloses data breach affecting customers",
+      "description": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/10/27/ENGIE-headpic.jpg",
+      "publishedAt": "2026-10-27T09:25:50Z",
+      "content": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners.\r\nEN\u2026 [+2352 chars]",
+      "cocom": "USEUCOM"
     },
     {
       "source": {
