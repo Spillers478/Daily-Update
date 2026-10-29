@@ -62,7 +62,9 @@ jobs:
             complete=true
           fi
 
-          raw=$(ls data/$D/*.json 2>/dev/null | wc -l)
+          # NB: GitHub runs this with -e -o pipefail. On a new UTC day data/$D does not
+          # exist yet, so a bare `ls | wc` would kill this step (and skip the whole build).
+          raw=$( (ls "data/$D"/*.json 2>/dev/null || true) | wc -l )
           if [ "$raw" -ge 15 ]; then have_raw=true; fi
 
           # A manual run means "do it all again, fresh".
