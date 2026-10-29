@@ -1,0 +1,15 @@
+{
+  "groups": {
+    "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q2-2026-q3-2026/": "a",
+    "https://securityaffairs.com/201913/ai/three-japan-focused-cyberattacks-show-how-hackers-use-ai.html": "b",
+    "https://www.pymnts.com/cybersecurity/2026/coinbase-customer-data-exposed-in-vendors-breach/": "c",
+    "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html": "d",
+    "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/": "d",
+    "https://www.techradar.com/pro/security/japanese-internet-giant-gmo-tells-customers-to-shut-down-and-disconnect-pcs-from-the-internet-following-data-breach-and-ransomware-threat": "e",
+    "https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936": "f",
+    "https://www.hkcert.org/security-bulletin/security-alert-fortibleed-2-0-reveals-additional-fortigate-configuration-and-credential-exposure_20261028": "g",
+    "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/": "h",
+    "https://nypost.com/2026/10/27/tech/black-october-shows-how-criminals-use-ai-to-cause-real-world-chaos-but-heres-how-you-can-protect-yourself/": "i"
+  },
+  "contradictions": []
+}
