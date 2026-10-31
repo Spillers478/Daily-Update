@@ -621,3 +621,22 @@ date,topic_id,topic_label,retrieved,kept_here,moved_out,discarded,unclassified,d
 2026-10-30,T13,Migration / Refugee Crisis,25,6,11,8,0,7,1,ok
 2026-10-30,T14,Threats to US Embassies / Diplomats,25,3,8,14,0,3,1,ok
 2026-10-30,T16,Elections / Electoral Integrity,25,25,0,0,0,44,1,ok
+2026-10-31,flagship-ru-ua,Russia / Ukraine,25,19,1,5,0,31,1,ok
+2026-10-31,flagship-ir-il,Iran / Israel / Middle East,25,16,3,6,0,44,1,ok
+2026-10-31,flagship-ir-il-us-lens,Iran / Israel / Middle East — US Media Lens,3,,,,,3,0,not_run
+2026-10-31,T15,Disaster / Access Denial,14,4,1,9,0,5,1,ok
+2026-10-31,T01,Military Conflict,24,2,12,10,0,5,1,ok
+2026-10-31,T02,Humanitarian Crisis,25,3,6,16,0,6,1,ok
+2026-10-31,T03,Bio/Chemical Attack,13,2,0,11,0,2,1,ok
+2026-10-31,T04,Infectious Outbreak / Pandemic,14,8,0,6,0,10,1,ok
+2026-10-31,T05,Political Instability / Coup Risk,25,2,12,11,0,5,1,ok
+2026-10-31,T06,Mass Uprising / Regime-Threatening Unrest,22,11,2,9,0,14,1,ok
+2026-10-31,T07,Nuclear Weaponry / Attack,25,0,20,5,0,1,1,ok
+2026-10-31,T08,VEO / Regional Insecurity,10,8,2,0,0,12,1,ok
+2026-10-31,T09,American Hostage / Kidnapping,6,1,1,4,0,1,1,ok
+2026-10-31,T10,Military Modernization,25,5,8,12,0,12,1,ok
+2026-10-31,T11,Military Exercise,10,6,2,2,0,6,1,ok
+2026-10-31,T12,Large-Scale Cyber Attack / Internet Blackout,25,12,1,12,0,20,1,ok
+2026-10-31,T13,Migration / Refugee Crisis,20,4,11,5,0,7,1,ok
+2026-10-31,T14,Threats to US Embassies / Diplomats,21,1,13,7,0,1,1,ok
+2026-10-31,T16,Elections / Electoral Integrity,25,19,1,5,0,30,1,ok

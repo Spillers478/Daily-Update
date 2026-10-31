@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Chris Isidore, Matt Egan",
+      "title": "Big Oil is raking in huge profits. Shareholders like Trump are cashing in. You\u2019re paying for it with high gas prices. - CNN",
+      "description": "Big Oil minted money as the Iran war delivered American drivers the highest gas prices on record for the third quarter.",
+      "url": "https://www.cnn.com/2026/10/30/business/big-oil-profits-trump-gas-prices",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2296974309.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-10-30T11:56:22Z",
+      "content": "Big Oil minted big money as the Iran war delivered American drivers the highest gas prices on record for the third quarter.\r\nThe two biggest US oil companies posted huge jumps in profit on Friday. Ex\u2026 [+3221 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Pentagon offering military options to Trump as key midterm election deadline approaches - Fox News",
+      "description": "Iran's Islamic Revolutionary Guard Corps (IRGC) is using a vast and secret network of military agencies to re-arm with drones, explosives and heavy duty machines while cirumventing a U.S. naval blockade in the Strait of Hormuz.",
+      "url": "https://www.foxnews.com/live-news/us-iran-war-oil-prices-strait-hormuz-10-30-26",
+      "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/1b001b238cf2e7c906b7d7022fa493a3.jpg",
+      "publishedAt": "2026-10-30T11:55:53Z",
+      "content": "Army Lt. Gen. Brett Sylvia, a former senior Pentagon strategist, admitted to leaking classified information about U.S. policies toward Iran and Ukraine to two reporters, Axios reported Thursday.\r\nAn \u2026 [+1070 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Anniek Bao",
+      "title": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms - CNBC",
+      "description": "Iran said four tankers struck mines in the Strait of Hormuz, while Tehran disputed a U.S. claim that key shipping lanes had been cleared.",
+      "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108484423-1793336204524-gettyimages-2293738583-AA_09092026_2944246.jpeg?v=1793336240&w=1920&h=1080",
+      "publishedAt": "2026-10-30T06:33:52Z",
+      "content": "Iran said four tankers struck mines in the Strait of Hormuz and Yemen's Houthis claimed missile strikes on Saudi Arabia, escalating pressure on two fronts as the U.S. reportedly weighs renewed milita\u2026 [+2912 chars]"
+    }
+  ]
+}
