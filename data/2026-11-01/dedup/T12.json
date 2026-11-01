@@ -1,0 +1,33 @@
+{
+  "groups": {
+    "https://timesofindia.indiatimes.com/world/rest-of-world/kim-jong-uns-cyber-army-how-north-koreas-hackers-steal-billions-for-regime/articleshow/135403098.cms": "a",
+    "https://english.gossiplankanews.com/2026/10/north-korean-hackers-stole-63-billion.html": "b",
+    "https://www.abc.net.au/news/2026-10-31/who-is-behind-the-largest-crypto-heist-in-history/107330706": "b",
+    "https://www.digitaljournal.com/article/crypto-exchange-hacks-expose-a-second-danger-the-run-for-the-exits/": "b",
+    "https://siliconangle.com/2026/10/30/hackers-steal-6-3b-from-binance-in-biggest-ever-crypto-heist/": "b",
+    "http://foreignpolicy.com/2026/10/30/binance-cryptocurrency-hack-north-korea/": "b",
+    "https://offgridsurvival.com/hackers-steal-6-3-billion-in-crypto-currency-in-what-could-be-the-largest-heist-in-history/": "b",
+    "https://dailycaller.com/2026/10/30/hackers-steal-63-billion-from-binance-in-record-breaking-heist-linked-to-north-korea": "b",
+    "https://www.ibtimes.com.au/binance-cyberattack-record-crypto-theft-explained-1877627": "b",
+    "https://economictimes.indiatimes.com/news/international/world-news/cryptos-biggest-ever-heist-how-hackers-stole-6-3-billion-in-just-20-minutes/articleshow/135357593.cms": "b"
+  },
+  "contradictions": [
+    {
+      "group": "b",
+      "claim_type": "figures",
+      "summary": "ABC News (AU) puts the Binance theft at almost $9 billion, while other outlets report about $6.3 billion.",
+      "sources": [
+        {
+          "source": "ABC News (AU)",
+          "url": "https://www.abc.net.au/news/2026-10-31/who-is-behind-the-largest-crypto-heist-in-history/107330706",
+          "says": "Almost $9 billion in cryptocurrency was hacked from Binance"
+        },
+        {
+          "source": "SiliconANGLE News",
+          "url": "https://siliconangle.com/2026/10/30/hackers-steal-6-3b-from-binance-in-biggest-ever-crypto-heist/",
+          "says": "Hackers stole about $6.3 billion in digital assets from Binance"
+        }
+      ]
+    }
+  ]
+}

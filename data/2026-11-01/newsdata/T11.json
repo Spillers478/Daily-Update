@@ -1,0 +1,141 @@
+{
+  "status": "success",
+  "totalResults": 3,
+  "results": [
+    {
+      "article_id": "ef048a7451fedfd831e2891b3d25652b",
+      "link": "https://en.bonikbarta.com/bangladesh/hflhCiqYfjVFJ8pR",
+      "title": "US warship arrives at Chattogram Port to take part in joint exercise",
+      "description": "The exercise aims to ensure maritime security and enhance the capabilities of naval personnel from both countries to conduct joint operations.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": null,
+      "language": "english",
+      "country": [
+        "bangladesh"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-01 00:00:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-01 11:14:41",
+      "image_url": "https://static.bonikbarta.com/original_images/usss_warior.jpg",
+      "video_url": null,
+      "source_id": "bonikbarta",
+      "source_name": "Daily Bonik Barta",
+      "source_priority": 283629,
+      "source_url": "https://bonikbarta.com",
+      "source_icon": "https://i.newsdata.io/bonikbarta.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.74,
+        "neutral": 4.78,
+        "positive": 94.48
+      },
+      "ai_tag": [
+        "national security",
+        "government"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "3fb04b0ff1ea585102b967663b3c83e0",
+      "link": "https://www.socialnews.xyz/2026/10/31/thiruvananthapuram-india-australia-joint-military-exercise-austrahind-2026-gallery/",
+      "title": "Thiruvananthapuram: India Australia Joint Military Exercise AustraHind 2026 #Gallery",
+      "description": "The post Thiruvananthapuram: India Australia Joint Military Exercise AustraHind 2026 #Gallery appeared first on Social News XYZ.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "other",
+        "gallery"
+      ],
+      "creator": [
+        "social news xyz"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-31 12:33:54",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-31 12:55:17",
+      "image_url": "https://s3.socialnews.xyz/wp-content/uploads/2026/10/31/20261031349F-scaled.jpg",
+      "video_url": null,
+      "source_id": "socialnews",
+      "source_name": "Social News Xyz",
+      "source_priority": 99989454,
+      "source_url": "https://socialnews.xyz",
+      "source_icon": "https://i.newsdata.io/socialnews.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 1.07,
+        "neutral": 94.13,
+        "positive": 4.8
+      },
+      "ai_tag": [
+        "national security",
+        "conflicts & war"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "a544f5f373221b3a1f0bd9418680c72e",
+      "link": "https://report.az/en/other-countries/three-soldiers-drown-during-military-exercise-in-uruguay",
+      "title": "Three soldiers drown during military exercise in Uruguay",
+      "description": "Three Uruguayan servicemen have drowned during a military exercise, the country's army said in a statement, according to Report.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "other countries"
+      ],
+      "creator": [
+        "report.az"
+      ],
+      "language": "english",
+      "country": [
+        "azerbaijan"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-10-30 19:01:02",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-10-30 19:08:09",
+      "image_url": "https://images.report.az/2026/10/30/fBK7gd5Vu8OivVVo2q9FC87k1ymwzur3Uh6lt0Hu_1200.png",
+      "video_url": null,
+      "source_id": "report_az",
+      "source_name": "Report.az",
+      "source_priority": 57484,
+      "source_url": "https://report.az/en",
+      "source_icon": "https://i.newsdata.io/report_az.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 92.78,
+        "neutral": 6.57,
+        "positive": 0.65
+      },
+      "ai_tag": [
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    }
+  ],
+  "nextPage": null
+}

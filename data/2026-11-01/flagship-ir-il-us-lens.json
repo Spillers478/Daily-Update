@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Willa Rubin",
+      "title": "Oil company earnings skyrocket \u2014 again - NPR",
+      "description": "Oil companies are reporting another quarter of sky-high profits as the war in Iran pushes up the price of oil \u2014 and prices at the pump.",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6008072/oil-company-profits-gasoline-diesel-prices",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4228x2378+0+220/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2F6a%2Fd1b7e36748dc8b2b8e11b5fcdc22%2Fap26133474349802.jpg",
+      "publishedAt": "2026-10-31T09:00:00Z",
+      "content": "Sign up for the Planet Money newsletter. The world is confusing. Economics can help.\r\nOil companies made billions this quarter, they told investors on calls this week. ExxonMobil\r\n earned $15.4 billi\u2026 [+6334 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Frank  Andrews, Mark  Osborne, Khaled  Wassef",
+      "title": "Iran War Updates: Trump says war \"going to end soon\" as Qatar pushes for a U.S.-Iran deal - CBS News",
+      "description": "Trump predicts the war with Iran is \"going to end soon,\" without offering any details, as Qatari mediators return to Tehran to push for a deal.",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/30/6861dff3-34d6-496b-a11f-ad14b9228936/thumbnail/1200x630/865a67ecaaffb5727a37fc942110b0ff/hvy6j5dwyaajcje.jpg",
+      "publishedAt": "2026-10-31T08:31:00Z",
+      "content": "A Lebanese military court on Friday charged 13 people for their alleged involvement in shipping explosives to Hezbollah, a judicial source told the AFP news agency, after authorities seized the rough\u2026 [+1615 chars]"
+    }
+  ]
+}
