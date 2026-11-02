@@ -1,0 +1,138 @@
+{
+  "topics": {
+    "flagship-ru-ua": {
+      "retrieved": 25,
+      "kept_here": 0,
+      "moved_out": 7,
+      "discarded": 18,
+      "unclassified": 0
+    },
+    "flagship-ir-il": {
+      "retrieved": 25,
+      "kept_here": 5,
+      "moved_out": 5,
+      "discarded": 15,
+      "unclassified": 0
+    },
+    "T15": {
+      "retrieved": 10,
+      "kept_here": 7,
+      "moved_out": 0,
+      "discarded": 3,
+      "unclassified": 0
+    },
+    "T01": {
+      "retrieved": 14,
+      "kept_here": 2,
+      "moved_out": 6,
+      "discarded": 6,
+      "unclassified": 0
+    },
+    "T02": {
+      "retrieved": 25,
+      "kept_here": 2,
+      "moved_out": 9,
+      "discarded": 14,
+      "unclassified": 0
+    },
+    "T03": {
+      "retrieved": 14,
+      "kept_here": 1,
+      "moved_out": 4,
+      "discarded": 9,
+      "unclassified": 0
+    },
+    "T04": {
+      "retrieved": 10,
+      "kept_here": 4,
+      "moved_out": 2,
+      "discarded": 4,
+      "unclassified": 0
+    },
+    "T05": {
+      "retrieved": 25,
+      "kept_here": 7,
+      "moved_out": 8,
+      "discarded": 10,
+      "unclassified": 0
+    },
+    "T06": {
+      "retrieved": 25,
+      "kept_here": 18,
+      "moved_out": 1,
+      "discarded": 6,
+      "unclassified": 0
+    },
+    "T07": {
+      "retrieved": 25,
+      "kept_here": 1,
+      "moved_out": 21,
+      "discarded": 3,
+      "unclassified": 0
+    },
+    "T08": {
+      "retrieved": 6,
+      "kept_here": 6,
+      "moved_out": 0,
+      "discarded": 0,
+      "unclassified": 0
+    },
+    "T09": {
+      "retrieved": 7,
+      "kept_here": 0,
+      "moved_out": 0,
+      "discarded": 7,
+      "unclassified": 0
+    },
+    "T10": {
+      "retrieved": 19,
+      "kept_here": 8,
+      "moved_out": 7,
+      "discarded": 4,
+      "unclassified": 0
+    },
+    "T11": {
+      "retrieved": 5,
+      "kept_here": 5,
+      "moved_out": 0,
+      "discarded": 0,
+      "unclassified": 0
+    },
+    "T12": {
+      "retrieved": 25,
+      "kept_here": 13,
+      "moved_out": 7,
+      "discarded": 5,
+      "unclassified": 0
+    },
+    "T13": {
+      "retrieved": 25,
+      "kept_here": 3,
+      "moved_out": 16,
+      "discarded": 6,
+      "unclassified": 0
+    },
+    "T14": {
+      "retrieved": 25,
+      "kept_here": 15,
+      "moved_out": 8,
+      "discarded": 2,
+      "unclassified": 0
+    },
+    "T16": {
+      "retrieved": 25,
+      "kept_here": 21,
+      "moved_out": 1,
+      "discarded": 3,
+      "unclassified": 0
+    }
+  },
+  "totals": {
+    "kept": 118,
+    "reassigned": 102,
+    "discarded": 115,
+    "unclassified": 0
+  },
+  "failed_topics": [],
+  "incomplete_topics": []
+}
