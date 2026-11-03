@@ -1,0 +1,58 @@
+{
+  "groups": {
+    "https://timesofindia.indiatimes.com/defence/international/ukraine-has-500-patriot-missiles-on-order-but-russias-winter-offensive-exposes-a-critical-supply-gap/articleshow/135462336.cms": "a",
+    "https://biztoc.com/x/7b8fb063e1dd0f85": "b",
+    "https://skift.com/2026/11/02/flying-around-russia-is-testing-airlines-climate-targets/": "c",
+    "https://skift.com/2026/11/02/russias-airspace-closure-pushed-finnairs-emissions-up-10-and-its-not-the-only-one/": "c",
+    "https://biztoc.com/x/ca7fe73aef062cb3": "b",
+    "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine": "b",
+    "https://www.timesnownews.com/world/europe/russia-ukraine-war-zaporizhzhia-komyshuvakha-humanitarian-aid-school-double-tap-airstrike-article-156455087": "d",
+    "https://thecsrjournal.in/russian-airstrike-on-humanitarian-aid-centre-in-komyshuvakha-kills-18-and-leaves-many-missing-as-rescue-operations-continue": "d",
+    "https://us.headtopics.com/news/russian-airstrike-kills-18-in-komyshuvakha-ukraine-89471041": "d",
+    "https://www.bluewin.ch/en/news/dozens-killed-in-airstrike-near-zaporizhzhia-li.3658412": "d",
+    "https://www.bluewin.ch/en/news/18-killed-in-airstrike-near-zaporizhzhia-li.3658382": "d",
+    "https://www.bluewin.ch/en/news/18-killed-in-airstrike-on-zaporizhzhia-li.3658372": "d",
+    "https://securityaffairs.com/202248/security/hackers-send-fake-nuclear-threat-alerts-to-ukrainian-and-russian-citizens.html": "e",
+    "https://www.foxnews.com/world/ukraine-air-alert-system-hacked-false-radiation-warning-kyiv": "e",
+    "https://rt-english.com/russia/648212-ukraine-air-alert-hack/": "e",
+    "https://www.dailymail.com/news/article-16257343/Ukraine-air-raid-app-hacked-fake-alerts-radiation-threats.html": "e",
+    "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo": "e",
+    "https://rt-english.com/russia/648225-ukraine-plot-drone-headsets/": "f",
+    "https://www.naturalnews.com/2026-11-02-russian-officials-uk-european-leaders-europe-war.html": "g",
+    "https://freerepublic.com/focus/f-news/4401440/posts": "h",
+    "https://freerepublic.com/focus/f-bloggers/4401440/posts": "h",
+    "https://sputnikglobe.com/20261101/britains-plan-to-prepare-for-war-in-1000-days-is-insane--politician-1124984796.html": "i",
+    "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html": "e",
+    "https://www.aljazeera.com/news/2026/11/2/nuclear-radiation-in-russia-ukraine-no-just-hacked-warning-alerts": "e",
+    "https://www.cnn.com/2026/11/01/europe/russia-terror-attack-us-warning-intl": "j"
+  },
+  "contradictions": [
+    {
+      "group": "d",
+      "claim_type": "figures",
+      "summary": "Sources give different death tolls for the Komyshuvakha aid-centre airstrike: 26, 24, or 18.",
+      "sources": [
+        {
+          "source": "Times Now News",
+          "url": "https://www.timesnownews.com/world/europe/russia-ukraine-war-zaporizhzhia-komyshuvakha-humanitarian-aid-school-double-tap-airstrike-article-156455087",
+          "says": "At least 26 people killed, including rescuers and police officers"
+        },
+        {
+          "source": "Bluewin",
+          "url": "https://www.bluewin.ch/en/news/dozens-killed-in-airstrike-near-zaporizhzhia-li.3658412",
+          "says": "At least 24 killed per the latest civil defense figures, with 27 missing"
+        },
+        {
+          "source": "The Csr Journal",
+          "url": "https://thecsrjournal.in/russian-airstrike-on-humanitarian-aid-centre-in-komyshuvakha-kills-18-and-leaves-many-missing-as-rescue-operations-continue",
+          "says": "At least 18 killed, with the toll possibly rising"
+        },
+        {
+          "source": "Bluewin",
+          "url": "https://www.bluewin.ch/en/news/18-killed-in-airstrike-near-zaporizhzhia-li.3658382",
+          "says": "At least 18 killed, based on initial reports"
+        }
+      ]
+    }
+  ]
+}

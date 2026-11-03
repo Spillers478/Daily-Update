@@ -1,0 +1,131 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Shuvendu Sen",
+      "title": "Can the recent Ebola outbreak turn pandemic?",
+      "description": "Let us be very objective here. If we have to pick the prime casualty in the recent near apocalyptic decimation, then it has to be Time .",
+      "url": "https://timesofindia.indiatimes.com/toi-blogs/wellbeing/can-the-recent-ebola-outbreak-turn-pandemic/articleshow/135423780.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-135423864,width-1280,height-720,resizemode-6,overlay-toiblogs,pt-32,x_pad-1045,y_pad-670/photo.jpg",
+      "publishedAt": "2026-11-01T10:06:13Z",
+      "content": "Follow Us On Social Media\r\nVivek Oberoi says Sanjay Guptas sudden demise is difficult to processAttempted murder: Molotov cocktail hits Paris police officer as France protests turn violentMonster jam\u2026 [+1693 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Naman Ramachandran",
+      "title": "Pandemic-Era Longing to Gather Fed Qiu Jiongjiong\u2019s Tokyo Competition Title \u2018Fuxi: Four Tales of Feasting\u2019",
+      "description": "Chinese painter and filmmaker Qiu Jiongjiong began shaping his new film during the pandemic. With the world suddenly forced to pause, he tells Variety, people felt an urgent desire to return to everyday life and to gather around a table. That idea became the \u2026",
+      "url": "https://variety.com/2026/film/festivals/pandemic-longing-gather-tokyo-competition-title-fuxi-1236936421/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/10/Fuxi-crew.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2026-11-01T00:46:15Z",
+      "content": "Chinese painter and filmmaker Qiu Jiongjiong began shaping his new film during the pandemic. \r\nWith the world suddenly forced to pause, he tells Variety, people felt an urgent desire to return to eve\u2026 [+3597 chars]"
+    },
+    {
+      "title": "Disease outbreak has experts on high alert",
+      "url": "https://www.news.com.au/lifestyle/health/health-problems/nations-urged-to-be-on-alert-as-deadly-african-ebola-outbreak-escalates-rapidly/news-story/54921861056ebf1b3b5c91dda20e8a8e",
+      "description": "A disease that health officials have described as the fastest-spreading on record in Africa shows no signs of slowing down, and may soon afflict those outside the continent.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "News"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Email Incident Response Playbook: Quarantine Management and Threat Hunting",
+      "url": "https://dev.to/beefedai/email-incident-response-playbook-quarantine-management-and-threat-hunting-4bah",
+      "description": "Poor quarantine management shows up as two parallel symptoms: a noisy quarantine where legitimate business mail gets stuck and a quiet failure where clever phishing and BEC bypass the gateway entirely. The former causes business friction, helpdesk floods, and risky end\u2011user release behavior; the latter produces slow, expensive incident response that starts after dollars leave the bank or credentials are abused. Your playbook has to treat both as systemic failures \u2014 not one-off annoyances. Quarantine Triage: Who Owns It and What You Must Act On Where to Look First in Email Forensics (Headers, Links, Attachments) Stopping the Bleed: Containment, Blocks, and Account Controls That Work Hunt Like a Mail Hunter: Proactive Detection Across Mail Flows After the Fire: Post-Incident Review, Metrics, and Control Updates Practical Application: Playbooks, Checklists, and Hunting Queries A quarantine is an evidence locker and a business queue. Define clear ownership and SLAs before an incident forces triage by committee: the SEG (Secure Email Gateway) team should own inbound filtering rules; the SOC owns incident classification and escalation; Mail Ops owns quarantined mail lifecycle (release, export, retention). Align roles to avoid the \"nobody will touch it\" problem. Core quarantine categories to treat differently: High\u2011Confidence Phish / Malware \u2014 SOC / SEG admin \u2014 SLA: acknowledge within 15 minutes, containment and deeper forensics within 1 hour. Impersonation / BEC Suspected \u2014 SOC lead + Incident Response \u2014 SLA: acknowledge within 15 minutes, escalate to IR within 30 minutes. Bulk / Spam \u2014 Mail Ops \u2014 SLA: triage queue cleared within 8\u201324 hours. Transport Rule / DLP Quarantine \u2014 Mail Ops + Data Protection \u2014 SLA: review within 4 hours. Quarantine Reason Owner First Action Example SLA SOC / SEG Do not allow user release; export artifact; start IR ticket 15 min ack Impersonation / BEC suspected SOC + IR Snapshot headers, block sender domain, escalate to IR 15\u201330 min Bulk / Spam Mail Ops Validate false positives; release/remove 8\u201324 hours DLP / TransportRule Mail Ops + DLP team Coordinate with data owner; preserve evidence 4 hours Operational checks that make triage reliable: Centralized release logging: every release must be logged with reason, approver, and evidence export. Tiered release permissions: allow end\u2011user release for Bulk but require admin approval for High\u2011Confidence Phish or Malware. Microsoft Defender and Exchange Online support role\u2011based quarantine release (see Get-QuarantineMessage / Release-QuarantineMessage). Keep an admin\u2011only read\u2011only quarantine view for SOC to analyze trends without permitting releases. Important: Treat quarantine exports as forensic evidence. Export raw .eml or full gateway archives before any release or sanitization. NIST recommends preserving artifacts and chain\u2011of\u2011custody as part of incident handling. # Example (Exchange Online / Defender): list recent phishing quarantines and preview Connect-ExchangeOnline -UserPrincipalName [email protected] Get-QuarantineMessage -QuarantineTypes HighConfPhish,Phish -StartReceivedDate (Get-Date).AddHours(-6) | Select Identity,SenderAddress,RecipientAddress,Received # Release (admin, with log) Release-QuarantineMessage -Identity '' -ActionType Release -ReleaseToAll There is a short list of fields that return the highest ROI when you need to decide whether an item is malicious or legitimate. Header triage (work in this order): Authentication-Results \u2014 check spf=, dkim=, dmarc=. Alignment vs. pass/fail tells you whether the From: is forged. Use ARC headers to understand forwarding chains. Received lines \u2014 read bottom\u2011to\u2011top to follow SMTP hops and spot relay anomalies (by, with, for tokens). Return\u2011Path and Message\u2011ID \u2014 mismatched or odd Message\u2011ID formats are red flags. Provider headers (X\u2011Forefront\u2011Antispam\u2011Report, X\u2011GmMessageState, X\u2011Google-DKIM-Signature) give gateway vendor verdicts. Attachment triage: Do not open attachments on production systems. Extract and compute hashes: sha256sum suspicious.docx. Identify file type with file or TrID to detect extension mismatch. For Office files, use oletools/oledump to inspect macros and strings for embedded URLs. Submit hashes and samples to sandbox vendors/EDR for detonations in isolated sandboxes. Link analysis: Extract URLs from the message body and inspect domain age, registrar, and WHOIS; check SSL certs and CT logs for recently issued certs. Follow redirects in an isolated proxy or with httpx/curl -I --location --max-redirs 10 in a blocked lab network to capture the redirect chain. Decode shortener URLs and check subdomains for look\u2011alike TLDs (typo + IDN homograph concerns \u2014 use the Unicode confusables list). Example: quick Python header extractor to capture Authentication-Results and Received: # python from email import policy from email.parser import BytesParser raw = open('suspect.eml','rb').read() msg = BytesParser(policy=policy.default).parsebytes(raw) print('From:', msg['From']) print('Auth:', msg['Authentication-Results']) print('Received headers:') for r in msg.get_all('Received', []): print('-', r) Map your findings to ATT&CK: attachments and links are classic T1566 subtechniques (spearphishing attachment/link). Use ATT&CK to classify behavior for enrichment and playbook mapping. Containment is immediate, simple, and auditable. The goal is to stop active abuse and prevent follow\u2011on actions while preserving evidence. Containment checklist (first 60 minutes): Quarantine or delete malicious outbound mail originating from the tenant. Use compliance search to remove copies if necessary. Record search IDs. Block the sending IP/domain at the SEG and, where practical, at the network perimeter and DNS (blocklist + sinkhole). For compromised accounts: disable sign\u2011in, revoke refresh tokens/session cookies, reset passwords, and enforce phishing\u2011resistant MFA. Use Azure/Graph or PowerShell to invalidate sessions \u2014 revoking refresh tokens is a recommended step during remediation. Remove malicious inbox rules and forwarding using Get-InboxRule / Remove-InboxRule and verify mailbox audit logs. Add indicators to enterprise blocklists with TTL and source tag for later reevaluation. Practical transport\u2011level containment on Exchange Online: # Quarantine all mail from a domain via transport rule New-TransportRule -Name \"Quarantine suspicious domain\" -FromDomainIs \"bad-example[.]com\" -Quarantine $true -StopRuleProcessing $true Use tiered blocking \u2014 soft blocks (quarantine) while you investigate, then escalate to hard rejection (RejectMessage) after validating collateral impact. Record every change in a change log with the business owner and rollback instructions. Account remediation specifics: Revoke OAuth grants and third\u2011party app consents (audit OAuth2PermissionGrant objects). Set signInSessionsValidFromDateTime / use revokeSignInSessions or the equivalent PowerShell cmdlet to force reauth; combine with password reset to ensure tokens cannot be reused. Search mail logs for lateral moves (e.g., look for messages sent on behalf of the compromised account, new delegates, or search for SendAs/SendOnBehalf events in Purview Audit Logs). Quarantine management is reactive; hunting is how you find what the gateway missed. Integrate gateway telemetry into your SIEM, enrich with passive DNS, WHOIS, and threat intel, and build a small set of high\u2011signal searches that run continuously. Signals to ingest: SEG verdicts and raw message headers Exchange/Workspace message trace logs Authentication logs (Entra/Azure AD sign\u2011in logs) URL click telemetry from SafeLinks / proxy logs Attachment hashes from sandboxing Example Splunk\u2011style hunting query (pseudo; adapt to your schema): index=email sourcetype=o365:messagetrace | rex field=Authentication_Results \"dmarc=(?[^; ]+)\" | where dmarc=\"fail\" OR spf=\"fail\" | stats count by SenderAddress, RecipientAddress, Subject, dkim, spf, dmarc | sort -count Hunt logic ideas: Look for high\u2011value name impersonation: messages where the displayName matches an executive but envelope-from is external or fails DMARC. Detect sudden spikes of dmarc=fail from domains impersonating your brand. Identify unusual outbound mail volume from service accounts or small user sets (possible exfiltration). Scan new domain registrations (24\u201372 hour window) that are visually similar to your brands using Unicode confusables/punycode checks. Automate enrichment: when a rule hits (e.g., dmarc=fail + contains-attachment), call an enrichment playbook that: Pulls message trace and quarantine artifact Computes hashes and queries threat intel feeds Applies confidence scoring and, if above threshold, updates blocklists and triggers containment runbook CISA\u2019s ransomware/hunting guidance includes operational hunting recommendations and emphasizes identity/token remediation as a critical control \u2014 align your hunting runbooks with those recommendations. A post\u2011incident review must be short, factual, and actionable. Deliverable artifacts include a timeline, root cause, containment decisions, artifacts collected, and a prioritized list of control changes. Key post\u2011incident outputs: Timeline with timestamps for detection, containment, eradication, and recovery (UTC). Root cause statement: authentication failure, third\u2011party mailer misconfiguration, compromised OAUTH client, user click, etc. Controls changed: quarantine rule updates, DMARC/SPF/DKIM fixes, SEG policy tuning, new hunting rules. Metrics to track going forward: MTTD (mean time to detect) \u2014 time from first malicious mail to SOC acknowledgment. MTTR (mean time to remediate) \u2014 time to containment (account disabled / tokens revoked). False positive rate for quarantine releases (% released that were malicious). User reporting rate (reported suspicious messages / total phishing messages observed). Update controls in a prioritized manner: emergency fixes (blocklists, account disable), tactical fixes (SEG tuning, rule exceptions to prevent business impact), and strategic fixes (remove single points of failure, increase DMARC enforcement). Use NIST SP 800\u201161 Rev. 3 as your IR lifecycle guide to formalize lessons learned and to update playbooks. Important: When the post\u2011incident changes affect delivery (for example, moving a domain to p=reject), coordinate with stakeholders and roll changes through p=none \u2192 p=quarantine \u2192 p=reject with monitoring windows between steps. CISA federal guidance recommends moving carefully through these stages to avoid business disruption. Below are immediately usable artifacts you can copy into your SOC playbook. Quarantine Triage Quick Checklist Secure the artifact: export .eml to evidence store. sha256sum the file. (Preserve headers.) Classify the reason tag (High\u2011Confidence Phish / Malware / BEC / Bulk / DLP). If High\u2011Confidence Phish or Malware: block sender domain/IP at SEG, do not allow end\u2011user release, escalate to IR. If BEC suspected: suspend affected accounts, revoke tokens, freeze payments, begin forensic timeline. Log actions (who, what, when) in ticket and change control. Forensic Evidence Collection Checklist Save raw message (.eml) and compute checksums. Export full headers and copies of Received lines. Capture SEG verdict and sandbox detonation results. Record all PowerShell/portal actions taken to release/quarantine. Preserve relevant authentication logs and mailbox audit logs. Containment Playbook (compact) 1. Quarantine outbound messages matching IOCs 2. Disable user sign-in (set account to BlockSignIn) 3. Revoke refresh tokens (Graph / PowerShell) 4. Reset password and enforce phishing\u2011resistant MFA 5. Remove malicious inbox rules and revoke app consents 6. Search and purge malicious messages from mailboxes using Compliance Search 7. Document and escalate to legal/finance if financial fraud occurred Hunting query examples (adapt fields to your SIEM): DMARC failure scan (Elastic EQL pseudocode): sequence by email.message_id [email where email.authentication.dmarc == \"fail\"] [email where email.has_attachment == true] Executive impersonation (pseudo\u2011SQL): SELECT sender, recipient, subject, auth_results FROM mail_logs WHERE display_name IN ('CEO Name','CFO Name') AND dmarc != 'pass' AND (spf != 'pass' OR dkim != 'pass') ORDER BY timestamp DESC Playbook snippets to revoke Azure AD sessions (reference commands; adapt to modern modules): # Microsoft Graph PowerShell (example) Connect-MgGraph -Scopes \"User. ReadWrite. All\" Invoke-MgUserRevokeSignInSession -UserId '' # Legacy AzureAD module (older tenants) Revoke-AzureADUserAllRefreshToken -ObjectId '' Keep a short rollback plan for every containment action: what you changed, why, who approved it, and how to revert (specific commands and expected side effects). Sources: FBI Releases Annual Internet Crime Report (2024) - IC3/ FBI summary and statistics on phishing, BEC and 2024 reported losses (used to illustrate the financial scale of email-based crime). BOD 18-01: Enhance Email and Web Security (CISA) - Federal guidance on email authentication and the recommendation to move DMARC to p=reject for protection against spoofing (referenced for DMARC enforcement best practice). NIST SP 800-61 Rev. 3 (Incident Response Recommendations) - Current NIST guidance on incident response lifecycle, evidence preservation, and post\u2011incident review (referenced for IR process and chain\u2011of\u2011custody). Quarantined messages FAQ - Microsoft Defender for Office 365 - Defender quarantine behaviors, Get-QuarantineMessage / Release-QuarantineMessage cmdlets and admin user workflows (used to illustrate quarantine management capabilities). MITRE ATT&CK - Phishing (T1566) - ATT&CK mapping for phishing subtechniques like spearphishing attachment/link (used to classify email attack patterns). CISA StopRansomware Guide (hunting & remediation guidance) - Hunting tips and remediation steps including identity/token-focused actions referenced in containment and hunting sections. Get-MessageTrace (Exchange PowerShell) - Official documentation for message tracing in Exchange Online (used to demonstrate tracing and log availability). New-TransportRule (Exchange PowerShell) - Documentation for transport rules/quarantine actions at mail flow level (used for containment examples). Revoke Microsoft 365 Refresh Tokens (CISA CM0077) - Guidance on revoking refresh tokens and session invalidation during account remediation (referenced for token revocation steps). Unicode Confusables (confusables.txt) - Unicode Consortium confusables list for detecting IDN/homoglyph look\u2011alike domains (used for look\u2011alike domain detection strategies). Apply these practices as the backbone of your SOC playbook: own the quarantine, instrument your forensics, move fast on containment, hunt with data, and close the loop with measured control changes and metrics. Periodic rehearsal of the quarantine triage path will keep the friction low and the risk window short.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Dev Community"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Officials warn \u2018unprecedented\u2019 disease outbreak is \u2018very dire\u2019: \u2018All countries should know that they are not safe\u2019 (ebola)",
+      "url": "https://freerepublic.com/focus/f-news/4401517/posts",
+      "description": "A disease that health officials have described as the fastest-spreading on record in Africa shows no signs of slowing down, and may soon afflict those outside the continent. The unprecedented spread of Ebola has resulted in thousands of cases, with Nigeria reporting its first case in more than a decade last month, and additional reports in Kenya and other African countries. While the majority of cases are currently affecting those in Africa, health experts are warning that the situation could change and countries should start increasing preparedness now.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Freerepublic"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Officials warn \u2018unprecedented\u2019 disease outbreak is \u2018very dire\u2019: \u2018All countries should know that they are not safe\u2019",
+      "url": "https://nypost.com/2026/11/02/health/officials-warn-unprecedented-disease-outbreak-is-very-dire/",
+      "description": "While the majority of cases are currently affecting those in Africa, health experts warned the situation could change and countries should start increasing preparedness now.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "New York Post"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Officials warn \u2018unprecedented\u2019 disease outbreak is \u2018very dire\u2019: \u2018All countries should know that they are not safe\u2019 - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHlCT2M3encwSkladFk1aEdYc0dQbW9CcVUyWHUtbVlMRFhHdTZZcHRneTdFai0xSUxVQnFRTHdCNTFNemVZdVhUMjUydlNiNkVORWpZWGhGOUt5REhqZGpDNDJ5VUh4S1g2Qk1VeE9SVUF0YnFWaFpuam0wbGNlYXBUTG9INVNRaFZXTzh0S0lDN2JOUGxfbnFnTTk?oc=5",
+      "description": "Officials warn \u2018unprecedented\u2019 disease outbreak is \u2018very dire\u2019: \u2018All countries should know that they are not safe\u2019 New York Post More than 5,000 die from Ebola in DR Congo's deadliest outbreak BBC Africa\u2019s \u2018unprecedented\u2019 Ebola outbreak could reach UK, says top health official The Guardian Latest on Ebola, AI math shocker and the dangers of permanent daylight saving Scientific American 'No one is safe' as Ebola outbreak surges to more than 10,000 cases, Africa's top doctor warns Canada CBC",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Google News"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Coronavirus Epidemic: WHO Declares a \u201cFake\u201d Global Public Health Emergency",
+      "url": "https://www.globalresearch.ca/coronavirus-epidemic-who-declares-a-global-public-health-crisis-can-we-trust-the-who/5702360",
+      "description": "Out of 9600 confirmed cases, approximately 150 cases of infection have been recorded outside China. Moreover, (based on the above data, Jan 30), the 2019 nCoV has a low mortality rate (2.1%) compared to the Seasonal flu. The post Coronavirus Epidemic: WHO Declares a \u201cFake\u201d Global Public Health Emergency appeared first on Global Research.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "globalresearch"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Kenya flagged as high risk of Rift Valley fever disease outbreak",
+      "url": "https://www.businessdailyafrica.com/bd/corporate/health/kenya-marked-a-high-risk-of-rift-valley-fever-outbreak-5655900",
+      "description": "Kenya suffered its most recent episodes of RVF outbreaks in 2020/2021 and 2023/2024, which...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Business Daily"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Madagascar imposes 21-day quarantine and entry curbs on travelers from Kenya amid Ebola concerns",
+      "url": "https://www.pulse.co.ke/story/madagascar-imposes-21-day-quarantine-and-entry-curbs-on-travelers-from-kenya-amid-ebola-concerns-2026110212505877115",
+      "description": "While Malagasy nationals, valid work/student visa holders, and accredited diplomats are exempt from entry bans, they are still subject to the mandatory 21-day quarantine with health monitoring.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Pulse Kenya"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Southeast Asia\u2019s haze crisis: When environmental destruction becomes a public health emergency",
+      "url": "https://www.amust.com.au/2026/11/southeast-asias-haze-crisis-when-environmental-destruction-becomes-a-public-health-emergency/",
+      "description": "Photo: Toxic haze has shrouded parts of Indonesia, Malaysia and Singapore for weeks. Jakarta struggles to contain fires that have scorched large tracts of Borneo and Sumatra, with the smoke drifting across the region. (Photo by REINA / AFP) By now, many of you may have heard the word \u201chaze\u201d repeatedly in the news, describing [\u2026] The post Southeast Asia\u2019s haze crisis: When environmental destruction becomes a public health emergency appeared first on AMUST.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Amust"
+      },
+      "_provider": "newsdata.io"
+    }
+  ]
+}
