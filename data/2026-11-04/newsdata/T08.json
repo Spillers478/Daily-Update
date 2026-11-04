@@ -1,0 +1,136 @@
+{
+  "status": "success",
+  "totalResults": 3,
+  "results": [
+    {
+      "article_id": "4c56cbe4c4eb8de026de4b39fdcf3284",
+      "link": "https://www.france24.com/en/video/20261103-vile-terrorist-attack-russia-bombs-ukraine-aid-centre",
+      "title": "\u2018Vile terrorist attack\u2019: Russia bombs Ukraine aid centre",
+      "description": "A Russian \u201cdouble tap\u201d strike on a Ukrainian school being used as an aid distribution has killed at least 31 people, according to local authorities, with Ukrainian President Volodymyr Zelensky dubbing it a \u201cvile terrorist attack\u201d.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "france24"
+      ],
+      "language": "english",
+      "country": [
+        "france"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "multimedia",
+      "pubDate": "2026-11-03 16:30:08",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-03 17:02:15",
+      "image_url": "https://s.france24.com/media/display/3a851e1a-d7a1-11f1-9fa5-bf1914cabd52/w:1024/p:16x9/Ukraine-aid-strike-vignette.jpg",
+      "video_url": "https://www.youtube.com/watch?v=aVcAQhkQ1P8",
+      "source_id": "france24",
+      "source_name": "France 24",
+      "source_priority": 2706,
+      "source_url": "https://www.france24.com/en",
+      "source_icon": "https://i.newsdata.io/france24.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 98.35,
+        "neutral": 1.05,
+        "positive": 0.6
+      },
+      "ai_tag": [
+        "accidents",
+        "terrorism"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "0cab3b97f44ba283cafd9f32a284e860",
+      "link": "https://en.ammonnews.net/article/96795",
+      "title": "7 charges filed against suspects in Hamoud church terrorist attack",
+      "description": "The State Security Court's public prosecutor has completed the investigation into the Oct. 23 terrorist attack on St. George Church in Hmoud, Karak Governorate, and filed multiple terrorism-related charges against the defendants, including nine counts of committing terrorist acts resulting in death. State...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "jordan news"
+      ],
+      "creator": null,
+      "language": "english",
+      "country": [
+        "jordan"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-03 12:41:28",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-03 12:56:18",
+      "image_url": "https://en.ammonnews.net/image.php?token=3249d80694cff5cdc08a591aa520d97c&size=medium",
+      "video_url": null,
+      "source_id": "en_ammonnews_net",
+      "source_name": "Ammon News",
+      "source_priority": 6333547,
+      "source_url": "https://en.ammonnews.net",
+      "source_icon": "https://i.newsdata.io/en_ammonnews_net.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 4.07,
+        "neutral": 93.68,
+        "positive": 2.25
+      },
+      "ai_tag": [
+        "terrorism",
+        "crime"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "0afc43bd8b58c8658ccd757d3db18314",
+      "link": "https://newsaddaindia.com/news/eds-big-attack-on-terrorist-funding-in-jammu-and-k",
+      "title": "ED's big attack on terrorist funding in Jammu and Kashmir, raids on four locations in Srinagar",
+      "description": "ED's big action on terrorist funding network in Jammu and Kashmir! The investigation into the alleged financial network linked to Omar Adil Dar and his associates has been intensified by simultaneous raids at four locations in Srinagar. The agency is investigating possible connections to cross-border handlers and sources of funding for terrorist activities.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": null,
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-03 08:02:07",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-03 08:27:01",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "newsaddaindia",
+      "source_name": "Newsaddaindia",
+      "source_priority": 40538586,
+      "source_url": "https://newsaddaindia.com",
+      "source_icon": "https://i.newsdata.io/newsaddaindia.jpg",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 3.93,
+        "neutral": 3.7,
+        "positive": 92.37
+      },
+      "ai_tag": [
+        "terrorism"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    }
+  ],
+  "nextPage": null
+}
