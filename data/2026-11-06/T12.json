@@ -1,0 +1,987 @@
+{
+  "status": "ok",
+  "totalResults": 69,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Industry News",
+      "title": "Rubrik hosts NAS backups in isolated, immutable vaults",
+      "description": "Rubrik has announced Rubrik-Hosted Protection for On-Premise Unstructured Data. The offering is built on Rubrik\u2019s Network Attached Storage (NAS) Cloud Direct service. Customers now have clean recovery for enterprise-scale NAS data without having to buy, build\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/11/05/rubrik-unstructured-data-protection/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
+      "publishedAt": "2026-11-05T14:48:20Z",
+      "content": "Rubrik has announced Rubrik-Hosted Protection for On-Premise Unstructured Data. The offering is built on Rubriks Network Attached Storage (NAS) Cloud Direct service. Customers now have clean recovery\u2026 [+3126 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+      "description": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are\u2026",
+      "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj37A8QMI4tUKrluDLCSgawVjQQeZ6c6NrfWLMLUjrI6vRhpt8Tlw4PNnfF49ZlOTtW28Cfb035jo-j22auCrWauuE-JpHfKMFSVfIQtUZjn1eETLFhQEev0FFafFlGz8W6r-96FPmTWlFGTR3RhV869PbcYkO4YPi5nD-zQVGHSZ8d39OmhecF693dj4-x/s1700-nu-rw-lo-l85-e365/tds.jpg",
+      "publishedAt": "2026-11-05T14:41:10Z",
+      "content": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file\u2026 [+19526 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Sead Fadilpa\u0161i\u0107",
+      "title": "DreamHost admits major cyberattack saw hackers steal customer data and access inboxes",
+      "description": "A software vulnerability allowed threat actors to obtain login credentials, putting files and emails at risk.",
+      "url": "https://www.techradar.com/pro/security/dreamhost-admits-major-cyberattack-saw-hackers-steal-customer-data-and-access-inboxes",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/McsoqUDJ8JAM2vQ4GoVytn-1920-80.jpg",
+      "publishedAt": "2026-11-05T14:37:33Z",
+      "content": "<ul><li>DreamHost discloses breach exposing FTP/SFTP credentials and some webmail account session data</li><li>Attackers exploited a vulnerability in the company\u2019s File Manager service to access cust\u2026 [+4729 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Sinisa Markovic",
+      "title": "Cyberattack on Norway\u2019s aid agency may have swept up all user data",
+      "description": "The names and email addresses of 20,614 people registered on Norad\u2019s Grants Portal may have ended up in the hands of attackers, Norway\u2019s development aid agency has disclosed. Norad, short for the Norwegian Agency for Development Cooperation, works with partne\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/11/05/norad-grants-portal-breach/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/25122008/norway.jpg",
+      "publishedAt": "2026-11-05T13:56:49Z",
+      "content": "The names and email addresses of 20,614 people registered on Norads Grants Portal may have ended up in the hands of attackers, Norways development aid agency has disclosed.\r\nNorad, short for the Norw\u2026 [+2488 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "foxbusiness.com",
+      "title": "France blood bank cyberattack targets refrigeration systems as European supermarkets hit",
+      "description": "Hackers targeted refrigeration systems at three regional blood banks in France this week, raising concerns about the safety of critical medical supplies as similar cyberattacks disrupted supermarkets across Europe.\nOfficials said Wednesday that the cyberattac\u2026",
+      "url": "https://biztoc.com/x/2608bcb262643d47",
+      "urlToImage": "https://biztoc.com/cdn/2608bcb262643d47_s.webp",
+      "publishedAt": "2026-11-05T13:16:41Z",
+      "content": "Hackers targeted refrigeration systems at three regional blood banks in France this week, raising concerns about the safety of critical medical supplies as similar cyberattacks disrupted supermarkets\u2026 [+155 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Vivian Nguyen",
+      "title": "French bank Cr\u00e9dit Mutuel Ark\u00e9a confirms cyberattack following $133M theft alert",
+      "description": "The cyberattack on Crdit Mutuel Arka highlights vulnerabilities in third-party platforms, emphasizing the need for enhanced security measures.\nThe post French bank Cr\u00e9dit Mutuel Ark\u00e9a confirms cyberattack following $133M theft alert appeared first on Crypto B\u2026",
+      "url": "https://cryptobriefing.com/cyberattack-french-bank-fraudulent-transactions/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/05064649/Credit-Mutuel-Arkea-800x420.jpg",
+      "publishedAt": "2026-11-05T12:04:26Z",
+      "content": "The cyberattack highlights vulnerabilities in third-party platforms and the swift measures taken to protect bank operations.Cr\u00e9dit Mutuel Ark\u00e9a hit by cyberattack enabling fraudulent transactions, so\u2026 [+3295 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "AI Sharpens Cat-and-Mouse Hacking Battle as Companies Strengthen Defenses",
+      "description": "From hacked supermarket fridges and a record cryptocurrency theft at Binance to an emergency over flaws in widely used web software, companies worldwide are facing a wave of cyber threats executives say AI is accelerating and making more sophisticated. The \u2026",
+      "url": "https://www.insurancejournal.com/news/international/2026/11/05/891648.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2026/11/hacker-with-binoculars-72082115-Depositphotos-scaled.jpg",
+      "publishedAt": "2026-11-05T11:38:21Z",
+      "content": "From hacked supermarket fridges and a record cryptocurrency theft at Binance to an emergency over flaws in widely used web software, companies worldwide are facing a wave of cyber threats executives \u2026 [+4957 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Vincent Lomba",
+      "title": "Communication channels: The new hunting grounds for attackers",
+      "description": "While traditional cybersecurity focuses on servers and networks, modern cyber threats have now shifted to everyday conversational channels, such as videoconferencing, instant messaging and voice calls.",
+      "url": "https://www.techradar.com/pro/communication-channels-the-new-hunting-grounds-for-attackers",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wV66hEbpJdAc4iPB7RwtkK-2560-80.jpg",
+      "publishedAt": "2026-11-05T11:35:20Z",
+      "content": "What if your next cybersecurity breach happened during a conversation? Since the dawn of cybersecurity itself, companies have focused their efforts on fortifying and defending servers, workstations, \u2026 [+5460 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Multiple flights in Europe diverted because of bomb threats",
+      "description": "At least 11 planes from cities, including Dublin, Madrid, and Warsaw, were diverted or grounded over bomb threats that have been determined to be unfounded.",
+      "url": "https://www.foxnews.com/world/multiple-flights-europe-diverted-bomb-threats",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ryanair-sofia-airport-bomb-threats.jpg",
+      "publishedAt": "2026-11-05T11:33:26Z",
+      "content": "Multiple planes across Europe were diverted and forced to make emergency landings Thursday because of bomb threats that have turned out to be unfounded.\r\nAt least 11 planes, originating from cities i\u2026 [+2375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Stemlynsblog.org"
+      },
+      "author": "Simon Carley",
+      "title": "Are we ready for war? Part 2: Preparing our emergency departments and hospitals",
+      "description": "St.Emlyn's - Emergency Medicine #FOAMed\nSt Emlyn\u2019s briefing | October 2026 In Part 1 of this series on NHS war preparedness, we looked at the clinical challenges that modern warfare might present for emergency medicine. [\u2026]\nThe post Are we ready for war? Part\u2026",
+      "url": "https://www.stemlynsblog.org/are-we-ready-for-war-part-2-preparing-our-emergency-departments-and-hospitals/",
+      "urlToImage": "https://www.stemlynsblog.org/wp-content/uploads/2026/11/Are-we-ready-for-war_-1.jpg",
+      "publishedAt": "2026-11-05T11:31:03Z",
+      "content": "St Emlyn\u2019s briefing | October 2026\r\nIn Part 1 of this series on NHS war preparedness, we looked at the clinical challenges that modern warfare might present for emergency medicine. Blast injuries, co\u2026 [+22680 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Sead Fadilpa\u0161i\u0107",
+      "title": "Hackers publish over 320,000 files stolen from 39 Bristol schools on the dark web",
+      "description": "The September breach has made it to the dark web and investigators are analyzing the nature of the leaked files.",
+      "url": "https://www.techradar.com/pro/security/hackers-publish-over-320-000-files-stolen-from-39-bristol-schools-on-the-dark-web",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GcQXTy4NBXKeoop4V5WQnQ-970-80.jpg",
+      "publishedAt": "2026-11-05T10:09:20Z",
+      "content": "<ul><li>Cyberattack on Bristol schools leads to the online leak of more than 320,000 stolen files from 39 schools</li><li>Officials warn students, parents, and staff to expect phishing attempts and o\u2026 [+4328 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securelist.com"
+      },
+      "author": "Alexander Rodchenko, Rodrigo Wanderson",
+      "title": "The SOC Files 5: Ghost in the pipeline, or a fileless SharePoint breach by Storm-2603",
+      "description": "Kaspersky researchers analyze a complex fileless cyberattack by Storm-2603 involving ToolShell exploitation and subsequent runtime subversion, and discuss how to detect such intrusions.",
+      "url": "https://securelist.com/storm-2603-fileless-toolshell-attack/121467/",
+      "urlToImage": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/10/14165524/SL-Storm-2603-featured-scaled.jpg",
+      "publishedAt": "2026-11-05T10:00:11Z",
+      "content": "In 2025, several threat actors exploited CVE-2025-53770 and CVE-2025-53771 (ToolShell vulnerabilities) in on-premises Microsoft SharePoint to achieve remote code execution through crafted HTTP reques\u2026 [+26647 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "author": "News On Japan",
+      "title": "Japan to Establish Cyber Rescue Team to Combat Rising Cyberattacks",
+      "description": "The Japanese government is preparing to establish a new cybersecurity response team comprising experts from the public and private sectors, with plans to dispatch specialists to companies and organizations facing serious cyberattacks following a series of una\u2026",
+      "url": "https://newsonjapan.com/article/151259.php",
+      "urlToImage": "https://i2.ytimg.com/vi/2pOsrsuusws/maxresdefault.jpg",
+      "publishedAt": "2026-11-05T09:57:43Z",
+      "content": "TOKYO -\r\n The Japanese government is preparing to establish a new cybersecurity response team comprising experts from the public and private sectors, with plans to dispatch specialists to companies a\u2026 [+4342 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kaspersky.com"
+      },
+      "author": "Kaspersky ICS CERT Team",
+      "title": "Supply chain attack: BO\u00a0Team in\u00a0a\u00a0software\u00a0developer's infrastructure",
+      "description": "Incident response, that allowed us to learn a great deal about the APT group's tactics and techniques.",
+      "url": "https://ics-cert.kaspersky.com/publications/reports/2026/11/05/supply-chain-attack-bo-team-in-a-software-developers-infrastructure/?utm_source=ics-cert.kaspersky.com&utm_mediumrss&utm_campaignmain",
+      "urlToImage": "https://ics-cert.kaspersky.com/wp-content/uploads/sites/27/2021/10/kaspersky-ics-cert-logo-2021-facebook.png",
+      "publishedAt": "2026-11-05T09:00:00Z",
+      "content": "In June 2025, representatives of a software developer contacted us to report suspicious activity on their network: multiple SMB connection attempts had been logged on the computers of system administ\u2026 [+56827 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+      "description": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the countr\u2026",
+      "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5xlxteigxw9PDEVogRmGjD3vyPuJRyKCuIAOmURy0CY-OLXfYOjC93BPb_gvifLUiVoUk9JcjmxtsGpkT-cYhlrTwXS6yodTv-WwHnPUKvahU67tc5R841Sb_hkIIsUkzNzne5Fzo0h6BUpzEW1770YFBayYksyjSc9pKOV3VsHfoHcPfu3mYAFOQW4K/s1700-nu-rw-lo-l85-e365/docker-ai.jpg",
+      "publishedAt": "2026-11-05T08:42:03Z",
+      "content": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Fi\u2026 [+7225 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Reuters",
+      "title": "AI sharpens cat-and-mouse hacking battle as companies strengthen defences",
+      "description": "Nearly 37,000 security flaws in software or computer systems were reported in the third quarter of 2026, tripling from a year earlier",
+      "url": "https://www.thehindubusinessline.com/info-tech/ai-sharpens-cat-and-mouse-hacking-battle-as-companies-strengthen-defences/article71668809.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/oxfik9/article71649550.ece/alternates/LANDSCAPE_1200/PO01_BS_AI.jpg",
+      "publishedAt": "2026-11-05T06:31:15Z",
+      "content": "Highlights\r\n<ul><li>\r\n Cybersecurity vulnerabilities triple to nearly 37,000 </li><li>\r\n McKinsey expects cybersecurity market to be worth $346 billion by 2029 </li><li>\r\n Europe hit by supermarket f\u2026 [+5066 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Ciar\u00e1n Hancock",
+      "title": "House sales decline, and how to manage hybrid working policies",
+      "description": "The best news, analysis and comment from The Irish Times business desk",
+      "url": "https://www.irishtimes.com/business/2026/11/05/house-sales-decline-and-how-to-manage-hybrid-working-policies/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/4CL5IWT2JFJOXD5AJGFG33POC4.jpg?smart=true&auth=6eb85e64387dfb92bd4337a2639b5086f3caf475850ea4790a40e8b7dfe6f1dd&width=1200&height=630",
+      "publishedAt": "2026-11-05T06:27:36Z",
+      "content": "Sales of second hand homes fell by 2.2 per cent in the third quarter as higher mortgage costs and stretched affordability weighed on demand, according to property tech firm Geowox. Eoin Burke-Kennedy\u2026 [+1490 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "AI sharpens cat-and-mouse hacking battle as companies strengthen defences",
+      "description": "From hacked supermarket fridges and a record cryptocurrency theft at Binance to an emergency over flaws in widely used web software, companies worldwide are facing a wave of cyber threats executives say AI is accelerating",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-sharpens-cat-and-mouse-hacking-battle-as-companies-strengthen-defences/articleshow/135561625.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-6606657,resizemode-75,msid-135561625/tech/artificial-intelligence/ai-sharpens-cat-and-mouse-hacking-battle-as-companies-strengthen-defences.jpg",
+      "publishedAt": "2026-11-05T06:10:50Z",
+      "content": "From hacked supermarket fridges and a record cryptocurrency theft at Binance to an emergency over flaws in widely used web software, companies worldwide are facing a wave of cyber threats executives \u2026 [+4676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "AI sharpens cat-and-mouse hacking battle as companies strengthen defences",
+      "description": "AMSTERDAM, Nov 5 : From hacked supermarket fridges and a record cryptocurrency theft at Binance to an emergency over flaws in widely used web software, companies worldwide are facing a wave of cyber threats executives say AI is accelerating and making more so\u2026",
+      "url": "https://www.channelnewsasia.com/business/ai-sharpens-cat-and-mouse-hacking-battle-companies-strengthen-defences-6526661",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--Dmryp3Kv--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-05T061017Z_3_LYNXNPEMA40DV_RTROPTP_3_GLOBAL-COMPANIES-CYBERATTACK.JPG?itok=73AU9O8m",
+      "publishedAt": "2026-11-05T06:08:32Z",
+      "content": "AMSTERDAM, Nov 5 : From hacked supermarket fridges and a record cryptocurrency theft at Binance to an emergency over flaws in widely used web software, companies worldwide are facing a wave of cyber \u2026 [+4701 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "Ken Donnelly",
+      "title": "How did supermarket fridges become a target for hackers?",
+      "description": "How did equipment used to keep food cold become a target for hackers \u2014 and what do we know about how they got in?",
+      "url": "https://www.rte.ie/news/primetime/2026/1105/1598007-clarity-supermarket-cyberattack/",
+      "urlToImage": "https://www.rte.ie/images/0025493a-1600.jpg",
+      "publishedAt": "2026-11-05T06:00:01Z",
+      "content": "Supermarket fridges and freezers became the targets of cyberattacks across Europe on Monday, with temperatures in units in some stores rising to as high as 50C. \r\nIn Ireland, 13 SuperValu stores were\u2026 [+7605 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AFP",
+      "title": "Trump's midterm defeat dims hopes of North Korea meeting",
+      "description": "A meeting between Donald Trump and Kim Jong Un seems less likely following Trump's midterm election defeat. Analysts believe Kim has less incentive to engage with Trump in the current political environment. North Korea's leadership expresses reluctance to res\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-midterm-loss-stalls-prospects-for-north-korea-summit-as-tensions-rise/articleshow/135556860.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-135556914,width-1200,height-900,imgsize-48080,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-05T03:06:18Z",
+      "content": "Seoul: A meeting between Donald Trump and North Korean leader Kim Jong Un appears increasingly unlikely when the US president travels to Asia in November, analysts say, after he suffered a crushing m\u2026 [+5154 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Anirban Chowdhury",
+      "title": "Morning Brief Podcast: India's Banks Under Cyberattack: How AI Is Changing the Game",
+      "description": "India's rapidly expanding financial ecosystem faces a growing cybersecurity challenge. While large banks have invested heavily in protecting their systems, fintech companies and non-banking financial institutions remain vulnerable to increasingly sophisticate\u2026",
+      "url": "https://economictimes.indiatimes.com/news/morning-brief-podcast/morning-brief-podcast-indias-banks-under-cyberattack-how-ai-is-changing-the-game/podcast/135555302.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-135555302,width-1200,height-900,resizemode-4,imgsize-693640/news/morning-brief-podcast/morning-brief-podcast-indias-banks-under-cyberattack-how-ai-is-changing-the-game.jpg",
+      "publishedAt": "2026-11-05T00:51:21Z",
+      "content": "Morning Brief Podcast\u00a0 (ET Bureau)\r\n India's Banks Under Cyberattack: How AI Is Changing the Game\r\nAnirban Chowdhury | 19:19 MIN | November 05, 2026 06:21 AM IST\r\nIndia's rapidly expanding financial \u2026 [+475 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "Jason Proctor, Jodie Martinson, Jon Hernandez, Ivan Angelovski",
+      "title": "Russian hacker group claims to have posted B.C. school district information on dark web",
+      "description": "CBC News has discovered a hacked database stolen from the Burnaby School District on a dark web site run by a prominent shadowy ransomware group believed to be operating out of Russia.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/qilin-burnaby-school-ransomware-9.7409539",
+      "urlToImage": "https://i.cbc.ca/ais/cdcc8c86-5302-4ba2-948d-bd68d722050a,1793825208586/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C22%2C972%2C546%29%3BResize%3D620",
+      "publishedAt": "2026-11-05T00:35:27Z",
+      "content": "A shadowy Russian ransomware group has posted screenshots on the dark web from what appears to be a database stolen from the Burnaby School District.\r\nThe group which calls itself Qilin claims to off\u2026 [+7685 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Grocery store cyberattacks are \u2018psychological warfare\u2019 that could strike US, former FBI agent warns",
+      "description": "Former FBI agent Nicole Parker warns that hackers turning up supermarket freezer temperatures in Europe could target U.S. critical infrastructure next.",
+      "url": "https://www.foxnews.com/us/grocery-store-cyberattacks-psychological-warfare-could-strike-us-former-fbi-agent-warns",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/France_fridges_empty.jpg",
+      "publishedAt": "2026-11-05T00:05:50Z",
+      "content": "Former FBI special agent Nicole Parker warned that the next attack on Americans sense of security could come through the grocery aisle, as suspected hackers turn up supermarket freezer temperatures i\u2026 [+5143 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Activistpost.com"
+      },
+      "author": "Editor",
+      "title": "Today\u2019s Massive PHP Security Disaster Just the Beginning: AI, Hidden Exploits, and Cyberattacks That Will Bring Everything Down",
+      "description": "This morning, we reported on PHP2Shell, a massive security vulnerability that threatened a huge portion of the internet. Government websites were taken offline, security agencies issued emergency warnings, and businesses around the world scrambled to patch sy\u2026",
+      "url": "https://activistpost.com/todays-massive-php-security-disaster-just-the-beginning-ai-hidden-exploits-and-cyberattacks-that-will-bring-everything-down/",
+      "urlToImage": "https://activistpost.com/wp-content/uploads/2026/11/istockphoto-2233776792-612x612-1.jpg",
+      "publishedAt": "2026-11-04T23:06:00Z",
+      "content": "This morning, we reported on PHP2Shell, a massive security vulnerability that threatened a huge portion of the internet. Government websites were taken offline, security agencies issued emergency war\u2026 [+31918 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": null,
+      "title": "Cyber attack hits French blood banks but no blood products compromised",
+      "description": "The refrigerators at three regional blood banks in France were hit by a cyber attack overnight from Sunday into Monday, at the same time hackers struck supermarkets from Sweden to Belgium.",
+      "url": "https://www.abc.net.au/news/2026-11-05/french-blood-banks-hit-alongside-cyberattack-on-european-superma/107348302",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/db127830a9930d81248f31111477593c?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=273&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-11-04T22:41:45Z",
+      "content": "The refrigerators at three regional blood banks in France were hit by a cyber attack overnight from Sunday into Monday, at the same time hackers struck supermarkets from Sweden to Belgium.\r\n\"Several \u2026 [+1714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "French blood banks hit alongside cyberattack on European supermarkets",
+      "description": "PARIS: The refrigerators at three regional blood banks in France were hit by a cyberattack overnight between Sunday and Monday, at the same time hackers struck supermarkets fr",
+      "url": "https://www.channelnewsasia.com/world/french-blood-banks-hit-alongside-cyberattack-european-supermarkets-6525501",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--lcGTwNlH--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-11-19T123636Z_1_LYNXMPELAI0NK_RTROPTP_3_FRANCE-MEDECINE.JPG?itok=FguvcIMs",
+      "publishedAt": "2026-11-04T21:42:20Z",
+      "content": "PARIS: The refrigerators at three regional blood banks in France were hit by a cyberattack overnight between Sunday and Monday, at the same time hackers struck supermarkets from Sweden to Belgium.\r\n\"\u2026 [+1435 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "author": "PYMNTS",
+      "title": "The CFO\u2019s Guide to LLMjacking: When Stolen AI Becomes a 7-Figure Cloud Bill",
+      "description": "There\u2019s a new flavor of AP fraud in town, and it\u2019s all about AI. Cybercriminals have found a way to monetize stolen corporate artificial intelligence infrastructure in real time, selling unauthorized access to large language models (LLMs) while the companies \u2026",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/the-cfos-guide-to-llmjacking-when-stolen-ai-becomes-a-7-figure-cloud-bill/",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/10/AI-Agents-trust-verification.jpeg",
+      "publishedAt": "2026-11-04T21:38:26Z",
+      "content": "Theres a new flavor of AP fraud in town, and its all about AI. Cybercriminals have found a way to monetize stolen corporate artificial intelligence infrastructure in real time, selling unauthorized a\u2026 [+5263 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Neil J. Rubenking",
+      "title": "McAfee+ Review: Protection for Every Device, Plus Your Identity",
+      "description": "Early computer enthusiasts were proud to protect their single machine with a PC-focused antivirus utility. These days are different, with devices running a variety of operating systems everywhere you look. Fortunately, a modern security suite like McAfee+ is \u2026",
+      "url": "https://uk.pcmag.com/security-suites/143427/mcafee-plus",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/review/m/mcafee-rev/mcafee-review-protection-for-every-device-plus-your-identity_zy1k.1200.jpg",
+      "publishedAt": "2026-11-04T21:27:49Z",
+      "content": "Early computer enthusiasts were proud to protect their single machine with a PC-focused antivirus utility. These days are different, with devices running a variety of operating systems everywhere you\u2026 [+27205 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ronny Reyes",
+      "title": "Hackers crack French blood banks, attempt to boil blood at 230 degrees in sick attack",
+      "description": "The refrigerators at three French blood banks were hit in the same kind of cyberattack that struck across European supermarkets on Sunday, officials said.",
+      "url": "https://nypost.com/2026/11/04/world-news/hackers-crack-french-blood-banks-attempt-to-boil-blood/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147533945.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-04T20:32:52Z",
+      "content": "Three French blood banks were attacked by hackers, who were able to crank up the temperatures in freezers from -22 degrees to 230 Fahrenheit in an attempt to ruin the life-saving supplies.\r\nIt\u2019s the \u2026 [+2548 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iTnews"
+      },
+      "author": null,
+      "title": "Japan to seek early access to software vulnerability data from US AI firms",
+      "description": "Amid cyberattack surge.",
+      "url": "https://www.itnews.com.au/news/japan-to-seek-early-access-to-software-vulnerability-data-from-us-ai-firms-630124?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "urlToImage": "https://i.nextmedia.com.au/News/security hacking vulnerability.jpg",
+      "publishedAt": "2026-11-04T19:56:29Z",
+      "content": "Japan plans to seek earlier \u2060access \u2060to information on undisclosed software vulnerabilities from US artificial intelligence developers and other overseas technology firms as it moves to \u200cstrengthen d\u2026 [+1344 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iTnews"
+      },
+      "author": null,
+      "title": "Japan to seek early access to software vulnerability data from US AI firms",
+      "description": "Amid cyberattack surge.",
+      "url": "https://www.itnews.com.au/news/japan-to-seek-early-access-to-software-vulnerability-data-from-us-ai-firms-630124?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed",
+      "urlToImage": "https://i.nextmedia.com.au/News/security hacking vulnerability.jpg",
+      "publishedAt": "2026-11-04T19:54:42Z",
+      "content": "Japan plans to seek earlier \u2060access \u2060to information on undisclosed software vulnerabilities from US artificial intelligence developers and other overseas technology firms as it moves to \u200cstrengthen d\u2026 [+1344 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iTnews"
+      },
+      "author": null,
+      "title": "Japan to seek early access to software vulnerability data from US AI firms",
+      "description": "Amid cyberattack surge.",
+      "url": "https://www.itnews.com.au/news/japan-to-seek-early-access-to-software-vulnerability-data-from-us-ai-firms-630124?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed",
+      "urlToImage": "https://i.nextmedia.com.au/News/security hacking vulnerability.jpg",
+      "publishedAt": "2026-11-04T19:54:06Z",
+      "content": "Japan plans to seek earlier \u2060access \u2060to information on undisclosed software vulnerabilities from US artificial intelligence developers and other overseas technology firms as it moves to \u200cstrengthen d\u2026 [+1344 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iTnews"
+      },
+      "author": null,
+      "title": "Japan to seek early access to software vulnerability data from US AI firms",
+      "description": "Amid cyberattack surge.",
+      "url": "https://www.itnews.com.au/news/japan-to-seek-early-access-to-software-vulnerability-data-from-us-ai-firms-630124?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Security+feed",
+      "urlToImage": "https://i.nextmedia.com.au/News/security hacking vulnerability.jpg",
+      "publishedAt": "2026-11-04T19:53:14Z",
+      "content": "Japan plans to seek earlier \u2060access \u2060to information on undisclosed software vulnerabilities from US artificial intelligence developers and other overseas technology firms as it moves to \u200cstrengthen d\u2026 [+1344 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Shreya Biswas",
+      "title": "Cr\u00e9dit Mutuel Ark\u00e9a cyberattack: How did a French bank become linked to a $133 million crypto investigation?",
+      "description": "French bank Cr\u00e9dit Mutuel Ark\u00e9a has confirmed a cyberattack involving fraudulent transactions after blockchain investigator ZachXBT traced more than $133 million in suspected crypto withdrawals. Investigators are examining the movement of funds across exchang\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/crdit-mutuel-arka-cyberattack-how-did-a-french-bank-become-linked-to-a-133-million-crypto-investigation/articleshow/135549921.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-135550721,width-1200,height-900,imgsize-139818,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-04T19:31:42Z",
+      "content": "Crypto investigators are following a trail of millions of dollars moving through cryptocurrency exchanges after French banking group Cr\u00e9dit Mutuel Ark\u00e9a confirmed a cyberattack involving fraudulent t\u2026 [+3877 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "",
+      "title": "COCAWARE Ransomware (.coca etension)",
+      "description": "COCAWARE Ransomware (.coca etension) - posted in Ransomware Help & Tech Support: Subject: Help Needed \u2013 COCAWARE Ransomware (.coca) \u2013 Critical SQL Server Database Recovery\nHello,\nI am requesting urgent assistance with a ransomware infection that has encrypted\u2026",
+      "url": "https://www.bleepingcomputer.com/forums/t/819820/cocaware-ransomware-coca-etension/",
+      "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+      "publishedAt": "2026-11-04T19:04:26Z",
+      "content": "Subject: Help Needed \u2013 COCAWARE Ransomware (.coca) \u2013 Critical SQL Server Database Recovery\r\nHello,\r\nI am requesting urgent assistance with a ransomware infection that has encrypted a critical Microso\u2026 [+3416 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Cyberattack Hits French Blood Banks as Hackers Target Refrigeration Systems Across Europe",
+      "description": "Cyberattacks disrupted refrigeration monitoring systems at three French blood banks, amid similar attacks targeting European supermarkets. A cyberattack has hit three regional blood banks in France, disrupting systems used to monitor and control refrigerated \u2026",
+      "url": "https://securityaffairs.com/202431/hacking/cyberattack-hits-french-blood-banks-as-hackers-target-refrigeration-systems-across-europe.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/10/image-29.png",
+      "publishedAt": "2026-11-04T19:01:57Z",
+      "content": "Cyberattack Hits French Blood Banks as Hackers Target Refrigeration Systems Across Europe\r\nA cyberattack has hit three regional blood banks in France, disrupting systems used to monitor and control r\u2026 [+4629 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "French blood banks hit by cyberattack days after European freezer hacks",
+      "description": "The cyberattack on several French blood banks comes after supermarkets across Europe reported their fridges\u200b and freezers\u200b were remotely taken over by hackers.",
+      "url": "https://www.cbsnews.com/news/cyberattack-france-blood-bank/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/04/210718af-263b-4be3-a162-af2f2dd05043/thumbnail/1200x630/9df515d15c699da5ffd9f7d216f151aa/gettyimages-2297348987.jpg",
+      "publishedAt": "2026-11-04T18:39:19Z",
+      "content": "A cyberattack on several blood banks tried to raise temperatures to extremely high levels but was thwarted before it could do any damage to blood products or samples, French authorities said. \r\nThe i\u2026 [+3163 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Sayak Basu",
+      "title": "Binance\u2019s $6.3 billion cyberattack began with fake job offers: Co-CEO Richard Teng reveals details",
+      "description": "Binance says hackers it attributes to North Korea stole $6.3 billion through a months-long campaign involving fake job interviews, malicious developer tools, compromised devices and AI techniques.",
+      "url": "https://www.livemint.com/companies/news/binances-6-3-billion-cyberattack-began-with-fake-job-offers-co-ceo-richard-teng-reveals-details-11793816141115.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/11/04/1600x900/logo/binance_1793816776246_zIL2_1793816776404_Uz6R_326b4d7f-ae7d-4c07-b948-ef652459c500_TnEw.png",
+      "publishedAt": "2026-11-04T18:28:35Z",
+      "content": "Binance Holdings has revealed that hackers who stole $6.3 billion from the company used techniques of social engineering, which included fake job interviews and malware as they published a report on \u2026 [+2537 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Lawrence Abrams",
+      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+      "description": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/11/04/blood-bags.jpg",
+      "publishedAt": "2026-11-04T18:02:56Z",
+      "content": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored bl\u2026 [+4404 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Japan to seek software vulnerability data from US AI firms amid cyberattack surge, Nikkei reports",
+      "description": "Nov 5 : Japan plans to seek earlier access to information on undisclosed software vulnerabilities from US artificial intelligence developers and other overseas technology firms as it moves to strengthen defences against rising cyberattacks, the Nikkei newspap\u2026",
+      "url": "https://www.channelnewsasia.com/business/japan-seek-software-vulnerability-data-us-ai-firms-amid-cyberattack-surge-nikkei-reports-6525041",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--Q7wpLkGq--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-04T170702Z_1_LYNXNPEMA31XG_RTROPTP_3_CYBERSECURITY-PHP.JPG?itok=cIshHm4U",
+      "publishedAt": "2026-11-04T17:07:02Z",
+      "content": "Nov 5 : Japan plans to seek earlier access to information on undisclosed software vulnerabilities from US artificial intelligence developers and other overseas technology firms as it moves to strengt\u2026 [+1344 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Imogen Garfinkel, Cameron Charters",
+      "title": "NHS blood banks are at risk from cyber hackers, MP warns after temperatures at medical storage facilities in France were set to dangerously high levels",
+      "description": "Hospital blood banks and vaccine reserves are at risk of being targeted by cyber criminals an MP has warned after hackers hit medical centres in France and supermarkets were targeted across Europe.",
+      "url": "https://www.dailymail.com/news/article-16265495/NHS-blood-banks-risk-cyber-hackers-MP-warn-temperatures-medical-storage-facilities-France-set-dangerously-high-levels.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/11/04/16/112298359-0-image-m-23_1793809222901.jpg",
+      "publishedAt": "2026-11-04T17:01:26Z",
+      "content": "NHS blood banks and vaccine reserves are at risk of being targeted by cyber criminals, an MP has warned after hackers hit medical centres in France.\u00a0\r\nGraeme Downie, the Chair of the Coalition on Sec\u2026 [+3567 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ryukoku.ac.jp"
+      },
+      "author": null,
+      "title": "\u83f4\u51e6",
+      "description": "Linux Kernel\u337d\u7da3\u63a9'(Critical: CVE-2026-98432) (2026.11.04) \r\n\n\ni\n\r\n\n<ul> <li> AlmaLinux: CVE-2026-98432: Patched kernels released \u4ea5\u7f9d \r\n <li> Debian GNU/Linux: CVE-2026-98432\u4ea5\u7f9d \r\n <li> RHEL: CVE-2026-98432\u4ea5\u7f9d \r\n <li> Raspberry Pi OS: CVE-2026-98432 (forums.raspber\u2026",
+      "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/11.html#20261105_tuiki",
+      "urlToImage": null,
+      "publishedAt": "2026-11-04T15:00:00Z",
+      "content": "Last modified: Thu Nov 5 16:18:06 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019 \u2026 [+28141 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ryukoku.ac.jp"
+      },
+      "author": null,
+      "title": "(2026.11.05) (various)",
+      "description": "Android\r\n \n<ul> <li>\r\n 2026\u7d9b1\u79e1ndroid\u7949\u30e5\u30e3\u300d16\u7bc1\u541f\u8b58\u9414\u82e5\u30ab\u60f9\u7bcf\u24a2\u82e5\u6f5f\u8335/a> (\u8166 2026.11.04) \r\n\n</li></ul>\n\r\n Ruby on Rails\r\n \n<ul> <li> Rails Versions 8.0.5.2 and 8.1.4.1 have been released! (Ruby on Rails, 2026.11.04)1 \u7bc1\u541f\u7949\u30e5\u30e3\u300d\u7bc6\u2462c \r\n\n</li></ul>",
+      "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/11.html#20261105_various",
+      "urlToImage": null,
+      "publishedAt": "2026-11-04T15:00:00Z",
+      "content": "Last modified: Thu Nov 5 17:24:44 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019 \u2026 [+28152 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ryukoku.ac.jp"
+      },
+      "author": null,
+      "title": "(\u24a2\u6f5f\u82e5\u30b1 / Yahoo, 11/2)Netflix\u6fc0\u82e5\u30b3\u30f2 ...",
+      "description": "(\u24a2\u6f5f\u82e5\u30b1 / Yahoo, 11/2)Netflix\u6fc0\u82e5\u30b3\u30f2\u7949\u6f5f\u30f2\u7da3\u2162\u7d15\u7d0a\u24a2\u3083\u30c3",
+      "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/11.html#20261105__minamida",
+      "urlToImage": null,
+      "publishedAt": "2026-11-04T15:00:00Z",
+      "content": "Last modified: Thu Nov 5 17:24:44 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019 \u2026 [+28152 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ryukoku.ac.jp"
+      },
+      "author": null,
+      "title": "(ITmedia, 11/4) Shutting the Door o ...",
+      "description": "(ITmedia, 11/4) Shutting the Door on the XCPE Botnet (Google, 11/3)\u30c8eepL AI \u8350 oogle\u30ad\u82e5130\u7b5d\u672d\u7b5d\u7949\u795a\u7907\u5bb4\u815f\u83a8\u82e5CPE\u226a\u2266\u969c(\u7b5d\u32a6) \r\n Videostrong\u7d42\u815f\u78da\u7907\u77ed\u7907\u63a9\u2524\u83a2\u277e\uff12\u30a1\u226a\u543e\u82e5\u3001\u9d3b\u832f\u33cd\u83a8\u82e5\u0441\u226a\u969c\u7bcb\u2664\u226a\u30af\u30e3\u7f68\u51b4\u7d4e\u3083\u30b1\u7d4e\u33cd\u30ad\u79ba\u7907\u8c37\u7daeXCPE\u627f\u7d4e\u6f5f\u3083\u30b1\u7533\u30a1\u226a\u832f\u33cd\u83a8\u82e5\u226a\u30af\u30e3\u6f5f\u6f5f\u941a\u30a6\u6f5f\u33cdC2\u941a\uff1c\u3001\u6f5f\u2266\u24a6\u821f\u815fXCPE\u7bc1\u30e5\u30d1\u226a\u30af\u30e3\u7f552\u3083\u24a2\u30d1,000\u7b5d\u4f39\u7bb4\u7403\u3342\u3001\u9d3b\u300c\u30b5\u9d3b\u8340\u662d \r\n Videostrong\u8153\u969c\uff48\u8335\u8153\u969c\u30b1\u7acd\u2473\u24a6\u3083\u30b1\u7e70\u7f50\u2026",
+      "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/11.html#20261105__videostrong",
+      "urlToImage": null,
+      "publishedAt": "2026-11-04T15:00:00Z",
+      "content": "Last modified: Thu Nov 5 16:18:06 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019 \u2026 [+28141 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
+      "description": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/11/04/SonicWall.jpg",
+      "publishedAt": "2026-11-04T14:42:25Z",
+      "content": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched.\r\nGlobal Management System (GMS) helps IT admins deploy and mana\u2026 [+2481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Jon Martindale",
+      "title": "Hackers Hit French Blood Plasma Freezers in Latest Attack on Cooling Companies",
+      "description": "Attackers set the freezers to 110\u00b0 Celsius (versus -30\u00b0 Celsius), but staff caught it before any blood plasma supply was damaged.\nHackers changed the temperature settings on freezer units used by the French Blood Establishment to store blood plasma for operat\u2026",
+      "url": "https://uk.pcmag.com/security/168239/hackers-hit-french-blood-plasma-freezers-in-latest-attack-on-cooling-companies",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/h/hackers-hi/hackers-hit-french-blood-plasma-freezers-in-latest-attack-on_4qwq.1200.jpg",
+      "publishedAt": "2026-11-04T14:09:25Z",
+      "content": "Hackers changed the temperature settings on freezer units used by the French Blood Establishment to store blood plasma for operations, Cyber Security News reports. The cyberattack targeted the coolin\u2026 [+1715 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "Supermarket Fridge Attack Is Just the Start, Says UK Cybersecurity Chief",
+      "description": "A cyberattack on supermarket fridges across Europe is just an early sign of what are likely to be increasingly frequent disruptions as old technology fails to keep pace with hackers, Britain\u2019s cybersecurity chief said on Tuesday. On Monday, fridges and \u2026",
+      "url": "https://www.insurancejournal.com/news/international/2026/11/04/891443.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2026/10/empty-shelves-in-french-supermarket-getty.jpg",
+      "publishedAt": "2026-11-04T13:57:51Z",
+      "content": "A cyberattack on supermarket fridges across Europe is just an early sign of what are likely to be increasingly frequent disruptions as old technology fails to keep pace with hackers, Britain\u2019s cybers\u2026 [+2809 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "Cyberattackers Drain Money From French Bank Credit Mutuel Arkea",
+      "description": "Cr\u00e9dit Mutuel Ark\u00e9a said hackers stole money from it after gaining access to its computer systems, underscoring the growing cybersecurity risks for the banking sector. The French lender \u201cwas the victim of a cyberattack that enabled fraudulent transactions to \u2026",
+      "url": "https://www.insurancejournal.com/news/international/2026/11/04/891431.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2026/11/data-cables-bloomberg-scaled.jpg",
+      "publishedAt": "2026-11-04T13:34:37Z",
+      "content": "Cr\u00e9dit Mutuel Ark\u00e9a said hackers stole money from it after gaining access to its computer systems, underscoring the growing cybersecurity risks for the banking sector.\r\nThe French lender \u201cwas the vic\u2026 [+1619 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Prisha Patnaik",
+      "title": "French blood plasma storage hit by hackers in widening cyberattack campaign",
+      "description": "A cyberattack targeting refrigeration systems at three French blood bank sites attempted to raise storage temperatures to extremely high levels, but was",
+      "url": "https://timesofindia.indiatimes.com/world/europe/french-blood-plasma-storage-hit-by-hackers-in-widening-cyberattack-campaign/articleshow/135540237.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-135540480,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-11-04T13:17:35Z",
+      "content": "Follow Us On Social Media\r\nAlia, Neetu Kapoor support Ranbir at Ramayana premiere; Salman brings star power to Diwali bashModi Govt Revises Agnipath Scheme, Offers 2-Year Service Extension To 75% Of \u2026 [+3240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "",
+      "title": "SHA1: 2f473b683801e2e3cd403a762a4922ee57d58204",
+      "description": "SHA1: 2f473b683801e2e3cd403a762a4922ee57d58204 - posted in Ransomware Help & Tech Support: Subject: Help Needed \u2013 COCAWARE Ransomware (.coca) \u2013 Critical SQL Server Database Recovery\nHello,\nI am requesting urgent assistance with a ransomware infection that has\u2026",
+      "url": "https://www.bleepingcomputer.com/forums/t/819820/sha1-2f473b683801e2e3cd403a762a4922ee57d58204/",
+      "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+      "publishedAt": "2026-11-04T13:12:48Z",
+      "content": "Subject: Help Needed \u2013 COCAWARE Ransomware (.coca) \u2013 Critical SQL Server Database Recovery\r\nHello,\r\nI am requesting urgent assistance with a ransomware infection that has encrypted a critical Microso\u2026 [+3416 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "alexblake.techradar@gmail.com (Alex Blake) , Alex Blake",
+      "title": "Hackers target French blood banks in latest freezer attack amid UK warnings",
+      "description": "French blood supplies used in medical procedures have come under attack from suspected hackers.",
+      "url": "https://www.techradar.com/computing/cybercrime/hackers-target-french-blood-banks-in-latest-freezer-attack-as-uk-cybersecurity-chief-warns-of-sliding-doors-moment-for-unprecedented-threat",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/nfbwDgrK5BcqohNYdJq86A-2560-80.jpg",
+      "publishedAt": "2026-11-04T12:35:24Z",
+      "content": "<ul><li>Hackers have targeted French blood stocks used in medical emergencies</li><li>Attackers tried to raise freezer temperatures from -22F to 230F</li><li>The attack was spotted quickly and no blo\u2026 [+3513 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Imogen Garfinkel",
+      "title": "Blood banks are struck by hackers raising storage temperatures - after supermarket freezers hit",
+      "description": "A cyberattack on several blood banks across France sought to raise temperatures to dangerously high levels.",
+      "url": "https://www.dailymail.com/news/article-16264945/Blood-banks-struck-hackers-raising-storage-temperatures-supermarket-freezers-hit.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/11/04/12/112293953-0-image-a-18_1793795501604.jpg",
+      "publishedAt": "2026-11-04T12:35:10Z",
+      "content": "A cyberattack on several blood banks across France sought to raise temperatures to dangerously high levels, it emerged today.\r\nThe incident comes after supermarkets in a number of European countries \u2026 [+11207 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Common Dreams"
+      },
+      "author": "Connie Peck",
+      "title": "The Gordian Knot of AI Alignment",
+      "description": "As a psychologist, I have spent many years trying to understand human behavior, never imagining that one day I might also want to try to understand machine behavior.The issue of misaligned AI (i.e., AI not aligned with human values and goals) received conside\u2026",
+      "url": "https://www.commondreams.org/opinion/solving-ai-alignment",
+      "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=56519483&width=1200&height=600&coordinates=0%2C500%2C0%2C500",
+      "publishedAt": "2026-11-04T12:35:03Z",
+      "content": "As a psychologist, I have spent many years trying to understand human behavior, never imagining that one day I might also want to try to understand machine behavior.\r\nThe issue of misaligned AI (i.e.\u2026 [+15609 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "James Coker",
+      "title": "3AM Ransomware Used Human-AI Hybrid Tactics in UK School Estate Compromise",
+      "description": "Bitdefender highlighted a unique human-AI approach during a September attack on a UK school estate, which resulted in financial data being exfiltrated",
+      "url": "https://www.infosecurity-magazine.com/news/3am-ransomware-hybrid-ai-uk-school/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/51668c06-2028-403e-b37e-badf1a061f8c.jpeg",
+      "publishedAt": "2026-11-04T12:00:00Z",
+      "content": "A UK school estate was compromised by the 3AM ransomware group via a unique hybrid human-AI operation, an investigation by Bitdefender has found.\r\nThe incident, which took place from September 10 to \u2026 [+5492 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": null,
+      "title": "Could Iran\u2019s Revolutionary Guard Corps carry out threats abroad?",
+      "description": "Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Laura Tingle.",
+      "url": "https://www.abc.net.au/news/2026-10-29/could-iran-s-revolutionary-guard-corps-carry-out-threats-abroad-/107324782",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/71c1d9be2cfd2a5abf4435f3374b15d0?impolicy=wcms_watermark_news&cropH=2160&cropW=3840&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-11-04T11:35:57Z",
+      "content": "KATHLEEN O'CONNOR, REPORTER:\u00a0Despite living thousands of kilometres away in Melbourne Saeid Zand says he knows what it's like to be targeted by the Iranian regime.\r\nSAEID ZAND:\u00a0 I'm frightened becaus\u2026 [+7336 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Imogen Garfinkel",
+      "title": "Russia is suspected of carrying out bomb threat hoaxes that grounded UK planes and closed European airports - amid fears Putin is escalating 'shadow war' against Britain",
+      "description": "Russia is suspected of carrying out\u00a0a series of hoax bomb threats that sparked flight chaos in Europe, with multiple passenger jets forced to make emergency landings.",
+      "url": "https://www.dailymail.com/news/article-16264399/Russia-suspected-carrying-bomb-threat-hoaxes-grounded-UK-planes-closed-European-airports-amid-fears-Putin-escalating-shadow-war-against-Britain.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/11/04/09/112272671-0-image-a-10_1793785831373.jpg",
+      "publishedAt": "2026-11-04T09:58:42Z",
+      "content": "Russia\u00a0is suspected of carrying out\u00a0a series of hoax bomb threats that sparked flight chaos in Europe, with multiple passenger jets forced to make emergency landings at airports across the continent.\u2026 [+10329 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Imogen Garfinkel",
+      "title": "Russia is suspected of carrying out bomb threat hoaxes that grounded UK planes and closed European airports - amid fears Putin is escalating 'shadow war' against Britain",
+      "description": "Russia is suspected of carrying out\u00a0a series of hoax bomb threats that sparked flight chaos in Europe, with multiple passenger jets forced to make emergency landings.",
+      "url": "https://www.dailymail.com/news/article-16264399/Russia-suspected-carrying-bomb-threat-hoaxes-grounded-UK-planes-closed-European-airports-amid-fears-Putin-escalating-shadow-war-against-Britain.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/11/04/09/112272671-0-image-a-10_1793785831373.jpg",
+      "publishedAt": "2026-11-04T09:54:37Z",
+      "content": "Russia\u00a0is suspected of carrying out\u00a0a series of hoax bomb threats that sparked flight chaos in Europe, with multiple passenger jets forced to make emergency landings at airports across the continent.\u2026 [+10329 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Local Germany"
+      },
+      "author": "Rachel Loxton",
+      "title": "Today in Germany: A roundup of the latest news on Wednesday",
+      "description": "Several German supermarkets affected by refrigeration cyberattacks, Germany follows US midterm results closely as Democrats celebrate victory, pensions expected to rise next year and more news on Wednesday November 4th.",
+      "url": "https://www.thelocal.de/20261104/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-145",
+      "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fill:1200:675/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/11/watermarks-logo-AFP__20261104__D6D433C__v2__MidRes__UsVoteMichigan.jpg@webp",
+      "publishedAt": "2026-11-04T07:33:19Z",
+      "content": "Several German supermarkets affected by refrigeration cyberattacks, Germany follows US midterm results closely as Democrats celebrate victory, pensions expected to rise next year and more news on Wed\u2026 [+6420 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Abhinav Ranjan",
+      "title": "'India's crypto market to broaden, smaller cities to aid growth'",
+      "description": "Nischal Shetty, founder, WazirX said that for Bitcoin, $90,000 is a recovery reference and $100,000 remains a possible upside outcome if sustained spot buying and ETF demand continue.",
+      "url": "https://www.business-standard.com/markets/interviews/india-s-crypto-market-to-broaden-smaller-cities-to-aid-growth-nischal-shetty-founder-wazirx-126110400699_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/04/thumb/fitandfill/1200X628/1793775658-3357.jpg",
+      "publishedAt": "2026-11-04T07:17:44Z",
+      "content": "Nischal Shetty, founder, WazirX said that for Bitcoin, $90,000 is a recovery reference and $100,000 remains a possible upside outcome if sustained spot buying and ETF demand continue.\r\nNischal Shetty\u2026 [+8029 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Threatintel.sh"
+      },
+      "author": "merlin_sh",
+      "title": "Show HN: Threatintel.sh \u2013 Live threat intelligence dashboard",
+      "description": "Live threat intelligence: exploited and new CVEs ranked by risk, ransomware leak-site claims, a live threat map, government and vendor advisories, IOCs and security news.",
+      "url": "https://threatintel.sh/",
+      "urlToImage": "https://threatintel.sh/og.png",
+      "publishedAt": "2026-11-04T06:19:17Z",
+      "content": "threatintel.shFree threat intelligence from public sources, refreshed every few minutes. Ransomware claims are posted by criminal groups and may be false or exaggerated."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "No evidence PHP flaws exploited in government, critical infrastructure systems: Tan Kiat How",
+      "description": "Organisations should continue to monitor their systems for signs of compromise, says the Senior Minister of State for Health.",
+      "url": "https://www.channelnewsasia.com/singapore/php-flaw-exploitation-mddi-6519861",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--xHsIQNMh--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-28T231420Z_2_LYNXNPEM9R1PJ_RTROPTP_3_CYBERSECURITY-PHP-BUGS.JPG?itok=jqsdkUL8",
+      "publishedAt": "2026-11-04T04:15:13Z",
+      "content": "SINGAPORE: There is no evidence that PHP vulnerabilities were exploited in government systems or Singapore's critical information infrastructure (CII), said Senior Minister of State for Health Tan Ki\u2026 [+1365 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": null,
+      "title": "Fake jobs and malicious code used by hackers in largest crypto-heist",
+      "description": "Binance, the crypto-exchange platform at the heart of the sector's largest heist has uncovered how hackers stole billions in funds.",
+      "url": "https://www.abc.net.au/news/2026-11-04/binance-released-details-of-largest-crypto-heist/107345208",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/f3e186f3e8fb3e51ac624cd6b45e5c35?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=208&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-11-04T03:28:52Z",
+      "content": "The world's largest crypto-exchange platform says attackers used fake job interviews and malicious code to steal $US6.6 billion ($9 billion) in funds.\r\nThe attack on Binance, believed to be the large\u2026 [+2274 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Risky.biz"
+      },
+      "author": "James Wilson",
+      "title": "Risky Business #858 -- The $6.3b laptop",
+      "description": "On this week\u2019s show Patrick Gray and James Wilson are joined by special guest co-host Ciaran Martin, former CEO of the UK\u2019s National Cyber Security Centre (NCSC), to talk through the week\u2019s cybersecurity news, including:\n\n<ul>\n <li>The $6.3 billion dollar Bin\u2026",
+      "url": "https://risky.biz/RB858/",
+      "urlToImage": "https://risky.biz/static/img/RB-OG-Social.jpg",
+      "publishedAt": "2026-11-04T03:26:14Z",
+      "content": "Presented by\r\nOn this weeks show Patrick Gray and James Wilson are joined by special guest co-host Ciaran Martin, former CEO of the UKs National Cyber Security Centre (NCSC), to talk through the week\u2026 [+2897 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
+      "description": "EU says supermarket hacks in at least 11 countries are 'not isolated', but a Romanian official suspects no state actor.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aea5a2991d5-1793743401.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-04T03:16:37Z",
+      "content": "Hackers raised the temperatures of refrigeration systems at supermarkets in Germany, Romania and the United Kingdom during Mondays cyberattacks, officials said, bringing the number of European countr\u2026 [+3969 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Fred Kelly",
+      "title": "So, could Britain's food chain be hit by the cyber hackers targeting supermarket freezers all across Europe?",
+      "description": "On Sunday October 11, French supermarkets were hit by an unprecedented cyber attack on refrigeration units across 700 stores.",
+      "url": "https://www.dailymail.com/news/article-16263729/So-Britains-food-chain-hit-cyber-hackers-targeting-supermarket-freezers-Europe.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/11/04/00/112284433-0-image-a-13_1793751979177.jpg",
+      "publishedAt": "2026-11-04T00:29:45Z",
+      "content": "First there was melting ice-cream. Then the smell of rotting meat. And finally, the sight of desperate supermarket workers shovelling armfuls of spoiled food into black bin bags.\r\nOn Sunday October 1\u2026 [+10001 chars]"
+    },
+    {
+      "title": "Cybersecurity briefly \u2013 20261106",
+      "url": "https://microwire.info/cybersecurity-briefly-20261106/",
+      "description": "Here are some weekly APAC cybersecurity snippets that you might find interesting. This week, Japan moved to reinforce its national ... Read more Source",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Microwire.news Apac"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "AI-powered cyberattacks put Indian fintechs on alert; Shiprocket turns profitable in Q2 FY27",
+      "url": "https://yourstory.com/2026/11/ai-powered-cyberattacks-put-indian-fintechs-on-alert",
+      "description": "An advisory from the government body said the AI-assisted financial threat is still active and warns BFSI entities to treat it as an \u201cimmediate and continuing threat\u201d.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Yourstory"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "French blood banks hit with cyberattack",
+      "url": "https://mb.com.ph/article/10943512/technews/french-blood-banks-hit-with-cyberattack",
+      "description": "France\u2019s blood-supply system narrowly avoided a potentially dangerous physical-world cyberattack after intruders remotely raised the temperature settings at blood banks. None of the blood supply was damaged. The incident highlights how damaging cybersecurity is. It is no longer limited to stealing personal data. Critical infrastructure is now actively being targeted. Only a few days ago, supermarkets received an attack that caused millions worth of food to be spoiled. According to The French Blood Establishment (EFS), temperatures were altered, raising it as high as 110-degree Celsius. The attack started at Coolworld, the refrigerator-equipment supplier. The attack was prevented because of independent monitoring and alarm systems, which alerted about the temperature changes, prompting stadd to secure the supply before it spoiled.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Manila Bulletin"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Cyberattacks Hit French Blood Banks And European Supermarkets, Raising Security Fears",
+      "url": "https://www.worthynews.com/118749-cyberattacks-hit-french-blood-banks-and-european-supermarkets-raising-security-fears",
+      "description": "Cyberattacks disrupted refrigeration systems at three regional blood banks in France and supermarkets across Europe, French authorities confirmed Wednesday, raising concerns about the vulnerability of European infrastructure. The post Cyberattacks Hit French Blood Banks And European Supermarkets, Raising Security Fears appeared first on Worthy Christian News.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Worthy Christian News"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Malware Brief: Trusted software, AI, and post-quantum ransomware",
+      "url": "https://blog.barracuda.com/2026/11/05/malware-brief--trusted-software--ai--and-post-quantum-ransomware",
+      "description": "DarkVigil, PromptSpy, and Kyber show how malware uses trusted software, generative AI, and post-quantum cryptography to evade and disrupt.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Barracuda Networks Blog"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Kaspersky traces Lazarus\u2019 Operation FlashHole attacks",
+      "url": "https://www.frontier-enterprise.com/kaspersky-traces-lazarus-operation-flashhole-attacks/",
+      "description": "Kaspersky details how Operation FlashHole exploits security software and uses post-quantum cryptography to protect malware delivery. The post Kaspersky traces Lazarus\u2019 Operation FlashHole attacks appeared first on Frontier Enterprise.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Frontier Enterprise"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Huntress adds new security tools across its platform",
+      "url": "https://itbrief.in/story/huntress-adds-new-security-tools-across-its-platform",
+      "description": "The latest releases aim to help customers spot and stop identity attacks, brute-force attempts and ransomware spread sooner across Huntress's platform.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "It Brief India"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Trojans: the malware you invite in, and how the FBI uninstalled it",
+      "url": "https://dev.to/kstriabintang/trojans-the-malware-you-invite-in-and-how-the-fbi-uninstalled-it-3end",
+      "description": "The original Trojan Horse did not knock down the walls of Troy. The Trojans pulled it inside themselves, because it looked like a gift. Computer trojans work the same way, and that is why they are still one of the most successful kinds of malware ever made. They do not need a fancy exploit. They need you to click. What a trojan actually is A trojan is malware wearing a costume. It might look like: an invoice in a Word document that asks you to \"enable content\", a cracked game or a free version of paid software, a browser update, a PDF reader, a \"wallet tool\" for crypto, a job test or a repo from a friendly recruiter. Once you run it, the real payload starts: stealing passwords, logging keystrokes, giving a remote attacker control, or downloading more malware. Some are called RATs, remote access trojans, because they quietly give someone else the keyboard. Quick vocabulary check: a virus infects other files, a worm spreads by itself, and a trojan gets you to install it. I go deeper into that family tree in the history of computer viruses. The banking trojans Around 2007, Zeus became the template. It sat inside your browser and stole online banking logins, sometimes changing the page you saw so you would type in extra details. Infected machines were linked into a botnet, a remote-controlled army of computers. Variants of Zeus, like GameOver Zeus, are why one of its alleged operators sits on the FBI's Cyber Most Wanted list. Emotet: from trojan to cybercrime delivery service Emotet appeared in 2014 as a banking trojan. Then its operators had a business idea: why steal bank logins yourself when you can rent out access to every computer you have infected? Emotet became a loader. It spread through convincing reply-chain emails, often continuing real conversations stolen from earlier victims. Then it sold its foothold to other criminals, including ransomware gangs. Europol called it one of the most dangerous pieces of malware in the world. The takedowns: police using the malware against itself Here is the twist that makes these stories so satisfying. Emotet, January 2021. An international operation coordinated by Europol and Eurojust took control of Emotet's infrastructure from the inside. Investigators pushed an update to infected machines that disconnected them from the criminals, and the malware was scheduled to remove itself in April 2021. Emotet later came back in a weaker form, but the hit was massive. Qakbot, August 2023. The FBI led Operation Duck Hunt against Qakbot, another trojan turned loader that had fed ransomware groups for years. The FBI redirected infected computers to servers it controlled, then sent them an uninstaller. More than 700,000 computers were cleaned, and around $8.6 million in cryptocurrency was seized. Operation Endgame, May 2024. Europol called it the largest ever operation against botnets, hitting several loaders at once, including IcedID, SmokeLoader, Pikabot and Bumblebee. Think about how wild that is: the delivery channel criminals built to install malware became the channel police used to uninstall it. How to not be the one who opens the horse Never \"enable macros\" on a document you did not expect. That single button has started thousands of incidents. Download software only from official sources. Cracks and \"free\" premium tools are the most common trojan costumes. Treat unexpected attachments in old email threads as suspicious. Reply-chain hijacking makes them look familiar on purpose. Run untrusted code in a sandbox or VM. Especially \"take-home tests\" from strangers. North Korean teams love that trick. Keep endpoint protection on and updated, and give users non-admin accounts so a trojan cannot do everything. The honest summary Trojans win because they attack the one thing no patch can fix: our habit of trusting things that look normal. The good news is that the same infrastructure that makes them powerful can also make them fragile. Take over the command server, and an army of infected machines can be told to go home.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Dev Community"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Feds warn of potential cyberattacks on industrial refrigerators",
+      "url": "https://www.cbsnews.com/news/refrigeration-systems-cyber-threats-cisa-warning/",
+      "description": "After a wave of attacks in Europe, U.S. officials are warning of \"ongoing\" cyber threats targeting refrigeration systems used in healthcare, agriculture and other industries.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Cbs News"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "IT Security News Roundup: 2026-11-05 Evening",
+      "url": "https://www.itsecuritynews.info/it-security-news-roundup-2026-11-05-evening/",
+      "description": "IT Security News: Evening roundup, 2026-11-05 Summary The current security landscape is heavily defined by the evolving role of artificial intelligence, which is being weaponized for extortion and sophisticated phishing while simultaneously introducing new alignment risks in LLMs. Parallel threats\u2026 Read more \u2192 The post IT Security News Roundup: 2026-11-05 Evening appeared first on IT Security News.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "It Security News"
+      },
+      "_provider": "newsdata.io"
+    }
+  ]
+}

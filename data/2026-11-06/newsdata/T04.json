@@ -1,0 +1,231 @@
+{
+  "status": "success",
+  "totalResults": 5,
+  "results": [
+    {
+      "article_id": "c6d1d752b07042248be0de316a4b844d",
+      "link": "https://www.newsbreak.com/tripjaunt-320727580/4989415104155-animal-quarantine-officers-reveal-why-hawaii-has-the-strictest-pet-rules-in-the-us",
+      "title": "Animal Quarantine Officers Reveal Why Hawaii Has the Strictest Pet Rules in the US",
+      "description": null,
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "newsbreak"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-06 00:00:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-06 08:43:43",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "newsbreak",
+      "source_name": "Newsbreak",
+      "source_priority": 91223,
+      "source_url": "https://www.newsbreak.com",
+      "source_icon": "https://i.newsdata.io/newsbreak.png",
+      "sentiment": null,
+      "sentiment_stats": null,
+      "ai_tag": null,
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "bc36b788e20e7205a0208a1e5edb27ba",
+      "link": "https://www.medicaldaily.com/new-world-screwworm-cases-arizona-horse-quarantine-480845",
+      "title": "Screwworm Cases Hit 90 Animals in Three States as Arizona Horse Case Triggers 12-Mile Quarantine Zone",
+      "description": "New World screwworm has been detected in 90 animals across Texas, New Mexico and Arizona, including a horse in Arizona that prompted a 12.4-mile movement-control zone.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "bravecto screwworm treatment",
+        "new world screwworm",
+        "usda screwworm cases",
+        "animal health texas",
+        "arizona screwworm case",
+        "screwworm in dogs",
+        "screwworm quarantine zone"
+      ],
+      "creator": [
+        "medical daily"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "health"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-05 17:54:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-05 18:04:31",
+      "image_url": "https://d.medicaldaily.com/en/full/488216/veterinarian-examining-horse-wound.jpg?w=1600&h=900&q=88&f=6dce4569f5b9da38ac80561c44a7fce7",
+      "video_url": null,
+      "source_id": "medicaldaily",
+      "source_name": "Medical Daily",
+      "source_priority": 12291,
+      "source_url": "https://www.medicaldaily.com",
+      "source_icon": "https://i.newsdata.io/medicaldaily.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 90.49,
+        "neutral": 8.84,
+        "positive": 0.67
+      },
+      "ai_tag": [
+        "wildlife",
+        "natural disasters"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "92a304506eb28d20b9e9e34e75fdca49",
+      "link": "https://english.pravda.ru/news/world/171671-brazil-newcastle-disease-fourth-outbreak/",
+      "title": "Brazil Confirms Fourth Newcastle Disease Outbreak in Santa Catarina",
+      "description": "Brazil's Ministry of Agriculture has confirmed a fourth case of Newcastle disease (DNC) in a commercial poultry farm within Santa Catarina state. The new outbreak was identified in the municipality of Nova Erechim, an area already designated as a zoosanitary emergency zone. Data from the platform monitoring respiratory and nervous syndromes in birds indicates that the virus was confirmed on Tuesday, December 3, in a turkey production facility. Initial sample collection and the start of the investigation at this site took place on November 31. There are currently four active outbreaks in the country, all localized within the same region, specifically in the municipalities of Nova Itaberaba, Coronel Freitas, and Nova Erechim. The outbreak timeline began on October 18.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "world"
+      ],
+      "creator": [
+        "petr ermilin"
+      ],
+      "language": "english",
+      "country": [
+        "russia"
+      ],
+      "category": [
+        "crime",
+        "top",
+        "environment"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-05 17:44:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-05 17:53:33",
+      "image_url": "https://english.pravda.ru/image/preview/article/6/7/1/171671_amp.jpeg",
+      "video_url": null,
+      "source_id": "pravda_ru",
+      "source_name": "Pravda",
+      "source_priority": 2021197,
+      "source_url": "https://english.pravda.ru",
+      "source_icon": "https://i.newsdata.io/pravda_ru.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 67.75,
+        "neutral": 30.06,
+        "positive": 2.19
+      },
+      "ai_tag": [
+        "accidents",
+        "pollution"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "8a5f2e40ff2554aadc8e034a48473ae8",
+      "link": "https://dev.to/datacpp_8185/a-frozen-test-still-needs-a-failure-path-canaries-and-exit-criteria-for-quarantine-lanes-308i",
+      "title": "A Frozen Test Still Needs a Failure Path: Canaries and Exit Criteria for Quarantine Lanes",
+      "description": "The short version Freezing a flaky test does not remove it from your suite. It copies it into a second suite \u2014 unblocked, scheduled nightly, and visited by nobody. That second suite has its own failure modes, and the worst one is silent: it stops reporting failures while still reporting green. So treat the quarantine lane like production code. Give it a canary that must always fail, give every freeze a machine-checkable exit condition, and make a broken lane louder than a flaky test. The artifact below is three files: a canary test, a collection guard, and a stdlib-only verdict script. Everything runs on plain pytest + Python 3.11 with no extra services. Why a freeze can hide a real failure Four concrete ways a freeze eats signal, all of which look like a healthy build: Failure mode What you see What actually happened Skip marker leaks into the blocking job Blocking CI green A frozen test is skipped everywhere, including the lane meant to replay it Quarantine job failures downgraded to warnings Nightly green continue-on-error: true swallowed real assertion failures Test renamed or moved Ledger entry just stops counting The freeze is now orphaned; nobody is replaying anything Collection error in the quarantine file Zero tests collected, exit 5 ignored The lane ran for weeks with nothing in it None of these are flakiness problems. They are observability problems on the freeze mechanism itself. Step 1 \u2014 Add a canary that must fail A canary is a test whose only job is to fail. If the lane ever reports it as passing, skipped, or missing, the lane is broken and the job should go red immediately. # tests/quarantine/test_canary.py # Intentionally always fails. Never fix this test, never delete it. def test_quarantine_lane_canary(): raise AssertionError( \"CANARY: the quarantine lane reported a pass. \" \"The lane is no longer a trustworthy replay channel.\" ) A permanently red test feels wrong, which is exactly why it works. It converts \"the lane is quiet\" into \"the lane is provably executing and provably reporting failures.\" Guard the other direction too: frozen tests must never be collected by the blocking job. A collect-only assertion catches skip-marker leakage without running anything. # tests/quarantine/conftest.py import json import pathlib import pytest CANARY = \"test_quarantine_lane_canary\" LEDGER = pathlib. Path(__file__).parents[2] / \"freezes.json\" def pytest_collection_modifyitems(session, config, items): names = {item.name for item in items} if CANARY not in names: raise pytest. UsageError(f\"{CANARY} not collected; refusing to run the lane\") def pytest_collection_finish(session): frozen = {e[\"nodeid\"] for e in json.loads(LEDGER.read_text())[\"entries\"]} leaked = sorted( i.nodeid for i in session.items if any(i.nodeid.endswith(f.split(\"::\")[-1]) for f in frozen) and i.nodeid != \"tests/quarantine/test_canary.py::\" + CANARY if leaked: raise pytest. UsageError(f\"frozen tests leaked into this lane: {leaked[:3]}\") Run the blocking job with pytest --ignore=tests/quarantine, and add one extra CI step that asserts the frozen node IDs are absent from --collect-only output. Two lines of grep; it catches the leak that costs you the most. Step 2 \u2014 Give every freeze an exit condition A freeze without a numeric exit condition is a permanent deletion with extra steps. The ledger is a small JSON file (stdlib-only parsing, reviewable in a PR diff): n_required: 60 is a policy number, not a proof. With zero failures in 60 scheduled runs, the rule of three puts the 95% upper bound on the true flake rate near 5% (3/60) \u2014 see Hanley & Lippman-Hand, JAMA 1983, doi:10.1001/jama.1983.03330370054030. Pick the number you can defend in review; 20 runs (~15%) is too weak for anything that blocks merges. One rule makes the counter honest: any failure resets runs to 0. A test that fails on run 58 has not earned 58 runs of trust. Step 3 \u2014 Compute the verdict from JUnit XML No dashboards. The lane emits quarantine.xml, the script reads it, and the exit code drives CI. #!/usr/bin/env python3 # scripts/freeze_verdict.py \"\"\"Replay-lane verdict. Exit: 0 ok, 2 canary passed, 3 canary missing, 4 bad ledger.\"\"\" import argparse, json, sys, xml.etree. ElementTree as ET RULE_OF_THREE = 3.0 def load_status(path): root = ET.parse(path).getroot() status, nodeids = {}, {} for case in root.iter(\"testcase\"): name = case.get(\"name\", \"\") nodeid = f\"{case.get('classname', '')}::{name}\" if case.find(\"failure\") is not None or case.find(\"error\") is not None: state = \"fail\" elif case.find(\"skipped\") is not None: state = \"skip\" else: state = \"pass\" status[name] = state nodeids[nodeid] = state return status, nodeids def verdict(entry, nodeids): short = entry[\"nodeid\"].split(\"::\")[-1] state = nodeids.get(entry[\"nodeid\"]) or nodeids.get(f\"::{short}\") \\ or next((v for k, v in nodeids.items() if k.endswith(\"::\" + short)), None) if state is None: return \"stale\", \"not collected; freeze may be orphaned by a rename\" if state == \"fail\": entry[\"failures\"] += 1 entry[\"runs\"] = 0 # reset the trust counter return \"keep\", \"failed again; counter reset\" if state == \"skip\": return \"keep\", \"skipped, not executed; counter unchanged\" entry[\"runs\"] += 1 n = entry[\"runs\"] if n >= entry[\"exit\"][\"n_required\"] and entry[\"failures\"] == 0: return \"unfreeze\", f\"{n} clean replays, upper bound ~{RULE_OF_THREE / n:.1%}\" return \"keep\", f\"{n}/{entry['exit']['n_required']} clean replays\" def main(): ap = argparse. ArgumentParser() args = ap.parse_args() status, nodeids = load_status(args.junit) if CANARY not in status: print(\"CANARY MISSING: lane collected nothing or excluded the canary\") return 3 if status[CANARY] != \"fail\": print(f\"CANARY {status[CANARY]}: lane is not reporting failures\") return 2 ledger = json.load(open(args.ledger)) for entry in ledger[\"entries\"]: action, note = verdict(entry, nodeids) print(f\"{entry['id']:8} {action:9} {note}\") if args.write: open(args.ledger, \"a\").write(\"\\n\") return 0 if __name__ == \"__main__\": Wire it into a nightly job where the replay step is allowed to fail but the verdict step is not: name: quarantine-nightly on: schedule: [{ cron: \"17 3 * * *\" }] workflow_dispatch: jobs: replay: runs-on: [self-hosted, replay] steps: - uses: actions/checkout@v4 - run: pip install -r requirements.txt - run: pytest tests/quarantine --junitxml=quarantine.xml continue-on-error: true # canary is supposed to fail here - run: python scripts/freeze_verdict.py --junit quarantine.xml --ledger freezes.json --write - uses: actions/upload-artifact@v4 if: always() with: { name: quarantine-xml, path: quarantine.xml } Exit 2 or 3 fails the job. That is the whole alerting model: a broken lane pages; a still-flaky frozen test does not. Where MonkeyCode fits, and where it does not The nightly replay is the cheapest job in the pipeline and also the one nobody wants to spend metered minutes on. This workflow is designed to run the replay step on MonkeyCode's free server option, with the verdict script executed there too, so a frozen test costs you a queue slot instead of blocking-job budget. The second piece is the ledger entry, which is the part humans skip. Free model access is a reasonable fit for drafting reason and a suggested n_required from the CI log slice plus the patch diff \u2014 as a proposal in a pull request, reviewed by the owner named in the entry, never auto-merged. Disclosure: This article was prepared as part of MonkeyCode's product outreach. What I am not claiming: I have not published numbers for quotas, model list, machine class, or queue latency, and availability of the free model access and free server option is operator-supplied rather than something I independently benchmarked. Treat both as conveniences, not guarantees, and keep the verdict script runnable on plain CI as a fallback. Limitations, stated plainly The rule of three assumes exchangeable runs. Nightly CI is not i.i.d.: same machine, same cache, same clock skew. 60 clean nights on one runner is weaker evidence than 60 clean nights across rotated seeds and at least two runners. Rotate the seed on every replay; if your seed matrix already exists, feed it here instead of inventing a second one. The canary detects reporting breakage, not hiding. A canary proves the lane reports a failure. It cannot prove the frozen test itself still exercises the same code path the patch touched. Renames look like health. The script flags orphans as stale, but only a human confirms whether the test moved or was quietly deleted. The counter is conservative by design. One failure at run 59 resets you to zero. That is intentional friction: unfreezing is a claim about a distribution, not about a lucky week. Who should not use this Skip it if you have fewer than about ten frozen tests \u2014 a spreadsheet and a weekly look is cheaper than a ledger, a script, and a nightly job. Skip it if nobody is willing to be named as owner; an unowned freeze is a deletion and should be argued as one. And skip it if your replay runs less than daily, because a 60-run exit condition becomes a two-month wait that everyone stops reading. If your freeze count is zero, you do not need any of this yet. Bookmark it for the week someone says \"just skip it and move on\" \u2014 which is the moment this becomes three files instead of a habit. Rollout checklist Add tests/quarantine/test_canary.py and the collection guard; run the lane once and confirm exit code 1 with the canary's message. Create freezes.json with one entry per frozen test; require owner and exit.n_required to be non-null in review. Add the nightly job; confirm a deliberately broken canary (rename it) produces exit 3. Break the reporting on purpose \u2014 mark the canary @pytest.mark.skip \u2014 and confirm exit 2. Only then migrate existing freezes into the ledger, one PR per entry, with the flake evidence pasted in reason. The order matters. Instrument the lane before you put anything valuable in it.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "ci",
+        "testing",
+        "devops",
+        "python"
+      ],
+      "creator": [
+        "finley zhou"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-05 13:49:48",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-05 14:01:46",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7s548bwre9t436ctymza.png",
+      "video_url": null,
+      "source_id": "devto",
+      "source_name": "Dev Community",
+      "source_priority": 3727,
+      "source_url": "https://dev.to",
+      "source_icon": "https://i.newsdata.io/devto.png",
+      "sentiment": null,
+      "sentiment_stats": null,
+      "ai_tag": null,
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "8dfadc2082179adbfdd7640649256a02",
+      "link": "https://www.thesun.co.uk/health/40924478/blood-pressure-tablet-recall-code/",
+      "title": "7-digit code to watch out for on common blood pressure tablets recalled in UK as pharmacists told to \u2018quarantine stock\u2019",
+      "description": "BRITS who use a common blood pressure medication have been urged to watch out for a 7-digit code. The medication was recently recalled following a \"packaging mix-up\", leaving pharmacists to quarantine stock. One batch of Lercanidipine Hydrochloride 10mg tablets has been recalled by Accord-UK Ltd. due to a packaging error involving tablets of the incorrect...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "trends",
+        "health warnings",
+        "section: health:health news",
+        "product recalls",
+        "nhs"
+      ],
+      "creator": [
+        "abigail mableson"
+      ],
+      "language": "english",
+      "country": [
+        "united kingdom"
+      ],
+      "category": [
+        "top",
+        "health"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-05 11:18:50",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-05 12:02:17",
+      "image_url": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F10%2FGettyImages-2173102742jpg-JS1018788058-1.jpg?quality%3D90%26strip%3Dall",
+      "video_url": null,
+      "source_id": "thesun",
+      "source_name": "The Sun",
+      "source_priority": 1813,
+      "source_url": "https://www.thesun.co.uk",
+      "source_icon": "https://i.newsdata.io/thesun.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 17.59,
+        "neutral": 80.72,
+        "positive": 1.69
+      },
+      "ai_tag": [
+        "pharma and healthcare"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    }
+  ],
+  "nextPage": null
+}
