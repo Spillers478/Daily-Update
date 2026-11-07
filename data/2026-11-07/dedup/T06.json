@@ -1,0 +1,48 @@
+{
+  "groups": {
+    "https://www.kunstler.com/p/color-revolution-is-insurrection": "a",
+    "https://www.thenation.com/article/world/france-macron-protests-october-17-student/": "b",
+    "https://slashdot.org/firehose.pl?op=view&amp;id=186614070": "c",
+    "https://economictimes.indiatimes.com/news/international/world-news/mass-protests-sweep-france-as-huge-crowds-demand-higher-wages-back-students-demands/articleshow/135592377.cms": "c",
+    "https://www.cbsnews.com/news/france-union-workers-anti-government-protests/": "c",
+    "https://nypost.com/2026/11/05/world-news/french-riots-fueled-by-ultra-left-eco-warriors-who-live-off-the-grid-previously-attacked-5g-towers-cops/": "d",
+    "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action": "c",
+    "https://www.dw.com/en/germanys-gen-z-protest-riots-spark-debate-on-integration-and-bias/a-79868497": "e",
+    "https://timesofindia.indiatimes.com/india/delhi-riots-case-umar-khalid-and-sharjeel-imam-challenge-delhi-hcs-bail-refusal-in-supreme-court/articleshow/135573897.cms": "f",
+    "https://economictimes.indiatimes.com/news/india/sharjeel-imam-umar-khalid-move-sc-seeking-bail-in-uapa-case-over-2020-delhi-riots/articleshow/135574200.cms": "f",
+    "https://slashdot.org/firehose.pl?op=view&amp;id=186601338": "c",
+    "https://economictimes.indiatimes.com/news/india/sharjeel-imam-moves-sc-seeking-bail-in-uapa-case-over-2020-delhi-riots/articleshow/135570695.cms": "f",
+    "https://biztoc.com/x/fa86397068aad1ec": "d",
+    "https://www.thegatewaypundit.com/2026/11/communist-antifa-pro-hamas-groups-mobilized-germanys-halloween/": "e",
+    "https://www.newsbreak.com/dpa-2102879/4991729076885-mass-protests-in-france-go-into-a-fourth-weekend": "g",
+    "https://lenews.ch/2026/11/06/prison-terms-after-zurich-riots/": "h",
+    "https://www.telegraph.co.uk/world-news/2026/11/06/france-sued-alleged-police-brutality-riots/": "i",
+    "https://www.zerohedge.com/geopolitical/after-weeks-riots-frances-thursday-general-strike-forces-macrons-pm-blink": "c",
+    "https://naslovi.net/2026-11-06/snm/the-murder-of-arlinda-zekaj-sparks-mass-protests-in-kosovo-citizens-demand-institutional-accountability-and-the-resignation-of-ministers/42577174": "j",
+    "https://www.csmonitor.com/Editorials/the-monitors-view/2026/1103/China-s-shifting-style-of-self-governance": "k"
+  },
+  "contradictions": [
+    {
+      "group": "c",
+      "claim_type": "figures",
+      "summary": "Sources give different turnout figures for the Thursday French strike day: about 600,000 and 575,000 by Interior Ministry count, versus 'more than 250,000'.",
+      "sources": [
+        {
+          "source": "The Times of India",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/mass-protests-sweep-france-as-huge-crowds-demand-higher-wages-back-students-demands/articleshow/135592377.cms",
+          "says": "Interior Ministry estimates around 600,000 participants; unions claim nearly 1.6 million"
+        },
+        {
+          "source": "Zerohedge",
+          "url": "https://www.zerohedge.com/geopolitical/after-weeks-riots-frances-thursday-general-strike-forces-macrons-pm-blink",
+          "says": "Interior Ministry counted 575,000; CGT claimed close to 1.6 million"
+        },
+        {
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action",
+          "says": "More than 250,000 people took to the streets across France"
+        }
+      ]
+    }
+  ]
+}

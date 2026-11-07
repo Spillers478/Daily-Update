@@ -1,0 +1,30 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "Jacqueline Newsome, Ga\u00e9tan Pouliot",
+      "title": "A mysterious U.S. army barrel washed ashore in Quebec. Why did it drum up anthrax concerns?",
+      "description": "Quebec provincial police have confirmed that a barrel discovered on an uninhabited island in the St-Lawrence River does not contain active anthrax \u2014 ruling out the most dangerous possibility in an ongoing mystery.",
+      "url": "https://www.cbc.ca/news/canada/montreal/mystery-barrel-island-st-lawrence-river-9.7405757",
+      "urlToImage": "https://i.cbc.ca/ais/4e64150f-1970-40fa-8885-dc0312b1de5d,1793921188361/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2730%2C1535%29%3BResize%3D620",
+      "publishedAt": "2026-11-06T09:00:00Z",
+      "content": "Quebec provincial police have confirmed that a barrel discovered on an uninhabited island in the St-Lawrence River does not contain active anthrax \u00a0ruling out the most dangerous possibility in an ong\u2026 [+5741 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "title": "White House Finalizes The Most Important Policy To Prevent AI Apocalypse You\u2019ve Never Heard Of",
+      "url": "https://dailycaller.com/2026/11/06/white-house-finalizes-ai-bioweapon-policy",
+      "description": "The White House moved to reduce the likelihood of an artificial intelligence-made bioweapon by vetting the vendors of molecular materials.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Dailycaller"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USNORTHCOM"
+    }
+  ]
+}

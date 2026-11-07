@@ -1,0 +1,45 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Algorithm allocates Highland 'significant increase' in asylum-seeking children",
+      "description": "Highland Council says the formula fails to take into consideration housing challenges it is facing.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y43zvwzre1o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c62c/live/39e24910-d9c2-11f1-a00c-673f8daaffd9.jpg",
+      "publishedAt": "2026-11-06T09:59:42Z",
+      "content": "Unaccompanied asylum-seeking children (UASC) are those under the age of 18 who arrive in the UK to apply for international protection on their own, without the support of an adult.\r\nMany of them are \u2026 [+744 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T02"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Isabella Machin",
+      "title": "Denmark's bid to eradicate 'non-Western ghettos' faces legal challenge after displaced families claim 'discrimination'",
+      "description": "The group of 'non-Western' ex-tenants in a Danish social housing estate argue they were discriminated against when their leases were terminated.",
+      "url": "https://www.dailymail.com/news/article-16270865/Denmarks-Western-ghettos-legal-challenge-families-discrimination.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/11/06/09/112343301-0-image-m-37_1793958917791.jpg",
+      "publishedAt": "2026-11-06T09:37:18Z",
+      "content": "A controversial bid to eradicate 'ghettos' of 'non-Western' immigrant communities in Denmark is to be heard in the country's\u00a0Supreme Court\u00a0today.\u00a0\r\nThe group of ex-tenants in a Danish social housing \u2026 [+4117 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "title": "Nearly 1,000 migrants rescued from seven boats off El Hierro in Spain",
+      "url": "https://www.euronews.com/2026/11/06/nearly-1000-migrants-rescued-from-seven-boats-off-el-hierro-in-spain",
+      "description": "Around 700 of the rescued migrants are due to be transferred to Tenerife to relieve pressure on reception facilities, while several people required hospital treatment.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Euronews"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USEUCOM"
+    }
+  ]
+}
