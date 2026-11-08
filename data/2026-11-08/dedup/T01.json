@@ -1,0 +1,45 @@
+{
+  "groups": {
+    "https://economictimes.indiatimes.com/news/international/world-news/an-airstrike-has-killed-22-people-near-yemens-capital-houthi-official-says/articleshow/135637173.cms": "a",
+    "https://abcnews.com/International/wireStory/airstrike-killed-22-people-yemens-capital-houthi-official-137937912": "a",
+    "https://www.etvbharat.com/en/international/an-airstrike-killed-several-people-near-yemen-capital-houthi-official-says-enn26110704627": "a",
+    "https://www.deccanchronicle.com/world/airstrike-near-yemens-capital-kills-25-houthi-official-says-2002560": "a",
+    "https://nypost.com/2026/11/07/world-news/china-confirms-discussions-underway-on-historic-xi-trump-putin-meeting/": "b",
+    "https://www.business-standard.com/world-news/china-says-discussions-underway-on-xi-trump-and-putin-trilateral-meeting-126110700050_1.html": "b",
+    "https://economictimes.indiatimes.com/news/international/world-news/china-confirms-discussions-are-underway-on-a-historic-xi-trump-putin-meeting/articleshow/135624412.cms": "b",
+    "https://abcnews.com/International/wireStory/hoax-bomb-threats-targeted-flights-europe-137937700": "c",
+    "https://www.thejournal.ie/readme/surrealing-in-the-years-142-7217746-Nov2026/": "c",
+    "https://www.irishtimes.com/opinion/2026/11/07/sinead-osullivan-supervalu-fridges-got-hacked-could-your-smart-home-be-next/": "c",
+    "https://panafricanvisions.com/2026/11/anglophone-crisis-at-10-agbor-balla-reflects-on-a-decade-of-bloodshed/": "d",
+    "https://ng.shotoe.com/sudan-st_103395/": "e"
+  },
+  "contradictions": [
+    {
+      "group": "a",
+      "claim_type": "figures",
+      "summary": "Sources report different death tolls for the same airstrike near Sanaa: 22 killed versus 25 killed.",
+      "sources": [
+        {
+          "source": "The Times of India",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/an-airstrike-has-killed-22-people-near-yemens-capital-houthi-official-says/articleshow/135637173.cms",
+          "says": "At least 22 people were killed in the airstrike on al-Shariya village"
+        },
+        {
+          "source": "Abcnews.com",
+          "url": "https://abcnews.com/International/wireStory/airstrike-killed-22-people-yemens-capital-houthi-official-137937912",
+          "says": "Airstrike killed 22 and wounded 30"
+        },
+        {
+          "source": "Etv Bharat",
+          "url": "https://www.etvbharat.com/en/international/an-airstrike-killed-several-people-near-yemen-capital-houthi-official-says-enn26110704627",
+          "says": "Airstrike killed 25 people"
+        },
+        {
+          "source": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/world/airstrike-near-yemens-capital-kills-25-houthi-official-says-2002560",
+          "says": "Airstrike kills 25"
+        }
+      ]
+    }
+  ]
+}

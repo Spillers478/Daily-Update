@@ -1,0 +1,58 @@
+{
+  "groups": {
+    "https://timesofindia.indiatimes.com/world/us/healthcare-iran-war-tariffs-resurgent-democrats-set-stage-to-confront-trump/articleshow/135638893.cms": "a",
+    "https://www.rawstory.com/centcom-iran-piers-morgan-new/?utm_campaign=post-teaser&utm_content=m83pbkcu": "b",
+    "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177": "c",
+    "https://econotimes.com/NNA-Reports-Israeli-Demolition-and-Shelling-in-Southern-Lebanon-1772846": "d",
+    "https://www.tehrantimes.com/news/531910/Israel-continues-demolitions-and-bombardment-in-southern-Lebanon": "d",
+    "https://globalnews.ca/news/12141123/25-killed-yemen-airstrike/": "c",
+    "https://newsonair.gov.in/yemen-22-killed-30-injured-in-airstrike-in-taiz-province/": "c",
+    "https://www.union-bulletin.com/news/world/an-airstrike-has-killed-25-people-near-yemens-capital-houthi-official-says/article_d19175f1-7c6e-5b5c-be17-0f739b98974e.html": "c",
+    "https://www.thehindu.com/news/international/airstrike-kills-22-people-near-yemens-capital-houthi-official-says/article71678473.ece": "c",
+    "https://alsahwayemen.net/p-98713": "e",
+    "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war": "f",
+    "https://abcnews.com/International/year-after-release-israeli-prison-gaza-nurse-waiting/story?id=137908560": "g",
+    "https://www.globalresearch.ca/syria-history-anti-colonialist-resistance-under-attack/5945343": "h",
+    "https://www.globalresearch.ca/syria-scam/5945254": "i",
+    "https://studies.aljazeera.net/en/analyses/new-halls-and-shadows-old-war": "j",
+    "https://rt-english.com/news/648548-iran-russia-us-rezaei-putin/": "k",
+    "https://www.bundle.app/en/breaking-news/russia-iran-ties-why-tehran-is-turning-to-moscow-as-war-risks-grow-9BC4EC7D-F4E4-5DBB-8855-DE009799656D": "k",
+    "https://www.arabnews.com/middle-east/arab-views-does-europe-care-about-yemen-3010314": "l",
+    "https://biztoc.com/x/54c67769931a98ed": "m",
+    "https://nypost.com/2026/11/06/opinion/vances-midterm-blame-game-letters/": "n",
+    "https://fortune.com/2026/11/06/jd-vance-iran-war-midterms-cost/": "n",
+    "https://www.wnd.com/2026/11/eight-months-epic-fury-still-no-internal-uprising/": "o",
+    "https://www.bundle.app/en/breaking-news/eight-months-of-epic-fury-and-still-no-internal-uprising-worldnetdaily-by-stephen-d-cook-real-clear-wire-60546F4D-5B0A-5E70-ABAC-385B2BFC7E0B": "o",
+    "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html": "p",
+    "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation": "q"
+  },
+  "contradictions": [
+    {
+      "group": "c",
+      "claim_type": "figures",
+      "summary": "Sources give different death tolls for the same Yemen airstrike, 22 versus 25 killed.",
+      "sources": [
+        {
+          "source": "DW (English)",
+          "url": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177",
+          "says": "22 killed in the strike near Sanaa"
+        },
+        {
+          "source": "Global News",
+          "url": "https://globalnews.ca/news/12141123/25-killed-yemen-airstrike/",
+          "says": "25 people killed in the airstrike near the capital"
+        },
+        {
+          "source": "Union-bulletin",
+          "url": "https://www.union-bulletin.com/news/world/an-airstrike-has-killed-25-people-near-yemens-capital-houthi-official-says/article_d19175f1-7c6e-5b5c-be17-0f739b98974e.html",
+          "says": "25 killed and 30 wounded, mostly women and children"
+        },
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/airstrike-kills-22-people-near-yemens-capital-houthi-official-says/article71678473.ece",
+          "says": "at least 22 killed and 30 injured"
+        }
+      ]
+    }
+  ]
+}
