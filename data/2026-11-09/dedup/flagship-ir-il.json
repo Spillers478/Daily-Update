@@ -1,0 +1,53 @@
+{
+  "groups": {
+    "https://rt-english.com/news/648580-israel-new-threat-against-iran/": "f",
+    "https://www.dailymail.com/news/article-16276239/Houthi-missile-damages-Saudi-Aramco-Tower-Riyadh-fresh-attack.html": "a",
+    "https://www.israelnationalnews.com/news/435857": "g",
+    "https://www.thegatewaypundit.com/2026/11/exclusive-interview-rep-randy-fine-sounds-alarm-chinas/": "h",
+    "https://freerepublic.com/focus/f-news/4402278/posts": "i",
+    "https://slashdot.org/firehose.pl?op=view&amp;id=186653742": "a",
+    "https://freerepublic.com/focus/f-news/4402271/posts": "j",
+    "https://www.foxnews.com/opinion/trump-holds-all-cards-war-against-irans-regime-white-house-says": "b",
+    "https://www.foxnews.com/politics/trump-holds-all-cards-war-against-irans-regime-white-house-says": "b",
+    "https://www.foxnews.com/opinion/robert-l-maginnis-iran-war-cost-republicans-congress-what-will-it-cost-america": "k",
+    "https://slashdot.org/firehose.pl?op=view&amp;id=186653464": "a",
+    "https://gcaptain.com/iran-suggests-blasts-are-not-us-attacks-as-both-sides-report-ships-hit/": "l",
+    "https://nypost.com/2026/11/07/world-news/an-airstrike-has-killed-25-people-near-yemens-capital-houthi-official-says/": "c",
+    "https://economictimes.indiatimes.com/news/international/world-news/an-airstrike-has-killed-22-people-near-yemens-capital-houthi-official-says/articleshow/135637173.cms": "c",
+    "https://abcnews.com/International/wireStory/airstrike-killed-22-people-yemens-capital-houthi-official-137937912": "c",
+    "https://alquds.com/en/posts/270822-the-suffering-of-displaced-people-in-gaza-worsens-under-the-weight-of-winter": "m",
+    "https://econotimes.com/NNA-Reports-Israeli-Demolition-and-Shelling-in-Southern-Lebanon-1772846": "d",
+    "https://www.tehrantimes.com/news/531910/Israel-continues-demolitions-and-bombardment-in-southern-Lebanon": "d",
+    "https://www.breitbart.com/europe/2026/11/08/tens-of-thousands-protest-in-amsterdam-against-israel/": "n",
+    "https://abcnews.com/International/year-after-release-israeli-prison-gaza-nurse-waiting/story?id=137908560": "o",
+    "https://rt-english.com/news/648548-iran-russia-us-rezaei-putin/": "p",
+    "https://ng.shotoe.com/syria-st_3538/news/syria-fall-of-bachar-al-assads-regime-8-dec-2024-sn_5007336/": "q",
+    "https://www.yahoo.com/news/politics/articles/netanyahu-rival-eisenkot-seeks-wide-173553169.html": "e",
+    "https://www.rte.ie/news/middle-east/2026/1108/1598444-israel-govt-talks/": "e",
+    "https://www.globalresearch.ca/election-fallout-trump-listen-people-israel/5945358": "r"
+  },
+  "contradictions": [
+    {
+      "group": "c",
+      "claim_type": "figures",
+      "summary": "Sources give different death tolls for the airstrike near Sanaa: at least 25 killed versus 22 killed.",
+      "sources": [
+        {
+          "source": "New York Post",
+          "url": "https://nypost.com/2026/11/07/world-news/an-airstrike-has-killed-25-people-near-yemens-capital-houthi-official-says/",
+          "says": "At least 25 people killed and 30 wounded"
+        },
+        {
+          "source": "The Times of India",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/an-airstrike-has-killed-22-people-near-yemens-capital-houthi-official-says/articleshow/135637173.cms",
+          "says": "At least 22 people killed"
+        },
+        {
+          "source": "Abcnews.com",
+          "url": "https://abcnews.com/International/wireStory/airstrike-killed-22-people-yemens-capital-houthi-official-137937912",
+          "says": "At least 22 killed and 30 wounded"
+        }
+      ]
+    }
+  ]
+}

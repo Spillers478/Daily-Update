@@ -1,0 +1,55 @@
+{
+  "groups": {
+    "https://www.cbc.ca/news/world/krakow-shooting-attack-far-right-9.7414042": "a",
+    "https://timesofindia.indiatimes.com/world/pakistan/pakistans-khyber-pakhtunkhwa-plans-faceless-anti-terror-courts-report/articleshow/135661114.cms": "b",
+    "https://news.antiwar.com/2026/11/08/us-announces-its-91st-airstrike-of-the-year-in-somalia/": "c",
+    "https://www.azernews.az/region/267065.html": "d",
+    "https://kuwaittimes.com/article/53245/world/poland-calls-krakow-shooting-rampage-a-terrorist-attack/": "a",
+    "https://albeu.com/english/siljanovska-davkova-supports-poland-after-terrorist-attack-in-krakow/1093029/": "a",
+    "https://menafn.com/1111932415/Citizens-Of-Six-Countries-Among-Victims-Of-Terrorist-Attack-In-Krako%CC%81w": "a",
+    "https://en.ara.cat/international/the-polish-prosecutor-s-office-is-investigating-the-attack-in-krakow-as-terrorist-crime_25_5904111.html": "a",
+    "https://www.straitstimes.com/world/europe/poland-calls-krakow-shooting-rampage-terrorist-attack": "a",
+    "https://tsarizm.com/analysis/2026/11/08/the-leftist-terrorist-attack-in-krakow-shouldnt-be-exploited-to-cancel-the-independence-march/": "a",
+    "https://www.aa.com.tr/en/turkiye/turkiye-condemns-deadly-terrorist-attack-in-poland/4115788": "a",
+    "https://www.arabnews.pk/pakistan/policeman-killed-in-militant-attack-in-pakistans-restive-northwest-3006435": "e",
+    "https://nenews.in/manipur/manipur-outfit-prepak-calls-for-observance-of-martyrs-memorial-day-on-nov-12/70475/": "f",
+    "https://www.hurriyetdailynews.com/gunman-fascinated-by-far-right-kills-six-in-krakow-poland-229134": "a",
+    "https://www.dw.com/en/at-least-6-killed-in-shooting-in-polish-city-of-krakow/a-79886489": "a",
+    "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489": "a",
+    "https://www.abc.net.au/news/2026-11-08/deadly-shooting-in-krakow-market-poland/107360360": "a"
+  },
+  "contradictions": [
+    {
+      "group": "a",
+      "claim_type": "figures",
+      "summary": "Sources differ on the number of people wounded in the Krakow shooting: most say 15, while DW says sixteen.",
+      "sources": [
+        {
+          "source": "CBC News",
+          "url": "https://www.cbc.ca/news/world/krakow-shooting-attack-far-right-9.7414042",
+          "says": "Six killed and 15 wounded"
+        },
+        {
+          "source": "Straitstimes",
+          "url": "https://www.straitstimes.com/world/europe/poland-calls-krakow-shooting-rampage-terrorist-attack",
+          "says": "Six killed and 15 wounded"
+        },
+        {
+          "source": "ABC News (AU)",
+          "url": "https://www.abc.net.au/news/2026-11-08/deadly-shooting-in-krakow-market-poland/107360360",
+          "says": "Six dead and 15 others injured"
+        },
+        {
+          "source": "DW (English)",
+          "url": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489",
+          "says": "At least six killed and sixteen injured"
+        },
+        {
+          "source": "DW (English)",
+          "url": "https://www.dw.com/en/at-least-6-killed-in-shooting-in-polish-city-of-krakow/a-79886489",
+          "says": "At least six killed and sixteen injured"
+        }
+      ]
+    }
+  ]
+}
