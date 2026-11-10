@@ -23,9 +23,10 @@
  "sections": {
   "flagship-ru-ua": {
    "home": [
-    "th-499e7a8e",
     "th-e0c75d5e",
-    "th-9d127d5b",
+    "th-8d4bce75",
+    "th-499e7a8e",
+    "th-47ef96d6",
     "th-a6902373",
     "th-15321e31",
     "th-19a98179",
@@ -67,6 +68,7 @@
     "th-690b6d13",
     "th-5b1ca600",
     "th-54acec51",
+    "th-6683bd6a",
     "th-a10dac1f",
     "th-9dc25398",
     "th-90b9328e",
@@ -111,9 +113,7 @@
     "th-a9e4b9e1",
     "th-55779e2b"
    ],
-   "linked": [
-    "th-b99198b0"
-   ]
+   "linked": []
   },
   "T02": {
    "home": [
@@ -123,6 +123,7 @@
     "th-c7c218cc",
     "th-a881b87c",
     "th-22bb8dba",
+    "th-14b548b7",
     "th-cb8b9a38"
    ],
    "linked": []
@@ -135,7 +136,6 @@
   },
   "T04": {
    "home": [
-    "th-14b548b7",
     "th-7c925f3c",
     "th-84206437",
     "th-3f741a91"
@@ -152,8 +152,7 @@
    "home": [
     "th-8bd51c1b",
     "th-fdd9a84d",
-    "th-f3d19652",
-    "th-785810da"
+    "th-f3d19652"
    ],
    "linked": []
   },
@@ -168,7 +167,9 @@
     "th-329f7fcb",
     "th-399b6784"
    ],
-   "linked": []
+   "linked": [
+    "th-b99198b0"
+   ]
   },
   "T09": {
    "home": [],
@@ -203,7 +204,6 @@
     "th-b99198b0",
     "th-3fb0888e",
     "th-2c42fb61",
-    "th-94bf2b9a",
     "th-65d47153",
     "th-a977e0a4",
     "th-2e174bb8",
@@ -229,16 +229,14 @@
     "th-45cfea7f",
     "th-142e0b62",
     "th-a0d6c92b",
-    "th-e78b2fcb",
     "th-7cc7e899",
     "th-769b4681",
     "th-d00f7613",
     "th-79c77a6f",
     "th-44d82c3d",
-    "th-6683bd6a",
-    "th-a0e4fdc5",
     "th-b3b68673",
     "th-723574df",
+    "th-e78b2fcb",
     "th-1acc0311",
     "th-ecf68020",
     "th-ad68ccb3",
@@ -329,131 +327,6 @@
    ]
   },
   {
-   "id": "th-499e7a8e",
-   "home": "flagship-ru-ua",
-   "topics": {
-    "flagship-ru-ua": 8
-   },
-   "n_articles": 8,
-   "lead_url": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi",
-   "lead_title": "\u2018No concession\u2019: What to expect from Russia-US-Ukraine talks in Abu Dhabi",
-   "lead_source": "Al Jazeera English",
-   "bluf_eligible": true,
-   "articles": [
-    {
-     "topic": "flagship-ru-ua",
-     "url": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi",
-     "title": "\u2018No concession\u2019: What to expect from Russia-US-Ukraine talks in Abu Dhabi",
-     "description": "A fourth round of peace talks in 2026 takes place this week, with security guarantees high on the agenda.",
-     "source": "Al Jazeera English",
-     "publishedAt": "2026-11-09T14:24:31Z",
-     "domain": "aljazeera.com",
-     "category": "wire_primary",
-     "origin": "aljazeera.com"
-    },
-    {
-     "topic": "flagship-ru-ua",
-     "url": "https://www.irishtimes.com/world/europe/2026/11/09/can-trump-broker-peace-in-ukraine-the-key-questions-ahead-of-abu-dhabi-talks/",
-     "title": "Can Trump broker peace in Ukraine? The key questions ahead of Abu Dhabi talks",
-     "description": "Ukraine and Russian negotiators will meet US envoys for their first talks in nine months as the White House renews its push to end the war",
-     "source": "The Irish Times",
-     "publishedAt": "2026-11-09T12:34:51Z",
-     "domain": "irishtimes.com",
-     "category": "wire_primary",
-     "origin": "irishtimes.com"
-    },
-    {
-     "topic": "flagship-ru-ua",
-     "url": "https://abcnews.com/International/wireStory/us-led-peace-talks-russia-ukraine-security-guarantees-137966016",
-     "title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides",
-     "description": "For the first time since February, Russian, Ukrainian and U.S. negotiators are scheduled to hold talks on ending the full-scale war that is nearing the five-year mark",
-     "source": "Abcnews.com",
-     "publishedAt": "2026-11-09T11:15:04Z",
-     "domain": "abcnews.com",
-     "category": "wire_primary",
-     "origin": "abcnews.com"
-    },
-    {
-     "topic": "flagship-ru-ua",
-     "url": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428",
-     "title": "A day before US-brokered talks, Russia and Ukraine batter each other with long-range strikes",
-     "description": "Russia has hit Ukraine's power grid again, while Ukrainian forces targeted a major Russian oil refinery",
-     "source": "Abcnews.com",
-     "publishedAt": "2026-11-09T11:14:22Z",
-     "domain": "abcnews.com",
-     "category": "wire_primary",
-     "origin": "abcnews.com"
-    },
-    {
-     "topic": "flagship-ru-ua",
-     "url": "https://oilprice.com/Geopolitics/Europe/Russia-Targets-Ukraines-Power-Grid-Ahead-of-Crucial-Abu-Dhabi-Peace-Talks.html",
-     "title": "Russia Targets Ukraine's Power Grid Ahead of Crucial Abu Dhabi Peace Talks",
-     "description": "Ukrainian authorities battled to restore power to hundreds of thousands of people in the east of the country following Russian air strikes, while US President Donald Trump suggested in a TV interview that Kyiv may have to cede territory in any US-brokered pea\u2026",
-     "source": "OilPrice.com",
-     "publishedAt": "2026-11-09T15:00:00Z",
-     "domain": "oilprice.com",
-     "category": "established",
-     "origin": "oilprice.com"
-    },
-    {
-     "topic": "flagship-ru-ua",
-     "url": "https://www.rferl.org/a/war-negotiations-abu-dhab-ukraine-russia-us/33893873.html",
-     "title": "High Hurdles To Progress At New US-Ukraine-Russia Talks",
-     "description": "For the first time since February, the US, Ukraine, and Russia meet on November 10-11 for talks aimed at ending the biggest war in Europe since 1945, but expectations of breakthrough are low. Here\u2019s why.",
-     "source": "Radio Free Europe/ Radio Liberty",
-     "publishedAt": "2026-11-09T14:25:44Z",
-     "domain": "rferl.org",
-     "category": "established",
-     "origin": "rferl.org"
-    },
-    {
-     "topic": "flagship-ru-ua",
-     "url": "https://economictimes.indiatimes.com/news/defence/a-day-before-us-brokered-talks-russia-and-ukraine-batter-each-other-with-long-range-strikes/articleshow/135680214.cms",
-     "title": "A day before US-brokered talks, Russia and Ukraine batter each other with long-range strikes",
-     "description": "Russia has targeted multiple electrical substations in Ukraine amid ongoing military actions. Ukrainian forces have hit a major oil refinery in Russia, crippling its supply capabilities. Diplomatic talks between Russia and Ukraine are scheduled with U.S. medi\u2026",
-     "source": "The Times of India",
-     "publishedAt": "2026-11-09T11:22:15Z",
-     "domain": "indiatimes.com",
-     "category": "established",
-     "origin": "indiatimes.com"
-    },
-    {
-     "topic": "flagship-ru-ua",
-     "url": "https://www.al-monitor.com/originals/2026/11/us-calls-new-europe-security-russia-ukraine-talks",
-     "title": "US calls for new Europe security at Russia-Ukraine talks",
-     "description": "A first day of US-led talks between Ukraine and Russia in Abu Dhabi ended Tuesday, with Washington calling for a \"new\" security framework, as Europe fears US President Donald Trump plans a deal with Moscow on the continent's future. Negotiations to end more than four years of war -- the first since ",
-     "source": "Palestine \u2013 Al-monitor",
-     "publishedAt": "",
-     "domain": "al-monitor.com",
-     "category": "unclassified",
-     "origin": "al-monitor.com"
-    }
-   ],
-   "contradictions": [],
-   "score": 79.1,
-   "n_independent": 7,
-   "best_tier_weight": 1.0,
-   "components": {
-    "corroboration": 1.0,
-    "quality": 1.0,
-    "recency": 0.975,
-    "escalation": 0.259,
-    "severity": 0.8
-   },
-   "latest": "2026-11-09T15:00:00+00:00",
-   "rank": 2,
-   "top_rank": 2,
-   "related": [
-    "th-9d127d5b",
-    "th-bb9a10ab",
-    "th-2ab291b9",
-    "th-690b6d13",
-    "th-55dfad88",
-    "th-5eb198ab",
-    "th-1ea11ec6"
-   ]
-  },
-  {
    "id": "th-6db602a5",
    "home": "flagship-ir-il",
    "topics": {
@@ -511,8 +384,8 @@
     "severity": 0.8
    },
    "latest": null,
-   "rank": 3,
-   "top_rank": 3,
+   "rank": 2,
+   "top_rank": 2,
    "related": []
   },
   {
@@ -562,10 +435,113 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T14:35:45+00:00",
+   "rank": 3,
+   "top_rank": 3,
+   "related": [
+    "th-a3066db4"
+   ]
+  },
+  {
+   "id": "th-8d4bce75",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 6
+   },
+   "n_articles": 6,
+   "lead_url": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi",
+   "lead_title": "\u2018No concession\u2019: What to expect from Russia-US-Ukraine talks in Abu Dhabi",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi",
+     "title": "\u2018No concession\u2019: What to expect from Russia-US-Ukraine talks in Abu Dhabi",
+     "description": "A fourth round of peace talks in 2026 takes place this week, with security guarantees high on the agenda.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-11-09T14:24:31Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.irishtimes.com/world/europe/2026/11/09/can-trump-broker-peace-in-ukraine-the-key-questions-ahead-of-abu-dhabi-talks/",
+     "title": "Can Trump broker peace in Ukraine? The key questions ahead of Abu Dhabi talks",
+     "description": "Ukraine and Russian negotiators will meet US envoys for their first talks in nine months as the White House renews its push to end the war",
+     "source": "The Irish Times",
+     "publishedAt": "2026-11-09T12:34:51Z",
+     "domain": "irishtimes.com",
+     "category": "wire_primary",
+     "origin": "irishtimes.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://abcnews.com/International/wireStory/us-led-peace-talks-russia-ukraine-security-guarantees-137966016",
+     "title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides",
+     "description": "For the first time since February, Russian, Ukrainian and U.S. negotiators are scheduled to hold talks on ending the full-scale war that is nearing the five-year mark",
+     "source": "Abcnews.com",
+     "publishedAt": "2026-11-09T11:15:04Z",
+     "domain": "abcnews.com",
+     "category": "wire_primary",
+     "origin": "abcnews.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://oilprice.com/Geopolitics/Europe/Russia-Targets-Ukraines-Power-Grid-Ahead-of-Crucial-Abu-Dhabi-Peace-Talks.html",
+     "title": "Russia Targets Ukraine's Power Grid Ahead of Crucial Abu Dhabi Peace Talks",
+     "description": "Ukrainian authorities battled to restore power to hundreds of thousands of people in the east of the country following Russian air strikes, while US President Donald Trump suggested in a TV interview that Kyiv may have to cede territory in any US-brokered pea\u2026",
+     "source": "OilPrice.com",
+     "publishedAt": "2026-11-09T15:00:00Z",
+     "domain": "oilprice.com",
+     "category": "established",
+     "origin": "oilprice.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.rferl.org/a/war-negotiations-abu-dhab-ukraine-russia-us/33893873.html",
+     "title": "High Hurdles To Progress At New US-Ukraine-Russia Talks",
+     "description": "For the first time since February, the US, Ukraine, and Russia meet on November 10-11 for talks aimed at ending the biggest war in Europe since 1945, but expectations of breakthrough are low. Here\u2019s why.",
+     "source": "Radio Free Europe/ Radio Liberty",
+     "publishedAt": "2026-11-09T14:25:44Z",
+     "domain": "rferl.org",
+     "category": "established",
+     "origin": "rferl.org"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.al-monitor.com/originals/2026/11/us-calls-new-europe-security-russia-ukraine-talks",
+     "title": "US calls for new Europe security at Russia-Ukraine talks",
+     "description": "A first day of US-led talks between Ukraine and Russia in Abu Dhabi ended Tuesday, with Washington calling for a \"new\" security framework, as Europe fears US President Donald Trump plans a deal with Moscow on the continent's future. Negotiations to end more than four years of war -- the first since ",
+     "source": "Palestine \u2013 Al-monitor",
+     "publishedAt": "",
+     "domain": "al-monitor.com",
+     "category": "unclassified",
+     "origin": "al-monitor.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 76.1,
+   "n_independent": 6,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 1.0,
+    "quality": 1.0,
+    "recency": 0.975,
+    "escalation": 0.139,
+    "severity": 0.8
+   },
+   "latest": "2026-11-09T15:00:00+00:00",
    "rank": 4,
    "top_rank": 4,
    "related": [
-    "th-a3066db4"
+    "th-499e7a8e",
+    "th-2ab291b9",
+    "th-68ca772d",
+    "th-690b6d13",
+    "th-55dfad88",
+    "th-5eb198ab",
+    "th-1ea11ec6"
    ]
   },
   {
@@ -883,10 +859,72 @@
    "related": []
   },
   {
+   "id": "th-499e7a8e",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 3
+   },
+   "n_articles": 3,
+   "lead_url": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428",
+   "lead_title": "A day before US-brokered talks, Russia and Ukraine batter each other with long-range strikes",
+   "lead_source": "Abcnews.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428",
+     "title": "A day before US-brokered talks, Russia and Ukraine batter each other with long-range strikes",
+     "description": "Russia has hit Ukraine's power grid again, while Ukrainian forces targeted a major Russian oil refinery",
+     "source": "Abcnews.com",
+     "publishedAt": "2026-11-09T11:14:22Z",
+     "domain": "abcnews.com",
+     "category": "wire_primary",
+     "origin": "abcnews.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://economictimes.indiatimes.com/news/defence/a-day-before-us-brokered-talks-russia-and-ukraine-batter-each-other-with-long-range-strikes/articleshow/135680214.cms",
+     "title": "A day before US-brokered talks, Russia and Ukraine batter each other with long-range strikes",
+     "description": "Russia has targeted multiple electrical substations in Ukraine amid ongoing military actions. Ukrainian forces have hit a major oil refinery in Russia, crippling its supply capabilities. Diplomatic talks between Russia and Ukraine are scheduled with U.S. medi\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-11-09T11:22:15Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://rt-english.com/russia/648602-ukraine-kiev-drone-energy/",
+     "title": "Russia strikes Ukrainian energy infrastructure \u2013 MOD",
+     "description": "Another Russian long-range strike has targeted Ukraine\u2019s energy facilities and drone-making plants, Moscow has said Read Full Article at RT.com",
+     "source": "Rt-english.com",
+     "publishedAt": "2026-11-09T11:21:59Z",
+     "domain": "rt-english.com",
+     "category": "unclassified",
+     "origin": "rt-english.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 68.3,
+   "n_independent": 3,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.712,
+    "quality": 0.88,
+    "recency": 0.848,
+    "escalation": 0.346,
+    "severity": 0.8
+   },
+   "latest": "2026-11-09T11:22:15+00:00",
+   "rank": 9,
+   "top_rank": null,
+   "related": []
+  },
+  {
    "id": "th-b99198b0",
    "home": "T12",
    "topics": {
-    "T01": 1,
+    "T08": 1,
     "T12": 1
    },
    "n_articles": 2,
@@ -907,7 +945,7 @@
      "origin": "cnbc.com"
     },
     {
-     "topic": "T01",
+     "topic": "T08",
      "url": "https://www.insurancejournal.com/news/international/2026/11/09/892102.htm",
      "title": "Newsroom Bomb Threats Follow Escalating European Flight Hoaxes",
      "description": "Newsrooms in Ireland and Bulgaria received emailed bomb threats on Friday from a purported \u201cMikhail Andropov,\u201d claiming responsibility for a widening wave of hoax threats disrupting passenger flights across Europe. The messages, sent to Bulgaria\u2019s Nova TV and\u2026",
@@ -930,7 +968,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T12:15:45+00:00",
-   "rank": 9,
+   "rank": 10,
    "top_rank": null,
    "related": []
   },
@@ -970,57 +1008,6 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T08:16:57+00:00",
-   "rank": 10,
-   "top_rank": null,
-   "related": []
-  },
-  {
-   "id": "th-9d127d5b",
-   "home": "flagship-ru-ua",
-   "topics": {
-    "flagship-ru-ua": 2
-   },
-   "n_articles": 2,
-   "lead_url": "https://timesofindia.indiatimes.com/defence/international/blackouts-and-no-heating-russias-winter-strike-campaign-takes-aim-at-ukraines-energy-network/articleshow/135681945.cms",
-   "lead_title": "Blackouts and no heating: Russia\u2019s winter strike campaign takes aim at Ukraine\u2019s energy network",
-   "lead_source": "The Times of India",
-   "bluf_eligible": true,
-   "articles": [
-    {
-     "topic": "flagship-ru-ua",
-     "url": "https://timesofindia.indiatimes.com/defence/international/blackouts-and-no-heating-russias-winter-strike-campaign-takes-aim-at-ukraines-energy-network/articleshow/135681945.cms",
-     "title": "Blackouts and no heating: Russia\u2019s winter strike campaign takes aim at Ukraine\u2019s energy network",
-     "description": "Russia has commenced a significant campaign of missile and drone strikes against Ukraine's energy facilities, leading to power outages. Ukrainian officials reported large-scale damage in multiple regions, leaving many without electricity or heating. Ukraine i\u2026",
-     "source": "The Times of India",
-     "publishedAt": "2026-11-09T12:29:57Z",
-     "domain": "indiatimes.com",
-     "category": "established",
-     "origin": "indiatimes.com"
-    },
-    {
-     "topic": "flagship-ru-ua",
-     "url": "https://rt-english.com/russia/648602-ukraine-kiev-drone-energy/",
-     "title": "Russia strikes Ukrainian energy infrastructure \u2013 MOD",
-     "description": "Another Russian long-range strike has targeted Ukraine\u2019s energy facilities and drone-making plants, Moscow has said Read Full Article at RT.com",
-     "source": "Rt-english.com",
-     "publishedAt": "2026-11-09T11:21:59Z",
-     "domain": "rt-english.com",
-     "category": "unclassified",
-     "origin": "rt-english.com"
-    }
-   ],
-   "contradictions": [],
-   "score": 66.8,
-   "n_independent": 2,
-   "best_tier_weight": 0.7,
-   "components": {
-    "corroboration": 0.565,
-    "quality": 0.64,
-    "recency": 0.886,
-    "escalation": 0.632,
-    "severity": 0.8
-   },
-   "latest": "2026-11-09T12:29:57+00:00",
    "rank": 11,
    "top_rank": null,
    "related": []
@@ -1253,6 +1240,46 @@
    "related": []
   },
   {
+   "id": "th-47ef96d6",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://timesofindia.indiatimes.com/defence/international/blackouts-and-no-heating-russias-winter-strike-campaign-takes-aim-at-ukraines-energy-network/articleshow/135681945.cms",
+   "lead_title": "Blackouts and no heating: Russia\u2019s winter strike campaign takes aim at Ukraine\u2019s energy network",
+   "lead_source": "The Times of India",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://timesofindia.indiatimes.com/defence/international/blackouts-and-no-heating-russias-winter-strike-campaign-takes-aim-at-ukraines-energy-network/articleshow/135681945.cms",
+     "title": "Blackouts and no heating: Russia\u2019s winter strike campaign takes aim at Ukraine\u2019s energy network",
+     "description": "Russia has commenced a significant campaign of missile and drone strikes against Ukraine's energy facilities, leading to power outages. Ukrainian officials reported large-scale damage in multiple regions, leaving many without electricity or heating. Ukraine i\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-11-09T12:29:57Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 61.8,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.886,
+    "escalation": 0.632,
+    "severity": 0.8
+   },
+   "latest": "2026-11-09T12:29:57+00:00",
+   "rank": 16,
+   "top_rank": null,
+   "related": []
+  },
+  {
    "id": "th-369cacda",
    "home": "T14",
    "topics": {
@@ -1288,7 +1315,7 @@
     "severity": 0.9
    },
    "latest": null,
-   "rank": 16,
+   "rank": 17,
    "top_rank": null,
    "related": []
   },
@@ -1328,7 +1355,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T13:08:35+00:00",
-   "rank": 17,
+   "rank": 18,
    "top_rank": null,
    "related": []
   },
@@ -1368,7 +1395,7 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 18,
+   "rank": 19,
    "top_rank": null,
    "related": []
   },
@@ -1408,7 +1435,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T09:56:13+00:00",
-   "rank": 19,
+   "rank": 20,
    "top_rank": null,
    "related": []
   },
@@ -1448,7 +1475,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T14:49:00+00:00",
-   "rank": 20,
+   "rank": 21,
    "top_rank": null,
    "related": []
   },
@@ -1488,7 +1515,7 @@
     "severity": 0.6
    },
    "latest": null,
-   "rank": 21,
+   "rank": 22,
    "top_rank": null,
    "related": []
   },
@@ -1528,7 +1555,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-08T23:38:10+00:00",
-   "rank": 22,
+   "rank": 23,
    "top_rank": null,
    "related": []
   },
@@ -1568,7 +1595,7 @@
     "severity": 0.7
    },
    "latest": "2026-11-09T06:00:00+00:00",
-   "rank": 23,
+   "rank": 24,
    "top_rank": null,
    "related": []
   },
@@ -1619,7 +1646,7 @@
     "severity": 0.7
    },
    "latest": "2026-11-09T07:04:52+00:00",
-   "rank": 24,
+   "rank": 25,
    "top_rank": null,
    "related": []
   },
@@ -1659,7 +1686,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T14:39:32+00:00",
-   "rank": 25,
+   "rank": 26,
    "top_rank": null,
    "related": []
   },
@@ -1710,7 +1737,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T15:36:51+00:00",
-   "rank": 26,
+   "rank": 27,
    "top_rank": null,
    "related": []
   },
@@ -1762,68 +1789,6 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T13:51:53+00:00",
-   "rank": 27,
-   "top_rank": null,
-   "related": []
-  },
-  {
-   "id": "th-e78b2fcb",
-   "home": "T16",
-   "topics": {
-    "T16": 3
-   },
-   "n_articles": 3,
-   "lead_url": "https://www.thenation.com/?post_type=article&p=615389",
-   "lead_title": "Chuck Schumer and Hakeem Jeffries Are Not Meeting the Moment",
-   "lead_source": "Thenation.com",
-   "bluf_eligible": true,
-   "articles": [
-    {
-     "topic": "T16",
-     "url": "https://www.thenation.com/?post_type=article&p=615389",
-     "title": "Chuck Schumer and Hakeem Jeffries Are Not Meeting the Moment",
-     "description": "Elizabeth Spiers\n\n\n\nThe Democrats' congressional leaders have been handed an enormous mandate they have no interest in carrying out.\r\n\n\r\n\n\nThe post Chuck Schumer and Hakeem Jeffries Are Not Meeting the Moment appeared first on The Nation.",
-     "source": "Thenation.com",
-     "publishedAt": "2026-11-09T14:00:00Z",
-     "domain": "thenation.com",
-     "category": "established",
-     "origin": "thenation.com"
-    },
-    {
-     "topic": "T16",
-     "url": "https://www.globalresearch.ca/10-reasons-hakeem-jeffries-should-not-next-speaker-house/5945489",
-     "title": "10 Reasons Hakeem Jeffries Should Not Be the Next Speaker of the House",
-     "description": "Now that Democrats have swept the House, a key question is: Who should lead it?\nHakeem Jeffries is in line to become the first Black Speaker of the House, which would be a historic milestone. But members of Congress must \u2026\nThe post 10 Reasons Hakeem Jeffries \u2026",
-     "source": "Globalresearch.ca",
-     "publishedAt": "2026-11-09T15:27:52Z",
-     "domain": "globalresearch.ca",
-     "category": "advocacy_opinion",
-     "origin": "globalresearch.ca"
-    },
-    {
-     "topic": "T16",
-     "url": "https://www.nakedcapitalism.com/2026/11/10-reasons-hakeem-jeffries-should-not-be-the-next-speaker-of-the-house.html",
-     "title": "10 Reasons Hakeem Jeffries Should Not Be the Next Speaker of the House",
-     "description": "Elections have consequences. One should be keeping an AIPAC-backed war-mongerer like Hakeem Jeffries from becoming Speaker of the House.",
-     "source": "Nakedcapitalism.com",
-     "publishedAt": "2026-11-09T14:54:07Z",
-     "domain": "nakedcapitalism.com",
-     "category": "advocacy_opinion",
-     "origin": "nakedcapitalism.com"
-    }
-   ],
-   "contradictions": [],
-   "score": 54.1,
-   "n_independent": 3,
-   "best_tier_weight": 0.7,
-   "components": {
-    "corroboration": 0.712,
-    "quality": 0.593,
-    "recency": 0.993,
-    "escalation": 0.0,
-    "severity": 0.6
-   },
-   "latest": "2026-11-09T15:27:52+00:00",
    "rank": 28,
    "top_rank": null,
    "related": []
@@ -2997,6 +2962,46 @@
    "related": []
   },
   {
+   "id": "th-6683bd6a",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.israelnationalnews.com/news/435907",
+   "lead_title": "Netanyahu calls for unity government: \"Enough with the boycotts, I won't rule anyone out\"",
+   "lead_source": "Israelnationalnews.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.israelnationalnews.com/news/435907",
+     "title": "Netanyahu calls for unity government: \"Enough with the boycotts, I won't rule anyone out\"",
+     "description": "The Prime Minister calls for the establishment of a Likud-led unity government that would include the haredi parties and all Zionist parties.",
+     "source": "Israelnationalnews.com",
+     "publishedAt": "2026-11-09T15:06:00Z",
+     "domain": "israelnationalnews.com",
+     "category": "established",
+     "origin": "israelnationalnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 47.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.979,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-11-09T15:06:00+00:00",
+   "rank": 56,
+   "top_rank": null,
+   "related": []
+  },
+  {
    "id": "th-a10dac1f",
    "home": "flagship-ir-il",
    "topics": {
@@ -3032,7 +3037,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T15:03:29+00:00",
-   "rank": 56,
+   "rank": 57,
    "top_rank": null,
    "related": []
   },
@@ -3094,7 +3099,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-08T09:16:51+00:00",
-   "rank": 57,
+   "rank": 58,
    "top_rank": null,
    "related": []
   },
@@ -3134,7 +3139,7 @@
     "severity": 0.7
    },
    "latest": "2026-11-09T08:44:01+00:00",
-   "rank": 58,
+   "rank": 59,
    "top_rank": null,
    "related": []
   },
@@ -3218,7 +3223,7 @@
     "severity": 0.4
    },
    "latest": null,
-   "rank": 59,
+   "rank": 60,
    "top_rank": null,
    "related": []
   },
@@ -3258,7 +3263,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T02:20:39+00:00",
-   "rank": 60,
+   "rank": 61,
    "top_rank": null,
    "related": []
   },
@@ -3298,7 +3303,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T14:20:32+00:00",
-   "rank": 61,
+   "rank": 62,
    "top_rank": null,
    "related": []
   },
@@ -3338,7 +3343,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T07:42:41+00:00",
-   "rank": 62,
+   "rank": 63,
    "top_rank": null,
    "related": []
   },
@@ -3378,7 +3383,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T05:10:33+00:00",
-   "rank": 63,
+   "rank": 64,
    "top_rank": null,
    "related": []
   },
@@ -3429,7 +3434,7 @@
     "severity": 0.5
    },
    "latest": null,
-   "rank": 64,
+   "rank": 65,
    "top_rank": null,
    "related": []
   },
@@ -3469,46 +3474,6 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T13:30:00+00:00",
-   "rank": 65,
-   "top_rank": null,
-   "related": []
-  },
-  {
-   "id": "th-94bf2b9a",
-   "home": "T12",
-   "topics": {
-    "T12": 1
-   },
-   "n_articles": 1,
-   "lead_url": "https://securityaffairs.com/202691/cyber-crime/dont-hand-propaganda-a-gift-reading-the-brenner-base-tunnel-se-breach-calmly.html",
-   "lead_title": "Don\u2019t Hand Propaganda a Gift: Reading the Brenner Base Tunnel SE Breach Calmly",
-   "lead_source": "Securityaffairs.com",
-   "bluf_eligible": true,
-   "articles": [
-    {
-     "topic": "T12",
-     "url": "https://securityaffairs.com/202691/cyber-crime/dont-hand-propaganda-a-gift-reading-the-brenner-base-tunnel-se-breach-calmly.html",
-     "title": "Don\u2019t Hand Propaganda a Gift: Reading the Brenner Base Tunnel SE Breach Calmly",
-     "description": "Brenner Base Tunnel SE confirms a breach and Everest claims 812 GB. What we know, what we don\u2019t, and why overblown alarm helps propaganda more than the attackers. Brenner Base Tunnel (BBT) SE, the company building the Brenner Base Tunnel between Italy and Aus\u2026",
-     "source": "Securityaffairs.com",
-     "publishedAt": "2026-11-08T17:46:16Z",
-     "domain": "securityaffairs.com",
-     "category": "established",
-     "origin": "securityaffairs.com"
-    }
-   ],
-   "contradictions": [],
-   "score": 46.5,
-   "n_independent": 1,
-   "best_tier_weight": 0.7,
-   "components": {
-    "corroboration": 0.356,
-    "quality": 0.7,
-    "recency": 0.431,
-    "escalation": 0.295,
-    "severity": 0.8
-   },
-   "latest": "2026-11-08T17:46:16+00:00",
    "rank": 66,
    "top_rank": null,
    "related": []
@@ -3725,27 +3690,27 @@
    "related": []
   },
   {
-   "id": "th-6683bd6a",
-   "home": "T16",
+   "id": "th-14b548b7",
+   "home": "T02",
    "topics": {
-    "T16": 1
+    "T02": 1
    },
    "n_articles": 1,
-   "lead_url": "https://www.israelnationalnews.com/news/435907",
-   "lead_title": "Netanyahu calls for unity government: \"Enough with the boycotts, I won't rule anyone out\"",
-   "lead_source": "Israelnationalnews.com",
+   "lead_url": "https://www.nature.com/articles/d41586-026-03628-5",
+   "lead_title": "The super El Ni\u00f1o is more than a climate shock \u2013 it\u2019s a health one, too",
+   "lead_source": "Nature.com",
    "bluf_eligible": true,
    "articles": [
     {
-     "topic": "T16",
-     "url": "https://www.israelnationalnews.com/news/435907",
-     "title": "Netanyahu calls for unity government: \"Enough with the boycotts, I won't rule anyone out\"",
-     "description": "The Prime Minister calls for the establishment of a Likud-led unity government that would include the haredi parties and all Zionist parties.",
-     "source": "Israelnationalnews.com",
-     "publishedAt": "2026-11-09T15:06:00Z",
-     "domain": "israelnationalnews.com",
+     "topic": "T02",
+     "url": "https://www.nature.com/articles/d41586-026-03628-5",
+     "title": "The super El Ni\u00f1o is more than a climate shock \u2013 it\u2019s a health one, too",
+     "description": "Food shortages and disease outbreaks are to be expected and need to be addressed together.",
+     "source": "Nature.com",
+     "publishedAt": "2026-11-09T00:00:00Z",
+     "domain": "nature.com",
      "category": "established",
-     "origin": "israelnationalnews.com"
+     "origin": "nature.com"
     }
    ],
    "contradictions": [],
@@ -3755,11 +3720,11 @@
    "components": {
     "corroboration": 0.356,
     "quality": 0.7,
-    "recency": 0.979,
-    "escalation": 0.0,
-    "severity": 0.6
+    "recency": 0.547,
+    "escalation": 0.181,
+    "severity": 0.8
    },
-   "latest": "2026-11-09T15:06:00+00:00",
+   "latest": "2026-11-09T00:00:00+00:00",
    "rank": 72,
    "top_rank": null,
    "related": []
@@ -3885,46 +3850,6 @@
    "related": []
   },
   {
-   "id": "th-a0e4fdc5",
-   "home": "T16",
-   "topics": {
-    "T16": 1
-   },
-   "n_articles": 1,
-   "lead_url": "https://economictimes.indiatimes.com/news/international/us/bitcoin-btc-ether-prices-crash-to-lowest-since-august-why-are-cryptocurrencies-down/articleshow/135683923.cms",
-   "lead_title": "Bitcoin-BTC, Ether Prices crash to lowest since August: Why are Cryptocurrencies down?",
-   "lead_source": "The Times of India",
-   "bluf_eligible": true,
-   "articles": [
-    {
-     "topic": "T16",
-     "url": "https://economictimes.indiatimes.com/news/international/us/bitcoin-btc-ether-prices-crash-to-lowest-since-august-why-are-cryptocurrencies-down/articleshow/135683923.cms",
-     "title": "Bitcoin-BTC, Ether Prices crash to lowest since August: Why are Cryptocurrencies down?",
-     "description": "Bitcoin-BTC, Ether and Cryptocurrencies were down after US midterm election results stoked fears that a Democratic Party-controlled US Congress will toughen regulation on the asset class.",
-     "source": "The Times of India",
-     "publishedAt": "2026-11-09T13:44:22Z",
-     "domain": "indiatimes.com",
-     "category": "established",
-     "origin": "indiatimes.com"
-    }
-   ],
-   "contradictions": [],
-   "score": 44.6,
-   "n_independent": 1,
-   "best_tier_weight": 0.7,
-   "components": {
-    "corroboration": 0.356,
-    "quality": 0.7,
-    "recency": 0.929,
-    "escalation": 0.0,
-    "severity": 0.6
-   },
-   "latest": "2026-11-09T13:44:22+00:00",
-   "rank": 76,
-   "top_rank": null,
-   "related": []
-  },
-  {
    "id": "th-b3b68673",
    "home": "T16",
    "topics": {
@@ -3960,47 +3885,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T13:28:32+00:00",
-   "rank": 77,
-   "top_rank": null,
-   "related": []
-  },
-  {
-   "id": "th-14b548b7",
-   "home": "T04",
-   "topics": {
-    "T04": 1
-   },
-   "n_articles": 1,
-   "lead_url": "https://www.nature.com/articles/d41586-026-03628-5",
-   "lead_title": "The super El Ni\u00f1o is more than a climate shock \u2013 it\u2019s a health one, too",
-   "lead_source": "Nature.com",
-   "bluf_eligible": true,
-   "articles": [
-    {
-     "topic": "T04",
-     "url": "https://www.nature.com/articles/d41586-026-03628-5",
-     "title": "The super El Ni\u00f1o is more than a climate shock \u2013 it\u2019s a health one, too",
-     "description": "Food shortages and disease outbreaks are to be expected and need to be addressed together.",
-     "source": "Nature.com",
-     "publishedAt": "2026-11-09T00:00:00Z",
-     "domain": "nature.com",
-     "category": "established",
-     "origin": "nature.com"
-    }
-   ],
-   "contradictions": [],
-   "score": 44.4,
-   "n_independent": 1,
-   "best_tier_weight": 0.7,
-   "components": {
-    "corroboration": 0.356,
-    "quality": 0.7,
-    "recency": 0.547,
-    "escalation": 0.181,
-    "severity": 0.7
-   },
-   "latest": "2026-11-09T00:00:00+00:00",
-   "rank": 78,
+   "rank": 76,
    "top_rank": null,
    "related": []
   },
@@ -4040,7 +3925,7 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 79,
+   "rank": 77,
    "top_rank": null,
    "related": []
   },
@@ -4080,7 +3965,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T12:09:50+00:00",
-   "rank": 80,
+   "rank": 78,
    "top_rank": null,
    "related": []
   },
@@ -4120,7 +4005,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T08:08:55+00:00",
-   "rank": 81,
+   "rank": 79,
    "top_rank": null,
    "related": []
   },
@@ -4160,7 +4045,58 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T12:25:55+00:00",
-   "rank": 82,
+   "rank": 80,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-e78b2fcb",
+   "home": "T16",
+   "topics": {
+    "T16": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.globalresearch.ca/10-reasons-hakeem-jeffries-should-not-next-speaker-house/5945489",
+   "lead_title": "10 Reasons Hakeem Jeffries Should Not Be the Next Speaker of the House",
+   "lead_source": "Globalresearch.ca",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T16",
+     "url": "https://www.globalresearch.ca/10-reasons-hakeem-jeffries-should-not-next-speaker-house/5945489",
+     "title": "10 Reasons Hakeem Jeffries Should Not Be the Next Speaker of the House",
+     "description": "Now that Democrats have swept the House, a key question is: Who should lead it?\nHakeem Jeffries is in line to become the first Black Speaker of the House, which would be a historic milestone. But members of Congress must \u2026\nThe post 10 Reasons Hakeem Jeffries \u2026",
+     "source": "Globalresearch.ca",
+     "publishedAt": "2026-11-09T15:27:52Z",
+     "domain": "globalresearch.ca",
+     "category": "advocacy_opinion",
+     "origin": "globalresearch.ca"
+    },
+    {
+     "topic": "T16",
+     "url": "https://www.nakedcapitalism.com/2026/11/10-reasons-hakeem-jeffries-should-not-be-the-next-speaker-of-the-house.html",
+     "title": "10 Reasons Hakeem Jeffries Should Not Be the Next Speaker of the House",
+     "description": "Elections have consequences. One should be keeping an AIPAC-backed war-mongerer like Hakeem Jeffries from becoming Speaker of the House.",
+     "source": "Nakedcapitalism.com",
+     "publishedAt": "2026-11-09T14:54:07Z",
+     "domain": "nakedcapitalism.com",
+     "category": "advocacy_opinion",
+     "origin": "nakedcapitalism.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 43.8,
+   "n_independent": 2,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 0.3,
+    "recency": 0.993,
+    "escalation": 0.0,
+    "severity": 0.6
+   },
+   "latest": "2026-11-09T15:27:52+00:00",
+   "rank": 81,
    "top_rank": null,
    "related": []
   },
@@ -4200,7 +4136,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-08T10:58:00+00:00",
-   "rank": 83,
+   "rank": 82,
    "top_rank": null,
    "related": []
   },
@@ -4240,7 +4176,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T09:51:17+00:00",
-   "rank": 84,
+   "rank": 83,
    "top_rank": null,
    "related": []
   },
@@ -4280,7 +4216,7 @@
     "severity": 1.0
    },
    "latest": null,
-   "rank": 85,
+   "rank": 84,
    "top_rank": null,
    "related": []
   },
@@ -4320,7 +4256,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T04:33:51+00:00",
-   "rank": 86,
+   "rank": 85,
    "top_rank": null,
    "related": []
   },
@@ -4360,7 +4296,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T11:55:53+00:00",
-   "rank": 87,
+   "rank": 86,
    "top_rank": null,
    "related": []
   },
@@ -4412,7 +4348,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T04:01:00+00:00",
-   "rank": 88,
+   "rank": 87,
    "top_rank": null,
    "related": []
   },
@@ -4452,7 +4388,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T15:06:00+00:00",
-   "rank": 89,
+   "rank": 88,
    "top_rank": null,
    "related": []
   },
@@ -4492,7 +4428,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T15:13:23+00:00",
-   "rank": 90,
+   "rank": 89,
    "top_rank": null,
    "related": []
   },
@@ -4532,7 +4468,7 @@
     "severity": 0.5
    },
    "latest": "2026-11-09T08:30:24+00:00",
-   "rank": 91,
+   "rank": 90,
    "top_rank": null,
    "related": []
   },
@@ -4572,7 +4508,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T13:52:46+00:00",
-   "rank": 92,
+   "rank": 91,
    "top_rank": null,
    "related": []
   },
@@ -4612,7 +4548,7 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 93,
+   "rank": 92,
    "top_rank": null,
    "related": []
   },
@@ -4652,7 +4588,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T03:12:32+00:00",
-   "rank": 94,
+   "rank": 93,
    "top_rank": null,
    "related": []
   },
@@ -4692,7 +4628,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-08T20:19:19+00:00",
-   "rank": 95,
+   "rank": 94,
    "top_rank": null,
    "related": []
   },
@@ -4732,7 +4668,7 @@
     "severity": 0.8
    },
    "latest": null,
-   "rank": 96,
+   "rank": 95,
    "top_rank": null,
    "related": []
   },
@@ -4772,7 +4708,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T15:36:46+00:00",
-   "rank": 97,
+   "rank": 96,
    "top_rank": null,
    "related": []
   },
@@ -4812,7 +4748,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T15:35:05+00:00",
-   "rank": 98,
+   "rank": 97,
    "top_rank": null,
    "related": []
   },
@@ -4863,7 +4799,7 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 99,
+   "rank": 98,
    "top_rank": null,
    "related": []
   },
@@ -4903,7 +4839,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T11:00:00+00:00",
-   "rank": 100,
+   "rank": 99,
    "top_rank": null,
    "related": []
   },
@@ -4943,7 +4879,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T14:38:44+00:00",
-   "rank": 101,
+   "rank": 100,
    "top_rank": null,
    "related": []
   },
@@ -4983,7 +4919,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T14:21:03+00:00",
-   "rank": 102,
+   "rank": 101,
    "top_rank": null,
    "related": []
   },
@@ -5023,7 +4959,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T14:30:21+00:00",
-   "rank": 103,
+   "rank": 102,
    "top_rank": null,
    "related": []
   },
@@ -5063,7 +4999,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T14:15:00+00:00",
-   "rank": 104,
+   "rank": 103,
    "top_rank": null,
    "related": []
   },
@@ -5103,47 +5039,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T14:00:00+00:00",
-   "rank": 105,
-   "top_rank": null,
-   "related": []
-  },
-  {
-   "id": "th-785810da",
-   "home": "T06",
-   "topics": {
-    "T06": 1
-   },
-   "n_articles": 1,
-   "lead_url": "https://seekingalpha.com/article/4965189-downgrading-fxe-on-civil-unrest",
-   "lead_title": "Downgrading FXE On Civil Unrest",
-   "lead_source": "Seeking Alpha",
-   "bluf_eligible": false,
-   "articles": [
-    {
-     "topic": "T06",
-     "url": "https://seekingalpha.com/article/4965189-downgrading-fxe-on-civil-unrest",
-     "title": "Downgrading FXE On Civil Unrest",
-     "description": "Why FXE looks unattractive now: euro weakness, political unrest, debt risks, and dollar strength point to more downside.",
-     "source": "Seeking Alpha",
-     "publishedAt": "",
-     "domain": "seekingalpha.com",
-     "category": "unclassified",
-     "origin": "seekingalpha.com"
-    }
-   ],
-   "contradictions": [],
-   "score": 38.7,
-   "n_independent": 1,
-   "best_tier_weight": 0.4,
-   "components": {
-    "corroboration": 0.356,
-    "quality": 0.4,
-    "recency": 0.5,
-    "escalation": 0.259,
-    "severity": 0.6
-   },
-   "latest": null,
-   "rank": 106,
+   "rank": 104,
    "top_rank": null,
    "related": []
   },
@@ -5183,7 +5079,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-08T14:18:35+00:00",
-   "rank": 107,
+   "rank": 105,
    "top_rank": null,
    "related": []
   },
@@ -5223,7 +5119,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T09:00:16+00:00",
-   "rank": 108,
+   "rank": 106,
    "top_rank": null,
    "related": []
   },
@@ -5263,7 +5159,7 @@
     "severity": 0.8
    },
    "latest": null,
-   "rank": 109,
+   "rank": 107,
    "top_rank": null,
    "related": []
   },
@@ -5303,7 +5199,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T15:00:00+00:00",
-   "rank": 110,
+   "rank": 108,
    "top_rank": null,
    "related": []
   },
@@ -5343,7 +5239,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-08T09:00:21+00:00",
-   "rank": 111,
+   "rank": 109,
    "top_rank": null,
    "related": []
   },
@@ -5383,7 +5279,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T11:00:00+00:00",
-   "rank": 112,
+   "rank": 110,
    "top_rank": null,
    "related": []
   },
@@ -5423,7 +5319,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T14:22:19+00:00",
-   "rank": 113,
+   "rank": 111,
    "top_rank": null,
    "related": []
   },
@@ -5463,7 +5359,7 @@
     "severity": 0.8
    },
    "latest": null,
-   "rank": 114,
+   "rank": 112,
    "top_rank": null,
    "related": []
   },
@@ -5503,7 +5399,7 @@
     "severity": 0.7
    },
    "latest": "2026-11-09T11:00:35+00:00",
-   "rank": 115,
+   "rank": 113,
    "top_rank": null,
    "related": []
   },
@@ -5543,7 +5439,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T13:00:12+00:00",
-   "rank": 116,
+   "rank": 114,
    "top_rank": null,
    "related": []
   },
@@ -5583,7 +5479,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T08:00:15+00:00",
-   "rank": 117,
+   "rank": 115,
    "top_rank": null,
    "related": []
   },
@@ -5623,7 +5519,7 @@
     "severity": 0.4
    },
    "latest": null,
-   "rank": 118,
+   "rank": 116,
    "top_rank": null,
    "related": []
   },
@@ -5663,7 +5559,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T11:37:23+00:00",
-   "rank": 119,
+   "rank": 117,
    "top_rank": null,
    "related": []
   },
@@ -5714,7 +5610,7 @@
     "severity": 0.5
    },
    "latest": "2026-11-08T13:00:00+00:00",
-   "rank": 120,
+   "rank": 118,
    "top_rank": null,
    "related": []
   },
@@ -5754,7 +5650,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T06:00:00+00:00",
-   "rank": 121,
+   "rank": 119,
    "top_rank": null,
    "related": []
   },
@@ -5794,7 +5690,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T06:00:00+00:00",
-   "rank": 122,
+   "rank": 120,
    "top_rank": null,
    "related": []
   },
@@ -5834,7 +5730,7 @@
     "severity": 0.8
    },
    "latest": null,
-   "rank": 123,
+   "rank": 121,
    "top_rank": null,
    "related": []
   },
@@ -5874,7 +5770,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T02:11:00+00:00",
-   "rank": 124,
+   "rank": 122,
    "top_rank": null,
    "related": []
   },
@@ -5914,7 +5810,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-09T12:35:15+00:00",
-   "rank": 125,
+   "rank": 123,
    "top_rank": null,
    "related": []
   },
@@ -5965,7 +5861,7 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 126,
+   "rank": 124,
    "top_rank": null,
    "related": []
   },
@@ -6005,7 +5901,7 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 127,
+   "rank": 125,
    "top_rank": null,
    "related": []
   },
@@ -6045,7 +5941,7 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 128,
+   "rank": 126,
    "top_rank": null,
    "related": []
   },
@@ -6085,7 +5981,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-08T06:00:00+00:00",
-   "rank": 129,
+   "rank": 127,
    "top_rank": null,
    "related": []
   },
@@ -6125,7 +6021,7 @@
     "severity": 0.7
    },
    "latest": "2026-11-08T18:12:48+00:00",
-   "rank": 130,
+   "rank": 128,
    "top_rank": null,
    "related": []
   },
@@ -6165,7 +6061,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T12:01:30+00:00",
-   "rank": 131,
+   "rank": 129,
    "top_rank": null,
    "related": []
   },
@@ -6205,7 +6101,7 @@
     "severity": 0.5
    },
    "latest": "2026-11-09T06:00:00+00:00",
-   "rank": 132,
+   "rank": 130,
    "top_rank": null,
    "related": []
   },
@@ -6245,7 +6141,7 @@
     "severity": 0.5
    },
    "latest": null,
-   "rank": 133,
+   "rank": 131,
    "top_rank": null,
    "related": []
   },
@@ -6285,7 +6181,7 @@
     "severity": 0.5
    },
    "latest": null,
-   "rank": 134,
+   "rank": 132,
    "top_rank": null,
    "related": []
   },
@@ -6325,7 +6221,7 @@
     "severity": 0.4
    },
    "latest": "2026-11-08T23:04:21+00:00",
-   "rank": 135,
+   "rank": 133,
    "top_rank": null,
    "related": []
   },
@@ -6365,7 +6261,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-08T13:30:56+00:00",
-   "rank": 136,
+   "rank": 134,
    "top_rank": null,
    "related": []
   },
@@ -6405,7 +6301,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T13:40:47+00:00",
-   "rank": 137,
+   "rank": 135,
    "top_rank": null,
    "related": []
   },
@@ -6456,7 +6352,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T12:33:44+00:00",
-   "rank": 138,
+   "rank": 136,
    "top_rank": null,
    "related": []
   },
@@ -6496,7 +6392,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T11:47:30+00:00",
-   "rank": 139,
+   "rank": 137,
    "top_rank": null,
    "related": []
   },
@@ -6536,7 +6432,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-08T06:18:46+00:00",
-   "rank": 140,
+   "rank": 138,
    "top_rank": null,
    "related": []
   },
@@ -6576,7 +6472,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T10:00:00+00:00",
-   "rank": 141,
+   "rank": 139,
    "top_rank": null,
    "related": []
   },
@@ -6627,7 +6523,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-09T08:01:30+00:00",
-   "rank": 142,
+   "rank": 140,
    "top_rank": null,
    "related": []
   },
@@ -6667,7 +6563,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-08T19:00:00+00:00",
-   "rank": 143,
+   "rank": 141,
    "top_rank": null,
    "related": []
   },
@@ -6707,7 +6603,7 @@
     "severity": 0.7
    },
    "latest": "2026-11-08T21:32:16+00:00",
-   "rank": 144,
+   "rank": 142,
    "top_rank": null,
    "related": []
   }
