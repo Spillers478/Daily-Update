@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Joe Hernandez",
+      "title": "Democrats won big. Can they lower your grocery bill? - NPR",
+      "description": "Affordability concerns were top of mind for voters heading into the midterms, as tariffs and the war in Iran drove up prices, including food costs. Now, Americans are expecting relief from Washington.<br><br>",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7404x4165+0+386/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2Fc1%2F21e723b44cb190bd1f5376a9bcb0%2Fgettyimages-2302583788.jpg",
+      "publishedAt": "2026-11-09T10:00:00Z",
+      "content": "It's been a feature of campaign\r\nads\r\n and stump speeches for months: grocery prices are out of control.\r\nAffordability concerns, including high food costs, were top of mind for voters heading into t\u2026 [+4438 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "David Nield",
+      "title": "Scientists Discover Two Enormous Tears in a Tectonic Plate Beneath Iran - ScienceAlert",
+      "description": "On the scale of human generations, the tectonic plates that form Earth's crust and upper mantle are moving incredibly slowly.",
+      "url": "https://www.sciencealert.com/scientists-discover-two-enormous-tears-in-a-tectonic-plate-beneath-iran",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/ZagrosMountains-1200x675.jpg",
+      "publishedAt": "2026-11-07T19:04:12Z",
+      "content": "On the scale of human generations, the tectonic plates that form Earth's crust and upper mantle are moving incredibly slowly.\r\nThey are constantly moving, though, and across millions of years, that m\u2026 [+4294 chars]"
+    }
+  ]
+}

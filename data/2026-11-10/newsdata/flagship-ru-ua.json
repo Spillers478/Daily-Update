@@ -1,0 +1,528 @@
+{
+  "status": "success",
+  "totalResults": 482,
+  "results": [
+    {
+      "article_id": "720e4c171d2d28f7cdcd91166210d18b",
+      "link": "https://www.politico.eu/article/ukraine-russia-peace-talks-us-demands-europe-joins-next-negotiations/",
+      "title": "U.S. demands a seat for Europe at Ukraine peace talks",
+      "description": "Donald Trump\u2019s envoys Jared Kushner and Steve Witkoff will press Russia to let Europe join future negotiations over the continent's security.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "negotiations",
+        "war",
+        "security",
+        "war in ukraine",
+        "politics",
+        "buildings",
+        "foreign affairs",
+        "borders"
+      ],
+      "creator": [
+        "tim ross"
+      ],
+      "language": "english",
+      "country": [
+        "romania",
+        "ireland",
+        "italy",
+        "poland",
+        "denmark",
+        "portugal",
+        "finland",
+        "belgium",
+        "netherland",
+        "france",
+        "austria",
+        "sweden",
+        "germany",
+        "norway",
+        "czech republic",
+        "hungary",
+        "united kingdom",
+        "switzerland",
+        "spain",
+        "greece"
+      ],
+      "category": [
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-10 03:37:44",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-10 04:09:59",
+      "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=675,fit=crop,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/11/10/GettyImages-2300846539-scaled.jpg",
+      "video_url": null,
+      "source_id": "politico_eu",
+      "source_name": "Politico Europe",
+      "source_priority": 84594,
+      "source_url": "https://www.politico.eu",
+      "source_icon": "https://i.newsdata.io/politico_eu.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 2.42,
+        "neutral": 93.46,
+        "positive": 4.12
+      },
+      "ai_tag": [
+        "government"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "7e19f83a48a61f3dddb522359b16ed67",
+      "link": "https://www.newkerala.com/news/a/ukraine-russia-tired-fighting-trump-optimistic-about-ongoing-284.htm",
+      "title": "Trump says Ukraine, Russia tired of fighting as Abu Dhabi talks continue",
+      "description": "US President Donald Trump said Ukraine and Russia are tired of fighting as trilateral peace talks continue in Abu Dhabi, with Marco Rubio stressing post-war security guarantees.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "rohan b"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "world"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-10 03:36:04",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-10 03:41:55",
+      "image_url": "https://one.newkerala.com/images/r/newkerala-com-news250.webp",
+      "video_url": null,
+      "source_id": "newkerala",
+      "source_name": "Newkerala.com",
+      "source_priority": 145407,
+      "source_url": "https://newkerala.com",
+      "source_icon": "https://i.newsdata.io/newkerala.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 8.02,
+        "neutral": 79.16,
+        "positive": 12.82
+      },
+      "ai_tag": [
+        "conflicts & war",
+        "government"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "a9021eccd8edd04908ac5b389f6070e9",
+      "link": "https://www.al-monitor.com/originals/2026/11/us-calls-new-europe-security-framework-russia-ukraine-talks-open",
+      "title": "US calls for 'new' Europe security framework as Russia-Ukraine talks open",
+      "description": "US-mediated talks between Russia and Ukraine on ending more than four years of war opened in Abu Dhabi Tuesday, with Washington calling for a \"new\" security framework, as Europe fears US President Donald Trump plans a deal with Moscow on the continent's future. Russian and Ukrainian negotiators sat facing each other, with Trump's son-in-law Jared Kushner and business partner Steve Witkoff at the head of the table.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": null,
+      "language": "english",
+      "country": [
+        "iraq",
+        "turkey",
+        "iran",
+        "syria",
+        "lebanon",
+        "jordan",
+        "israel",
+        "egypt",
+        "saudi arabia",
+        "united arab emirates",
+        "palestine"
+      ],
+      "category": [
+        "politics",
+        "world"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-10 03:30:36",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-10 10:34:04",
+      "image_url": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_d6zd4zq.jpg?h=69f2b9d0&itok=AMdr1F-Z",
+      "video_url": null,
+      "source_id": "almonitor",
+      "source_name": "Palestine \u2013 Al-monitor",
+      "source_priority": 21626,
+      "source_url": "https://www.al-monitor.com/palestine",
+      "source_icon": "https://i.newsdata.io/almonitor.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 0.92,
+        "neutral": 85.5,
+        "positive": 13.58
+      },
+      "ai_tag": [
+        "conflicts & war"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "2febc4a04e0bbe1bf1ddc57f70c6b400",
+      "link": "https://www.al-monitor.com/originals/2026/11/us-mediated-talks-russia-and-ukraine-start-abu-dhabi",
+      "title": "US-mediated talks with Russia and Ukraine to start in Abu Dhabi",
+      "description": "Negotiators from Ukraine, Russia and the United States will hold talks in Abu Dhabi Tuesday on ending Europe's worst conflict since World War II in the first such meeting in more than nine months, as another winter of war approaches. Europe -- alarmed by US President Donald Trump floating a deal with Moscow on European security ahead of the talks -- will also send representatives to Abu Dhabi.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": null,
+      "language": "english",
+      "country": [
+        "saudi arabia",
+        "palestine",
+        "united arab emirates",
+        "israel",
+        "turkey",
+        "lebanon",
+        "egypt",
+        "iran",
+        "jordan",
+        "syria",
+        "iraq"
+      ],
+      "category": [
+        "politics",
+        "world"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-10 03:30:36",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-10 03:34:42",
+      "image_url": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_d6ge4g3.jpg?h=69f2b9d0&itok=6PgzjlVl",
+      "video_url": null,
+      "source_id": "almonitor",
+      "source_name": "Palestine \u2013 Al-monitor",
+      "source_priority": 21626,
+      "source_url": "https://www.al-monitor.com/palestine",
+      "source_icon": "https://i.newsdata.io/almonitor.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 0.85,
+        "neutral": 79.39,
+        "positive": 19.76
+      },
+      "ai_tag": [
+        "conflicts & war",
+        "government"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "133535a357bc1961bd2dfd6335f88446",
+      "link": "https://www.al-monitor.com/originals/2026/11/us-calls-new-europe-security-russia-ukraine-talks",
+      "title": "US calls for new Europe security at Russia-Ukraine talks",
+      "description": "A first day of US-led talks between Ukraine and Russia in Abu Dhabi ended Tuesday, with Washington calling for a \"new\" security framework, as Europe fears US President Donald Trump plans a deal with Moscow on the continent's future. Negotiations to end more than four years of war -- the first since February -- lasted for several hours in the Gulf city and are set to continue Wednesday. Russian and Ukrainian negotiators sat facing each other, with Trump's son-in-law Jared Kushner and business partner Steve Witkoff at the head of the table.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": null,
+      "language": "english",
+      "country": [
+        "united arab emirates",
+        "egypt",
+        "israel",
+        "iraq",
+        "jordan",
+        "iran",
+        "lebanon",
+        "turkey",
+        "palestine",
+        "saudi arabia",
+        "syria"
+      ],
+      "category": [
+        "world",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-10 03:30:36",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-10 13:35:33",
+      "image_url": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_d6zx863.jpg?h=69f2b9d0&itok=mFaiuwLh",
+      "video_url": null,
+      "source_id": "almonitor",
+      "source_name": "Palestine \u2013 Al-monitor",
+      "source_priority": 21626,
+      "source_url": "https://www.al-monitor.com/palestine",
+      "source_icon": "https://i.newsdata.io/almonitor.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 1.29,
+        "neutral": 93.76,
+        "positive": 4.95
+      },
+      "ai_tag": [
+        "government",
+        "conflicts & war"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "803b17ea29c1dbc74cea5c44a7734708",
+      "link": "https://www.urdupoint.com/en/world/at-unsc-pakistan-demands-immediate-ceasefire-2286611.html",
+      "title": "Pakistan Urges Immediate Ceasefire and Dialogue to End Ukraine War at UN Security Council",
+      "description": "Pakistan\u2019s UN envoy called for an immediate halt to hostilities, respect for international law and renewed negotiations as attacks damage Ukraine\u2019s infrastructure and intensify humanitarian pressures ahead of winter.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "world"
+      ],
+      "creator": [
+        "fahad shabbir"
+      ],
+      "language": "english",
+      "country": [
+        "pakistan"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-10 03:25:05",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-10 03:34:04",
+      "image_url": "https://photo-cdn.urdupoint.com/images/UrduPoint-English-22.png",
+      "video_url": null,
+      "source_id": "urdupoint",
+      "source_name": "Urdupoint",
+      "source_priority": 21431,
+      "source_url": "https://www.urdupoint.com",
+      "source_icon": "https://i.newsdata.io/urdupoint.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 1.6,
+        "neutral": 30.74,
+        "positive": 67.66
+      },
+      "ai_tag": [
+        "conflicts & war",
+        "government"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "f9c844255d26d371cd6a8219ebe50afa",
+      "link": "https://jowhar.com/trump-says-u-s-sees-strong-signs-ukraine-war-could-soon-end/",
+      "title": "Trump Says U.S. Sees Strong Signs Ukraine War Could Soon End",
+      "description": "Hopes of breaking the long stalemate in Ukraine rose after US President Donald Trump said Washington was sensing a \u201cvery strong inclination\u201d to bring the war to a close, arguing that both sides were \u201ctired of fighting.\u201d Speaking to reporters at the White House on the eve of US-led, three-sided talks in Abu Dhabi, Mr [\u2026]",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "ukraine",
+        "signs",
+        "world news",
+        "strong",
+        "trump",
+        "sees",
+        "war",
+        "u.s"
+      ],
+      "creator": [
+        "hanad"
+      ],
+      "language": "english",
+      "country": [
+        "somalia"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-10 03:18:02",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-10 03:46:05",
+      "image_url": "https://jowhar.com/wp-content/uploads/2026/11/Trump-Says-US-Sees-Strong-Signs-Ukraine-War-Could-Soon.jpg",
+      "video_url": null,
+      "source_id": "jowhar",
+      "source_name": "Jowhar",
+      "source_priority": 408915,
+      "source_url": "https://www.jowhar.com",
+      "source_icon": "https://i.newsdata.io/jowhar.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 18.77,
+        "neutral": 27.53,
+        "positive": 53.7
+      },
+      "ai_tag": [
+        "conflicts & war",
+        "government"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "4964ae5c4c1e8b09bfc1151323683c77",
+      "link": "https://www.kyivpost.com/post/89617",
+      "title": "32 US Lawmakers Demand Hegseth Speed Up $400M Ukraine Aid Delayed Until 2029",
+      "description": "A bipartisan group of 32 US lawmakers has demanded that Defense Secretary Pete Hegseth accelerate delivery of $400 million in congressionally approved military aid to Ukraine. In a letter also addressed to White House budget chief Russell Vought, lawmakers warned that the Pentagon\u2019s current schedule extends through fiscal year 2029, after President Donald Trump\u2019s term ends.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "world",
+        "north america",
+        "ukraine"
+      ],
+      "creator": [
+        "kyiv post"
+      ],
+      "language": "english",
+      "country": [
+        "ukraine"
+      ],
+      "category": [
+        "top",
+        "politics",
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-10 03:11:30",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-10 03:33:59",
+      "image_url": "https://static.kyivpost.com/storage/2026/11/10/2b24127af16c9751d5d30ffbac7a8ebc.jpg?w=640&q=90&f=jpg",
+      "video_url": null,
+      "source_id": "kyivpost",
+      "source_name": "Kyiv Post",
+      "source_priority": 21190,
+      "source_url": "https://www.kyivpost.com",
+      "source_icon": "https://i.newsdata.io/kyivpost.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 17.47,
+        "neutral": 74.15,
+        "positive": 8.38
+      },
+      "ai_tag": [
+        "government",
+        "international trade"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "0441f7153efe6a56943abd961dd97b6f",
+      "link": "https://newsable.asianetnews.com/world/trump-voices-optimism-as-russia-ukraine-peace-talks-begin-in-abu-dhabi-articleshow-orqqfmx",
+      "title": "Trump Voices Optimism As Russia-Ukraine Peace Talks Begin In Abu Dhabi",
+      "description": "US President Trump expresses optimism regarding the Russia-Ukraine peace talks in Abu Dhabi, noting both nations' exhaustion with the conflict. Meanwhile, Secretary of State Marco Rubio stresses the need for post-war security guarantees for Kyiv.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "world"
+      ],
+      "creator": [
+        "asianet news central"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-10 03:10:17",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-10 04:19:44",
+      "image_url": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-a4f80717-9f50-4c90-ba32-5c5d3a90e9b7.jpg",
+      "video_url": null,
+      "source_id": "newsable_asianetnews",
+      "source_name": "Asianet Newsable",
+      "source_priority": 7749,
+      "source_url": "https://newsable.asianetnews.com",
+      "source_icon": "https://i.newsdata.io/newsable_asianetnews.jpg",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.7,
+        "neutral": 1.27,
+        "positive": 98.03
+      },
+      "ai_tag": [
+        "government",
+        "conflicts & war"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "c769a1551f02d0e3cba46e738b4ed5ec",
+      "link": "https://moderndiplomacy.eu/2026/11/10/two-europes-facing-russia-the-continents-new-geopolitical-divide/",
+      "title": "Two Europes Facing Russia: The Continent\u2019s New Geopolitical Divide",
+      "description": "The Russian invasion of Ukraine in 2022 and Trump\u2019s return to the White House in 2025 have fundamentally altered Europe\u2019s geopolitical situation. The resultant Russian threat and the attendant doubts about U.S. support have in turn led to a massive rearmament of the continent. All the same, as Europe builds up its military, political, and [\u2026] The post Two Europes Facing Russia: The Continent\u2019s New Geopolitical Divide appeared first on Modern Diplomacy.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "european union",
+        "defense",
+        "ukraine",
+        "africa",
+        "europe",
+        "migration",
+        "russia",
+        "opinion",
+        "front"
+      ],
+      "creator": [
+        "othon a. leon"
+      ],
+      "language": "english",
+      "country": [
+        "russia",
+        "united states of america",
+        "israel",
+        "italy",
+        "brazil",
+        "iran",
+        "china"
+      ],
+      "category": [
+        "world",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-10 03:00:12",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-10 03:06:34",
+      "image_url": "https://moderndiplomacy.eu/wp-content/uploads/2026/04/European-Union-1.jpg",
+      "video_url": null,
+      "source_id": "moderndiplomacy",
+      "source_name": "Modern Diplomacy",
+      "source_priority": 43975,
+      "source_url": "https://moderndiplomacy.eu",
+      "source_icon": "https://i.newsdata.io/moderndiplomacy.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 12.07,
+        "neutral": 86.42,
+        "positive": 1.51
+      },
+      "ai_tag": [
+        "conflicts & war"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    }
+  ],
+  "nextPage": "1794279612879508620"
+}
