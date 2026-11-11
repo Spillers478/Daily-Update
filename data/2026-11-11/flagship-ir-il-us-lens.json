@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Kevin Breuninger",
+      "title": "Pete Hegseth decries impeachment push, defends Iran war handling - CNBC",
+      "description": "GOP Rep. Thomas Massie, who has clashed with President Donald Trump, kicked off the Hegseth impeachment fight days after a blue-wave midterm election.",
+      "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108547446-1794316308528-gettyimages-2304434505-_sr36942_7f5r6htg.jpeg?v=1794320990&w=1920&h=1080",
+      "publishedAt": "2026-11-10T13:14:18Z",
+      "content": "U.S. Defense Secretary Pete Hegseth gestures as he speaks during a news conference at the Pentagon on November 10, 2026 in Arlington, Virginia. U.S.\r\nSecretary of Defense Pete Hegseth on Tuesday rail\u2026 [+3173 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Courtney Kube, Matthew Mulligan, Chantal Da Silva",
+      "title": "U.S. moves military aircraft from British base amid Iran threats - NBC News",
+      "description": "The United States has moved military aircraft from the RAF Mildenhall airbase in the United Kingdom amid threats from Iran.",
+      "url": "https://www.nbcnews.com/world/europe/us-moves-military-aircraft-british-base-iran-threats-raf-mildenhall-rcna608501",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261110-Mildenhall-rs-2f8cee.jpg",
+      "publishedAt": "2026-11-10T12:28:32Z",
+      "content": "LONDON The United States has moved military aircraft from an airbase in the United Kingdom amid threats from Iran.\r\nA U.S. official confirmed to NBC News that several military aircraft had left RAF M\u2026 [+4322 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Alex  Sundby, Duarte  Dias, Frank  Andrews",
+      "title": "Live Updates: Trump says U.S. keeping Iran war at \"status quo\" but warns American military \"locked and loaded\" - CBS News",
+      "description": "President Trump told 60 Minutes the war with Iran was a \"good decision\" in the long term, despite its short-term impact.",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/09/0ccfd92a-8b7f-43ca-bc3a-d832afb6c129/thumbnail/1200x630g2/9a9546450f40949d732a7e6cbc8392c1/2026-11-09t221631z-1512387383-rc2lkoapm2fm-rtrmadp-3-usa-trump.jpg",
+      "publishedAt": "2026-11-10T11:56:00Z",
+      "content": "A senior official from the United Arab Emirates said Monday that the U.S.-Iran war was unlikely to be decisively settled for a \"long period.\"\r\nDr. Anwar Gargash, diplomatic adviser to the president a\u2026 [+1227 chars]"
+    }
+  ]
+}
