@@ -1,0 +1,476 @@
+{
+  "status": "success",
+  "totalResults": 212,
+  "results": [
+    {
+      "article_id": "95741d248aa477680f91dd45ccf3a846",
+      "link": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-ballistic-missile-moscow-kyiv-b3083543.html",
+      "title": "Ukraine-Russia war latest: Explosions rock Kyiv and Moscow after peace talks end without breakthrough",
+      "description": "Ukraine and Russia exchange attacks on each other\u2019s capitals as US envoys set to travel to Moscow to meet Putin",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "world",
+        "europe"
+      ],
+      "creator": [
+        "shweta sharma"
+      ],
+      "language": "english",
+      "country": [
+        "united kingdom"
+      ],
+      "category": [
+        "world"
+      ],
+      "datatype": "multimedia",
+      "pubDate": "2026-11-12 03:47:03",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-12 04:02:32",
+      "image_url": null,
+      "video_url": "https://large-cdn.ex.co/transformations-account/production/99589e92-e6b5-4a6b-8db4-bb0120ace3e1/822cd06e-a4d9-4893-815f-ee045dcdd2d0/720p.mp4",
+      "source_id": "independentuk",
+      "source_name": "The Independent",
+      "source_priority": 290,
+      "source_url": "https://www.independent.co.uk",
+      "source_icon": "https://i.newsdata.io/independentuk.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 91.41,
+        "neutral": 7.96,
+        "positive": 0.63
+      },
+      "ai_tag": [
+        "conflicts & war",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "71e142758399185cc2ca1d5fcbf35dcb",
+      "link": "https://econotimes.com/Germany-Prepares-Legal-Framework-for-Cyberattack-Response-1775613",
+      "title": "Germany Prepares Legal Framework for Cyberattack Response",
+      "description": "Dobrindt linked the plan to attacks on supermarket cooling systems in Germany, France and other European countries.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "germany",
+        "hybrid threats",
+        "alexander dobrindt",
+        "cyberattacks",
+        "critical infrastructure"
+      ],
+      "creator": [
+        "elias mercer"
+      ],
+      "language": "english",
+      "country": [
+        "canada",
+        "india",
+        "china",
+        "united states of america",
+        "france",
+        "australia",
+        "japan",
+        "south korea",
+        "germany",
+        "united kingdom"
+      ],
+      "category": [
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-12 02:48:03",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-12 02:57:27",
+      "image_url": "https://wfuxxvxhdynkhcrlavdu.supabase.co/storage/v1/object/public/article-media/articles/d7c5521f4d63573f82181bf1b0fc91a013ac47fa5b77d71357276eeeb89fbe68.webp",
+      "video_url": null,
+      "source_id": "econotimes",
+      "source_name": "Econotimes",
+      "source_priority": 99999999,
+      "source_url": "https://www.econotimes.com",
+      "source_icon": "https://i.newsdata.io/econotimes.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 3.29,
+        "neutral": 89.74,
+        "positive": 6.97
+      },
+      "ai_tag": [
+        "cybercrime and cybersecurity",
+        "supply chain and logistics"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "78b151a38a8f6363bea86d4ef157a14d",
+      "link": "https://organiser.org/2026/11/12/425761/international/france-fridge-cyberattacks-paris-links-iran-irgc-to-supermarket-sabotage-weighs-retaliation-against-tehran/",
+      "title": "France Fridge Cyberattacks: Paris links Iran IRGC to supermarket sabotage, weighs retaliation against Tehran",
+      "description": "France has accused Iran of orchestrating a series of cyberattacks that sabotaged supermarket refrigeration systems across the country, with Foreign Minister Jean-Noel Barrot warning that Paris is considering retaliatory measures, including sanctions and travel restrictions. The French government summoned Iran\u2019s ambassador on November 10 after an investigation attributed the cyberattacks to Shahid Kaveh, an affiliate of the cyber unit of Iran\u2019s Islamic Revolutionary Guard Corps (IRGC). Barrot said France was \u201cnot ruling anything out\u201d in its response, signalling that diplomatic and economic measures remain under consideration. Speaking to Franceinfo radio, Barrot said possible measures included prohibiting individuals held responsible from entering European territory and freezing their assets. Paris is also preparing to propose new European sanctions against Iranian individuals and entities allegedly involved in the sabotage operation. The cyberattacks targeted approximately 700 grocery stores during the night of 11\u201312 October, remotely manipulating refrigeration systems and causing temperatures inside refrigerators and freezers to rise by as much as 50 degrees Celsius. Investigation traces attacks to Iranian-linked cyber unit According to the findings presented by French authorities, the operation affected major supermarket chains, including Intermarche, E. Leclerc, Carrefour, Monoprix and Cooperative U. The disruption caused food spoilage, fires and damage estimated at tens of millions of dollars. Investigators identified the use of Farsi and internet protocol addresses pointing to devices in Iran. The Paris Prosecutor\u2019s Office said the cyberattacks were carried out in the interests of a foreign power, identified as Iran. Read More: From Non-Alignment to Multi-Alignment: How India is emerging as a key power in the new world order The attackers reportedly gained remote access to refrigeration controllers supplied by Danish engineering company Danfoss and Italian manufacturer Dixell. Using web interfaces, they took control of the equipment, initiated continuous defrost cycles and disabled safety alerts designed to warn operators when temperatures crossed critical thresholds. The manipulation caused refrigeration units to heat up, compromising food storage and triggering fires in some locations. Paris chief prosecutor Laure Beccuau said investigators were seeking international arrest warrants in connection with the operation. France\u2019s Ministry for Europe and Foreign Affairs described the incident as an unprecedented cyber campaign in terms of its scale and aggressiveness. It characterised the operation as the first cyber offensive against French territory conducted purely for sabotage. The ministry said the attacks threatened critical infrastructure, violated international law and could not be justified. Tehran rejects accusations as European attacks widen Iran rejected the cyberattack allegations on 10 November, describing them as baseless and malicious. In a statement, its Foreign Ministry accused France of making repeated allegations to divert attention from its policies towards Iran and West Asia. Tehran said the accusations were intended to damage its international image and relations with other countries. France has previously attributed cyber operations and information manipulation campaigns against the country to Iranian-linked actors. These include attacks targeting the satirical publication Charlie Hebdo in 2023 and the Paris Olympics in 2024. The allegations led to European sanctions in March 2026 against Iranian private company Emennet Pasargad. The supermarket attacks have also raised concerns beyond France. During November, retailers in Belgium, Luxembourg, the Netherlands, Finland, Ireland and Sweden reported losses after similar refrigeration systems were targeted. French blood banks were also affected by cyberattacks on November 2. The French Blood Establishment said temperature and defrost settings in cold-storage units used for blood products and samples had been altered to excessively high levels. The incidents have added to European concerns over attacks on essential services and critical infrastructure. Separately, a wave of hoax bomb threats has disrupted passenger flights across the region, with several aircraft making emergency landings. France\u2019s response is now likely to involve diplomatic action and efforts to secure wider European measures against those identified by investigators. Barrot\u2019s warning that Paris is not ruling anything out leaves the possibility of further action against Tehran open.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "france fridge cyberattacks",
+        "franceinfo",
+        "main",
+        "featured",
+        "international edition",
+        "islamic revolutionary guard corps"
+      ],
+      "creator": [
+        "dr vishnu aravind"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-12 01:30:31",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-12 01:42:44",
+      "image_url": "https://organiser.org/wp-content/uploads/2026/11/whatsapp-image-2026-11-11-at-19.42.59-1.webp",
+      "video_url": null,
+      "source_id": "organiser",
+      "source_name": "Organiser Weekly",
+      "source_priority": 225047,
+      "source_url": "https://organiser.org",
+      "source_icon": "https://i.newsdata.io/organiser.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 85.58,
+        "neutral": 13.58,
+        "positive": 0.84
+      },
+      "ai_tag": [
+        "cybercrime and cybersecurity"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "9ba70bedeb3cd028e4029ee305b6b631",
+      "link": "https://securitybrief.in/story/australia-cyber-attacks-rise-39-as-ransomware-grows",
+      "title": "Australia cyber attacks rise 39% as ransomware grows",
+      "description": "Ransomware claims hit a record 1,063 victims in October, even as Australian organisations still faced 2,117 cyber attacks a week, up 39% year on year.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "technology"
+      ],
+      "creator": [
+        "mara sugue"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-12 01:28:45",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-12 01:40:18",
+      "image_url": "https://securitybrief.in/uploads/story/2026/11/12/compatible_Omer_Dembinsky-story-324229.jpg",
+      "video_url": null,
+      "source_id": "securitybrief_in",
+      "source_name": "Securitybrief India",
+      "source_priority": 106392,
+      "source_url": "https://securitybrief.in",
+      "source_icon": "https://i.newsdata.io/securitybrief_in.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 97.09,
+        "neutral": 2.2,
+        "positive": 0.71
+      },
+      "ai_tag": [
+        "cybercrime and cybersecurity"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "95055667dc6ac9e0b2057d59879192d5",
+      "link": "https://beforeitsnews.com/politics/2026/11/byington-bombshell-report-trump-restores-american-republic-common-law-demolishes-privately-owned-satan-worshiping-us-inc-3370077.html",
+      "title": "Byington Bombshell Report: Trump Restores American Republic, Common Law & Demolishes Privately Owned, Satan Worshiping US Inc.",
+      "description": "On March 21, 2026 President Donald J. Trump officially, yet secretly, announced the restoration of the American Republic. With that, Common Law sovereignty returned, reestablishing the true Constitutional Republic and freeing the people from [...]",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "politics"
+      ],
+      "creator": [
+        "judy byington"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "politics",
+        "lifestyle"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-12 01:13:36",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-12 06:35:30",
+      "image_url": "https://beforeitsnews.com/img/v3/no-img.png",
+      "video_url": null,
+      "source_id": "beforeitsnews",
+      "source_name": "Beforeitsnews",
+      "source_priority": 26770,
+      "source_url": "https://beforeitsnews.com",
+      "source_icon": "https://i.newsdata.io/beforeitsnews.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 91.77,
+        "neutral": 6.67,
+        "positive": 1.56
+      },
+      "ai_tag": [
+        "politics",
+        "religion"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "da8447e1d5309135974efc1b2d52b9c4",
+      "link": "https://www.theregister.com/off-prem/2026/11/12/russian-cloud-yandex-says-drone-attacks-on-its-datacenters-caused-data-loss/5309234",
+      "title": "Russian cloud Yandex says drone attacks on its datacenters caused data loss",
+      "description": "Now enables backup by default and hints a little on-prem infra never hurt anyone",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "off-prem"
+      ],
+      "creator": [
+        "simon sharwood"
+      ],
+      "language": "english",
+      "country": [
+        "nigeria"
+      ],
+      "category": [
+        "science",
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-12 01:10:24",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-12 03:06:12",
+      "image_url": "https://image.theregister.com/5309241.webp?width=1200",
+      "video_url": null,
+      "source_id": "theregister",
+      "source_name": "The Register",
+      "source_priority": 27110,
+      "source_url": "https://www.theregister.com",
+      "source_icon": "https://i.newsdata.io/theregister.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 19.58,
+        "neutral": 75.07,
+        "positive": 5.35
+      },
+      "ai_tag": [
+        "telecom",
+        "cybercrime and cybersecurity"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "9f93a74147d1ec100c67bbb8590a4b4e",
+      "link": "https://indiaseatradenews.com/maersk-confirms-cybersecurity-breach-involving-legacy-it-system-says-no-customer-data-compromise-detected/",
+      "title": "Maersk Confirms Cybersecurity Breach Involving Legacy IT System; Says No Customer Data Compromise Detected",
+      "description": "Danish shipping giant A.P. Moller-Maersk has confirmed a cybersecurity breach involving an older IT system inherited through a previous acquisition, raising fresh concerns over cyber threats facing the global shipping and logistics industry. The company said on Wednesday that hackers had gained access to the legacy system and extracted data. Maersk\u2019s cybersecurity team launched an [\u2026] The post Maersk Confirms Cybersecurity Breach Involving Legacy IT System; Says No Customer Data Compromise Detected appeared first on India Seatrade News.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "global news"
+      ],
+      "creator": [
+        "istn"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-12 00:39:13",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-12 00:42:00",
+      "image_url": "https://indiaseatradenews.com/wp-content/uploads/2024/09/hacking.jpg",
+      "video_url": null,
+      "source_id": "indiaseatradenews",
+      "source_name": "India Seatrade News",
+      "source_priority": 149507,
+      "source_url": "https://indiaseatradenews.com",
+      "source_icon": "https://i.newsdata.io/indiaseatradenews.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 39.0,
+        "neutral": 52.89,
+        "positive": 8.11
+      },
+      "ai_tag": [
+        "telecom",
+        "cybercrime and cybersecurity"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "889030059d129c17b51439418bcd5f5d",
+      "link": "https://www.rutlandherald.com/news/business/ap-technology-summarybrief-at-7-13-p-m-est/article_ad3309bf-3b3b-5c53-8048-379216056515.html",
+      "title": "AP Technology SummaryBrief at 7:13 p.m. EST",
+      "description": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "business"
+      ],
+      "creator": [
+        "ap"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-12 00:13:42",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-12 04:09:01",
+      "image_url": "https://bloximages.chicago2.vip.townnews.com/rutlandherald.com/content/tncms/custom/image/21fa4cf2-cde4-11eb-949b-3b99a2a8f984.jpg?resize=600%2C600",
+      "video_url": null,
+      "source_id": "rutlandherald",
+      "source_name": "Rutland Herald",
+      "source_priority": 27612,
+      "source_url": "https://www.rutlandherald.com",
+      "source_icon": "https://i.newsdata.io/rutlandherald.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 7.21,
+        "neutral": 91.63,
+        "positive": 1.16
+      },
+      "ai_tag": [
+        "telecom",
+        "technology"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "2ba69755b6bb2ff4006e4385b4c7b47f",
+      "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+      "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
+      "description": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "robert lemos"
+      ],
+      "language": "english",
+      "country": [
+        "united kingdom"
+      ],
+      "category": [
+        "top",
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-12 00:00:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-12 00:08:27",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc3d52fd595b74813/6af39e0cb6c48b43d1f3dedb/musashi-kojiro-attack-defense-statues-GARAGE38-shutterstock.jpg?width=720&quality=80&disable=upscale",
+      "video_url": null,
+      "source_id": "darkreading",
+      "source_name": "Dark Reading",
+      "source_priority": 82419,
+      "source_url": "https://www.darkreading.com",
+      "source_icon": "https://i.newsdata.io/darkreading.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 15.02,
+        "neutral": 12.35,
+        "positive": 72.63
+      },
+      "ai_tag": [
+        "cybercrime and cybersecurity",
+        "technology"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "50645defe945e7a2c30a02f1c392aaa1",
+      "link": "https://www.financialcontent.com/article/abnewswire-2026-11-11-killnet-switch-unveils-a-first-of-its-kind-all-in-one-plug-and-play-ai-cyberattack-box",
+      "title": "Killnet Switch Unveils a First-of-Its-Kind, All-in-One, Plug-and-Play AI Cyberattack Box",
+      "description": "Christchurch, New Zealand, November, 11, 2026 - Imagine your business is under cyberattack. An alert appears on your screen. Your IT team is notified. But while everyone is trying to understand what is happening, the attack may already be spreading through your network.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "financialcontent"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-11 23:30:02",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-11 23:52:25",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "financialcontent",
+      "source_name": "Financialcontent",
+      "source_priority": 1948378,
+      "source_url": "https://www.financialcontent.com",
+      "source_icon": "https://i.newsdata.io/financialcontent.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 41.81,
+        "neutral": 52.44,
+        "positive": 5.75
+      },
+      "ai_tag": [
+        "cybercrime and cybersecurity",
+        "social media and internet"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    }
+  ],
+  "nextPage": "1794439802610454973"
+}

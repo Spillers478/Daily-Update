@@ -1,0 +1,58 @@
+{
+  "groups": {
+    "https://www.thehindubusinessline.com/markets/commodities/crude-oil-prices-may-fall-to-75-by-december-as-west-asia-tensions-ease/article71690797.ece": "a",
+    "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists": "b",
+    "https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil": "c",
+    "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Crude-Output-Jumps-26-as-Riyadh-Reports-Near-Pre-War-Production.html": "d",
+    "https://www.yahoo.com/news/articles/iran-not-allow-enriched-nuclear-102614440.html": "e",
+    "https://www.aljazeera.com/sports/2026/11/11/motogp-carlos-ezpeleta-deputy-ceo-qatar-grand-prix-yamaha-iran-war": "f",
+    "https://www.globalresearch.ca/withdrawing-us-forces-gulf/5945652": "g",
+    "https://slashdot.org/firehose.pl?op=view&amp;id=186689444": "e",
+    "https://www.rigzone.com/news/wire/saudis_tell_opec_production_surged_to_highest_since_war_began-11-nov-2026-185059-article/": "d",
+    "https://www.dailymail.com/news/article-16264935/Controversial-London-Islamic-charity-hosted-British-pro-Iran-fanatic-filmed-attacking-anti-regime-protesters.html": "h",
+    "https://www.foxnews.com/media/newly-elected-nj-democrat-repeatedly-dodges-question-whether-iran-adversary": "i",
+    "https://freerepublic.com/focus/f-news/4402619/posts": "e",
+    "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran": "j",
+    "https://rt-english.com/news/648709-us-bessent-military-base-iran-threats/": "c",
+    "https://www.socialnews.xyz/2026/11/11/sanaa-funeral-held-for-airstrike-victims-gallery/": "k",
+    "https://www.outlookindia.com/international/israel-airstrike-gaza-nasser-hospital-khan-younis-six-palestinians-killed": "l",
+    "https://jowhar.com/israeli-airstrike-kills-six-at-gaza-hospital-civil-defence-reports/": "l",
+    "https://www.dailymail.com/sport/football/article-16285535/usa-withdraws-fifa-u17-world-cup-qatar.html": "m",
+    "https://www.aa.com.tr/en/middle-east/israeli-airstrike-kills-4-at-nasser-hospital-in-southern-gaza/4121545": "l",
+    "https://www.aa.com.tr/en/middle-east/israeli-airstrike-kills-6-palestinians-at-nasser-hospital-in-southern-gaza/4121545": "l",
+    "https://www.detroitnews.com/videos/news/world/2026/11/11/fire-breaks-out-at-tent-camp-following-israeli-airstrike-metal-foundry-nov-10-gaza-city/92725247007/": "n",
+    "https://gyanhigyan.com/international/tragic-israeli-airstrike-claims-life-in-gaza-city-amid/cid19516167.htm": "o",
+    "https://en.protothema.gr/2026/11/11/gaza-floods-underline-humanitarian-crisis-as-unicef-and-who-warn-of-disease-outbreaks/": "p",
+    "http://foreignpolicy.com/2026/11/11/us-midterm-elections-netanyahu-trump-republicans-israel-aid/": "q",
+    "https://www.aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel": "q"
+  },
+  "contradictions": [
+    {
+      "group": "l",
+      "claim_type": "figures",
+      "summary": "Sources disagree on the death toll from the Israeli strike on Nasser Hospital: four versus six killed.",
+      "sources": [
+        {
+          "source": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-airstrike-kills-4-at-nasser-hospital-in-southern-gaza/4121545",
+          "says": "Israeli airstrike killed 4 at Nasser Hospital"
+        },
+        {
+          "source": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-airstrike-kills-6-palestinians-at-nasser-hospital-in-southern-gaza/4121545",
+          "says": "Israeli airstrike killed 6 Palestinians at Nasser Hospital"
+        },
+        {
+          "source": "Outlook",
+          "url": "https://www.outlookindia.com/international/israel-airstrike-gaza-nasser-hospital-khan-younis-six-palestinians-killed",
+          "says": "Strike killed six and wounded more than 20"
+        },
+        {
+          "source": "Jowhar",
+          "url": "https://jowhar.com/israeli-airstrike-kills-six-at-gaza-hospital-civil-defence-reports/",
+          "says": "Strike killed six and injured more than 20, per civil defence"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "status": "ok",
+  "totalResults": 52,
+  "articles": [
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": null,
+      "title": "Romanian intelligence agency says it identified Russian-linked cyber attack",
+      "description": "The attack comes amid Romanian concerns about Russian cyber operations, disinformation and other forms of hybrid warfare",
+      "url": "https://www.irishtimes.com/world/europe/2026/11/11/romanian-intelligence-agency-says-it-identified-russian-linked-cyber-attack/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/UTYZYIP4B3G2EC4YKYHTTNGO5Q.jpg?smart=true&auth=4ae3ce518dc51dfd83eea5c351b98acdbee19b9bf13b8985667113b0b563f071&width=1200&height=630",
+      "publishedAt": "2026-11-11T15:39:20Z",
+      "content": "A hacking group linked to Russias FSB security service staged a cyberattack on a Romanian government organisation last year, the countrys intelligence agency said on Wednesday.\r\nRussias embassy in Ro\u2026 [+1527 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Amazon.com"
+      },
+      "author": "Andy Hayes",
+      "title": "Building a GPU workstation for visual effects with Amazon EC2: Part 5 \u2013 Security",
+      "description": "The final post in our GPU workstation series covers security for visual effects workstations on Amazon EC2: controlling who can reach the desktop, protecting the Amazon DCV session in transit, and safeguarding credentials, images, and storage, plus IAM, encry\u2026",
+      "url": "https://aws.amazon.com/blogs/compute/building-a-gpu-workstation-for-visual-effects-with-amazon-ec2-part-5-security/",
+      "urlToImage": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/10/23/ComputeBlog-2763-featured-image.png",
+      "publishedAt": "2026-11-11T15:27:23Z",
+      "content": "For many years Amazon Web Services (AWS) has been guiding users in the deployment of powerful NVIDIA GPU backed workstations for graphics intensive workloads. With the recent expansion of our G-serie\u2026 [+16143 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Amazon.com"
+      },
+      "author": "Andy Hayes",
+      "title": "Build a GPU workstation for visual effects on Amazon EC2: Part 1 \u2013 Setup",
+      "description": "The first in a five-part series on building NVIDIA GPU-powered virtual workstations on Amazon EC2 G-series instances. Part 1 covers the G instance families, Amazon DCV desktop streaming, connectivity options, and the account, service quota, networking, and IA\u2026",
+      "url": "https://aws.amazon.com/blogs/compute/build-a-gpu-workstation-for-visual-effects-on-amazon-ec2-part-1-setup/",
+      "urlToImage": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/10/23/ComputeBlog-2764-featured-image.png",
+      "publishedAt": "2026-11-11T15:27:06Z",
+      "content": "For many years Amazon Web Services (AWS) has been guiding users in the deployment of powerful NVIDIA GPU-backed workstations for graphics-intensive workloads. With the recent expansion of our G-serie\u2026 [+37687 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Uriel Araujo",
+      "title": "From Supermarket Freezers to Satellites: Europe\u2019s Cyberattacks, Vulnerability Exposed",
+      "description": "Europe\u2019s widening cyber crisis reveals alarming weaknesses in essential infrastructure. The attacks thus raise geopolitical questions about digital sovereignty and technological dependence on the US.\n***\nEurope is currently facing an unprecedented wave of cyb\u2026",
+      "url": "https://www.globalresearch.ca/supermarket-freezers-satellites-europe-cyber-vulnerability/5945625",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/11/europe-cyber-attack-supermarkets.jpg",
+      "publishedAt": "2026-11-11T14:47:12Z",
+      "content": "Europes widening cyber crisis reveals alarming weaknesses in essential infrastructure. The attacks thus raise geopolitical questions about digital sovereignty and technological dependence on the US.\r\u2026 [+6970 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+      "description": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026.\n\nCynet's CyOps and Research teams said they identified the suspicious activity in October \u2026",
+      "url": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5L1m-CqPOrgk9otByC4blBWuqDylovaSyHYhirRHQvzjjSUB0DBWbxnF_8cNIsONC6yoL3h-ydX61vmnsctKr_IbcnvmwRLAMqch16Ru5oMVuDWy1bilEt6EAgEerB7mUxICRgck1NkoJeA7Y2lvV0oqLkw12-f1xMhC7Dw5F1aK35NhVf3oZwj4WbfOT/s1700-nu-rw-lo-l85-e365/qliksense.jpg",
+      "publishedAt": "2026-11-11T14:01:00Z",
+      "content": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026.\r\nCynet's CyOps and Research te\u2026 [+3538 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "At least 300 schools evacuated in Italy after email bomb alerts",
+      "description": "Italian PM Meloni says there is no danger as UK and Northern Ireland authorities also report 'bogus' alerts.",
+      "url": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP25286455858672-1794397236.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-11T13:18:36Z",
+      "content": "At least 300 schools in Italy have been evacuated after receiving the same hoax bomb threat by email while authorities in Scotland and Northern Ireland also report receiving similar alerts.\r\nItalian \u2026 [+2385 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "HuffPost",
+      "title": "Bomb Alerts Sent To Schools In Italy And Northern Ireland In Latest Threats",
+      "description": "This marks the latest in a series of threats and cyberattacks on supermarkets, blood banks, air traffic and TV broadcasters across Europe.",
+      "url": "https://www.huffpost.com/entry/school-bomb-threats-italy-northern-ireland_n_6af461bae4b01d00eda9ab71",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6af462e11500009b8613b579.jpeg?cache=yA3gCHlWrE&ops=1200_630",
+      "publishedAt": "2026-11-11T12:45:09Z",
+      "content": "ROME, Nov 11 (Reuters) - At least 300 schools in Italy were evacuated on Wednesday after receiving a bomb alert message, the government said, the latest in a series of threats and cyberattacks on sup\u2026 [+2467 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
+      "description": "Emails containing the false warnings were sent to schools in Rome, Naples, Vicenza, Florence, Pisa, Trieste and other Italian cities, officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg",
+      "publishedAt": "2026-11-11T12:30:29Z",
+      "content": "Some 300 schools across Italy have received bomb threats, according to Education Minister Giuseppe Valditara, who described the incidents as probably a \"cyber-attack, not a genuine risk\".\r\nValditara \u2026 [+1811 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "At least 300 Italian schools evacuated after email bomb alerts",
+      "description": "ROME: At least 300 schools in Italy were evacuated on Wednesday (Nov 11) after receiving a bomb alert message, the government said, the latest in a series of threats and cyberattacks on supermarkets, blood banks, air traffic and TV broadcasters across Europe.\u2026",
+      "url": "https://www.channelnewsasia.com/world/italy-northern-ireland-schools-evacuated-email-bomb-threat-6542766",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--FiqILVRj--/c_crop,h_1125,w_1999,x_1,y_104/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/11/ap26315420827475.jpg?itok=KUwr-hY4",
+      "publishedAt": "2026-11-11T11:59:22Z",
+      "content": "ROME: At least 300 schools in Italy were evacuated on Wednesday (Nov 11) after receiving a bomb alert message, the government said, the latest in a series of threats and cyberattacks on supermarkets,\u2026 [+1966 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mediafax.ro"
+      },
+      "author": "Laura Buciu",
+      "title": "Cyberattack attributed to a Russian hacker group thwarted by the SRI. Government institution targeted",
+      "description": "The Romanian Intelligence Service (SRI) announced on Wednesday that it had identified and halted a cyberattack against a Romanian government institution, attributing it to the Russian group APT TURLA.",
+      "url": "https://www.mediafax.ro/english/cyberattack-attributed-to-a-russian-hacker-group-thwarted-by-the-sri-government-institution-targeted-23841486",
+      "urlToImage": "https://www.mediafax.ro/wp-content/uploads/2025/03/7887171-mediafax_foto-alexandru_dobre-scaled-e1752479138713.jpg",
+      "publishedAt": "2026-11-11T11:40:31Z",
+      "content": "The attempt to compromise IT systems was discovered in December 2025; the intervention of the National Cyberint Center made it possible to counter the attack and remediate its effects.\r\nAccording to \u2026 [+1546 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+      "description": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/10/28/CISA.jpg",
+      "publishedAt": "2026-11-11T10:12:08Z",
+      "content": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks.\r\nCisco BroadWorks is a clou\u2026 [+3541 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securelist.com"
+      },
+      "author": "Stanislav Larinsky, Vladislav Vlasov, Boris Trefilov",
+      "title": "Citrus Ransomware: VLESS for traffic, Sn00py for encryption, and LLMs lending a hand",
+      "description": "We break down the Citrus Ransomware group's attacks: the attackers' TTPs and tooling, including VLESS traffic tunneling and LLM use, plus their links to Toy Ghouls.",
+      "url": "https://securelist.com/citrus-ransomware/121879/",
+      "urlToImage": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/11/10223610/citrus1_securelist-featured_1200x600_x2.jpg",
+      "publishedAt": "2026-11-11T10:00:25Z",
+      "content": "In recent years, cyberthreats have increasingly taken a hybrid approach, combining time-tested techniques for advancing through infrastructure, modern methods of evading network filters, and automati\u2026 [+23828 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "Phil Muncaster",
+      "title": "OT Incidents Hit a Third of Industrial Organizations, SANS Finds",
+      "description": "SANS Institute records largest single-year jump in ICS/OT cyber incidents",
+      "url": "https://www.infosecurity-magazine.com/news/ot-incidents-third-industrial/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/55001c65-2f40-47ac-b253-1d44b98c11fa.jpg",
+      "publishedAt": "2026-11-11T10:00:00Z",
+      "content": "A third of organizations running OT or industrial control systems (ICS) recorded at least one cyber incident over the past year, according to new data from SANS Institute.\r\nThe cybersecurity training\u2026 [+3427 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "euronews.com",
+      "title": "Ethical hacker warns: one in two people risk falling victim to a cyberattack",
+      "description": "From supermarket fridges and blood services to Berlin's state network, cyberattacks increasingly hit critical infrastructure, as an ethical hacker tells Euronews, often exploiting human error.",
+      "url": "https://biztoc.com/x/240109b052f9660e",
+      "urlToImage": "https://biztoc.com/cdn/240109b052f9660e_s.webp",
+      "publishedAt": "2026-11-11T09:41:27Z",
+      "content": "From supermarket fridges and blood services to Berlin's state network, cyberattacks increasingly hit critical infrastructure, as an ethical hacker tells Euronews, often exploiting human error.\r\nThis \u2026 [+51 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Inside Higher Ed"
+      },
+      "author": "kathryn.palmer@insidehighered.com",
+      "title": "Ransomware Gang Says It Hacked Vanderbilt University",
+      "description": "Ransomware Gang Says It Hacked Vanderbilt University\n\n \n\n\n \nkathryn.palmer\u2026\n\nWed, 11/11/2026 - 03:00 AM\n\nThe university had restored many of its operations by Tuesday, but hackers claim they stole one\u00a0million\u2013plus Social Security numbers and tranches of other\u2026",
+      "url": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/11/11/ransomware-gang-says-it-hacked-vanderbilt",
+      "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-11/Vanderbilt_digital_lock.jpg?itok=lZwZoM3C",
+      "publishedAt": "2026-11-11T08:00:00Z",
+      "content": "A gang of criminal extortionists is taking credit for a hack that caused major disruptions at Vanderbilt University this week.\u00a0\r\nOn Monday morning, the university told faculty, students and staff in \u2026 [+4561 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Hanna Duggal, Marium Ali",
+      "title": "If hackers can take over a supermarket fridge, what else is at risk?",
+      "description": "As our lives become more digitised, we show which smart systems can be hacked and how to protect yourself.",
+      "url": "https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/INTERACTIVE-CYBER-ATTACKS-COVER-NOV10-2026-1794319395.png?resize=1200%2C630",
+      "publishedAt": "2026-11-11T07:20:08Z",
+      "content": "Hackers have twice taken control of supermarket fridges across Europe in less than a month, sparking fires and spoiling millions of euros worth of food.\r\nOn October 11 and 12, attackers heated units \u2026 [+7399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Risky.biz"
+      },
+      "author": "James Wilson",
+      "title": "Risky Business #859 -- ARTEX damage approaches crisis levels",
+      "description": "On this week\u2019s show Patrick Gray and James Wilson are joined by special guest co-host Chris Krebs to talk through the week\u2019s cybersecurity news, including:\n\n<ul>\n <li>Everyone\u2019s using the ARTEX pentesting framework to hack the planet and it has the makings of\u2026",
+      "url": "https://risky.biz/RB859/",
+      "urlToImage": "https://risky.biz/static/img/RB-OG-Social.jpg",
+      "publishedAt": "2026-11-11T06:09:15Z",
+      "content": "Presented by\r\nOn this weeks show Patrick Gray and James Wilson are joined by special guest co-host Chris Krebs to talk through the weeks cybersecurity news, including:\r\n<ul><li>Everyones using the AR\u2026 [+2791 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Garrison Vance",
+      "title": "France Accuses Iran\u2019s Revolutionary Guards of Cyberattacks on Supermarket Refrigeration Systems",
+      "description": "French officials on Monday, Nov. 9, accused Iran\u2019s Islamic Revolutionary Guard Corps (IRGC) of responsibility for cyberattacks that disabled commercial refrigerators and freezers across France last month, saying there would be consequences for Iran. French au\u2026",
+      "url": "https://www.naturalnews.com/2026-11-11-france-accuses-irgc-cyberattacks-supermarket-refrigeration-systems.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/cyberattack-irans-revolutionary-guards-supermarket-refrigeration-systems-6465-24aaa263-original.jpg",
+      "publishedAt": "2026-11-11T06:00:00Z",
+      "content": "French officials on Monday, Nov. 9, accused Iran's Islamic Revolutionary Guard Corps (IRGC) of responsibility for cyberattacks that disabled commercial refrigerators and freezers across France last m\u2026 [+5920 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Jeremy Kahn",
+      "title": "Nvidia CEO Jensen Huang might hang on as CEO. But his influence on U.S. AI policy is over",
+      "description": "A spy scandal jeopardized Nvidia CEO Jensen Huang. Even if he survives atop Nvidia, a key opponent of export controls and advocate for open-source AI has been laid low.",
+      "url": "https://fortune.com/2026/11/10/nvidia-ceo-jensen-huang-might-hang-on-as-ceo-but-his-influence-on-u-s-ai-policy-is-over/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2299493352-1-e1794350896266.jpg?resize=1200,600",
+      "publishedAt": "2026-11-11T00:12:56Z",
+      "content": "Hello and welcome to Eye on AI. Jeremy Kahn here. In this edition:<ul><li>Nvidia was built around one man. Now a spy scandal threatens that model.</li><li>Before the scandal broke, Nvidia CEO Jensen \u2026 [+18841 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "author": "Krystle Vermes",
+      "title": "Financial institutions confront the complexities of scaling AI",
+      "description": "AI in financial services is moving beyond the pilot phase as banks, capital markets firms, mortgage lenders and other organizations begin deploying the technology more broadly. The challenge is shifting toward managing AI responsibly at scale while meeting st\u2026",
+      "url": "https://siliconangle.com/2026/11/10/financial-institutions-confront-complexities-of-scaling-ai-awsfinserv/",
+      "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/AI-Transforming-Financial-Services-2-800x450.png",
+      "publishedAt": "2026-11-10T22:05:29Z",
+      "content": "AI in financial services is moving beyond the pilot phase as banks, capital markets firms, mortgage lenders and other organizations begin deploying the technology more broadly. The challenge is shift\u2026 [+9105 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Matteo Wong",
+      "title": "Prepare for the AI Apocalypse Like You\u2019d Prepare for a Snowstorm",
+      "description": "Water, batteries, and go bags",
+      "url": "https://www.theatlantic.com/technology/2026/11/how-to-prepare-for-the-ai-apocalypse/689367/?utm_source=feed",
+      "urlToImage": null,
+      "publishedAt": "2026-11-10T22:01:25Z",
+      "content": "Since late last year, a small but growing chorus of cybersecurity experts has been warning that AI models were pushing the internet toward a sort of cataclysm. Hospitals, banks, utilities, basically \u2026 [+9199 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Smartdatacollective.com"
+      },
+      "author": "Annie Qureshi",
+      "title": "After the Cyberattack, Can You Trust the Machine?",
+      "description": "Restoring a system is only the start of proving it safe.",
+      "url": "https://www.smartdatacollective.com/after-cyberattack-trust-machine/",
+      "urlToImage": "https://www.smartdatacollective.com/wp-content/uploads/axp-social-cards/48060d346fbfa4f73dea450260df9469118a79c00a0d400c74a8227dead99d85.jpg",
+      "publishedAt": "2026-11-10T20:38:51Z",
+      "content": "Bringing a refrigeration controller back online doesnt tell a supermarket manager if the food inside is still safe to sell. Somebody still has to determine how warm the unit got and how long it staye\u2026 [+14162 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheBlaze"
+      },
+      "author": "Andrew Chapados",
+      "title": "Vanderbilt hackers claim a MILLION Social Security numbers stolen \u2014 as seething students beg for answers",
+      "description": "Vanderbilt students logged on to school computers to hear a cryptic message this week: \"You have been compromised.\"On Monday morning, the university realized it had been hacked, with the audio message being embedded into its systems.'If you could not tell alr\u2026",
+      "url": "https://www.theblaze.com/tech/vanderbilt-hack-social-security-nom",
+      "urlToImage": "https://www.theblaze.com/media-library/vanderbilt-hackers-claim-a-million-social-security-numbers-stolen-as-seething-students-beg-for-answers.png?id=68649496&width=1200&height=600&coordinates=0%2C29%2C0%2C30",
+      "publishedAt": "2026-11-10T18:56:41Z",
+      "content": "Vanderbilt students logged on to school computers to hear a cryptic message this week: \"You have been compromised.\"\r\nOn Monday morning, the university realized it had been hacked, with the audio mess\u2026 [+3307 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Sead Fadilpa\u0161i\u0107",
+      "title": "Hearing aid giant Amplifon reveals data breach hits thousands of US customers",
+      "description": "Some sources are saying more than a million people are affected as the company investigates further.",
+      "url": "https://www.techradar.com/pro/security/hearing-aid-giant-amplifon-reveals-data-breach-hits-thousands-of-us-customers-social-security-numbers-and-medical-information-stolen",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7DtE9RCVmUtmH2FAfvxsvM-2560-80.jpg",
+      "publishedAt": "2026-11-10T18:35:00Z",
+      "content": "<ul><li>Amplifon Americas disclosed a cyberattack that exposed personal, insurance, and healthcare-related information</li><li>Stolen data included medical records and identifiers, with some individu\u2026 [+4095 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Ebru Surucu-Balci, Assistant Professor in Circular Supply Chains, University of Bradford, Gokcay Balci, Lecturer in Sustainable Freight Transport and Logistics, University of Leeds",
+      "title": "You\u2019ve been told to prep three days of food, but moving past day four will need stronger supply chains",
+      "description": "Supply chains have been designed for efficiency rather than resilience.",
+      "url": "https://theconversation.com/youve-been-told-to-prep-three-days-of-food-but-moving-past-day-four-will-need-stronger-supply-chains-295937",
+      "urlToImage": "https://images.theconversation.com/files/771026/original/file-20261110-64-gaqg2n.jpg?ixlib=rb-4.1.1&rect=0%2C83%2C1000%2C500&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-11-10T16:44:21Z",
+      "content": "Danishch/Shutterstock\r\nThe UK government\u2019s recent \u201cBe Ready\u201d campaign advises households to keep a three-day supply of food and drink in case of emergency. Sales of bottled water and tinned foods hav\u2026 [+4805 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Mark Hallam",
+      "title": "Iran denies role in fridge hack, France summons ambassador",
+      "description": "France has said it rules \"nothing\" out in response to a cyberattack on supermarket refrigeration units. Iran, however, said it categorically rejected Paris' \"baseless and one-sided accusations\" of IRGC involvement.",
+      "url": "https://www.dw.com/en/iran-denies-french-fridge-cyberattack-hacking/a-79910206",
+      "urlToImage": "https://static.dw.com/image/79647777_6.jpg",
+      "publishedAt": "2026-11-10T15:57:00Z",
+      "content": "Iran\u00a0on Tuesday dismissed French accusations that its Islamic Revolutionary Guard Corps (IRGC) was behind a cyberattack on hundreds of supermarkets last month, as Paris summoned Tehran's ambassador t\u2026 [+4582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "Top UK Regulator Says Banks Are Trimming AI Risk as Alarm Grows",
+      "description": "UK banks have begun trimming exposure to artificial intelligence as alarm mounts about a brutal correction in the sector, according to the Bank of England\u2019s top supervisor. In her first interview since taking over the Prudential Regulation Authority in July, \u2026",
+      "url": "https://www.insurancejournal.com/news/international/2026/11/10/892235.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2026/11/Katharine-Braddick-BOE-Bloomberg-scaled.jpg",
+      "publishedAt": "2026-11-10T15:10:35Z",
+      "content": "UK banks have begun trimming exposure to artificial intelligence as alarm mounts about a brutal correction in the sector, according to the Bank of England\u2019s top supervisor.\r\nIn her first interview si\u2026 [+5765 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sponsored by Kaseya",
+      "title": "Ransomware recovery is now a client retention metric",
+      "description": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows c\u2026",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/09/30/secure-backup-vault.jpg",
+      "publishedAt": "2026-11-10T15:01:11Z",
+      "content": "The ransomware attack is over. Your team has restored the client\u2019s data, brought systems back online and put business operations back on track. From a technical standpoint, the recovery was a success\u2026 [+6927 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New Republic"
+      },
+      "author": "Emma Janssen, The New Republic Staff",
+      "title": "Who Will Dems Investigate First?",
+      "description": "You\u2019re reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free.Inside Washington \u201cLAWYER UP.\u201d That was the election night message from Representative Robert Garci\u2026",
+      "url": "https://newrepublic.com/post/217808/democrats-investigate-tech-ice",
+      "urlToImage": "https://images.newrepublic.com/9e94d7514cc87631225684e8c9378d8371cd9430.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-11-10T14:49:27Z",
+      "content": "Youre reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free.\r\nInside Washington \r\nAs votes roll in t\u2026 [+10263 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "What is Shahid Kaveh, \u2060\u2060the Iran cyberunit tied to France\u2019s fridge hacking?",
+      "description": "IRGC-linked unit operates through front groups posing as vigilante hackers to hit adversaries, says French intelligence.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/what-is-shahid-kaveh-%e2%81%a0the-iran-cyber-unit-tied-to-frances-fridge-hacking",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af3151e-1794315550.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-10T14:27:45Z",
+      "content": "The French government has accused Shahid Kaveh a group it says is linked to Irans Islamic Revolutionary Guard Corps (IRGC) of being behind recent cyberattacks targeting refrigerators in French superm\u2026 [+5089 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "breakingthenews.net",
+      "title": "Iran rejects France's fridge cyberattack allegations",
+      "description": "The Iranian Ministry of Foreign Affairs rejected on Tuesday recent allegations by the French government about Iran taking part in cyberattacks targeting supermarket refrigerators and freezers in Franc...",
+      "url": "https://biztoc.com/x/09707d58a5320902",
+      "urlToImage": "https://biztoc.com/cdn/09707d58a5320902_s.webp",
+      "publishedAt": "2026-11-10T13:31:42Z",
+      "content": "The Iranian Ministry of Foreign Affairs rejected on Tuesday recent allegations by the French government about Iran taking part in cyberattacks targeting supermarket refrigerators and freezers in Fran\u2026 [+69 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "author": "Duncan Riley",
+      "title": "Commvault unveils Recovery Studio, AgentRecover update and joint work with three partners",
+      "description": "Data protection provider Commvault Systems Inc. today used its SHIFT 2026 customer event to unveil Recovery Studio, a new service that will automate the rebuilding of entire business applications after an outage or cyberattack. Four other announcements cover \u2026",
+      "url": "https://siliconangle.com/2026/11/10/commvault-unveils-recovery-studio-agentrecover-update-and-joint-work-with-three-partners/",
+      "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2020/10/commvault.png",
+      "publishedAt": "2026-11-10T13:30:26Z",
+      "content": "Data protection provider Commvault Systems Inc. today used its SHIFT 2026 customer event to unveil Recovery Studio, a new service that will automate the rebuilding of entire business applications aft\u2026 [+6513 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "How AI security failures are endangering your supply chain \u2013 and what you can do",
+      "description": "New research provides a stark look at the AI supply chain and the risks it brings to businesses.",
+      "url": "https://www.zdnet.com/tech/ai-security-failures-supply-chain-risks-black-kite-research/",
+      "urlToImage": "https://www.zdnet.com/wp-content/uploads/sites/3/bluethreats-GettyImages-2285924402.jpg",
+      "publishedAt": "2026-11-10T13:03:52Z",
+      "content": "<ul><li>Impressive AI applications can harbor inherent security risks.</li><li>AI companies worldwide are failing to reach basic security standards.</li><li>Supply chain monitoring is paramount when \u2026 [+5343 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Ransomware threat blares from Vanderbilt University computers during cyberattack",
+      "description": "BYOD claims extensive data theft as campus Wi-Fi returns, most systems remain restricted, and classes carry on",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/10/ransomware-threat-blares-from-vanderbilt-university-computers-during-cyberattack/5308687",
+      "urlToImage": "https://image.theregister.com/5303385.jpg?imageId=5303385&x=0&y=0&cropw=100&croph=70.11&panox=0&panoy=0&panow=100&panoh=70.11&width=1200&height=683",
+      "publishedAt": "2026-11-10T13:00:00Z",
+      "content": "Classes at Vanderbilt University are proceeding as scheduled today, although access to most university systems remains restricted following a cyberattack claimed by ransomware group BYOD.\r\nVanderbilt\u2026 [+2499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Industry News",
+      "title": "IRISSCON 2026 puts preparedness for cyberattacks and hybrid threats in focus",
+      "description": "Ireland risks being dangerously unprepared for increasingly sophisticated cyberattacks and hybrid threats unless the Government acts urgently to strengthen the country\u2019s national security capabilities, according to Brian Honan, head of the Irish Reporting and\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/11/10/irisscon-2026-dublin/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2022/11/11064043/irisscon2022-atrium.jpg",
+      "publishedAt": "2026-11-10T12:16:40Z",
+      "content": "Ireland risks being dangerously unprepared for increasingly sophisticated cyberattacks and hybrid threats unless the Government acts urgently to strengthen the countrys national security capabilities\u2026 [+3226 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+      "description": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/11/10/SAP.jpg",
+      "publishedAt": "2026-11-10T12:07:03Z",
+      "content": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software.\r\nThe company addressed memo\u2026 [+3319 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Oliver JJ Lane",
+      "title": "France Says Iran Behind Supermarket Sabotage Fridge Hack",
+      "description": "A unit of the Islamic Revolutionary Guard blamed for a massive cyber attack which led to the loss of millions of Euros of food.\nThe post France Says Iran Behind Supermarket Sabotage Fridge Hack appeared first on Breitbart.",
+      "url": "https://www.breitbart.com/europe/2026/11/10/france-says-iran-behind-supermarket-sabotage-fridge-hack/",
+      "urlToImage": "https://media.breitbart.com/media/2026/11/GettyImages-2302707314-e1794312147476-640x335.jpg",
+      "publishedAt": "2026-11-10T12:05:57Z",
+      "content": "A unit of the Islamic Revolutionary Guard Corps of the Islamic Republic of Iran (IRGC) is responsible for a massive cyber attack on European retailers which led to the loss of millions of Euros of fo\u2026 [+2917 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Entrepreneur"
+      },
+      "author": "Dmytro Spilka",
+      "title": "Why Europe\u2019s Emphasis on AI Regulation Could Teach the U.S. and China a Thing or Two",
+      "description": "The EU has provided a blueprint that\u2019s only becoming increasingly pertinent as more cases of high-profile cybersecurity breaches become apparent.",
+      "url": "https://eu.entrepreneur.com/technology/why-europes-emphasis-on-ai-regulation-could-teach-the-u-s-and-china-a-thing-or-two",
+      "urlToImage": "https://eu.entrepreneur.com/wp-content/uploads/sites/9/2026/11/ai-regulation-1126_g2266875622.jpg",
+      "publishedAt": "2026-11-10T11:18:31Z",
+      "content": "Opinions expressed by Entrepreneur contributors are their own.\r\nYou're reading Entrepreneur Europe, an international franchise of Entrepreneur Media.As far as the ongoing artificial intelligence spac\u2026 [+5435 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "James Coker",
+      "title": "Vanderbilt University Takes Systems Offline After Cyber Incident",
+      "description": "The BYOD ransomware group has claimed to have locked the university\u2019s databases and stolen sensitive data from its systems",
+      "url": "https://www.infosecurity-magazine.com/news/vanderbilt-university-cyber/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/f95ef47a-12d4-4b2b-bcfd-aeeff666a087.jpg",
+      "publishedAt": "2026-11-10T11:15:00Z",
+      "content": "Vanderbilt University has been hit by a cyber incident, resulting in systems and applications being taken offline.\r\nThe Nashville-based institution disclosed that it was responding to an active incid\u2026 [+2546 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Mike Moore",
+      "title": "France accuses Iran of 'unprecedented' supermarket freezer hacking",
+      "description": "France calls attack 'an unprecedented campaign in terms of its scale and level of aggressiveness'",
+      "url": "https://www.techradar.com/pro/security/france-accuses-iran-of-supermarket-freezer-hacking-slams-the-first-cyber-offensive-campaign-carried-out-purely-for-the-purpose-of-sabotage-on-national-territory",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/KpW9KtZSnVQtmgnPExTXED-970-80.jpg",
+      "publishedAt": "2026-11-10T11:01:22Z",
+      "content": "<ul><li>France blames Iran for recent cyberattacks against supermarket freezers</li><li>October 2026 attack saw food ruined and multiple fires across France</li><li>Iran denies involvement, but Franc\u2026 [+3267 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "France summons Iran\u2019s ambassador over supermarket fridge \u2018sabotage\u2019",
+      "description": "The French government said it is seeking tough sanctions to deter further cyberattacks across Europe.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-12T154034Z_1680256209_RC2Q1OAAOPIE_RTRMADP_3_FRANCE-CYBERATTACK-1794300050.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-10T10:51:02Z",
+      "content": "France says it has summoned Irans ambassador to Paris to lodge a very strong protest after it accused Tehran of carrying out a major cyberattack targeting supermarket fridges last month.\r\nIt marks th\u2026 [+2594 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "Kevin  Poireault",
+      "title": "France Blames Iran for Supermarket Fridge Hack, Requests International Arrest Warrants",
+      "description": "The French authorities have tied the cyber-attack targeting supermarket fridges to Iran\u2019s Islamic Revolutionary Guard Corps",
+      "url": "https://www.infosecurity-magazine.com/news/france-blames-iran-supermarket/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/cd73ba84-c714-4d37-95dc-2c24c498f3ba.png",
+      "publishedAt": "2026-11-10T10:35:00Z",
+      "content": "The recent wave of cyber-attacks targeting refrigeration control systems across 700 supermarkets sites in France was coordinated by an Iranian hacking group, according to French authorities.\r\nLaure B\u2026 [+3353 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jenni Reid",
+      "title": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
+      "description": "France said the cyber unit of Iran's Islamic Revolutionary Guard Corps carried out an \"unprecedented campaign\" that caused millions of euros in damage.",
+      "url": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108403029-1791894112373-gettyimages-2299339600-AFP_D3247KH.jpeg?v=1794294925&w=1920&h=1080",
+      "publishedAt": "2026-11-10T09:34:24Z",
+      "content": "France is \"not ruling anything out\" in its response to October's mass cyberattacks on supermarket refrigerators that the country has blamed on Iran, the country's Foreign Minister Jean-No\u00ebl Barrot sa\u2026 [+4561 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "Phil Muncaster",
+      "title": "Binance Investigates ShinyHunters Breach Claims",
+      "description": "Cryptocurrency exchange Binance says ShinyHunters\u2019 breach claims appear to be a scam",
+      "url": "https://www.infosecurity-magazine.com/news/binance-investigates-shinyhunters/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/36892a40-71ce-49b6-9aac-75c6d1363e1a.jpg",
+      "publishedAt": "2026-11-10T09:30:00Z",
+      "content": "Binance is actively investigating claims from a notorious extortion group that it has obtained 335 million customer records.\r\nShinyHunters posted an ad on PwsForums on November 4 claiming it was sell\u2026 [+2646 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+      "description": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday.\n\nThe attackers broke into controllers on the night o\u2026",
+      "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQkt0P-pw4g1CSZvboG35E5WMLU_vea9rR2DLZ4X0lK5NyipbooRyXkRXcRb7X-ddRbVCygF1OkhW6a3j_8sCsBA_GhHAtOF8dISlx4Q2H74fnLJTm5ZOoEBlsbES0hPZutw60wjcAcMZEZcmx4NCLAM-pqVJCfw9yLhoQV2U_QFRX5h1k0zKPzgioICw/s1700-nu-rw-lo-l85-e365/iran-france.jpg",
+      "publishedAt": "2026-11-10T09:08:20Z",
+      "content": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yes\u2026 [+5754 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Reuters",
+      "title": "Fires, protests, pollution: Apple\u2019s supply chain woes in India",
+      "description": "The incident in Hosur, \u200cTamil Nadu, is the latest to hit Apple's supply chain in \u200bIndia, which is central to the U.S. tech giant's push \u2060to diversify manufacturing beyond China.",
+      "url": "https://www.thehindubusinessline.com/info-tech/fires-protests-pollution-apples-supply-chain-woes-in-india/article71685137.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/ozu9dn/article71685358.ece/alternates/LANDSCAPE_1200/Apple-announcesGANGMKM4R.4.jpg.jpg",
+      "publishedAt": "2026-11-10T07:25:14Z",
+      "content": "Three contract workers\r\ndied of asphyxiation at a Tata Electronics factory in southern\r\nIndia that makes parts for Apple iPhones, triggering\r\ninvestigations by the companies and the state government \u2026 [+2768 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "author": "Dr Paul Davis",
+      "title": "Dr Paul Davis: When did supermarkets become part of the battlefield?",
+      "description": "Recent cyber incidents and security threats across Europe highlight how vulnerable the infrastructure behind everyday life has become.",
+      "url": "https://www.thejournal.ie/readme/rte-hack-freezer-hack-7220454-Nov2026/",
+      "urlToImage": "https://img2.thejournal.ie/article/7220454/river/?height=400&version=7220500",
+      "publishedAt": "2026-11-10T07:00:23Z",
+      "content": "THERE WAS A time when the word warfare conjured up familiar images of tanks crossing borders, aircraft overhead, naval vessels at sea. The battlefield was somewhere identifiable, usually some distanc\u2026 [+7432 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Reuters",
+      "title": "Fires, protests and pollution: Apple's supply chain challenges in India",
+      "description": "The Hosur incident is the latest setback for Apple's manufacturing network in India, following a ransomware attack, pollution-control concerns and scrutiny of hiring practices at supplier plants",
+      "url": "https://www.business-standard.com/india-news/fires-protests-and-pollution-apple-s-supply-chain-challenges-in-india-126111000237_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/10/thumb/fitandfill/1200X628/1794291803-3351.JPG",
+      "publishedAt": "2026-11-10T06:25:52Z",
+      "content": "Three contract workers died of asphyxiation at a Tata Electronics factory in southern India that makes parts for Apple iPhones, triggering investigations by the companies and the state government of \u2026 [+2860 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Three workers die at Tata's India iPhone parts factory in latest safety incident",
+      "description": "CHENNAI: Three contract workers have died at a Tata Electronics factory that makes parts for Apple iPhones in India's southern Tamil Nadu state, the latest supply chain incident affecting the US company in its most critical manufacturing base after China.The \u2026",
+      "url": "https://www.channelnewsasia.com/asia/three-workers-die-tatas-india-iphone-parts-factory-in-latest-safety-incident-6538471",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--L4lNL760--/c_crop,h_1125,w_1999,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/10/2026-11-10t035427z_2005675656_rc27ulai40hx_rtrmadp_3_tata-electronics-incident.jpg?itok=IIbbKpt6",
+      "publishedAt": "2026-11-10T06:06:09Z",
+      "content": "CHENNAI: Three contract workers have died at a Tata Electronics factory that makes parts for Apple iPhones in India's southern Tamil Nadu state, the latest supply chain incident affecting the US comp\u2026 [+2117 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "Fires, protests, pollution: How Apple's supply chain woes in India have caused troubles over the years",
+      "description": "Three contract workers lost their lives due to asphyxiation at a Tata Electronics factory in Hosur. This incident has prompted investigations by the companies involved and the Tamil Nadu state government. Recent years have witnessed various operational issues\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/fires-protests-pollution-how-apples-supply-chain-woes-in-india-have-evolved-over-the-years-tata-foxconn/articleshow/135701067.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-135701429,width-1200,height-900,imgsize-1674238,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-10T06:06:04Z",
+      "content": "BENGALURU - Three contract workers died of asphyxiation at a Tata Electronics factory in southern India that makes parts for Apple iPhones, triggering investigations by the companies and the state go\u2026 [+2812 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Anamarija Pogorelec",
+      "title": "Over 575 malicious OpenClaw skills delivered malware to Windows and macOS",
+      "description": "Cybercriminals are using AI agents to coordinate attacks, stolen credentials to access linked services, and tools that interfere with intrusion detection and system recovery, according to Acronis TRU Cyber Pulse 2026. One operator coordinates activity across \u2026",
+      "url": "https://www.helpnetsecurity.com/2026/11/10/acronis-ai-agent-cyberattacks-report/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2025/08/28142151/agentic-ai-1500.webp",
+      "publishedAt": "2026-11-10T05:30:59Z",
+      "content": "Cybercriminals are using AI agents to coordinate attacks, stolen credentials to access linked services, and tools that interfere with intrusion detection and system recovery, according to Acronis TRU\u2026 [+3868 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "list.metadata.agency",
+      "title": "Three workers die at Tata iPhone factory in Tamil Nadu's Hosur",
+      "description": "The deaths are the latest incident to affect Apple's iPhone supply chain in India, where Tata Electronics accounts for roughly 40% of iPhone assembly and Foxconn makes up the rest.",
+      "url": "https://www.livemint.com/companies/news/three-workers-die-at-tata-iphone-factory-in-tamil-nadus-hosur-11794287606590.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/TATA-ELECTRONICS-INCIDENT-0_1794287708956_5XB9_1794287722822_0NuR_a88f0785-186e-428b-b388-e651856dc5e0_WfsN.JPG",
+      "publishedAt": "2026-11-10T05:20:36Z",
+      "content": "Three contract workers died in India's southern Tamil Nadu state after inhaling gas at a Tata Electronics factory that makes parts for Apple iPhones, a district official said, triggering investigatio\u2026 [+1606 chars]"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Explosions rock Kyiv and Moscow after peace talks end without breakthrough",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-ballistic-missile-moscow-kyiv-b3083543.html",
+      "description": "Ukraine and Russia exchange attacks on each other\u2019s capitals as US envoys set to travel to Moscow to meet Putin",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "The Independent"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Germany Prepares Legal Framework for Cyberattack Response",
+      "url": "https://econotimes.com/Germany-Prepares-Legal-Framework-for-Cyberattack-Response-1775613",
+      "description": "Dobrindt linked the plan to attacks on supermarket cooling systems in Germany, France and other European countries.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Econotimes"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "France Fridge Cyberattacks: Paris links Iran IRGC to supermarket sabotage, weighs retaliation against Tehran",
+      "url": "https://organiser.org/2026/11/12/425761/international/france-fridge-cyberattacks-paris-links-iran-irgc-to-supermarket-sabotage-weighs-retaliation-against-tehran/",
+      "description": "France has accused Iran of orchestrating a series of cyberattacks that sabotaged supermarket refrigeration systems across the country, with Foreign Minister Jean-Noel Barrot warning that Paris is considering retaliatory measures, including sanctions and travel restrictions. The French government summoned Iran\u2019s ambassador on November 10 after an investigation attributed the cyberattacks to Shahid Kaveh, an affiliate of the cyber unit of Iran\u2019s Islamic Revolutionary Guard Corps (IRGC). Barrot said France was \u201cnot ruling anything out\u201d in its response, signalling that diplomatic and economic measures remain under consideration. Speaking to Franceinfo radio, Barrot said possible measures included prohibiting individuals held responsible from entering European territory and freezing their assets. Paris is also preparing to propose new European sanctions against Iranian individuals and entities allegedly involved in the sabotage operation. The cyberattacks targeted approximately 700 grocery stores during the night of 11\u201312 October, remotely manipulating refrigeration systems and causing temperatures inside refrigerators and freezers to rise by as much as 50 degrees Celsius. Investigation traces attacks to Iranian-linked cyber unit According to the findings presented by French authorities, the operation affected major supermarket chains, including Intermarche, E. Leclerc, Carrefour, Monoprix and Cooperative U. The disruption caused food spoilage, fires and damage estimated at tens of millions of dollars. Investigators identified the use of Farsi and internet protocol addresses pointing to devices in Iran. The Paris Prosecutor\u2019s Office said the cyberattacks were carried out in the interests of a foreign power, identified as Iran. Read More: From Non-Alignment to Multi-Alignment: How India is emerging as a key power in the new world order The attackers reportedly gained remote access to refrigeration controllers supplied by Danish engineering company Danfoss and Italian manufacturer Dixell. Using web interfaces, they took control of the equipment, initiated continuous defrost cycles and disabled safety alerts designed to warn operators when temperatures crossed critical thresholds. The manipulation caused refrigeration units to heat up, compromising food storage and triggering fires in some locations. Paris chief prosecutor Laure Beccuau said investigators were seeking international arrest warrants in connection with the operation. France\u2019s Ministry for Europe and Foreign Affairs described the incident as an unprecedented cyber campaign in terms of its scale and aggressiveness. It characterised the operation as the first cyber offensive against French territory conducted purely for sabotage. The ministry said the attacks threatened critical infrastructure, violated international law and could not be justified. Tehran rejects accusations as European attacks widen Iran rejected the cyberattack allegations on 10 November, describing them as baseless and malicious. In a statement, its Foreign Ministry accused France of making repeated allegations to divert attention from its policies towards Iran and West Asia. Tehran said the accusations were intended to damage its international image and relations with other countries. France has previously attributed cyber operations and information manipulation campaigns against the country to Iranian-linked actors. These include attacks targeting the satirical publication Charlie Hebdo in 2023 and the Paris Olympics in 2024. The allegations led to European sanctions in March 2026 against Iranian private company Emennet Pasargad. The supermarket attacks have also raised concerns beyond France. During November, retailers in Belgium, Luxembourg, the Netherlands, Finland, Ireland and Sweden reported losses after similar refrigeration systems were targeted. French blood banks were also affected by cyberattacks on November 2. The French Blood Establishment said temperature and defrost settings in cold-storage units used for blood products and samples had been altered to excessively high levels. The incidents have added to European concerns over attacks on essential services and critical infrastructure. Separately, a wave of hoax bomb threats has disrupted passenger flights across the region, with several aircraft making emergency landings. France\u2019s response is now likely to involve diplomatic action and efforts to secure wider European measures against those identified by investigators. Barrot\u2019s warning that Paris is not ruling anything out leaves the possibility of further action against Tehran open.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Organiser Weekly"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Australia cyber attacks rise 39% as ransomware grows",
+      "url": "https://securitybrief.in/story/australia-cyber-attacks-rise-39-as-ransomware-grows",
+      "description": "Ransomware claims hit a record 1,063 victims in October, even as Australian organisations still faced 2,117 cyber attacks a week, up 39% year on year.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Securitybrief India"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Byington Bombshell Report: Trump Restores American Republic, Common Law & Demolishes Privately Owned, Satan Worshiping US Inc.",
+      "url": "https://beforeitsnews.com/politics/2026/11/byington-bombshell-report-trump-restores-american-republic-common-law-demolishes-privately-owned-satan-worshiping-us-inc-3370077.html",
+      "description": "On March 21, 2026 President Donald J. Trump officially, yet secretly, announced the restoration of the American Republic. With that, Common Law sovereignty returned, reestablishing the true Constitutional Republic and freeing the people from [...]",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Beforeitsnews"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Russian cloud Yandex says drone attacks on its datacenters caused data loss",
+      "url": "https://www.theregister.com/off-prem/2026/11/12/russian-cloud-yandex-says-drone-attacks-on-its-datacenters-caused-data-loss/5309234",
+      "description": "Now enables backup by default and hints a little on-prem infra never hurt anyone",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "The Register"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Maersk Confirms Cybersecurity Breach Involving Legacy IT System; Says No Customer Data Compromise Detected",
+      "url": "https://indiaseatradenews.com/maersk-confirms-cybersecurity-breach-involving-legacy-it-system-says-no-customer-data-compromise-detected/",
+      "description": "Danish shipping giant A.P. Moller-Maersk has confirmed a cybersecurity breach involving an older IT system inherited through a previous acquisition, raising fresh concerns over cyber threats facing the global shipping and logistics industry. The company said on Wednesday that hackers had gained access to the legacy system and extracted data. Maersk\u2019s cybersecurity team launched an [\u2026] The post Maersk Confirms Cybersecurity Breach Involving Legacy IT System; Says No Customer Data Compromise Detected appeared first on India Seatrade News.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "India Seatrade News"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "AP Technology SummaryBrief at 7:13 p.m. EST",
+      "url": "https://www.rutlandherald.com/news/business/ap-technology-summarybrief-at-7-13-p-m-est/article_ad3309bf-3b3b-5c53-8048-379216056515.html",
+      "description": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Rutland Herald"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
+      "url": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+      "description": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Dark Reading"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Killnet Switch Unveils a First-of-Its-Kind, All-in-One, Plug-and-Play AI Cyberattack Box",
+      "url": "https://www.financialcontent.com/article/abnewswire-2026-11-11-killnet-switch-unveils-a-first-of-its-kind-all-in-one-plug-and-play-ai-cyberattack-box",
+      "description": "Christchurch, New Zealand, November, 11, 2026 - Imagine your business is under cyberattack. An alert appears on your screen. Your IT team is notified. But while everyone is trying to understand what is happening, the attack may already be spreading through your network.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Financialcontent"
+      },
+      "_provider": "newsdata.io"
+    }
+  ]
+}
