@@ -1,0 +1,168 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Bianca Zalben",
+      "title": "Legendary UK punk band abruptly axes California shows just hours before concert \u2014 citing mystery illness",
+      "description": "Legendary British punk rockers have slammed the brakes on their upcoming Golden State shows.",
+      "url": "https://nypost.com/2026/11/11/lifestyle/british-punk-band-the-damned-abruptly-cancels-california-tour-dates/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-hvdzue6zz-1794429349855.jpg?quality=75&strip=all&1794411363&w=1200",
+      "publishedAt": "2026-11-11T20:37:34Z",
+      "content": "Legendary British punk rockers The Damned have slammed the brakes on their upcoming Golden State shows, abruptly axing the rest of their California tour dates and postponing their San Francisco show \u2026 [+3580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Xiaoxia Huang, Zhangqi Zheng, Shanshan Du, Aqian Li, Fangzhen Tian, Tianmeng Gu, Lanling Zheng, Li Chuan, Qin Wang, Li Yuan, Jiandong Li",
+      "title": "Immunogenicity of Hantavirus and evaluation of vaccine protective efficacy: A comparative neutralizing antibody study of vaccine strains and representative epidemic strains from selected provinces in China",
+      "description": "Author summary Hemorrhagic fever with renal syndrome (HFRS) caused by HV remains a serious threat to global public health security, with its epidemic scope continuing to expand. After more than 20 years of application in China, HFRS bivalent inactivated vacci\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014811",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014811.g004&size=inline",
+      "publishedAt": "2026-11-11T14:00:00Z",
+      "content": "Citation: Huang X, Zheng Z, Du S, Li A, Tian F, Gu T, et al. (2026) Immunogenicity of Hantavirus and evaluation of vaccine protective efficacy: A comparative neutralizing antibody study of vaccine st\u2026 [+22296 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lse.ac.uk"
+      },
+      "author": null,
+      "title": "Valuing mental health in pandemic response: a European discrete choice experiment",
+      "description": "Lorant, V., Nicaise, P., Silva Ribeiro, W. ORCID logo , Park, A. L. ORCID logo , Harrison, M. & McDaid, D. ORCID logo (2026). Valuing mental health in pandemic response: a European discrete choice experiment. European Journal of Public Health, 36(Supplement_5\u2026",
+      "url": "https://researchonline.lse.ac.uk/id/eprint/141958/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-11T00:01:42Z",
+      "content": "Background During a public health emergency, health policies often prioritised physical over mental health, prompting concerns about whether these decisions reflected societal values. This study asse\u2026 [+2017 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hoover.org"
+      },
+      "author": "November 11, 2026",
+      "title": "Empty Desks: Schools And Staffing After The Pandemic",
+      "description": "Sustained enrollment losses and other post-pandemic factors have placed budgetary pressures on many school districts and motivated difficult discussions about both closing under enrolled schools and staffing reductions. Using the most currently available nati\u2026",
+      "url": "https://www.hoover.org/research/empty-desks-schools-and-staffing-after-pandemic",
+      "urlToImage": "https://hoover-s3-website.s3.us-west-2.amazonaws.com/s3fs-public/styles/facebook/public/research/images/classroomistock_000010097853_medium.jpg?h=cce9b1e4&itok=VWtqknV9",
+      "publishedAt": "2026-11-11T00:00:00Z",
+      "content": "Abstract: Sustained enrollment losses and other post-pandemic factors have placed budgetary pressures on many school districts and motivated difficult discussions about both closing under enrolled sc\u2026 [+1018 chars]"
+    },
+    {
+      "title": "Build an Autonomous SecOps Incident Response Agent with LangGraph: Sub-60s AWS CloudTrail Anomaly Quarantine",
+      "url": "https://dev.to/deepak_bagada_98e87bd2723/build-an-autonomous-secops-incident-response-agent-with-langgraph-sub-60s-aws-cloudtrail-anomaly-nh2",
+      "description": "An autonomous SecOps incident response agent is an active security control plane service that intercepts cloud audit logs, isolates compromised identities, and enforces immediate containment actions before an adversary establishes persistence. In modern multi-cloud architectures, compromised access keys or leaked CI/CD secrets frequently grant attackers lateral movement capabilities within minutes. Relying on human on-call engineers to read alerts, inspect logs, and manually revoke credentials leaves organizations vulnerable during critical dwell time windows. By pairing AWS CloudTrail telemetry with LangGraph state machines, platform teams can deploy self-healing security swarms that quarantine compromised infrastructure in sub-60 seconds. Core Mechanism: CloudTrail event stream parsing, behavioral anomaly scoring, automated IAM session termination, and network security group isolation. Hardware & Runtime: Python 3.12, LangGraph 0.2+, boto3, running as an event-driven AWS Lambda worker or containerized ECS Fargate task. Production Value: Reduces adversary dwell time and incident containment latency from 38 minutes to 48.6 seconds, eliminating lateral data exfiltration risks. Security architects constructing automated compliance workflows can discover companion architectures in the Daily AI World workflows directory for production pipeline blueprints. +-------------------------------------------------------------------------------+ | AUTONOMOUS SECOPS INCIDENT RESPONSE AGENT ARCHITECTURE | | AWS CloudTrail Stream -> EventBridge Rule (High-Risk API Call Detected) | | | | | [Triage Node: Identity & Threat Vector Ingestion] | | - Extract IAM user, IP address, user agent, API operation | | - Validate against geographic baseline & impossible travel | | [Evaluation Node: Threat Scoring StateGraph] | | - Query IP reputation and check for known TOR exit nodes | | - Score confidence (Threshold >= 85% triggers quarantine) | | +-------------------------+---------------------------+ | | | | | | (Action: IAM Credential Leak) (Action: EC2 Instance Breach) | - Deactivate access keys via `boto3` - Replace Security Group with | - Attach `AWSQuarantineDenyAll` policy isolated forensic group | | - Invalidate active STS session tokens - Snapshot root EBS volume | | [Forensic Evidence & Incident Channel Dispatch] | | - Package immutable audit trail into S3 evidence locker | | - Dispatch structured PagerDuty alert and Slack postmortem | Architectural Mechanics: Event-Driven Threat Scoring and Deterministic Quarantine The SecOps agent operates as an event-driven state machine where containment decisions are bounded by explicit threat criteria: High-Risk Event Trigger: AWS EventBridge monitors CloudTrail streams, filtering for high-severity API calls: CreateAccessKey, ConsoleLoginWithoutMFA, StopLogging, or AuthorizeSecurityGroupIngress with 0.0.0.0/0 on port 22 or 3389. Context Enrichment Node: The agent queries AWS GuardDuty and VPC Flow Logs to inspect recent network traffic and verifies whether the originating IP address matches an active corporate VPN or known developer CIDR block. Quarantine Execution: If the risk score exceeds 85%, the agent triggers atomic remediation steps: Sets the compromised access key status to Inactive. Attaches an inline IAM policy denying all API operations (Effect: Deny, Action: *, Resource: *). Revokes all existing session tokens issued via AWS STS. Forensic Logging: The agent records full event JSON payloads into an immutable S3 bucket configured with Object Lock (WORM compliance) to guarantee chain-of-custody for compliance auditors. \ud83d\udca1 Related Engineering Blueprint: Review our guide on Build an Autonomous Kubernetes SRE Agent with LangGraph: Sub-30s Pod CrashLoopBackOff Self-Healing to apply self-healing state graphs to containerized workloads. Empirical Benchmark Matrix: Autonomous SecOps vs Human SOC Triage We benchmarked 50 synthetic credential leak and lateral movement incidents across a staging AWS enterprise environment: Incident Dimension Traditional Human SOC Team Standard Security Alert Webhooks Autonomous LangGraph SecOps Agent Mean Time to Detect (MTTD) 8.5 minutes 45.0 seconds 4.2 seconds Mean Time to Contain (MTTC) 38.2 minutes N/A (Alerts only) 48.6 seconds Lateral Movement Success Rate 24.0% 18.0% 0.0% (Zero penetration) Forensic Evidence Completeness 68.0% (Manual copy) 42.0% 100% (Automated WORM lock) Monthly Security Operations Cost $14,000/mo SOC team $450/mo SIEM tools $54/mo (Serverless Lambda) Production Implementation: Complete SecOps Quarantine Agent Below is a complete, runnable Python implementation utilizing langgraph and boto3 to parse CloudTrail alerts and enforce instant identity quarantine: # secops_quarantine_agent.py import json import boto3 from typing import Dict, Any, TypedDict from langgraph.graph import StateGraph, END class SecurityIncidentState(TypedDict): event_id: str user_identity: str access_key_id: str event_name: str source_ip: str threat_score: int quarantined: bool forensic_log_url: str class SecOpsIncidentAgent: def __init__(self): def setup_graph(self): def enrich_context_node(self, state: SecurityIncidentState) -> Dict[str, Any]: # Validate IP against known threat feeds score = 50 if state[\"event_name\"] in [\"CreateAccessKey\", \"StopLogging\"]: score += 35 if not state[\"source_ip\"].startswith(\"10.\") and not state[\"source_ip\"].startswith(\"172.\"): score += 15 # Non-internal IP return {\"threat_score\": score} def evaluate_threat_node(self, state: SecurityIncidentState) -> Dict[str, Any]: return {\"quarantined\": state[\"threat_score\"] >= 85} def execute_quarantine_node(self, state: SecurityIncidentState) -> Dict[str, Any]: if not state[\"quarantined\"]: return {\"quarantined\": False} username = state[\"user_identity\"] key_id = state[\"access_key_id\"] # 1. Deactivate compromised access key if key_id: # 2. Attach DenyAll Quarantine Policy deny_policy = return {\"quarantined\": True} def log_forensics_node(self, state: SecurityIncidentState) -> Dict[str, Any]: # Record structured forensic summary s3_url = f\"s3://security-evidence-vault/{state['event_id']}.json\" return {\"forensic_log_url\": s3_url} Production Edge Cases and Safety Boundary Governance Deploying autonomous security agents requires rigorous blast-radius isolation: Break-Glass Root Account Protection: The agent must possess hardcoded rejection filters for root credentials and break-glass identity roles. In our testing at SaaSNext, attempting to quarantine an admin role without human confirmation can halt critical production deployments. Idempotent Revocation Actions: If multiple alerts fire for the same compromised key within seconds, quarantine calls must be idempotent to avoid AWS rate limits (ThrottlingException). Forensic Evidence Chain of Custody: Quarantining an identity without capturing active session logs destroys volatile forensic artifacts. The agent always queries AWS CloudTrail and GuardDuty history before altering IAM states. For teams deploying vector search tools to index security event logs, explore our Qdrant Vector Database MCP Server guide. \ud83d\udcda Authoritative Primary Sources & Research Citations AWS CloudTrail Event Reference and API Specifications: Complete documentation on security audit logging (AWS CloudTrail Docs). LangGraph StateGraph Incident Handling: Guide to authoring reliable state machines for high-stakes workflows (LangChain Reference). Boto3 AWS SDK for Python: Official API reference for IAM and EC2 security remediation (Boto3 Documentation). \ud83d\ude80 Recommended Next Architecture in This Stack Continue strengthening your cloud infrastructure and security controls with our companion blueprints: \u26a1 Next Logical Implementation: Build an Autonomous OpenTelemetry AI Tracing Agent: Sub-Millisecond Token Drift Remediation \u2014 Instrument security telemetry across distributed agent fleets. \ud83d\udee0\ufe0f Directory Hub: Discover hundreds of production-ready, multi-file agent architectures in the Daily AI World workflows directory and MCP Directory. By Deepak Bagada, Founder & Editor-in-Chief at Daily AI World. \ud83c\udf10 Original Source Attribution: This comprehensive engineering breakdown was originally published on Daily AI World by Deepak Bagada. Explore the full *Daily AI World Workflow Directory** for enterprise-grade autonomous swarms, MCP servers, and LLM orchestration blueprints.*",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Dev Community"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Knox County declares measles public health emergency amid rise in cases",
+      "url": "https://www.wthitv.com/2026/11/12/knox-county-declares-measles-public-health-emergency-amid-rise-cases/",
+      "description": "\u201cAt the present time, we do not have any measles as active cases in Knox County,\u201d Stewart said. \u201cHowever, the United States has seen an upsurge in measles cases over the last three years.\u201d",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Wthi Television"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Kenya refuses to serve as Ebola quarantine centre for foreign travelers",
+      "url": "https://www.bundle.app/en/breaking-news/kenya-refuses-to-serve-as-ebola-quarantine-centre-for-foreign-travelers-4B49D85B-D4A8-5CDD-B899-D0093D9AED13",
+      "description": null,
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Bundle"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Maraga Takes on Ruto Over Ebola Quarantine U-Turn, Questions Government\u2019s Earlier Decision",
+      "url": "https://www.ghanamma.com/2026/11/12/maraga-takes-on-ruto-over-ebola-quarantine-u-turn-questions-governments-earlier-decision/",
+      "description": "Former Chief Justice David Maraga has criticised President William Ruto's administration over its changing position on the controversial Ebola quarantine facility in Laikipia County, demanding answers about the government's earlier support for the project. In a statement issued on Thursday, November 12, 2026, Maraga questioned why...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Ghanamma"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Biggest symptom to watch out for as \u2018highly contagious\u2019 Victorian disease outbreak forces closure of UK hospital wards",
+      "url": "https://www.thesun.co.uk/health/40999937/victorian-disease-outbreak-hospital-wards-closure/",
+      "description": "A HIGHLY contagious disease that is transferred through close contact and contaminated bedding is sweeping through UK hospitals. Visitors have been warned to take precautions when coming to see patients, and those who have been recently discharged may be contacted to see if they need treatment for the illness. Some hospital wards have even closed...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "The Sun"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Biggest symptom to watch out for as \u2018highly contagious\u2019 Victorian disease outbreak forces closure of UK hospital wards - The Sun",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdkVSWk5DLWRKQmM2SEZIOFVfbTAyNHRrem01TnlzYW5vU3JlRnVzWm4wS2RzN19YTVJkSW1uZjVvMUJXak5fNmRfblZ2LTZCTXBod0p4VjlCUWItbGRkVjZMcWZSMXlfbm9xR0V6S25VSGwxeUo5Y01VMnIyMlAyelBXbkJFbUlfelBaU2lCM2xFZjZUMGc?oc=5",
+      "description": "Biggest symptom to watch out for as \u2018highly contagious\u2019 Victorian disease outbreak forces closure of UK hospital wards The Sun",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Google News"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "U.S. Removal of Chrysanthemum White Rust From Quarantine Pest List to Help Colombian Flowers\u2019 Competitiveness",
+      "url": "https://perishablenews.com/floral/u-s-removal-of-chrysanthemum-white-rust-from-quarantine-pest-list-to-help-colombian-flowers-competitiveness/",
+      "description": "The U.S. removes Chrysanthemum White Rust from its quarantine pest list is considered a step forward for the competitiveness of Colombian flowers. The post U.S. Removal of Chrysanthemum White Rust From Quarantine Pest List to Help Colombian Flowers\u2019 Competitiveness appeared first on Perishable News.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Perishable News"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Playwright Email Tests Need a Quarantine Queue",
+      "url": "https://dev.to/silviutech/playwright-email-tests-need-a-quarantine-queue-3ggb",
+      "description": "Playwright Email Tests Need a Quarantine Queue Email verification tests often look like browser tests, but the hardest part is usually the boundary between the application and the inbox. The browser clicks Send verification email, while a separate service delivers a message, indexes it, and exposes a link. If the test treats that whole path as one instant operation, a failure can look random even when the cause is repeatable. In QA automation, I prefer to treat every email test as a small investigation. The test should have an isolated inbox, a deadline, and enough evidence to answer one question: did the message never arrive, arrive late, or arrive with the wrong state? A quarantine queue is a simple way to preserve that distinction without letting one suspicious run poison the rest of the suite. The failure is usually a race, not a random browser problem Consider this sequence: Playwright submits the registration form. The API accepts the request and queues an email. A worker renders and sends the message. The inbox service receives and indexes it. The browser opens the verification link. The test can only observe the edges of this process. A fixed waitForTimeout(2000) hides the uncertainty, but it does not remove it. On a fast laptop it wastes time; in a busy CI environment it can be too short. That is why the same test may pass locally and fail in an enviroment with slower workers. The first useful change is to give each run a unique address or mailbox namespace. A burner email can be appropriate for a controlled test system, as long as the address is isolated, disposable, and never used for real customer data. Do not share one inbox across parallel workers: an old verification link can make a new test appear healthy. What belongs in the quarantine queue Quarantine is not a second pass that reruns every red test forever. It is a bounded holding area for failures where the application result is not yet known. I normally record: the Playwright test title and commit SHA; the worker and browser project; the run-scoped inbox identifier; the request time and the first time a matching message was seen; the message subject, provider status, and extracted link host; a screenshot, trace, and relevant server correlation ID. The evidence should not contain the full email body by default. Store a hash, selected headers, and the minimum redacted excerpt needed to diagnose the problem. If a test searches for a phrase typed by a user, remember mistakes such as tepm mail com or tem email; keep those values as test inputs, not failure labels. A Playwright fixture with an evidence trail The fixture below shows the important shape. The inbox client is deliberately abstract. import { test as base, expect } from '@playwright/test'; type Mail = { id: string; receivedAt: number; text: string }; type Fixtures = { runId: string; waitForVerification: () => Promise<Mail>; }; export The real poller should use a deadline and a backoff, not an unbounded loop. It should also filter by runId before checking the subject. That ordering matters becuase two messages can have the same subject while only one belongs to this test. For a more formal boundary, the ideas in typed contracts for email tests are useful: make invalid states difficult to pass into the next step. The fixture can return a VerifiedMessage only after the timestamp, recipient, and link checks succeed. How to classify and replay a failure When a test fails, ask what the last confirmed state was: No send request: investigate the product flow or the browser action. Send accepted, no message: inspect the worker, provider, and inbox boundary. Message found, wrong run ID: investigate data isolation and cleanup. Correct message, bad link: treat it as an application or template failure. Correct link, browser failure: inspect navigation, authentication, or the target page. Only the second and third categories are good candidates for a bounded quarantine retry. Replay with the same evidence and a new run ID. Never replay by reusing the original mailbox, because that can turn a stale message into a false pass. If the retry succeeds, keep both attempts visible; a green retry is a signal about reliability, not proof that the first failure was harmless. When the test uses an external address for a documented scenario, use a natural label such as temp mail for facebook only in the test-data notes, not as a substitute for a production identity. The test should verify the product's behavior and cleanup policy, not encourage a real account workflow. Practical checklist Before merging an email test, check: Is the inbox unique per worker and run? Does the message query require a run identifier and a fresh timestamp? Is polling bounded and observable? Are traces and screenshots attached only when useful? Can the failure be classified from the saved evidence? Does quarantine expire and avoid automatic retry loops? Is cleanup attempted even when the browser step fails? A test that fails with a causal timeline is much cheaper to maintain than one that merely says \u201cverification email not found.\u201d The goal is not to make Playwright tolerate every delay. It is to make the next failure tell the team where the delay or state mismatch began. Questions worth asking Should I retry every missing email? No. Retry only when the evidence says the request was accepted and the missing message may be a transient delivery problem. A missing send request is a product failure and should remain red. Is a disposable mailbox always safe for testing? No. Keep it restricted to non-sensitive data, understand who can access the inbox, and delete messages after the run. The isolation contract matters more than the label \u201cdisposable.\u201d",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Dev Community"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Maraga accuses Ruto of hypocrisy over Kenya\u2019s Ebola quarantine policy",
+      "url": "https://peopledaily.digital/inside-politics/maraga-accuses-ruto-of-hypocrisy-over-kenyas-ebola-quarantine-policy",
+      "description": "Former Chief Justice David Maraga has accused President William Ruto\u2019s administration of hypocrisy over its handling of Kenya\u2019s proposed role in Ebola-related quarantine arrangements, following Health Cabinet Secretary Aden Duale\u2019s latest remarks on the matter. In a press statement issued on Thursday, November 12, 2026, Maraga criticised Duale for declaring that Kenya would not serve [\u2026]",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "People Daily"
+      },
+      "_provider": "newsdata.io"
+    },
+    {
+      "title": "Kenya: David Maraga Questions Govt 'Hypocrisy' After U-Turn On Ebola Quarantine Policy",
+      "url": "https://allafrica.com/stories/202611120161.html",
+      "description": "[Capital FM] Nairobi -- Former Chief Justice David Maraga has accused President William Ruto of hypocrisy over the government's position on Ebola quarantine facilities, revisiting the deadly June protests against a planned US-linked isolation centre as Kenya begins a 42-day countdown towards being declared Ebola-free.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Allafrica Tanzania"
+      },
+      "_provider": "newsdata.io"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+      "description": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/11/12/Operation-Endgame.jpg",
+      "publishedAt": "2026-11-12T15:07:20Z",
+      "content": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations.\r\nGootloader is a malware loader \u2026 [+3015 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Mark Duell",
+      "title": "Sales of hand sanitiser, bottled water and batteries surge after Government warns people about potential cyber attack",
+      "description": "Shoppers in Britain responded to the public awareness drive encouraging households to prepare for up to three days in the event of disruption to essential services.",
+      "url": "https://www.dailymail.com/news/article-16286519/Sales-hand-sanitiser-bottled-water-batteries-surge-Ready.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/11/12/09/112461111-0-image-m-42_1794476115229.jpg",
+      "publishedAt": "2026-11-12T09:48:30Z",
+      "content": "Sales of essential supplies in Britain's supermarkets from hand sanitiser to bottled water have jumped after the launch of the Government's 'Be Ready' campaign.\r\nShoppers responded to the public awar\u2026 [+5668 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Poland takes its national e-government platform offline after a cyberattack",
+      "description": "Poland takes its e-government platform ePUAP offline after stopping a cyberattack, disrupting access to public services. Poland temporarily shut down ePUAP, the government platform citizens and businesses use to reach public services, after detecting and stop\u2026",
+      "url": "https://securityaffairs.com/202895/security/poland-takes-its-national-e-government-platform-offline-after-a-cyberattack.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/09/Poland-to-establish-Cyberspace-Defence-Force-by-2024.jpg",
+      "publishedAt": "2026-11-12T06:10:52Z",
+      "content": "Poland takes its national e-government platform offline after a cyberattack\r\nPoland temporarily shut down ePUAP, the government platform citizens and businesses use to reach public services, after de\u2026 [+2776 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Cyberattacks hit a third of Japan firms or their service providers this year: Reuters poll",
+      "description": "TOKYO, Nov 12 : One-third of Japanese firms have been hit by cyberattacks targeting either their own systems or those of external service providers this year, a Reuters survey showed on Thursday, prompting companies to ramp up spending on cybersecurity.The fi\u2026",
+      "url": "https://www.channelnewsasia.com/business/cyberattacks-hit-third-japan-firms-or-their-service-providers-year-reuters-poll-6544086",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--OOqLQPiH--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-11T230807Z_1_LYNXNPEMAA21L_RTROPTP_3_TECH-CYBERSECURITY.JPG?itok=nrkN9HVz",
+      "publishedAt": "2026-11-11T23:08:07Z",
+      "content": "TOKYO, Nov 12 : One-third of Japanese firms have been hit by cyberattacks targeting either their own systems or those of external service providers this year, a Reuters survey showed on Thursday, pro\u2026 [+2755 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Krebs on Security"
+      },
+      "author": "BrianKrebs",
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "description": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator o\u2026",
+      "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-11T18:06:01Z",
+      "content": "The cybercrime group Qilin has emerged as the world\u2019s most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers\u2026 [+6792 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Bill Toulas",
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "description": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/11/11/maersk.jpg",
+      "publishedAt": "2026-11-11T16:24:18Z",
+      "content": "Shipping giant Maersk has confirmed that a threat actor breached systems belonging to a company it previously acquired and stole data.\r\nRansomware group WhiteArmor claimed the attack over the weekend\u2026 [+3682 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": null,
+      "title": "Romanian intelligence agency says it identified Russian-linked cyber attack",
+      "description": "The attack comes amid Romanian concerns about Russian cyber operations, disinformation and other forms of hybrid warfare",
+      "url": "https://www.irishtimes.com/world/europe/2026/11/11/romanian-intelligence-agency-says-it-identified-russian-linked-cyber-attack/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/UTYZYIP4B3G2EC4YKYHTTNGO5Q.jpg?smart=true&auth=4ae3ce518dc51dfd83eea5c351b98acdbee19b9bf13b8985667113b0b563f071&width=1200&height=630",
+      "publishedAt": "2026-11-11T15:39:20Z",
+      "content": "A hacking group linked to Russias FSB security service staged a cyberattack on a Romanian government organisation last year, the countrys intelligence agency said on Wednesday.\r\nRussias embassy in Ro\u2026 [+1527 chars]",
+      "cocom": "USEUCOM"
+    }
+  ]
+}

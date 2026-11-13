@@ -1,0 +1,66 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Pemberton under evacuation alert as high river flows, rain threaten to cause flooding",
+      "description": "The village of Pemberton is under an evacuation alert, with a section under evacuation order, as officials warn that \"extremely high river flows and significant precipitation\" could cause flooding.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-storm-nov-12-9.7418790",
+      "urlToImage": "https://i.cbc.ca/ais/1.6409839,1794493535839/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C144%2C2228%2C1253%29%3BResize%3D620",
+      "publishedAt": "2026-11-12T14:28:59Z",
+      "content": "The village of Pemberton is under an evacuation alert, with a section under evacuation order, as officials warn that \"extremely high river flows and significant precipitation\" could cause flooding.\r\n\u2026 [+1467 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "title": "El Nino Threatens Health, Too - Early Warnings Done Right Can Save Lives",
+      "url": "https://www.ndtv.com/health/el-nino-threatens-health-too-early-warnings-done-right-can-save-lives-12318646",
+      "description": "El Nio is part of a natural climate phenomenon that shifts global weather patterns for months at a time. During El Nio years, temperatures tend to rise, triggering heat waves; dry regions can be hit...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Ndtv"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "Transregional"
+    },
+    {
+      "title": "El Ni\u00f1o Threatens Health, but Early Warnings Can Save Lives",
+      "url": "https://www.miragenews.com/el-nino-threatens-health-but-early-warnings-can-1776421/",
+      "description": "As communities around the world shore up their infrastructure in anticipation of one of the most powerful El Ni\u00f1os on record in late 2026 and early",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Mirage News"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "Transregional"
+    },
+    {
+      "title": "El Ni\u00f1o threatens health, too \u2013 early warnings done right can save lives",
+      "url": "https://theconversation.com/el-nino-threatens-health-too-early-warnings-done-right-can-save-lives-295379",
+      "description": "Weather warnings can help save lives by providing advice people can act on before, during and after a disaster.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "The Conversation"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "Transregional"
+    },
+    {
+      "title": "United Airlines Sets Firm January 2027 Date for Houston\u2013Caracas After Months of Waiting",
+      "url": "https://www.latintimes.com/united-airlines-sets-firm-january-2027-date-houston-caracas-after-months-waiting-601194",
+      "description": "United Airlines executives confirmed Jan. 13, 2027 for Houston\u2013Caracas, following two postponements caused by earthquake damage at Maiquet\u00eda.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "publishedAt": "",
+      "source": {
+        "name": "Latin Times"
+      },
+      "_provider": "newsdata.io",
+      "cocom": "USSOUTHCOM"
+    }
+  ]
+}
