@@ -1,0 +1,33 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Matthew Doran and Cherine Yazbeck",
+      "title": "Gazans desperate to create shelter from rubble in 'miserable' conditions",
+      "description": "Heavy rain hits the war-ravaged Gaza Strip, flooding the sprawling tent camps where hundreds of thousands of people live and triggering an \"immediate humanitarian emergency\".",
+      "url": "https://www.abc.net.au/news/2026-11-13/scramble-for-materials-shelter-gaza-flood-storms/107377866",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/9a1f41495c4b005fe6fcd2c3185e045a?impolicy=wcms_watermark_news&cropH=2266&cropW=4028&xPos=275&yPos=418&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-11-13T02:00:36Z",
+      "content": "Palestinians in Gaza are desperately trying to find new ways to prop up flimsy tents and shelters ahead of the long and wet winter, pulling material out of destroyed buildings to reinforce tarpaulins\u2026 [+6407 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Snopes.com"
+      },
+      "author": "Taija PerryCook",
+      "title": "Is this image of flooded tents in Gaza real?",
+      "description": "An image authentically depicts flooding in Gaza in November that has damaged thousands of shelters.",
+      "url": "https://www.snopes.com//fact-check/gaza-flooding-tents-image/",
+      "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/11/gaza_tent_flooding_ai_feature_image.png",
+      "publishedAt": "2026-11-12T00:51:00Z",
+      "content": "Claim:\r\nAn image authentically depicts flooding in Gaza in November that has damaged thousands of shelters.\r\nAs winter flooding hit Gaza where roughly65% of the population, about 1.4 million people, \u2026 [+3272 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T13"
+    }
+  ]
+}
