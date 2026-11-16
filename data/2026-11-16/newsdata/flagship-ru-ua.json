@@ -1,0 +1,517 @@
+{
+  "status": "success",
+  "totalResults": 410,
+  "results": [
+    {
+      "article_id": "c4319fae9541f4b93324e5be9d8f07f8",
+      "link": "https://www.thenational.scot/news/26729791.europe-pushed-towards-war-russia-cnd-chief-says/",
+      "title": "Europe being pushed towards \u2018war with Russia\u2019, anti-nuclear chief warns",
+      "description": "EUROPE is being pushed towards a new era of military confrontation with Russia while governments pour billions into nuclear weapons, the head of CND has warned",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "source:newsquest",
+        "topics:national-government",
+        "content-level:3",
+        "article_types:news",
+        "topics:politics",
+        "free_tags:organisations:military:nato",
+        "free_tags:international-geography:ukraine",
+        "free_tags:organisations:political:scottish-cnd",
+        "free_tags:social-and-political-issues:defence",
+        "topics:military",
+        "locations:scotland"
+      ],
+      "creator": [
+        "| laura pollock"
+      ],
+      "language": "english",
+      "country": [
+        "united kingdom"
+      ],
+      "category": [
+        "politics",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 05:00:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 06:09:48",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "thenational_scot",
+      "source_name": "Thenational Scot",
+      "source_priority": 95578,
+      "source_url": "https://www.thenational.scot",
+      "source_icon": "https://i.newsdata.io/thenational_scot.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 96.76,
+        "neutral": 2.48,
+        "positive": 0.76
+      },
+      "ai_tag": [
+        "national security",
+        "conflicts & war"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "04c8a5161c1d2ed6bcb73ee970c498f5",
+      "link": "https://www.smh.com.au/world/europe/zelensky-rails-against-spacex-as-ukraine-mulls-over-nato-trade-off-20261116-p61ejl.html",
+      "title": "Zelensky rails against SpaceX as Ukraine mulls over NATO trade-off",
+      "description": "Patchy Starshield service, provided by Elon Musk\u2019s SpaceX, may be helping Russians hit their targets, as Washington asks Ukraine to think about ceding territory to Russia in exchange for a NATO seat.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "world / europe"
+      ],
+      "creator": [
+        "reuters"
+      ],
+      "language": "english",
+      "country": [
+        "australia"
+      ],
+      "category": [
+        "politics",
+        "technology",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 04:52:50",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 05:02:01",
+      "image_url": "https://static.ffx.io/images/$zoom_0.1911%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_145%2C$y_0/t_crop_custom/q_86%2Cf_auto/5d16aced41c404514a4ed2d6dff839587eaab7e9",
+      "video_url": null,
+      "source_id": "smh",
+      "source_name": "The Sydney Morning Herald",
+      "source_priority": 2251,
+      "source_url": "https://www.smh.com.au",
+      "source_icon": "https://i.newsdata.io/smh.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 94.29,
+        "neutral": 4.9,
+        "positive": 0.81
+      },
+      "ai_tag": [
+        "space",
+        "national security"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "ce870877ef29cea3c623a54d17b1c7ea",
+      "link": "https://kyivindependent.com/fuel-depot-in-azov-russia-reportedly-in-flames-following-ukrainian-drone-attacks/",
+      "title": "Fuel depot in Azov, Russia reportedly in flames following Ukrainian drone attacks",
+      "description": "Ukrainian monitoring channels reported that an oil depot in Azov, in Russia's Rostov Oblast, about 142 km (88 miles) from the Ukrainian border, was on fire at approximately 4 a.m. local time.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "russian gas",
+        "rostov oblast",
+        "oil",
+        "russian oil",
+        "war",
+        "ukrainian attack"
+      ],
+      "creator": [
+        "lachlan hyatt"
+      ],
+      "language": "english",
+      "country": [
+        "ukraine"
+      ],
+      "category": [
+        "crime",
+        "politics",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 04:48:49",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 05:05:39",
+      "image_url": "https://assets.kyivindependent.com/content/images/2026/11/2026-11-15-23_42_36_20261116-044249_20261116-044413.jpg",
+      "video_url": null,
+      "source_id": "kyivindependent",
+      "source_name": "The Kyiv Independent",
+      "source_priority": 25057,
+      "source_url": "https://kyivindependent.com",
+      "source_icon": "https://i.newsdata.io/kyivindependent.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 97.42,
+        "neutral": 1.91,
+        "positive": 0.67
+      },
+      "ai_tag": [
+        "accidents",
+        "national security"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "d1509960eb92d055e14500ad62b625e7",
+      "link": "https://www.essentiallysports.com/olympics-news-ice-hockey-russia-vows-legal-action-against-iihf-after-two-zero-two-seven-world-junior-championships-snub/",
+      "title": "Russia Vows Legal Action Against IIHF After 2027 World Junior Championships Snub",
+      "description": "Russia believed its return to international ice hockey was finally within reach after a landmark legal ruling. But that hope has now hit another roadblock. Despite the Court of Arbitration for Sport (CAS) ordering the International Ice Hockey Federation (IIHF) to reinstate Russian teams, the country will remain absent from the 2027 World Junior Championship [\u2026] The post Russia Vows Legal Action Against IIHF After 2027 World Junior Championships Snub appeared first on EssentiallySports.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "olympics",
+        "winter olympics",
+        "ice hockey"
+      ],
+      "creator": [
+        "sayantan roy"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "sports"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 04:44:34",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 05:06:48",
+      "image_url": "https://image-cdn.essentiallysports.com/wp-content/uploads/imago1006439772.jpg.jpeg?width=1200",
+      "video_url": null,
+      "source_id": "essentiallysports",
+      "source_name": "Essentially Sports",
+      "source_priority": 21450,
+      "source_url": "https://www.essentiallysports.com",
+      "source_icon": "https://i.newsdata.io/essentiallysports.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 24.24,
+        "neutral": 63.38,
+        "positive": 12.38
+      },
+      "ai_tag": [
+        "field hockey"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "6b685fd6cadca04ca384a7692c6c1a6c",
+      "link": "https://menafn.com/1111967572/Russia-Claims-1336-Drones-Downed-as-Overnight-Strikes-Kill-2",
+      "title": "Russia Claims 1,336 Drones Downed as Overnight Strikes Kill 2",
+      "description": "(MENAFN) Russia and Ukraine traded fresh accusations of overnight air attacks on Monday, with at least two people confirmed dead. Oleksandr Hanzha, governor of Dnipropetrovsk, said on Telegram that a ...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "menafn.com"
+      ],
+      "language": "english",
+      "country": [
+        "united arab emirates"
+      ],
+      "category": [
+        "top",
+        "politics",
+        "crime"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 04:44:03",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 10:37:16",
+      "image_url": "https://menafn.com/images/Menafn_SmallLogo.jpg",
+      "video_url": null,
+      "source_id": "menafn",
+      "source_name": "Menafn",
+      "source_priority": 28392,
+      "source_url": "https://menafn.com",
+      "source_icon": "https://i.newsdata.io/menafn.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 94.82,
+        "neutral": 4.38,
+        "positive": 0.8
+      },
+      "ai_tag": [
+        "accidents",
+        "national security"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "7c0145ff916d77e93c0ceb29b1911ce1",
+      "link": "https://www.thehindu.com/sport/tennis/mirra-andreeva-beats-elina-svitolina-to-win-wta-finals-ascends-to-no-2-in-rankings/article71706751.ece",
+      "title": "Mirra Andreeva beats Elina Svitolina to win WTA Finals; ascends to No. 2 in rankings",
+      "description": "Mirra Andreeva wins WTA Finals without dropping a set, rises to No. 2, wins $3.37M and a Mercedes convertible.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "breaking news",
+        "tennis"
+      ],
+      "creator": [
+        "ap"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "sports"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 04:16:13",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 04:31:44",
+      "image_url": "https://th-i.thgim.com/public/incoming/lbwvzg/article71706754.ece/alternates/FREE_1200/AP11_16_2026_000008A.jpg",
+      "video_url": null,
+      "source_id": "thehindu",
+      "source_name": "The Hindu",
+      "source_priority": 2972,
+      "source_url": "https://www.thehindu.com",
+      "source_icon": "https://i.newsdata.io/thehindu.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.94,
+        "neutral": 0.62,
+        "positive": 98.44
+      },
+      "ai_tag": [
+        "tennis"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "a7641c3ce235bd852f472c7baef149aa",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/well-done-to-all-the-superhumans-britains-prince-harry-visits-war-wounded-in-ukraine/videoshow/135872511.cms",
+      "title": "'Well done to all the Superhumans!': Britain's Prince Harry visits war-wounded in Ukraine",
+      "description": "Britain's Prince Harry on Sunday (November 15) met soldiers wounded in action during a two-day visit to Ukraine, expressing confidence that it could win the war against Russia and pledging to bring his Invictus Games to the country once there was peace. On his fourth visit to Ukraine since Russia's invasion in 2022, Harry visited Lviv in the west of the country and spoke at a conference for medics organized by Superhumans, a specialist clinic for those injured in war.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "prince harry visit war-wounded",
+        "us first lady",
+        "superhumans",
+        "prince harry war injured",
+        "russia-ukraine peace talks",
+        "injured in russia-ukraine war",
+        "britain's prince harry",
+        "us first lady melania trump",
+        "britain prince",
+        "russia-ukraine war"
+      ],
+      "creator": [
+        "et online"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "crime",
+        "politics",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 04:13:46",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 04:36:05",
+      "image_url": "https://img.etimg.com/thumb/msid-135872511,width-1200,height-900,overlay-economictimes/news/international/world-news/well-done-to-all-the-superhumans-britains-prince-harry-visits-war-wounded-in-ukraine.jpg",
+      "video_url": null,
+      "source_id": "economictimes_indiatimes",
+      "source_name": "The Economic Times",
+      "source_priority": 231,
+      "source_url": "https://economictimes.indiatimes.com",
+      "source_icon": "https://i.newsdata.io/economictimes_indiatimes.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 3.97,
+        "neutral": 15.34,
+        "positive": 80.69
+      },
+      "ai_tag": [
+        "politics",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "35312525f3d37d0a0d962dac2e5893b1",
+      "link": "https://bdnews24.com/people/c4dzqngvzs",
+      "title": "Prince Harry visits war-wounded in Ukraine",
+      "description": "Britain's Prince Harry visits war-wounded in Ukraine",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "british royal family",
+        "russia",
+        "prince harry",
+        "ukraine",
+        "wounded soldiers"
+      ],
+      "creator": [
+        "reuters"
+      ],
+      "language": "english",
+      "country": [
+        "bangladesh"
+      ],
+      "category": [
+        "politics",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 04:13:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 04:38:29",
+      "image_url": "https://media.assettype.com/bdnews24-english/2026-11-16/03oy96zb/price-harry-161126-01.jpg",
+      "video_url": null,
+      "source_id": "bdnews24",
+      "source_name": "Bdnews24.com",
+      "source_priority": 74089,
+      "source_url": "https://bdnews24.com",
+      "source_icon": null,
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 1.1,
+        "neutral": 94.75,
+        "positive": 4.15
+      },
+      "ai_tag": [
+        "conflicts & war",
+        "government"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "6d2a085559f5956d7479db25b868d53b",
+      "link": "https://konexionetwork.com/finance-economy/consolidation-before-breakout-patience-required/",
+      "title": "Consolidation before breakout \u2013 Patience required",
+      "description": "The week gone by was of a festive kind with Diwali and above all a sharp rise in the indices of 8% in the previous week to make Diwali colorful, explosive and exciting. On expected lines, this was a week of consolidation with benchmark indices maintaining their upward momentum but without the fireworks. Against the...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "business news",
+        "finance & economy"
+      ],
+      "creator": [
+        "team konexio"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "tourism",
+        "business",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 03:39:23",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 03:57:24",
+      "image_url": "https://konexionetwork.com/wp-content/uploads/2026/10/Arun-Kejriwal-New-1.jpg",
+      "video_url": null,
+      "source_id": "konexionetwork",
+      "source_name": "Konexio Network",
+      "source_priority": 99999999,
+      "source_url": "https://konexionetwork.com",
+      "source_icon": "https://i.newsdata.io/konexionetwork.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 1.97,
+        "neutral": 71.51,
+        "positive": 26.52
+      },
+      "ai_tag": [
+        "tourism",
+        "economy"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "9a1d005a4c20f4124f12c1340fbd6a21",
+      "link": "https://www.wionews.com/world/joe-biden-describes-vladimir-putin-as-teenager-in-memoir-criticises-zelensky-s-private-conduct-1794798060763",
+      "title": "Joe Biden describes Vladimir Putin as 'teenager' in memoir, criticises Zelensky's private conduct",
+      "description": "Joe Biden's new memoir reveals his views on Putin and Zelenskyy, Trump's team's request for direct talks with Russia and his assessment of Ukraine policy",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "russia ceasefire proposal",
+        "biden zelenskyy relationship",
+        "promise me america",
+        "biden putin meetings",
+        "biden russia policy",
+        "alaska summit putin trump",
+        "trump peace talks",
+        "joe biden on putin",
+        "us russia relations",
+        "biden latest news",
+        "us military aid to ukraine",
+        "vladimir putin",
+        "ukraine ceasefire",
+        "russia ukraine negotiations",
+        "joe biden memoir",
+        "donald trump",
+        "trump russia policy",
+        "biden on zelenskyy",
+        "russia ukraine war",
+        "putin zelenskyy"
+      ],
+      "creator": [
+        "jatin verma"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "world"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 03:17:59",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 03:40:54",
+      "image_url": "https://cdn1.wionews.com/prod/wion/images/2026/20261116/image-1794798079798.jpg?rect=(0,0,1600,900)",
+      "video_url": null,
+      "source_id": "wionews",
+      "source_name": "Wion",
+      "source_priority": 112977,
+      "source_url": "https://www.wionews.com",
+      "source_icon": "https://i.newsdata.io/wionews.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 51.88,
+        "neutral": 46.87,
+        "positive": 1.25
+      },
+      "ai_tag": [
+        "politics",
+        "government"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    }
+  ],
+  "nextPage": "1794799079914548250"
+}
