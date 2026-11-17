@@ -1,0 +1,466 @@
+{
+  "status": "success",
+  "totalResults": 33,
+  "results": [
+    {
+      "article_id": "e760612fb4a4becbf44ffa71884bd352",
+      "link": "https://www.israelnationalnews.com/flashes/697633",
+      "title": "Attempted terrorist attack reported near Jericho",
+      "description": "The IDF announced that it received a report of an attempted terrorist attack in the Jericho area. IDF forces were dispatched to the scene and set up roadblocks in the area. The circumstances of the incident are under investigation.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "israel national news"
+      ],
+      "language": "english",
+      "country": [
+        "israel"
+      ],
+      "category": [
+        "top",
+        "crime"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 22:32:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 23:33:32",
+      "image_url": "https://www.israelnationalnews.com/files/pictures/0/0.jpg",
+      "video_url": null,
+      "source_id": "israelnationalnews",
+      "source_name": "Israelnationalnews",
+      "source_priority": 10196,
+      "source_url": "https://www.israelnationalnews.com",
+      "source_icon": "https://i.newsdata.io/israelnationalnews.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 83.2,
+        "neutral": 15.63,
+        "positive": 1.17
+      },
+      "ai_tag": [
+        "accidents",
+        "terrorism"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "9aa1ea0d84c16ad0fd17589ed41cf3bf",
+      "link": "https://www.abc.net.au/news/2026-11-17/james-leslie-hollands-was-self-radicalised-inquest-told/107392356",
+      "title": "Terrorist attack teen shot dead by police was 'self-radicalised'",
+      "description": "James Hollands, 16, who wanted to \"kill all male people in the area\" and was shot dead by police, is believed to be \"self-radicalised\" and acted alone, a coronial inquest hears.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "shootings",
+        "police",
+        "crime",
+        "courts",
+        "terrorism"
+      ],
+      "creator": [
+        "cason ho"
+      ],
+      "language": "english",
+      "country": [
+        "australia"
+      ],
+      "category": [
+        "top",
+        "crime"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 21:17:03",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 21:31:42",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/840dbe5ccfed8b9a1c9f285df23e19a8?impolicy=wcms_crop_resize&cropH=1681&cropW=2988&xPos=0&yPos=19&width=862&height=485",
+      "video_url": null,
+      "source_id": "abc_net",
+      "source_name": "Abc",
+      "source_priority": 3795,
+      "source_url": "https://www.abc.net.au",
+      "source_icon": "https://i.newsdata.io/abc_net.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 96.08,
+        "neutral": 2.99,
+        "positive": 0.93
+      },
+      "ai_tag": [
+        "crime",
+        "law and justice"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "fdb3bd4352a9d871190b87d9faea30f3",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYjFyUU0zTWd5ZXc5a0xnRWFIMDBXYk5aM0ZpRkdhdXlEV0ZoZWhhdkxwX2xXSkk1R3VrcW5KdXNlN2IzMGZZekpDVmw2VFk3ZDZ5N05zQlpQdFNCMzgwSWpTd0w0b1ZVR0NscW0yUXBrdjJpMW53TlN2WHJkNDJzWFVCSUU5WWdLSnprNGZzQlFrcExrR2FrbkVta3JkVjZKVjB4T2xacw?oc=5",
+      "title": "Terrorist attack teen shot dead by police was 'self-radicalised' - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "description": "Terrorist attack teen shot dead by police was 'self-radicalised' ABC News & Headlines \u2013 Australian Broadcasting Corporation Inquest begins into police shooting death of radicalised teen SMH.com.au Perth teenager shot by police laughed at Anzac Day ceremony, blew up toilet during descent into extremism The Age Last words of radicalised teen before shot dead by police The West Australian James Hollands inquest: Court told 16-year-old was in \u2018path of jihad tonight\u2019 before he was shot dead by police 7NEWS",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": null,
+      "language": "english",
+      "country": [
+        "australia"
+      ],
+      "category": [
+        "top",
+        "crime"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 21:17:03",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 22:33:04",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "google",
+      "source_name": "Google News",
+      "source_priority": 14,
+      "source_url": "https://news.google.com",
+      "source_icon": "https://i.newsdata.io/google.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 86.94,
+        "neutral": 9.76,
+        "positive": 3.3
+      },
+      "ai_tag": [
+        "terrorism",
+        "crime"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "54201798ef2f5a4499844729fb723358",
+      "link": "https://kashmirreader.com/2026/11/17/militant-involved-in-kulgam-attack-killed-in-encounter-hunt-on-for-associate/",
+      "title": "Militant involved in Kulgam attack killed in encounter; hunt on for associate",
+      "description": "\u2022 Umar Dar killed; LeT\u2019s Lateef Bhatt believed to have escaped \u2022 Cordon extended, para special forces deployed in search Srinagar, Nov 16: One of the militants allegedly involved in last week\u2019s attack on CRPF personnel in south Kashmir\u2019s Kulgam district was killed in an encounter on Monday, while security forces have launched a search [\u2026]",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "top news"
+      ],
+      "creator": [
+        "kr desk"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "crime"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 20:57:16",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-17 04:04:23",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "kashmirreader",
+      "source_name": "Kashmir Reader",
+      "source_priority": 1088812,
+      "source_url": "https://kashmirreader.com",
+      "source_icon": "https://i.newsdata.io/kashmirreader.jpg",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 45.79,
+        "neutral": 51.89,
+        "positive": 2.32
+      },
+      "ai_tag": [
+        "terrorism",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "9bd11c3401d560a27e2cba4b6208445b",
+      "link": "https://dailypost.ng/2026/11/16/troops-neutralise-terrorist-recover-ak-47-rifle-in-katsina-ambush/",
+      "title": "Troops neutralise terrorist, recover AK-47 rifle in Katsina ambush",
+      "description": "Troops of the Joint Task Force (North West), Operation FANSAN YAMMA, have neutralised a terrorist and recovered an AK-47 rifle and other operational items during an intelligence-driven ambush in Katsina State. The operation, conducted on November 11, 2026, took place at Bada\u2019u in Gora, Malumfashi Local Government Area of the state. According to the military, [\u2026] Troops neutralise terrorist, recover AK-47 rifle in Katsina ambush",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "news",
+        "troops",
+        "katsina"
+      ],
+      "creator": [
+        "john gabriel"
+      ],
+      "language": "english",
+      "country": [
+        "nigeria"
+      ],
+      "category": [
+        "top",
+        "crime"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 19:45:26",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 20:07:19",
+      "image_url": "https://dailypost.ng/dp-img/16x9/wp-content/uploads/2026/07/nigerian-Army-troops-1.jpg.jpg",
+      "video_url": null,
+      "source_id": "dailypost",
+      "source_name": "Daily Post",
+      "source_priority": 55306,
+      "source_url": "https://dailypost.ng",
+      "source_icon": "https://i.newsdata.io/dailypost.jpg",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.87,
+        "neutral": 1.35,
+        "positive": 97.78
+      },
+      "ai_tag": [
+        "terrorism",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "408c2ad021081ff3da3228638aa7a20b",
+      "link": "https://www.jns.org/news/israel-news/idf-demolishes-home-of-terrorist-behind-attempted-rocket-attack",
+      "title": "IDF demolishes home of terrorist behind attempted rocket attack",
+      "description": null,
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "israel news"
+      ],
+      "creator": [
+        "jns staff"
+      ],
+      "language": "english",
+      "country": [
+        "israel"
+      ],
+      "category": [
+        "top",
+        "crime"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 18:27:48",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 18:51:11",
+      "image_url": "https://static.jns.org/dims4/default/f09d8ec/2147483647/strip/false/crop/1600x1066+0+0/resize/1486x990!/quality/90/?url=https%3A%2F%2Fk2-prod-jns-prod.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fuploads%2F2026%2F02%2F77a34c1f-696f-491b-aa26-8318fba02dfd.jpg",
+      "video_url": null,
+      "source_id": "jns_org",
+      "source_name": "Jns.org",
+      "source_priority": 893411,
+      "source_url": "https://www.jns.org",
+      "source_icon": "https://i.newsdata.io/jns_org.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 84.96,
+        "neutral": 11.79,
+        "positive": 3.25
+      },
+      "ai_tag": [
+        "terrorism",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "504fa2c6ad3ad0c134c9e1fda0b311e0",
+      "link": "https://www.thestatesman.com/india/let-terrorist-behind-attack-on-crpf-post-neutralised-in-kulgam-another-trapped-1503663331.html",
+      "title": "LeT terrorist behind attack on CRPF post neutralised in Kulgam, another trapped",
+      "description": "According to reports, the operation was launched after Jammu and Kashmir Police picked up specific human intelligence inputs on Sunday morning about the terrorists' presence.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "j&amp;k police",
+        "crpf"
+      ],
+      "creator": [
+        "statesman news service"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "crime"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 17:02:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 20:42:02",
+      "image_url": "https://www.thestatesman.com/wp-content/uploads/2025/06/IMG_5701-jpeg.webp",
+      "video_url": null,
+      "source_id": "thestatesman",
+      "source_name": "The Statesman",
+      "source_priority": 42473,
+      "source_url": "https://www.thestatesman.com",
+      "source_icon": "https://i.newsdata.io/thestatesman.jpg",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 51.79,
+        "neutral": 45.0,
+        "positive": 3.21
+      },
+      "ai_tag": [
+        "terrorism",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "fcd69ef0837d114fdf19ecedc77b22ff",
+      "link": "https://www.newindianexpress.com/videos/news-videos/2026/Nov/16/kulgam-encounter-one-terrorist-killed-another-trapped-after-crpf-attack",
+      "title": "Kulgam Encounter: One Terrorist Killed, Another Trapped After CRPF Attack",
+      "description": "One terrorist has been killed and another remains trapped in an encounter with security forces in Jammu and Kashmir's Kulgam district. The encounter follows intelligence inputs about terrorists linked to the November 11 attack on a CRPF checkpoint in Akhran, where three personnel were injured. The terrorists have been identified as Lateef Bhatt and Umar. Security forces are continuing efforts to track down the second terrorist.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "kulgam encounter",
+        "news videos"
+      ],
+      "creator": [
+        "express video service"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "crime"
+      ],
+      "datatype": "multimedia",
+      "pubDate": "2026-11-16 16:29:47",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 17:04:56",
+      "image_url": "https://cf-images.assettype.com/newindianexpress/2026-11-16/5grptsuv/maxresdefault.webp",
+      "video_url": "https://www.newindianexpress.com/videos/news-videos/2026/Nov/16/kulgam-encounter-one-terrorist-killed-another-trapped-after-crpf-attack",
+      "source_id": "newindianexpress",
+      "source_name": "The New Indian Express",
+      "source_priority": 15406,
+      "source_url": "https://www.newindianexpress.com/nation",
+      "source_icon": "https://i.newsdata.io/newindianexpress.jpg",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 32.81,
+        "neutral": 50.82,
+        "positive": 16.37
+      },
+      "ai_tag": [
+        "terrorism",
+        "crime"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "0bea22aa74d04a08f95ac02c2a1675ad",
+      "link": "https://www.ptinews.com/story/national/terrorist-involved-in-kulgam-attack-killed-in-encounter-hunt-on-for-associate/4265863",
+      "title": "Terrorist involved in Kulgam attack killed in encounter; hunt on for associate",
+      "description": null,
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "pti news"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "crime"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 15:51:02",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 15:54:17",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "ptinews",
+      "source_name": "Ptinews",
+      "source_priority": 965458,
+      "source_url": "https://www.ptinews.com",
+      "source_icon": "https://i.newsdata.io/ptinews.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 18.36,
+        "neutral": 77.28,
+        "positive": 4.36
+      },
+      "ai_tag": [
+        "terrorism",
+        "crime"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "e09a9682bff1ad794ed852b353415f42",
+      "link": "https://www.dnaindia.com/india/report-kulgam-encounter-one-terrorist-killed-after-crpf-attack-search-for-others-on-3224158",
+      "title": "Kulgam Encounter: One terrorist killed after CRPF attack, search for others on",
+      "description": "Security forces recovered a terrorist's body during an encounter in Jammu and Kashmir's Kulgam district, days after three CRPF personnel were injured in an attack.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "india"
+      ],
+      "creator": [
+        "dna web team"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "crime"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-16 13:51:21",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-16 14:14:25",
+      "image_url": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/11/16/2762094-untitled-design-2026-11-16t191824.532.png",
+      "video_url": null,
+      "source_id": "dnaindia",
+      "source_name": "Dna",
+      "source_priority": 118270,
+      "source_url": "https://www.dnaindia.com",
+      "source_icon": "https://i.newsdata.io/dnaindia.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 59.15,
+        "neutral": 36.73,
+        "positive": 4.12
+      },
+      "ai_tag": [
+        "terrorism",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    }
+  ],
+  "nextPage": "1794837081823507407"
+}
