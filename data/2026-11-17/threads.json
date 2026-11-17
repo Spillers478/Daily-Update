@@ -34,13 +34,15 @@
     "th-8011f752",
     "th-833d0925",
     "th-396b1efb",
+    "th-8a9a3ecd",
     "th-509f71f5",
     "th-660f08c3",
     "th-e34e9689",
     "th-130adb97",
     "th-a3f0f990",
     "th-151349d8",
-    "th-3cba9d0c"
+    "th-3cba9d0c",
+    "th-8a3feaf4"
    ],
    "linked": [
     "th-0ee62e5f"
@@ -50,12 +52,12 @@
    "home": [
     "th-31ba8062",
     "th-b701c2b2",
-    "th-5bd9f80c",
     "th-6f6f9555",
     "th-5f3509fd",
     "th-1722cab4",
     "th-ab9d4cbc",
     "th-4c04fb0b",
+    "th-878f1333",
     "th-05f201bd",
     "th-46b9d17f",
     "th-06a73a34",
@@ -63,6 +65,7 @@
     "th-b99eb6ef",
     "th-55d345f1",
     "th-cbf03972",
+    "th-c6a87e99",
     "th-eeaeed33",
     "th-a0f724d8",
     "th-40f75677",
@@ -75,15 +78,14 @@
     "th-6d99db38",
     "th-d4ab8110",
     "th-21037ea3",
+    "th-4b0ab26e",
     "th-c6ce3dfd",
     "th-9794cb09",
     "th-34c45391",
     "th-ee68235e",
-    "th-1039582d",
     "th-d5c304a7",
     "th-98cfe70d",
     "th-4434f266",
-    "th-73a6940b",
     "th-519ade4a"
    ],
    "linked": [
@@ -101,6 +103,7 @@
     "th-342e9852",
     "th-75b594e7",
     "th-7776419f",
+    "th-2f10e94d",
     "th-57b731cb",
     "th-781dcbc7",
     "th-ecf29eb1"
@@ -110,9 +113,10 @@
   "T01": {
    "home": [
     "th-71fdd0c8",
+    "th-5bd9f80c",
     "th-0ee62e5f",
     "th-d0a383a2",
-    "th-c6a87e99",
+    "th-3d9bae5c",
     "th-e062147f"
    ],
    "linked": [
@@ -122,7 +126,6 @@
   "T02": {
    "home": [
     "th-66d23fda",
-    "th-3d9bae5c",
     "th-63df96c5",
     "th-de236ffb",
     "th-3dd8018d"
@@ -151,9 +154,9 @@
    "home": [
     "th-290f60b8",
     "th-3a3c1752",
-    "th-8a9a3ecd",
     "th-e8e3a565",
-    "th-79351f05"
+    "th-79351f05",
+    "th-73a6940b"
    ],
    "linked": []
   },
@@ -161,7 +164,6 @@
    "home": [
     "th-0ad456d8",
     "th-77e44b09",
-    "th-e0bee4f4",
     "th-19fbb76d",
     "th-241cd845",
     "th-74125035",
@@ -205,7 +207,6 @@
     "th-9a3a9d9c",
     "th-b6daef3b",
     "th-64104a37",
-    "th-8a3feaf4",
     "th-1c771486"
    ],
    "linked": [
@@ -224,8 +225,8 @@
   "T12": {
    "home": [
     "th-023c48ac",
-    "th-2f10e94d",
     "th-92c34570",
+    "th-dd28e025",
     "th-81705f9b",
     "th-1bd17da2",
     "th-5c644ad7",
@@ -262,7 +263,6 @@
     "th-072ee4d7",
     "th-3587ac3b",
     "th-c5c5bb76",
-    "th-8cf86312",
     "th-28b61317",
     "th-0097193e",
     "th-c432cd03",
@@ -821,7 +821,9 @@
    "latest": "2026-11-16T14:49:22+00:00",
    "rank": 6,
    "top_rank": 5,
-   "related": []
+   "related": [
+    "th-77e44b09"
+   ]
   },
   {
    "id": "th-9f7118e0",
@@ -1394,9 +1396,9 @@
   },
   {
    "id": "th-5bd9f80c",
-   "home": "flagship-ir-il",
+   "home": "T01",
    "topics": {
-    "flagship-ir-il": 1
+    "T01": 1
    },
    "n_articles": 1,
    "lead_url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh",
@@ -1405,7 +1407,7 @@
    "bluf_eligible": true,
    "articles": [
     {
-     "topic": "flagship-ir-il",
+     "topic": "T01",
      "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh",
      "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
      "description": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
@@ -1417,7 +1419,7 @@
     }
    ],
    "contradictions": [],
-   "score": 67.2,
+   "score": 66.2,
    "n_independent": 1,
    "best_tier_weight": 1.0,
    "components": {
@@ -1425,72 +1427,10 @@
     "quality": 1.0,
     "recency": 0.232,
     "escalation": 1.0,
-    "severity": 0.8
+    "severity": 0.7
    },
    "latest": "2026-11-15T02:59:06+00:00",
    "rank": 16,
-   "top_rank": null,
-   "related": []
-  },
-  {
-   "id": "th-66d23fda",
-   "home": "T02",
-   "topics": {
-    "T02": 3
-   },
-   "n_articles": 3,
-   "lead_url": "https://www.irishtimes.com/world/middle-east/2026/11/16/children-dying-from-hypothermia-in-gaza-due-to-aid-restrictions-eu-commissioner-says/",
-   "lead_title": "Children dying from hypothermia in Gaza due to aid restrictions, EU commissioner says",
-   "lead_source": "The Irish Times",
-   "bluf_eligible": true,
-   "articles": [
-    {
-     "topic": "T02",
-     "url": "https://www.irishtimes.com/world/middle-east/2026/11/16/children-dying-from-hypothermia-in-gaza-due-to-aid-restrictions-eu-commissioner-says/",
-     "title": "Children dying from hypothermia in Gaza due to aid restrictions, EU commissioner says",
-     "description": "Governments call for urgent action to get aid supplies into enclave after heavy flooding destroys tents and camps",
-     "source": "The Irish Times",
-     "publishedAt": "2026-11-16T14:25:24Z",
-     "domain": "irishtimes.com",
-     "category": "wire_primary",
-     "origin": "irishtimes.com"
-    },
-    {
-     "topic": "T02",
-     "url": "https://www.aljazeera.com/features/2026/11/16/my-arms-are-empty-gaza-mothers-brace-for-another-winter-of-cold-and-fear",
-     "title": "\u2018My arms are empty\u2019: Gaza mothers brace for another winter of cold and fear",
-     "description": "A nine-month-old baby has died from hypothermia inside his family\u2019s displacement tent in Gaza, as winter returns.",
-     "source": "Al Jazeera English",
-     "publishedAt": "2026-11-16T14:20:43Z",
-     "domain": "aljazeera.com",
-     "category": "wire_primary",
-     "origin": "aljazeera.com"
-    },
-    {
-     "topic": "T02",
-     "url": "https://www.globalresearch.ca/rains-despair-flooding-humanitarian-crisis-gaza/5945929",
-     "title": "Rains and Despair: Flooding and the Humanitarian Crisis in Gaza",
-     "description": "There may well be a time when a note on Gaza will describe something fragrantly hopeful rather than dankly despairing. That time, however, will be some time off. Those on the strip continue to live in precarious conditions, accommodated in \u2026\nThe post Rains an\u2026",
-     "source": "Globalresearch.ca",
-     "publishedAt": "2026-11-16T13:43:23Z",
-     "domain": "globalresearch.ca",
-     "category": "advocacy_opinion",
-     "origin": "globalresearch.ca"
-    }
-   ],
-   "contradictions": [],
-   "score": 66.7,
-   "n_independent": 3,
-   "best_tier_weight": 1.0,
-   "components": {
-    "corroboration": 0.712,
-    "quality": 0.907,
-    "recency": 0.908,
-    "escalation": 0.221,
-    "severity": 0.8
-   },
-   "latest": "2026-11-16T14:25:24+00:00",
-   "rank": 17,
    "top_rank": null,
    "related": []
   },
@@ -1530,7 +1470,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T13:28:23+00:00",
-   "rank": 18,
+   "rank": 17,
    "top_rank": null,
    "related": []
   },
@@ -1603,7 +1543,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T16:35:55+00:00",
-   "rank": 19,
+   "rank": 18,
    "top_rank": null,
    "related": []
   },
@@ -1677,7 +1617,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T16:45:27+00:00",
-   "rank": 20,
+   "rank": 19,
    "top_rank": null,
    "related": []
   },
@@ -1717,7 +1657,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T07:39:49+00:00",
-   "rank": 21,
+   "rank": 20,
    "top_rank": null,
    "related": []
   },
@@ -1779,7 +1719,7 @@
     "severity": 0.9
    },
    "latest": null,
-   "rank": 22,
+   "rank": 21,
    "top_rank": null,
    "related": []
   },
@@ -1819,7 +1759,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T00:17:38+00:00",
-   "rank": 23,
+   "rank": 22,
    "top_rank": null,
    "related": []
   },
@@ -1870,7 +1810,7 @@
     "severity": 0.5
    },
    "latest": "2026-11-16T15:08:44+00:00",
-   "rank": 24,
+   "rank": 23,
    "top_rank": null,
    "related": []
   },
@@ -1910,7 +1850,7 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 25,
+   "rank": 24,
    "top_rank": null,
    "related": []
   },
@@ -1984,7 +1924,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T16:33:51+00:00",
-   "rank": 26,
+   "rank": 25,
    "top_rank": null,
    "related": []
   },
@@ -2057,69 +1997,7 @@
     "severity": 0.5
    },
    "latest": "2026-11-16T09:00:38+00:00",
-   "rank": 27,
-   "top_rank": null,
-   "related": []
-  },
-  {
-   "id": "th-2f10e94d",
-   "home": "T12",
-   "topics": {
-    "T12": 3
-   },
-   "n_articles": 3,
-   "lead_url": "https://www.theverge.com/transportation/1034039/faa-aviation-glitch-meltdown-ground-stop",
-   "lead_title": "America\u2019s air traffic control system couldn\u2019t handle a single bad router",
-   "lead_source": "The Verge",
-   "bluf_eligible": true,
-   "articles": [
-    {
-     "topic": "T12",
-     "url": "https://www.theverge.com/transportation/1034039/faa-aviation-glitch-meltdown-ground-stop",
-     "title": "America\u2019s air traffic control system couldn\u2019t handle a single bad router",
-     "description": "Thirty minutes outside Atlanta, the pilot got on the intercom to announce that something was wrong. A communications issue with the Federal Aviation Administration was cascading across the country. The pilot didn't offer much detail except to say that the iss\u2026",
-     "source": "The Verge",
-     "publishedAt": "2026-11-16T14:43:48Z",
-     "domain": "theverge.com",
-     "category": "established",
-     "origin": "theverge.com"
-    },
-    {
-     "topic": "T12",
-     "url": "https://fortune.com/2026/11/16/faa-ground-stop-airline-recovery-outdated-tech/",
-     "title": "\u2018Walkie-talkie and paper just doesn\u2019t cut it anymore\u2019: FAA ground stop exposes air travel tech Delta\u2019s CEO likens to the 1960s",
-     "description": "The FAA lifted its nationwide ground stop in under five hours. Nearly 18,000 cancellations later, ground crews running on radios and paper are slowing the reset.",
-     "source": "Fortune",
-     "publishedAt": "2026-11-16T08:06:00Z",
-     "domain": "fortune.com",
-     "category": "established",
-     "origin": "fortune.com"
-    },
-    {
-     "topic": "T12",
-     "url": "https://www.kpbs.org/news/public-safety/2026/11/16/san-diego-flights-stabilize-following-historic-national-faa-ground-stop",
-     "title": "San Diego flights stabilize following historic national FAA ground stop",
-     "description": "According to the flight data tracking website FlightAware San Diego's airport had 364 delays and 48 cancellations on Sunday. As of Monday morning, 73 flights were delayed, and 10 were canceled.",
-     "source": "KPBS",
-     "publishedAt": "2026-11-16T15:52:19Z",
-     "domain": "kpbs.org",
-     "category": "unclassified",
-     "origin": "kpbs.org"
-    }
-   ],
-   "contradictions": [],
-   "score": 57.0,
-   "n_independent": 3,
-   "best_tier_weight": 0.7,
-   "components": {
-    "corroboration": 0.712,
-    "quality": 0.66,
-    "recency": 0.96,
-    "escalation": 0.0,
-    "severity": 0.8
-   },
-   "latest": "2026-11-16T15:52:19+00:00",
-   "rank": 28,
+   "rank": 26,
    "top_rank": null,
    "related": []
   },
@@ -2159,7 +2037,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T15:00:00+00:00",
-   "rank": 29,
+   "rank": 27,
    "top_rank": null,
    "related": []
   },
@@ -2199,7 +2077,7 @@
     "severity": 0.7
    },
    "latest": "2026-11-16T10:51:56+00:00",
-   "rank": 30,
+   "rank": 28,
    "top_rank": null,
    "related": []
   },
@@ -2250,7 +2128,47 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T08:59:18+00:00",
-   "rank": 31,
+   "rank": 29,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-878f1333",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.irishtimes.com/world/middle-east/2026/11/16/children-dying-from-hypothermia-in-gaza-due-to-aid-restrictions-eu-commissioner-says/",
+   "lead_title": "Children dying from hypothermia in Gaza due to aid restrictions, EU commissioner says",
+   "lead_source": "The Irish Times",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.irishtimes.com/world/middle-east/2026/11/16/children-dying-from-hypothermia-in-gaza-due-to-aid-restrictions-eu-commissioner-says/",
+     "title": "Children dying from hypothermia in Gaza due to aid restrictions, EU commissioner says",
+     "description": "Governments call for urgent action to get aid supplies into enclave after heavy flooding destroys tents and camps",
+     "source": "The Irish Times",
+     "publishedAt": "2026-11-16T14:25:24Z",
+     "domain": "irishtimes.com",
+     "category": "wire_primary",
+     "origin": "irishtimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 55.2,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.908,
+    "escalation": 0.118,
+    "severity": 0.8
+   },
+   "latest": "2026-11-16T14:25:24+00:00",
+   "rank": 30,
    "top_rank": null,
    "related": []
   },
@@ -2290,7 +2208,7 @@
     "severity": 0.7
    },
    "latest": "2026-11-16T14:50:56+00:00",
-   "rank": 32,
+   "rank": 31,
    "top_rank": null,
    "related": []
   },
@@ -2352,7 +2270,7 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 33,
+   "rank": 32,
    "top_rank": null,
    "related": []
   },
@@ -2392,7 +2310,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T16:26:32+00:00",
-   "rank": 34,
+   "rank": 33,
    "top_rank": null,
    "related": []
   },
@@ -2432,7 +2350,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T16:03:34+00:00",
-   "rank": 35,
+   "rank": 34,
    "top_rank": null,
    "related": []
   },
@@ -2483,7 +2401,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T16:08:49+00:00",
-   "rank": 36,
+   "rank": 35,
    "top_rank": null,
    "related": []
   },
@@ -2523,7 +2441,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T16:08:00+00:00",
-   "rank": 37,
+   "rank": 36,
    "top_rank": null,
    "related": []
   },
@@ -2563,7 +2481,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T15:43:54+00:00",
-   "rank": 38,
+   "rank": 37,
    "top_rank": null,
    "related": []
   },
@@ -2614,7 +2532,7 @@
     "severity": 0.8
    },
    "latest": null,
-   "rank": 39,
+   "rank": 38,
    "top_rank": null,
    "related": []
   },
@@ -2654,6 +2572,46 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T15:37:37+00:00",
+   "rank": 39,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-66d23fda",
+   "home": "T02",
+   "topics": {
+    "T02": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.aljazeera.com/features/2026/11/16/my-arms-are-empty-gaza-mothers-brace-for-another-winter-of-cold-and-fear",
+   "lead_title": "\u2018My arms are empty\u2019: Gaza mothers brace for another winter of cold and fear",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T02",
+     "url": "https://www.aljazeera.com/features/2026/11/16/my-arms-are-empty-gaza-mothers-brace-for-another-winter-of-cold-and-fear",
+     "title": "\u2018My arms are empty\u2019: Gaza mothers brace for another winter of cold and fear",
+     "description": "A nine-month-old baby has died from hypothermia inside his family\u2019s displacement tent in Gaza, as winter returns.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-11-16T14:20:43Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 52.3,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.905,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-11-16T14:20:43+00:00",
    "rank": 40,
    "top_rank": null,
    "related": []
@@ -2743,6 +2701,57 @@
    "related": []
   },
   {
+   "id": "th-dd28e025",
+   "home": "T12",
+   "topics": {
+    "T12": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.theverge.com/transportation/1034039/faa-aviation-glitch-meltdown-ground-stop",
+   "lead_title": "America\u2019s air traffic control system couldn\u2019t handle a single bad router",
+   "lead_source": "The Verge",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T12",
+     "url": "https://www.theverge.com/transportation/1034039/faa-aviation-glitch-meltdown-ground-stop",
+     "title": "America\u2019s air traffic control system couldn\u2019t handle a single bad router",
+     "description": "Thirty minutes outside Atlanta, the pilot got on the intercom to announce that something was wrong. A communications issue with the Federal Aviation Administration was cascading across the country. The pilot didn't offer much detail except to say that the iss\u2026",
+     "source": "The Verge",
+     "publishedAt": "2026-11-16T14:43:48Z",
+     "domain": "theverge.com",
+     "category": "established",
+     "origin": "theverge.com"
+    },
+    {
+     "topic": "T12",
+     "url": "https://www.kpbs.org/news/public-safety/2026/11/16/san-diego-flights-stabilize-following-historic-national-faa-ground-stop",
+     "title": "San Diego flights stabilize following historic national FAA ground stop",
+     "description": "According to the flight data tracking website FlightAware San Diego's airport had 364 delays and 48 cancellations on Sunday. As of Monday morning, 73 flights were delayed, and 10 were canceled.",
+     "source": "KPBS",
+     "publishedAt": "2026-11-16T15:52:19Z",
+     "domain": "kpbs.org",
+     "category": "unclassified",
+     "origin": "kpbs.org"
+    }
+   ],
+   "contradictions": [],
+   "score": 52.1,
+   "n_independent": 2,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 0.64,
+    "recency": 0.96,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-11-16T15:52:19+00:00",
+   "rank": 42,
+   "top_rank": null,
+   "related": []
+  },
+  {
    "id": "th-d0a383a2",
    "home": "T01",
    "topics": {
@@ -2778,7 +2787,7 @@
     "severity": 0.7
    },
    "latest": "2026-11-16T15:32:54+00:00",
-   "rank": 42,
+   "rank": 43,
    "top_rank": null,
    "related": []
   },
@@ -2818,7 +2827,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T13:44:01+00:00",
-   "rank": 43,
+   "rank": 44,
    "top_rank": null,
    "related": []
   },
@@ -2858,7 +2867,7 @@
     "severity": 0.5
    },
    "latest": "2026-11-16T12:43:24+00:00",
-   "rank": 44,
+   "rank": 45,
    "top_rank": null,
    "related": []
   },
@@ -2898,7 +2907,7 @@
     "severity": 0.7
    },
    "latest": "2026-11-16T10:23:22+00:00",
-   "rank": 45,
+   "rank": 46,
    "top_rank": null,
    "related": []
   },
@@ -2938,7 +2947,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T10:03:11+00:00",
-   "rank": 46,
+   "rank": 47,
    "top_rank": null,
    "related": []
   },
@@ -2978,7 +2987,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-15T20:37:43+00:00",
-   "rank": 47,
+   "rank": 48,
    "top_rank": null,
    "related": []
   },
@@ -3018,7 +3027,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T11:05:00+00:00",
-   "rank": 48,
+   "rank": 49,
    "top_rank": null,
    "related": []
   },
@@ -3058,46 +3067,6 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T09:45:04+00:00",
-   "rank": 49,
-   "top_rank": null,
-   "related": []
-  },
-  {
-   "id": "th-3d9bae5c",
-   "home": "T02",
-   "topics": {
-    "T02": 1
-   },
-   "n_articles": 1,
-   "lead_url": "https://rt-english.com/africa/648902-sudan-ceasefire-un-au-drone-attacks/",
-   "lead_title": "International organizations issue Sudan war plea",
-   "lead_source": "Rt-english.com",
-   "bluf_eligible": false,
-   "articles": [
-    {
-     "topic": "T02",
-     "url": "https://rt-english.com/africa/648902-sudan-ceasefire-un-au-drone-attacks/",
-     "title": "International organizations issue Sudan war plea",
-     "description": "Five international organizations have called for a halt to hostilities in Sudan, condemning drone attacks that have killed civilians and damaged power stations",
-     "source": "Rt-english.com",
-     "publishedAt": "2026-11-16T11:32:52Z",
-     "domain": "rt-english.com",
-     "category": "unclassified",
-     "origin": "rt-english.com"
-    }
-   ],
-   "contradictions": [],
-   "score": 49.5,
-   "n_independent": 1,
-   "best_tier_weight": 0.4,
-   "components": {
-    "corroboration": 0.356,
-    "quality": 0.4,
-    "recency": 0.813,
-    "escalation": 0.423,
-    "severity": 0.8
-   },
-   "latest": "2026-11-16T11:32:52+00:00",
    "rank": 50,
    "top_rank": null,
    "related": []
@@ -3183,6 +3152,46 @@
    "related": []
   },
   {
+   "id": "th-c6a87e99",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.aljazeera.com/opinions/2026/11/16/the-red-sea-cannot-be-secured-without-restoring-the-yemeni-state",
+   "lead_title": "The Red Sea cannot be secured without restoring the Yemeni state",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.aljazeera.com/opinions/2026/11/16/the-red-sea-cannot-be-secured-without-restoring-the-yemeni-state",
+     "title": "The Red Sea cannot be secured without restoring the Yemeni state",
+     "description": "Deployment of naval forces to the region cannot restore maritime security. Reinstating the Yemeni government can.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-11-16T07:06:23Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 49.0,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.685,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-11-16T07:06:23+00:00",
+   "rank": 53,
+   "top_rank": null,
+   "related": []
+  },
+  {
    "id": "th-3fd051ad",
    "home": "T15",
    "topics": {
@@ -3218,7 +3227,7 @@
     "severity": 0.7
    },
    "latest": "2026-11-16T01:52:17+00:00",
-   "rank": 53,
+   "rank": 54,
    "top_rank": null,
    "related": []
   },
@@ -3258,7 +3267,7 @@
     "severity": 0.7
    },
    "latest": "2026-11-15T16:01:00+00:00",
-   "rank": 54,
+   "rank": 55,
    "top_rank": null,
    "related": []
   },
@@ -3298,7 +3307,47 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T13:09:44+00:00",
-   "rank": 55,
+   "rank": 56,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-3d9bae5c",
+   "home": "T01",
+   "topics": {
+    "T01": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://rt-english.com/africa/648902-sudan-ceasefire-un-au-drone-attacks/",
+   "lead_title": "International organizations issue Sudan war plea",
+   "lead_source": "Rt-english.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T01",
+     "url": "https://rt-english.com/africa/648902-sudan-ceasefire-un-au-drone-attacks/",
+     "title": "International organizations issue Sudan war plea",
+     "description": "Five international organizations have called for a halt to hostilities in Sudan, condemning drone attacks that have killed civilians and damaged power stations",
+     "source": "Rt-english.com",
+     "publishedAt": "2026-11-16T11:32:52Z",
+     "domain": "rt-english.com",
+     "category": "unclassified",
+     "origin": "rt-english.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 48.5,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.813,
+    "escalation": 0.423,
+    "severity": 0.7
+   },
+   "latest": "2026-11-16T11:32:52+00:00",
+   "rank": 57,
    "top_rank": null,
    "related": []
   },
@@ -3338,7 +3387,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T13:03:36+00:00",
-   "rank": 56,
+   "rank": 58,
    "top_rank": null,
    "related": []
   },
@@ -3378,7 +3427,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T06:00:00+00:00",
-   "rank": 57,
+   "rank": 59,
    "top_rank": null,
    "related": []
   },
@@ -3418,7 +3467,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-16T14:12:25+00:00",
-   "rank": 58,
+   "rank": 60,
    "top_rank": null,
    "related": []
   },
@@ -3458,47 +3507,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T05:05:00+00:00",
-   "rank": 59,
-   "top_rank": null,
-   "related": []
-  },
-  {
-   "id": "th-c6a87e99",
-   "home": "T01",
-   "topics": {
-    "T01": 1
-   },
-   "n_articles": 1,
-   "lead_url": "https://www.aljazeera.com/opinions/2026/11/16/the-red-sea-cannot-be-secured-without-restoring-the-yemeni-state",
-   "lead_title": "The Red Sea cannot be secured without restoring the Yemeni state",
-   "lead_source": "Al Jazeera English",
-   "bluf_eligible": true,
-   "articles": [
-    {
-     "topic": "T01",
-     "url": "https://www.aljazeera.com/opinions/2026/11/16/the-red-sea-cannot-be-secured-without-restoring-the-yemeni-state",
-     "title": "The Red Sea cannot be secured without restoring the Yemeni state",
-     "description": "Deployment of naval forces to the region cannot restore maritime security. Reinstating the Yemeni government can.",
-     "source": "Al Jazeera English",
-     "publishedAt": "2026-11-16T07:06:23Z",
-     "domain": "aljazeera.com",
-     "category": "wire_primary",
-     "origin": "aljazeera.com"
-    }
-   ],
-   "contradictions": [],
-   "score": 48.0,
-   "n_independent": 1,
-   "best_tier_weight": 1.0,
-   "components": {
-    "corroboration": 0.356,
-    "quality": 1.0,
-    "recency": 0.685,
-    "escalation": 0.0,
-    "severity": 0.7
-   },
-   "latest": "2026-11-16T07:06:23+00:00",
-   "rank": 60,
+   "rank": 61,
    "top_rank": null,
    "related": []
   },
@@ -3538,7 +3547,7 @@
     "severity": 0.8
    },
    "latest": null,
-   "rank": 61,
+   "rank": 62,
    "top_rank": null,
    "related": []
   },
@@ -3578,7 +3587,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T16:25:00+00:00",
-   "rank": 62,
+   "rank": 63,
    "top_rank": null,
    "related": []
   },
@@ -3618,7 +3627,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-16T07:55:24+00:00",
-   "rank": 63,
+   "rank": 64,
    "top_rank": null,
    "related": []
   },
@@ -3658,7 +3667,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T16:08:08+00:00",
-   "rank": 64,
+   "rank": 65,
    "top_rank": null,
    "related": []
   },
@@ -3698,7 +3707,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T06:02:29+00:00",
-   "rank": 65,
+   "rank": 66,
    "top_rank": null,
    "related": []
   },
@@ -3738,7 +3747,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T15:03:23+00:00",
-   "rank": 66,
+   "rank": 67,
    "top_rank": null,
    "related": []
   },
@@ -3778,7 +3787,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-15T06:51:41+00:00",
-   "rank": 67,
+   "rank": 68,
    "top_rank": null,
    "related": []
   },
@@ -3818,7 +3827,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T14:52:01+00:00",
-   "rank": 68,
+   "rank": 69,
    "top_rank": null,
    "related": []
   },
@@ -3858,7 +3867,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T11:00:48+00:00",
-   "rank": 69,
+   "rank": 70,
    "top_rank": null,
    "related": []
   },
@@ -3898,15 +3907,15 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T13:49:20+00:00",
-   "rank": 70,
+   "rank": 71,
    "top_rank": null,
    "related": []
   },
   {
    "id": "th-8a9a3ecd",
-   "home": "T05",
+   "home": "flagship-ru-ua",
    "topics": {
-    "T05": 1
+    "flagship-ru-ua": 1
    },
    "n_articles": 1,
    "lead_url": "https://www.dailymail.com/news/article-16296105/Russias-restless-ultra-rich-oligarchs-started-succession-planning-future-Putin-refer-grandad-report-claims.html",
@@ -3915,7 +3924,7 @@
    "bluf_eligible": true,
    "articles": [
     {
-     "topic": "T05",
+     "topic": "flagship-ru-ua",
      "url": "https://www.dailymail.com/news/article-16296105/Russias-restless-ultra-rich-oligarchs-started-succession-planning-future-Putin-refer-grandad-report-claims.html",
      "title": "Russia's 'restless' ultra-rich oligarchs have started succession planning for a future after Putin and now refer to him as 'grandad', report claims",
      "description": "Russia's mega-rich are already imagining a future without Vladimir Putin as the country's\u00a0billionaire oligarchs grow restless.",
@@ -3938,7 +3947,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T13:19:39+00:00",
-   "rank": 71,
+   "rank": 72,
    "top_rank": null,
    "related": []
   },
@@ -3978,7 +3987,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T16:52:24+00:00",
-   "rank": 72,
+   "rank": 73,
    "top_rank": null,
    "related": []
   },
@@ -4018,7 +4027,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-16T16:49:40+00:00",
-   "rank": 73,
+   "rank": 74,
    "top_rank": null,
    "related": []
   },
@@ -4058,7 +4067,7 @@
     "severity": 0.7
    },
    "latest": "2026-11-16T14:50:44+00:00",
-   "rank": 74,
+   "rank": 75,
    "top_rank": null,
    "related": []
   },
@@ -4098,7 +4107,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-16T03:00:00+00:00",
-   "rank": 75,
+   "rank": 76,
    "top_rank": null,
    "related": []
   },
@@ -4138,7 +4147,7 @@
     "severity": 0.8
    },
    "latest": null,
-   "rank": 76,
+   "rank": 77,
    "top_rank": null,
    "related": []
   },
@@ -4178,7 +4187,7 @@
     "severity": 0.7
    },
    "latest": "2026-11-16T14:00:00+00:00",
-   "rank": 77,
+   "rank": 78,
    "top_rank": null,
    "related": []
   },
@@ -4218,7 +4227,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T14:53:10+00:00",
-   "rank": 78,
+   "rank": 79,
    "top_rank": null,
    "related": []
   },
@@ -4258,7 +4267,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-16T15:14:01+00:00",
-   "rank": 79,
+   "rank": 80,
    "top_rank": null,
    "related": []
   },
@@ -4298,7 +4307,7 @@
     "severity": 0.7
    },
    "latest": "2026-11-16T13:19:17+00:00",
-   "rank": 80,
+   "rank": 81,
    "top_rank": null,
    "related": []
   },
@@ -4338,7 +4347,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T10:45:30+00:00",
-   "rank": 81,
+   "rank": 82,
    "top_rank": null,
    "related": []
   },
@@ -4390,7 +4399,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-15T19:44:10+00:00",
-   "rank": 82,
+   "rank": 83,
    "top_rank": null,
    "related": []
   },
@@ -4430,7 +4439,7 @@
     "severity": 0.5
    },
    "latest": "2026-11-16T16:08:29+00:00",
-   "rank": 83,
+   "rank": 84,
    "top_rank": null,
    "related": []
   },
@@ -4470,7 +4479,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T09:59:00+00:00",
-   "rank": 84,
+   "rank": 85,
    "top_rank": null,
    "related": []
   },
@@ -4510,7 +4519,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T15:07:32+00:00",
-   "rank": 85,
+   "rank": 86,
    "top_rank": null,
    "related": []
   },
@@ -4550,7 +4559,47 @@
     "severity": 0.8
    },
    "latest": null,
-   "rank": 86,
+   "rank": 87,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-4b0ab26e",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.globalresearch.ca/rains-despair-flooding-humanitarian-crisis-gaza/5945929",
+   "lead_title": "Rains and Despair: Flooding and the Humanitarian Crisis in Gaza",
+   "lead_source": "Globalresearch.ca",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.globalresearch.ca/rains-despair-flooding-humanitarian-crisis-gaza/5945929",
+     "title": "Rains and Despair: Flooding and the Humanitarian Crisis in Gaza",
+     "description": "There may well be a time when a note on Gaza will describe something fragrantly hopeful rather than dankly despairing. That time, however, will be some time off. Those on the strip continue to live in precarious conditions, accommodated in \u2026\nThe post Rains an\u2026",
+     "source": "Globalresearch.ca",
+     "publishedAt": "2026-11-16T13:43:23Z",
+     "domain": "globalresearch.ca",
+     "category": "advocacy_opinion",
+     "origin": "globalresearch.ca"
+    }
+   ],
+   "contradictions": [],
+   "score": 43.5,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.884,
+    "escalation": 0.221,
+    "severity": 0.8
+   },
+   "latest": "2026-11-16T13:43:23+00:00",
+   "rank": 88,
    "top_rank": null,
    "related": []
   },
@@ -4590,7 +4639,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T08:18:00+00:00",
-   "rank": 87,
+   "rank": 89,
    "top_rank": null,
    "related": []
   },
@@ -4641,7 +4690,7 @@
     "severity": 0.7
    },
    "latest": "2026-11-16T02:48:41+00:00",
-   "rank": 88,
+   "rank": 90,
    "top_rank": null,
    "related": []
   },
@@ -4681,58 +4730,7 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 89,
-   "top_rank": null,
-   "related": []
-  },
-  {
-   "id": "th-e0bee4f4",
-   "home": "T06",
-   "topics": {
-    "T06": 2
-   },
-   "n_articles": 2,
-   "lead_url": "https://www.ntd.com/ntdplus/mamdanis-disbanding-of-nypds-counterterrorism-response-unit-is-poor-timing-given-violent-riots-across-europe-panel_1185702.html",
-   "lead_title": "Mamdani's Disbanding of NYPD's Counterterrorism Response Unit Is Poor Timing, Given Violent Riots Across Europe: Panel",
-   "lead_source": "Ntd",
-   "bluf_eligible": false,
-   "articles": [
-    {
-     "topic": "T06",
-     "url": "https://www.ntd.com/ntdplus/mamdanis-disbanding-of-nypds-counterterrorism-response-unit-is-poor-timing-given-violent-riots-across-europe-panel_1185702.html",
-     "title": "Mamdani's Disbanding of NYPD's Counterterrorism Response Unit Is Poor Timing, Given Violent Riots Across Europe: Panel",
-     "description": "Jessica Ehrlich, political strategist, and Matt Klink, GOP strategist, and president of Klink Campaigns joined NTD's Jack Bradley, to discuss New York Mayor Zohran Mamdani's disbanding of the Strategic Response Group, (SRG), which was tasked with counterterrorism enforcement and protest response.",
-     "source": "Ntd",
-     "publishedAt": "",
-     "domain": "ntd.com",
-     "category": "unclassified",
-     "origin": "ntd.com"
-    },
-    {
-     "topic": "T06",
-     "url": "https://amgreatness.com/2026/11/16/mamdani-disbands-nypds-elite-crowd-control-unit-creates-civilian-led-team-without-weapons-or-arrest-powers-to-respond-to-riots/",
-     "title": "Mamdani Disbands NYPD\u2019s Elite Crowd Control Unit, Creates Civilian-led Team \u2018Without Weapons or Arrest Powers\u2019 to Respond to Riots",
-     "description": "New York City Mayor Zohran Mamdani announced Monday that he is disbanding the New York Police Department\u2019s Strategic Response Group (SRG), fulfilling a campaign promise [\u2026] Source The post Mamdani Disbands NYPD\u2019s Elite Crowd Control Unit, Creates Civilian-led Team \u2018Without Weapons or Arrest Powers\u2019 ",
-     "source": "whatfinger",
-     "publishedAt": "",
-     "domain": "amgreatness.com",
-     "category": "unclassified",
-     "origin": "amgreatness.com"
-    }
-   ],
-   "contradictions": [],
-   "score": 43.0,
-   "n_independent": 2,
-   "best_tier_weight": 0.4,
-   "components": {
-    "corroboration": 0.565,
-    "quality": 0.4,
-    "recency": 0.5,
-    "escalation": 0.181,
-    "severity": 0.6
-   },
-   "latest": null,
-   "rank": 90,
+   "rank": 91,
    "top_rank": null,
    "related": []
   },
@@ -4772,7 +4770,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-15T07:11:24+00:00",
-   "rank": 91,
+   "rank": 92,
    "top_rank": null,
    "related": []
   },
@@ -4812,7 +4810,7 @@
     "severity": 0.5
    },
    "latest": "2026-11-16T13:15:39+00:00",
-   "rank": 92,
+   "rank": 93,
    "top_rank": null,
    "related": []
   },
@@ -4852,7 +4850,7 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 93,
+   "rank": 94,
    "top_rank": null,
    "related": []
   },
@@ -4892,7 +4890,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T05:47:59+00:00",
-   "rank": 94,
+   "rank": 95,
    "top_rank": null,
    "related": []
   },
@@ -4943,7 +4941,47 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 95,
+   "rank": 96,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-2f10e94d",
+   "home": "T15",
+   "topics": {
+    "T15": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://fortune.com/2026/11/16/faa-ground-stop-airline-recovery-outdated-tech/",
+   "lead_title": "\u2018Walkie-talkie and paper just doesn\u2019t cut it anymore\u2019: FAA ground stop exposes air travel tech Delta\u2019s CEO likens to the 1960s",
+   "lead_source": "Fortune",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T15",
+     "url": "https://fortune.com/2026/11/16/faa-ground-stop-airline-recovery-outdated-tech/",
+     "title": "\u2018Walkie-talkie and paper just doesn\u2019t cut it anymore\u2019: FAA ground stop exposes air travel tech Delta\u2019s CEO likens to the 1960s",
+     "description": "The FAA lifted its nationwide ground stop in under five hours. Nearly 18,000 cancellations later, ground crews running on radios and paper are slowing the reset.",
+     "source": "Fortune",
+     "publishedAt": "2026-11-16T08:06:00Z",
+     "domain": "fortune.com",
+     "category": "established",
+     "origin": "fortune.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 42.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.712,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-11-16T08:06:00+00:00",
+   "rank": 97,
    "top_rank": null,
    "related": []
   },
@@ -4983,7 +5021,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-16T09:58:23+00:00",
-   "rank": 96,
+   "rank": 98,
    "top_rank": null,
    "related": []
   },
@@ -5023,7 +5061,7 @@
     "severity": 0.8
    },
    "latest": null,
-   "rank": 97,
+   "rank": 99,
    "top_rank": null,
    "related": []
   },
@@ -5063,7 +5101,7 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 98,
+   "rank": 100,
    "top_rank": null,
    "related": []
   },
@@ -5103,7 +5141,7 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 99,
+   "rank": 101,
    "top_rank": null,
    "related": []
   },
@@ -5143,7 +5181,7 @@
     "severity": 0.7
    },
    "latest": "2026-11-15T13:55:30+00:00",
-   "rank": 100,
+   "rank": 102,
    "top_rank": null,
    "related": []
   },
@@ -5183,7 +5221,7 @@
     "severity": 0.5
    },
    "latest": null,
-   "rank": 101,
+   "rank": 103,
    "top_rank": null,
    "related": []
   },
@@ -5234,7 +5272,7 @@
     "severity": 0.9
    },
    "latest": "2026-11-16T16:55:58+00:00",
-   "rank": 102,
+   "rank": 104,
    "top_rank": null,
    "related": []
   },
@@ -5285,7 +5323,7 @@
     "severity": 0.8
    },
    "latest": null,
-   "rank": 103,
+   "rank": 105,
    "top_rank": null,
    "related": []
   },
@@ -5325,7 +5363,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T14:02:56+00:00",
-   "rank": 104,
+   "rank": 106,
    "top_rank": null,
    "related": []
   },
@@ -5365,7 +5403,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T13:42:39+00:00",
-   "rank": 105,
+   "rank": 107,
    "top_rank": null,
    "related": []
   },
@@ -5405,7 +5443,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T13:31:25+00:00",
-   "rank": 106,
+   "rank": 108,
    "top_rank": null,
    "related": []
   },
@@ -5445,7 +5483,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-16T02:50:03+00:00",
-   "rank": 107,
+   "rank": 109,
    "top_rank": null,
    "related": []
   },
@@ -5485,7 +5523,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T13:27:20+00:00",
-   "rank": 108,
+   "rank": 110,
    "top_rank": null,
    "related": []
   },
@@ -5525,7 +5563,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T15:07:54+00:00",
-   "rank": 109,
+   "rank": 111,
    "top_rank": null,
    "related": []
   },
@@ -5565,7 +5603,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-15T16:56:48+00:00",
-   "rank": 110,
+   "rank": 112,
    "top_rank": null,
    "related": []
   },
@@ -5605,7 +5643,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T14:55:35+00:00",
-   "rank": 111,
+   "rank": 113,
    "top_rank": null,
    "related": []
   },
@@ -5645,47 +5683,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T11:00:00+00:00",
-   "rank": 112,
-   "top_rank": null,
-   "related": []
-  },
-  {
-   "id": "th-1039582d",
-   "home": "flagship-ir-il",
-   "topics": {
-    "flagship-ir-il": 1
-   },
-   "n_articles": 1,
-   "lead_url": "https://slate.com/news-and-politics/2026/11/trump-foreign-policy-post-midterms-iran-russia-putin.html",
-   "lead_title": "Trump Doubles Down on His Terrible Foreign Policy",
-   "lead_source": "Slate Magazine",
-   "bluf_eligible": false,
-   "articles": [
-    {
-     "topic": "flagship-ir-il",
-     "url": "https://slate.com/news-and-politics/2026/11/trump-foreign-policy-post-midterms-iran-russia-putin.html",
-     "title": "Trump Doubles Down on His Terrible Foreign Policy",
-     "description": "The only thing he\u2019s changing is what he tasks JD Vance with, presumably because he's mad him.",
-     "source": "Slate Magazine",
-     "publishedAt": "2026-11-16T10:50:00Z",
-     "domain": "slate.com",
-     "category": "unclassified",
-     "origin": "slate.com"
-    }
-   ],
-   "contradictions": [],
-   "score": 38.5,
-   "n_independent": 1,
-   "best_tier_weight": 0.4,
-   "components": {
-    "corroboration": 0.356,
-    "quality": 0.4,
-    "recency": 0.791,
-    "escalation": 0.0,
-    "severity": 0.8
-   },
-   "latest": "2026-11-16T10:50:00+00:00",
-   "rank": 113,
+   "rank": 114,
    "top_rank": null,
    "related": []
   },
@@ -5725,7 +5723,7 @@
     "severity": 0.6
    },
    "latest": "2026-11-16T14:17:37+00:00",
-   "rank": 114,
+   "rank": 115,
    "top_rank": null,
    "related": []
   },
@@ -5765,7 +5763,7 @@
     "severity": 0.5
    },
    "latest": "2026-11-16T14:50:18+00:00",
-   "rank": 115,
+   "rank": 116,
    "top_rank": null,
    "related": []
   },
@@ -5805,7 +5803,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T07:21:45+00:00",
-   "rank": 116,
+   "rank": 117,
    "top_rank": null,
    "related": []
   },
@@ -5845,46 +5843,6 @@
     "severity": 0.6
    },
    "latest": null,
-   "rank": 117,
-   "top_rank": null,
-   "related": []
-  },
-  {
-   "id": "th-8cf86312",
-   "home": "T16",
-   "topics": {
-    "T16": 1
-   },
-   "n_articles": 1,
-   "lead_url": "https://www.newyorker.com/magazine/2026/11/23/the-party-will-go-on-at-butterworths",
-   "lead_title": "The Party Will Go On at Butterworth\u2019s",
-   "lead_source": "The New Yorker",
-   "bluf_eligible": false,
-   "articles": [
-    {
-     "topic": "T16",
-     "url": "https://www.newyorker.com/magazine/2026/11/23/the-party-will-go-on-at-butterworths",
-     "title": "The Party Will Go On at Butterworth\u2019s",
-     "description": "At a MAGA hangout on Capitol Hill, the chef Bart Hutchins takes a big-tent approach to hospitality. Hannah Goldfield reports from Butterworth\u2019s on Election Night.",
-     "source": "The New Yorker",
-     "publishedAt": "2026-11-16T11:00:00Z",
-     "domain": "newyorker.com",
-     "category": "unclassified",
-     "origin": "newyorker.com"
-    }
-   ],
-   "contradictions": [],
-   "score": 36.6,
-   "n_independent": 1,
-   "best_tier_weight": 0.4,
-   "components": {
-    "corroboration": 0.356,
-    "quality": 0.4,
-    "recency": 0.796,
-    "escalation": 0.0,
-    "severity": 0.6
-   },
-   "latest": "2026-11-16T11:00:00+00:00",
    "rank": 118,
    "top_rank": null,
    "related": []
@@ -6330,6 +6288,46 @@
    "related": []
   },
   {
+   "id": "th-8a3feaf4",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://activistpost.com/russia-is-no-threat-to-america/",
+   "lead_title": "Russia Is No Threat to America",
+   "lead_source": "Activistpost.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://activistpost.com/russia-is-no-threat-to-america/",
+     "title": "Russia Is No Threat to America",
+     "description": "When you boil down the essence of the alleged Russian military threat to America\u2019s homeland security it amounts to just plain barking idiocy; it\u2019s so out to lunch as to be offensive to even a modicum of human intelligence. As we have seen in Parts 1 & 2, any \u2026",
+     "source": "Activistpost.com",
+     "publishedAt": "2026-11-15T10:47:00Z",
+     "domain": "activistpost.com",
+     "category": "advocacy_opinion",
+     "origin": "activistpost.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 33.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.313,
+    "escalation": 0.161,
+    "severity": 0.8
+   },
+   "latest": "2026-11-15T10:47:00+00:00",
+   "rank": 130,
+   "top_rank": null,
+   "related": []
+  },
+  {
    "id": "th-4434f266",
    "home": "flagship-ir-il",
    "topics": {
@@ -6365,7 +6363,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T12:30:00+00:00",
-   "rank": 130,
+   "rank": 131,
    "top_rank": null,
    "related": []
   },
@@ -6405,7 +6403,7 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 131,
+   "rank": 132,
    "top_rank": null,
    "related": []
   },
@@ -6445,7 +6443,7 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 132,
+   "rank": 133,
    "top_rank": null,
    "related": []
   },
@@ -6485,7 +6483,7 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 133,
+   "rank": 134,
    "top_rank": null,
    "related": []
   },
@@ -6525,7 +6523,7 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 134,
+   "rank": 135,
    "top_rank": null,
    "related": []
   },
@@ -6565,7 +6563,7 @@
     "severity": 0.7
    },
    "latest": null,
-   "rank": 135,
+   "rank": 136,
    "top_rank": null,
    "related": []
   },
@@ -6605,7 +6603,7 @@
     "severity": 0.6
    },
    "latest": null,
-   "rank": 136,
+   "rank": 137,
    "top_rank": null,
    "related": []
   },
@@ -6645,7 +6643,7 @@
     "severity": 0.6
    },
    "latest": null,
-   "rank": 137,
+   "rank": 138,
    "top_rank": null,
    "related": []
   },
@@ -6685,7 +6683,7 @@
     "severity": 0.6
    },
    "latest": null,
-   "rank": 138,
+   "rank": 139,
    "top_rank": null,
    "related": []
   },
@@ -6725,15 +6723,15 @@
     "severity": 0.6
    },
    "latest": null,
-   "rank": 139,
+   "rank": 140,
    "top_rank": null,
    "related": []
   },
   {
    "id": "th-73a6940b",
-   "home": "flagship-ir-il",
+   "home": "T05",
    "topics": {
-    "flagship-ir-il": 1
+    "T05": 1
    },
    "n_articles": 1,
    "lead_url": "https://biztoc.com/x/d3f69ed3621320d2",
@@ -6742,7 +6740,7 @@
    "bluf_eligible": false,
    "articles": [
     {
-     "topic": "flagship-ir-il",
+     "topic": "T05",
      "url": "https://biztoc.com/x/d3f69ed3621320d2",
      "title": "Israel's Lapid accuses Netanyahu of 'attempted coup'",
      "description": "Israel's opposition leader Yair Lapid accused Israeli Prime Minister Benjamin Netanyahu's Likud Party on Monday of not only attempting to \"steal the elections,\" but also attempting a coup d'etat.\"As m...",
@@ -6765,7 +6763,7 @@
     "severity": 0.8
    },
    "latest": "2026-11-16T07:30:04+00:00",
-   "rank": 140,
+   "rank": 141,
    "top_rank": null,
    "related": []
   },
@@ -6805,7 +6803,7 @@
     "severity": 0.5
    },
    "latest": null,
-   "rank": 141,
+   "rank": 142,
    "top_rank": null,
    "related": []
   },
@@ -6845,46 +6843,6 @@
     "severity": 0.5
    },
    "latest": null,
-   "rank": 142,
-   "top_rank": null,
-   "related": []
-  },
-  {
-   "id": "th-8a3feaf4",
-   "home": "T10",
-   "topics": {
-    "T10": 1
-   },
-   "n_articles": 1,
-   "lead_url": "https://activistpost.com/russia-is-no-threat-to-america/",
-   "lead_title": "Russia Is No Threat to America",
-   "lead_source": "Activistpost.com",
-   "bluf_eligible": false,
-   "articles": [
-    {
-     "topic": "T10",
-     "url": "https://activistpost.com/russia-is-no-threat-to-america/",
-     "title": "Russia Is No Threat to America",
-     "description": "When you boil down the essence of the alleged Russian military threat to America\u2019s homeland security it amounts to just plain barking idiocy; it\u2019s so out to lunch as to be offensive to even a modicum of human intelligence. As we have seen in Parts 1 & 2, any \u2026",
-     "source": "Activistpost.com",
-     "publishedAt": "2026-11-15T10:47:00Z",
-     "domain": "activistpost.com",
-     "category": "advocacy_opinion",
-     "origin": "activistpost.com"
-    }
-   ],
-   "contradictions": [],
-   "score": 30.4,
-   "n_independent": 1,
-   "best_tier_weight": 0.3,
-   "components": {
-    "corroboration": 0.356,
-    "quality": 0.3,
-    "recency": 0.313,
-    "escalation": 0.161,
-    "severity": 0.5
-   },
-   "latest": "2026-11-15T10:47:00+00:00",
    "rank": 143,
    "top_rank": null,
    "related": []

@@ -5,13 +5,11 @@
     "T15",
     "T01",
     "T02",
-    "T03",
     "T04",
     "T05",
     "T08",
     "T10",
     "T11",
-    "T12",
     "T13",
     "T14",
     "T16"
@@ -22,7 +20,15 @@
   ],
   "failed": [
     {
+      "topic": "T03",
+      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0) (cause: None)"
+    },
+    {
       "topic": "T06",
+      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0) (cause: None)"
+    },
+    {
+      "topic": "T12",
       "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0) (cause: None)"
     }
   ]
