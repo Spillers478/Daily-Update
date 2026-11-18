@@ -1,0 +1,459 @@
+{
+  "status": "success",
+  "totalResults": 13,
+  "results": [
+    {
+      "article_id": "25fcd33114050b74bcd26be54695a9b8",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV0NUeTAtdHdaTG4tVEEyRjFwTVhoT1dsSjJUb2Z5b1JCdXJ0dEVUV21hN0RKUmlrMnZWd19TZGloa1V2eEk3R0d6WFNmcHNFY1dULTFkdUhLX1hmWmlLTjI5ZVg4N2I1X1F4Mk9XTnF3WjI1WThvdkhxQXQtaEhiQjh2V1VYX0hRdUx3dFJZUG5OZ2xSSU9BYkRjZGZJVUVQWjhQQWVfVmxST0c3d1dDd3dnd0NqQk5MWVE?oc=5",
+      "title": "Gas geyser spews trash and noxious odor into air above L.A. area landfill, prompting public health emergency - NBC News",
+      "description": "Gas geyser spews trash and noxious odor into air above L.A. area landfill, prompting public health emergency NBC News Massive geyser of rotting trash prompts emergency health order in L.A. County KTLA Landfill geyser erupts at Chiquita Canyon in Castaic, prompts evacuation advisory ABC7 Los Angeles Chiquita Canyon Landfill methane eruption prompts LA County probe, relocation aid FOX 11 Los Angeles Dark smoke at the Chiquita Canyon Landfill was 'escape of gas,' not explosion, fire officials say Los Angeles Times",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": null,
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "crime",
+        "environment",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-17 21:43:13",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-18 00:02:47",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "google",
+      "source_name": "Google News",
+      "source_priority": 14,
+      "source_url": "https://news.google.com",
+      "source_icon": "https://i.newsdata.io/google.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 96.2,
+        "neutral": 3.12,
+        "positive": 0.68
+      },
+      "ai_tag": [
+        "pollution",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "8bfddbdd7ac9e7c0f247569ece106bd2",
+      "link": "https://www.nbcnews.com/news/us-news/gas-geyser-spews-trash-noxious-odor-air-l-area-landfill-prompting-publ-rcna609892",
+      "title": "Gas geyser spews trash and noxious odor into air above L.A. area landfill, prompting public health emergency",
+      "description": "Pungent odors wafting from the Chiquita Canyon Landfill prompted Los Angeles County officials to relocate residents after drilling unleashed a geyser of trash and fumes.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "news"
+      ],
+      "creator": [
+        "doha madani"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "crime",
+        "environment",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-17 21:43:13",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-17 22:03:19",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261117-methane-landfill-castaic-california-mn-1630-7bd60a.jpg",
+      "video_url": null,
+      "source_id": "nbcnews",
+      "source_name": "Nbc News",
+      "source_priority": 175,
+      "source_url": "https://www.nbcnews.com",
+      "source_icon": "https://i.newsdata.io/nbcnews.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 96.34,
+        "neutral": 2.91,
+        "positive": 0.75
+      },
+      "ai_tag": [
+        "pollution",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "269f2ba2120986dfffffe1fff26661c2",
+      "link": "https://en.sedaily.com/politics/2026/11/18/korean-persimmons-reach-china-after-17-year-quarantine",
+      "title": "Korean Persimmons Reach China After 17-Year Quarantine Standoff",
+      "description": "Korean sweet persimmons entered China after 17 years of quarantine talks, with the breakthrough coming at the Lee-Xi summit at last year's Gyeongju APEC\u2026",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "politics"
+      ],
+      "creator": [
+        "song jong-ho"
+      ],
+      "language": "english",
+      "country": [
+        "south korea"
+      ],
+      "category": [
+        "top",
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-17 21:40:11",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-17 22:20:54",
+      "image_url": "https://wimg.sedaily.com/news/cms/2026/11/17/news-p.v1.20261117.68ffd06b780949ad8ca7da5713a2eefa_P1.jpg",
+      "video_url": null,
+      "source_id": "sedaily",
+      "source_name": "\uc11c\uc6b8\uacbd\uc81c",
+      "source_priority": 991635,
+      "source_url": "https://www.sedaily.com",
+      "source_icon": "https://i.newsdata.io/sedaily.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.77,
+        "neutral": 3.26,
+        "positive": 95.97
+      },
+      "ai_tag": [
+        "government",
+        "immigration and migrant issues"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "2066f1fb8049470fc2cb3527a2c472ca",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTGMxdFBITVhnUHJtbGFrMUtBQjRaT05sZ0lFYnkzLWhGaXlic29QSUwyYkRYYUNOVHlRbkpva05MSHh3WmtGa2MtamZnZGZIa2Jla280T1ZqMzYxZE53Ukl3aXpzU1ZFdktkNlhIYy1WX2swbGRsMkIxUlFmRGFCVkRB?oc=5",
+      "title": "Two people die after Legionnaires' disease outbreak - Yahoo News Australia",
+      "description": "Two people die after Legionnaires' disease outbreak Yahoo News Australia",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": null,
+      "language": "english",
+      "country": [
+        "australia"
+      ],
+      "category": [
+        "health"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-17 16:29:22",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-17 20:34:04",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "google",
+      "source_name": "Google News",
+      "source_priority": 14,
+      "source_url": "https://news.google.com",
+      "source_icon": "https://i.newsdata.io/google.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 80.8,
+        "neutral": 18.44,
+        "positive": 0.76
+      },
+      "ai_tag": [
+        "accidents",
+        "diseases"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "30c1a3f3fbbe3714654a2ea40dab1055",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jUmhweHVCalgzSHh5Q1ZQMVNzZjZORmxDVXJ6RzhkVmV2eWJ2TWhVTzVjc2I2UTAzSXJFSEVWczlMVXI3ZEVfNTRwbGhCRk9HbWdOZUdRTTBQN2lIeXc?oc=5",
+      "title": "Two people die after Legionnaire's disease outbreak in Rotherham - BBC",
+      "description": "Two people die after Legionnaire's disease outbreak in Rotherham BBC",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": null,
+      "language": "english",
+      "country": [
+        "united kingdom"
+      ],
+      "category": [
+        "health"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-17 16:29:18",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-17 19:03:41",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "google",
+      "source_name": "Google News",
+      "source_priority": 14,
+      "source_url": "https://news.google.com",
+      "source_icon": "https://i.newsdata.io/google.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 87.97,
+        "neutral": 11.33,
+        "positive": 0.7
+      },
+      "ai_tag": [
+        "accidents",
+        "diseases"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "b464856a31db0f2b7c09c1bd33452733",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2p2yp98wo",
+      "title": "Two people die after Legionnaires' disease outbreak",
+      "description": "The source of the outbreak in South Yorkshire has not been identified, according to the UK Health Security Agency.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "lucy ashton"
+      ],
+      "language": "english",
+      "country": [
+        "united kingdom"
+      ],
+      "category": [
+        "crime",
+        "top",
+        "health"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-17 16:29:18",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-17 17:03:38",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a5f/live/670d3390-e29c-11f1-8dda-8925a81c3da5.jpg",
+      "video_url": null,
+      "source_id": "bbc",
+      "source_name": "The Bbc",
+      "source_priority": 1781,
+      "source_url": "http://www.bbc.com",
+      "source_icon": "https://i.newsdata.io/bbc.jpg",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 88.33,
+        "neutral": 11.05,
+        "positive": 0.62
+      },
+      "ai_tag": [
+        "accidents",
+        "diseases"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "cc73c75c4440b7603c071d884d5a6532",
+      "link": "https://english.pravda.ru/news/world/173204-venezuela-rabies-quarantine-2026-outbreak-vaccination/",
+      "title": "Venezuela Declares National Rabies Quarantine After Six Deaths in 2026",
+      "description": "Venezuela has declared a national epidemiological quarantine following six confirmed rabies deaths in 2026. The Ministry of Health reported the death of a 14-year-old in the Sifontes municipality of Bol\u00edvar state due to bat exposure. In Zulia state, five fatalities were attributed to stray dog attacks, claiming the lives of a 68-year-old woman, a 44-year-old man, a 20-year-old man, and two children aged 6 and 14. Laboratory data from the 42nd epidemiological week of 2026 in Zulia state show that 154 of 219 animal brain tissue samples tested positive, a positivity rate of 70.32%. Of these, 128 cases were confirmed in stray dogs, while 19 were found in cats. Wild bats carrying the forest strain of the virus were also identified. The outbreak has affected nine municipalities in Zulia. The highest concentrations are in the Caracabo agglomeration with 77 foci, followed by San Francisco (23), Mara (16), and Lagunillas (12). Nationally, reported suspicious bites reached 42,363, a 25.9% increase over 2025 figures. During the 42nd week alone, health facilities recorded 967 reports of animal bites.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "world"
+      ],
+      "creator": [
+        "margarita kicherova"
+      ],
+      "language": "english",
+      "country": [
+        "russia"
+      ],
+      "category": [
+        "world"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-17 14:22:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-17 14:53:48",
+      "image_url": "https://english.pravda.ru/image/preview/article/2/0/4/173204_amp.jpeg",
+      "video_url": null,
+      "source_id": "pravda_ru",
+      "source_name": "Pravda",
+      "source_priority": 2021197,
+      "source_url": "https://english.pravda.ru",
+      "source_icon": "https://i.newsdata.io/pravda_ru.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 76.66,
+        "neutral": 21.84,
+        "positive": 1.5
+      },
+      "ai_tag": [
+        "accidents",
+        "diseases"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "a30a2a88a46099200b1cd491b610f71e",
+      "link": "http://wrangell.stage1.crc.ms/stories/mpox-viral-disease-outbreak-reported-in-anchorage-with-4-new-cases,82133",
+      "title": "Mpox viral disease outbreak reported in Anchorage with 4 new cases",
+      "description": "A rare viral disease has emerged in an outbreak in Anchorage, and it appears to be expanding, state health officials report. There are now four new cases in Anchorage of mpox, a viral disease ...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": null,
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-17 13:00:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-17 13:27:32",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "wrangellsentinel",
+      "source_name": null,
+      "source_priority": 4120362,
+      "source_url": null,
+      "source_icon": null,
+      "sentiment": null,
+      "sentiment_stats": null,
+      "ai_tag": null,
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "c645067f110ddd8e10568a9f5f8d919c",
+      "link": "https://www.perthnow.com.au/news/crime/grieving-father-settles-over-hotel-quarantine-lawsuit-c-23172913",
+      "title": "Grieving father settles over hotel quarantine lawsuit",
+      "description": "A man who was barred from seeing his wife after their daughter's sudden death because of hotel quarantine has settled an unlawful detention lawsuit.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "crime",
+        "news"
+      ],
+      "creator": [
+        "tara cosoleto"
+      ],
+      "language": "english",
+      "country": [
+        "australia"
+      ],
+      "category": [
+        "breaking"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-17 02:28:08",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-17 02:37:34",
+      "image_url": "https://images.perthnow.com.au/publication/C-23172913/f0edc4d7cad84c0d99a8fd97efc022ec27d4bd2b-16x9-x0y0w1280h720.jpg",
+      "video_url": null,
+      "source_id": "perthnow",
+      "source_name": "Perthnow",
+      "source_priority": 49457,
+      "source_url": "https://www.perthnow.com.au",
+      "source_icon": "https://i.newsdata.io/perthnow.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 83.62,
+        "neutral": 14.91,
+        "positive": 1.47
+      },
+      "ai_tag": [
+        "human rights",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "95ae75dffc0d323ea1e730c6c6018063",
+      "link": "https://www.heraldsun.com.au/truecrimeaustralia/police-courts-victoria/state-settles-false-imprisonment-case-with-dad-locked-in-quarantine-after-daughters-death/news-story/04090f7afaed6c47ec1c0d2a479ebc10",
+      "title": "Grieving father\u2019s hotel quarantine lawsuit against Vic govt settled minutes before trial",
+      "description": null,
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "interest",
+        "the parties",
+        "a corporate lawyer.despite",
+        "the state election",
+        "\u2019s sudden death",
+        "melbourne",
+        "aggravated and exemplary damages",
+        "\u2019s hotel quarantine lawsuit",
+        "a grieving father",
+        "just minutes",
+        "his teenage daughter",
+        "a settlement agreement",
+        "his son",
+        "court",
+        "their chance",
+        "the media",
+        "the case",
+        "victoria",
+        "the case \u2014",
+        "evidence"
+      ],
+      "creator": null,
+      "language": "english",
+      "country": [
+        "australia"
+      ],
+      "category": [
+        "crime",
+        "politics",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-17 01:48:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-17 16:03:46",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "heraldsun",
+      "source_name": "Herald Sun",
+      "source_priority": 11450,
+      "source_url": "https://www.heraldsun.com.au",
+      "source_icon": "https://i.newsdata.io/heraldsun.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 20.18,
+        "neutral": 77.37,
+        "positive": 2.45
+      },
+      "ai_tag": [
+        "politics",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    }
+  ],
+  "nextPage": "1794880080347194704"
+}

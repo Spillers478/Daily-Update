@@ -1,0 +1,53 @@
+{
+  "groups": {
+    "https://www.dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289": "a",
+    "https://www.nzherald.co.nz/business/markets/crypto/auckland-crypto-firm-qbanq-linked-to-sanctioned-russian-a7-network-in-report/premium/GKGFSMBAFZAINAWAF65P2IWRVE/": "b",
+    "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo": "c",
+    "https://www.gov.uk/government/news/more-than-1000-air-defence-missiles-for-ukraine-as-uk-delivers-240-million-in-winter-support": "d",
+    "https://www.breitbart.com/europe/2026/11/17/ukraine-destroys-highly-symbolic-kerch-bridge-connecting-occupied-crimea-to-russian-federation/": "c",
+    "https://www.thejournal.ie/chay-bowes-russia-sanctions-7228818-Nov2026/": "e",
+    "https://www.iss.europa.eu/publications/commentary/putins-preposterous-proposals-are-no-path-peace": "f",
+    "https://www.abc.net.au/news/2026-11-18/ukraine-damages-crimean-bridge-in-major-strike/107396824": "c",
+    "https://theconversation.com/novaya-gazeta-lived-here-russias-media-ecosystem-has-been-slowly-dismantled-over-the-past-decade-296742": "g",
+    "https://gcaptain.com/lpg-tanker-reported-to-have-sunk-off-bulgarias-black-sea-coast/": "h",
+    "https://slashdot.org/firehose.pl?op=view&id=186753626": "i",
+    "https://freerepublic.com/focus/f-news/4403343/posts": "c",
+    "http://www.techdirt.com/2026/11/17/musk-throttles-ukraine-starlink-connections-again-screwing-over-a-u-s-military-ally/": "i",
+    "https://www.businessinsider.com/ukrainian-naval-drone-maker-surprised-by-targets-they-hunt-2026-11": "j",
+    "https://rt-english.com/russia/648943-russia-china-us-summit/": "k",
+    "https://www.nbcnews.com/news/us-news/trump-xi-putin-chase-united-outages-morning-rundown-rcna609759": "k",
+    "https://www.channelnewsasia.com/world/ukraine-missile-strike-severs-russia-crimean-bridge-6558936": "c",
+    "https://biztoc.com/x/620584fef38a0b93": "l",
+    "https://reliefweb.int/report/ukraine/ukraine-protection-civilians-armed-conflict-october-2026": "m",
+    "https://www.intellinews.com/ukraine-s-economy-buckles-under-russian-bombardment-as-one-in-five-big-firms-loses-money-485675/": "n",
+    "https://www.commondreams.org/opinion/ukraine-war-nato-osce": "o",
+    "https://rt-english.com/russia/648952-nabu-sapo-azov-partnership/": "p",
+    "https://freerepublic.com/focus/f-news/4403331/posts": "c",
+    "https://www.nbcnews.com/world/russia/kerch-bridge-strikes-putin-crimea-ukraine-russia-war-kyiv-rcna609756": "c",
+    "https://rt-english.com/russia/648922-ukraine-loan-billions-eu/": "q"
+  },
+  "contradictions": [
+    {
+      "group": "c",
+      "claim_type": "outcome",
+      "summary": "Breitbart says the Kerch Bridge was destroyed outright, while NBC (and its syndicated copy) and BBC describe partial destruction or major damage.",
+      "sources": [
+        {
+          "source": "Breitbart News",
+          "url": "https://www.breitbart.com/europe/2026/11/17/ukraine-destroys-highly-symbolic-kerch-bridge-connecting-occupied-crimea-to-russian-federation/",
+          "says": "Ukraine has destroyed the Kerch bridge"
+        },
+        {
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/world/russia/kerch-bridge-strikes-putin-crimea-ukraine-russia-war-kyiv-rcna609756",
+          "says": "The bridge was partially destroyed and suffered significant damage"
+        },
+        {
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo",
+          "says": "The bridge suffered major damage after a seven-stage attack"
+        }
+      ]
+    }
+  ]
+}

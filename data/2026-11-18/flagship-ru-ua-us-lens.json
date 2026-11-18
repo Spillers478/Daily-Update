@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine - BBC",
+      "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "url": "https://www.bbc.com/news/articles/cw772jk4rvmxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
+      "publishedAt": "2026-11-17T13:01:11Z",
+      "content": "Zelensky said the strike was the result of a seven-stage operation by the military and security services, which saw Ukrainian forces \"gradually destroy air defence systems, radars, electronic warfare\u2026 [+75 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Barak Ravid",
+      "title": "U.S. allies on edge as Trump heads to summit with Xi and Putin - Axios",
+      "description": "They worry that the president will take positions on Ukraine without their input.",
+      "url": "https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried",
+      "urlToImage": "https://images.axios.com/1cEmuqJOIBCZ9-FHs7ynMVJ_DKw=/0x0:1920x1080/1366x768/2025/12/10/1765405167165.jpeg",
+      "publishedAt": "2026-11-17T10:11:25Z",
+      "content": "President Trump's trilateral summit with Chinese President Xi Jinping and Russian President Vladimir Putin has the makings of an unpredictable spectacle and that's exactly what has U.S. allies anxiou\u2026 [+4288 chars]"
+    }
+  ]
+}
