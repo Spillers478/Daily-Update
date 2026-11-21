@@ -1022,3 +1022,23 @@ date,topic_id,topic_label,retrieved,kept_here,moved_out,discarded,unclassified,d
 2026-11-20,T13,Migration / Refugee Crisis,25,5,10,10,0,6,1,ok
 2026-11-20,T14,Threats to US Embassies / Diplomats,25,1,15,9,0,1,1,ok
 2026-11-20,T16,Elections / Electoral Integrity,25,15,0,10,0,18,1,ok
+2026-11-21,flagship-ru-ua,Russia / Ukraine,25,22,1,2,0,46,1,ok
+2026-11-21,flagship-ru-ua-us-lens,Russia / Ukraine — US Media Lens,1,,,,,1,0,not_run
+2026-11-21,flagship-ir-il,Iran / Israel / Middle East,25,15,4,6,0,60,1,ok
+2026-11-21,flagship-ir-il-us-lens,Iran / Israel / Middle East — US Media Lens,2,,,,,2,0,not_run
+2026-11-21,T15,Disaster / Access Denial,19,8,3,8,0,10,1,ok
+2026-11-21,T01,Military Conflict,21,2,16,3,0,11,1,ok
+2026-11-21,T02,Humanitarian Crisis,25,5,8,12,0,13,1,ok
+2026-11-21,T03,Bio/Chemical Attack,25,6,13,6,0,6,1,ok
+2026-11-21,T04,Infectious Outbreak / Pandemic,19,11,0,8,0,11,1,ok
+2026-11-21,T05,Political Instability / Coup Risk,25,2,12,11,0,8,1,ok
+2026-11-21,T06,Mass Uprising / Regime-Threatening Unrest,18,6,9,3,0,8,1,ok
+2026-11-21,T07,Nuclear Weaponry / Attack,25,4,13,8,0,4,1,ok
+2026-11-21,T08,VEO / Regional Insecurity,12,5,6,1,0,9,1,ok
+2026-11-21,T09,American Hostage / Kidnapping,9,6,0,3,0,6,1,ok
+2026-11-21,T10,Military Modernization,25,5,16,4,0,11,1,ok
+2026-11-21,T11,Military Exercise,13,5,4,4,0,5,1,ok
+2026-11-21,T12,Large-Scale Cyber Attack / Internet Blackout,25,15,0,10,0,16,1,ok
+2026-11-21,T13,Migration / Refugee Crisis,25,7,13,5,0,11,1,ok
+2026-11-21,T14,Threats to US Embassies / Diplomats,22,1,16,5,0,1,1,ok
+2026-11-21,T16,Elections / Electoral Integrity,25,16,4,5,0,25,1,ok

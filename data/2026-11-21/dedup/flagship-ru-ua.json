@@ -1,0 +1,48 @@
+{
+  "groups": {
+    "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations": "a",
+    "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o": "b",
+    "https://www.foxnews.com/world/putin-launches-ukraine-barrage-hours-after-trump-meeting-amid-alleged-russian-missile-breach-nato-airspace": "b",
+    "https://www.rte.ie/news/2026/1120/1600033-warsaw-support/": "a",
+    "https://radaronline.com/p/joe-biden-blasts-moody-ungrateful-zelensky-over-ukraine-aid-memoir/": "d",
+    "https://oilprice.com/Geopolitics/Asia/Historic-Superpower-Summit-Delivers-Big-Promises-but-Few-Breakthroughs.html": "e",
+    "https://timesofindia.indiatimes.com/world/europe/russias-war-spills-into-poland-as-missile-crashes-near-ukraine-border-pm-tusk-suspects-provocation/articleshow/136030531.cms": "a",
+    "https://slashdot.org/firehose.pl?op=view&id=186807592": "f",
+    "https://slashdot.org/firehose.pl?op=view&id=186806506": "b",
+    "https://www.dailymail.com/news/article-16309085/Missiles-hit-Poland-Trump-defended-Putin-landing-couple-little-missiles-country-mistake.html": "a",
+    "https://www.irishtimes.com/world/europe/2026/11/20/nato-jets-scrambled-after-russian-missiles-and-drone-hit-poland-during-attacks-on-ukraine/": "a",
+    "https://en.protothema.gr/2026/11/20/putin-to-ukrainians-join-us-on-the-right-side-of-history-the-west-wants-to-dismantle-and-subjugate-you/": "g",
+    "https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how": "h",
+    "https://nypost.com/2026/11/20/us-news/jared-kushner-says-russia-appears-ready-to-accept-nato-like-security-guarantees-for-ukraine/": "i",
+    "https://freerepublic.com/focus/f-news/4403732/posts": "c",
+    "https://freerepublic.com/focus/f-bloggers/4403732/posts": "c",
+    "https://www.huffpost.com/entry/poland-condemns-russian-provocation-after-three-airspace-violations_n_6b004317e4b0976dc4a2f08e": "a",
+    "https://rt-english.com/news/649152-destinus-crimean-bridge-strike-eu-money-trail/": "j",
+    "https://www.newser.com/story/400365/russia-hits-kyiv-bridges-in-massive-overnight-strike.html": "b",
+    "https://www.yahoo.com/news/world/articles/russia-pummels-ukraine-putin-vowed-073406181.html": "a",
+    "https://www.dailymail.com/news/article-16308677/russian-missile-hits-poland-british-troops-ukraine-drills.html": "a",
+    "https://m.economictimes.com/news/defence/russia-bombards-ukraine-killing-at-least-8-after-putin-vowed-retaliation-for-kerch-bridge-attack/articleshow/136027030.cms": "b",
+    "https://www.cbc.ca/news/politics/carney-putin-apec-ukraine-9.7428573": "k",
+    "https://www.mediaite.com/media/news/elon-musk-widely-condemned-for-utter-nonsense-claim-in-support-of-russias-invasion-of-ukraine/": "l",
+    "https://tass.com/politics/2222481": "m"
+  },
+  "contradictions": [
+    {
+      "group": "b",
+      "claim_type": "figures",
+      "summary": "Sources give different counts of the missiles Russia fired in the same overnight barrage.",
+      "sources": [
+        {
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/world/putin-launches-ukraine-barrage-hours-after-trump-meeting-amid-alleged-russian-missile-breach-nato-airspace",
+          "says": "Russia fired over 400 drones and 110 missiles"
+        },
+        {
+          "source": "Newser",
+          "url": "https://www.newser.com/story/400365/russia-hits-kyiv-bridges-in-massive-overnight-strike.html",
+          "says": "nearly 100 missiles and about 400 drones were fired"
+        }
+      ]
+    }
+  ]
+}

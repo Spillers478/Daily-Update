@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Dov  Lieber",
+      "title": "U.S. and Israel considering new assault on Iran, sources say - CBS News",
+      "description": "Israel wants a new joint operation with the U.S. against Iran, but it's unclear whether President Trump is willing to resume military action, and if so, to what extent.",
+      "url": "https://www.cbsnews.com/news/iran-war-us-israel-considering-new-assault-sources-say/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/20/9fba965e-6b65-4f59-ad59-b2d1e54e270a/thumbnail/1200x630/3b0521c70f5d9b290ca2a0e1f561290a/trump-netanyahu-2302293445.jpg",
+      "publishedAt": "2026-11-20T12:02:39Z",
+      "content": "Tel Aviv \u2014\u00a0Israel and the U.S. are considering launching a new assault on Iran in the short term, according to sources familiar with the matter.\u00a0\r\nPrime Minister Benjamin Netanyahu's administration i\u2026 [+8285 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Iran-backed Houthi 'terrorist attack' hits Riyadh's tallest skyscraper and HQ of Saudi Public Investment Fund - Fox News",
+      "description": "A suspected Houthi missile strike hit the Saudi Public Investment Fund Tower in Riyadh, destroying windows across up to eight floors, reports said.",
+      "url": "https://www.foxnews.com/world/iran-backed-houthi-terrorist-attack-hits-riyadh-tallest-skyscraper-hq-saudi-public-investment-fund",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Riyadh-Saudi-Arabia-PIF-Tower-2.jpg",
+      "publishedAt": "2026-11-19T18:32:17Z",
+      "content": "A \"terrorist attack\" by the Iran-backed Houthis damaged multiple floors at the tallest skyscraper in Riyadh, Saudi Arabia, which houses the headquarters of the Saudi Public Investment Fund on Thursda\u2026 [+2208 chars]"
+    }
+  ]
+}

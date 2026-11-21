@@ -1,0 +1,44 @@
+{
+  "groups": {
+    "https://www.newsmax.com/us/usda-cybersecurity-farmers/2026/11/19/id/1276964": "a",
+    "https://www.eff.org/deeplinks/2026/11/outage-chaos-who-turned-all-computer": "b",
+    "https://abcnews.com/Politics/white-house-replaces-national-cyber-director-amid-widespread/story?id=138310514": "c",
+    "https://www.techradar.com/computing/cyber-security/yes-its-been-the-worst-week-of-major-outages-for-13-years-but-ai-cyberattacks-arent-to-blame-heres-whats-happening": "d",
+    "https://www.techradar.com/pro/security/gas-supplier-giant-equinor-hit-by-cyberattack-europes-biggest-gas-supplier-says-it-has-now-restored-services": "e",
+    "https://www.aljazeera.com/news/2026/11/20/us-appoints-new-cybersecurity-chief-after-series-of-tech-failures": "f",
+    "https://wccftech.com/nvidia-faces-ransomware-extortion-threat-as-hackers-threaten-to-leak-stolen-data-on-november-28-company-investigates-possible-partner-breach/": "g",
+    "https://securityaffairs.com/203581/intelligence/trumps-first-move-after-the-outages-fire-the-cyber-director.html": "c",
+    "https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/": "h",
+    "https://www.arcamax.com/business/businessnews/s-4345921": "i",
+    "https://www.techradar.com/pro/security/european-commission-says-it-was-hacked-by-attackers-using-ai-tools-says-it-is-taking-the-necessary-steps-in-response-to-a-detected-cyber-campaign": "j",
+    "https://www.rigzone.com/news/equinor_says_cyberattack_stopped-20-nov-2026-185131-article/": "e",
+    "https://www.irishtimes.com/world/us/2026/11/20/team-trump-and-the-aviation-outage-no-offence-but-markwayne-mullin-seems-like-an-idiot/": "k",
+    "https://www.naturalnews.com/2026-11-20-north-korean-hackers-steal-400m-through-fake-video.html": "l",
+    "https://www.naturalnews.com/2026-11-20-sean-cairncross-resigns-amid-nationwide-technology-outages.html": "c",
+    "https://www.naturalnews.com/2026-11-20-america-ai-powered-cyberwarfare-senators-demand-action.html": "m"
+  },
+  "contradictions": [
+    {
+      "group": "c",
+      "claim_type": "outcome",
+      "summary": "Sources disagree on whether Cyber Director Sean Cairncross was fired or resigned.",
+      "sources": [
+        {
+          "source": "Abcnews.com",
+          "url": "https://abcnews.com/Politics/white-house-replaces-national-cyber-director-amid-widespread/story?id=138310514",
+          "says": "Cairncross was fired, according to a source close to the White House"
+        },
+        {
+          "source": "Securityaffairs.com",
+          "url": "https://securityaffairs.com/203581/intelligence/trumps-first-move-after-the-outages-fire-the-cyber-director.html",
+          "says": "Trump/White House fired Cairncross"
+        },
+        {
+          "source": "Naturalnews.com",
+          "url": "https://www.naturalnews.com/2026-11-20-sean-cairncross-resigns-amid-nationwide-technology-outages.html",
+          "says": "Cairncross resigned, submitting his resignation Thursday, per Axios"
+        }
+      ]
+    }
+  ]
+}
