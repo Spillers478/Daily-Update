@@ -1,0 +1,38 @@
+{
+  "groups": {
+    "https://www.foxnews.com/world/asra-q-nomani-communist-left-wing-extremist-groups-organize-youth-strike-realize-socialist-revolution": "b",
+    "https://abcnews.com/International/wireStory/italy-strike-draws-workers-students-nationwide-protests-wages-138314660": "c",
+    "https://www.bluewin.ch/en/news/france-riots-break-out-again-during-social-protests-li.3682238": "a",
+    "https://www.bundle.app/en/breaking-news/riots-explode-in-france-again-as-cities-torched-by-masked-mobs-and-cops-pelted-578EAA09-A8F8-55EE-99BA-FCA1608E6973": "a",
+    "https://www.thesun.co.uk/news/41101164/french-riots-cities-torched-clashes/": "a",
+    "https://www.zerohedge.com/political/data-center-protests-one-day-trying-spark-race-riots-next-ngo-machine-unhinged": "d",
+    "https://www.nakedcapitalism.com/2026/11/students-around-the-world-are-skipping-class-to-enter-class-struggle.html": "b",
+    "https://sputnikglobe.com/20261121/over-40000-in-switzerland-take-to-streets-against-rising-military-spending---reports-1125126574.html": "b",
+    "https://rt-english.com/news/649165-student-protest-eu-militarization/": "b",
+    "https://www.commondreams.org/news/europe-protests": "b",
+    "https://www.dailymail.com/news/article-16309345/Protesters-arrested-clashes-Youth-Strike-rally-London-thousands-students-set-walk-schools-colleges-universities-France-style-day-action.html": "b",
+    "https://www.rte.ie/news/2026/1120/1600022-europe-protests/": "b",
+    "https://www.thelocal.com/20261120/fight-for-our-future-youth-protesters-to-join-forces-across-europe": "b",
+    "https://www.theepochtimes.com/world/french-left-wing-protests-shrink-but-violence-persists-6127881": "a",
+    "https://www.tehrantimes.com/news/532385/Youth-across-25-European-countries-fill-city-squares-over-war": "b"
+  },
+  "contradictions": [
+    {
+      "group": "a",
+      "claim_type": "figures",
+      "summary": "Sources give conflicting turnout figures for the sixth weekend of French protests: the Interior Ministry count is 82,500, while The Sun reports more than 150,000.",
+      "sources": [
+        {
+          "source": "Bluewin",
+          "url": "https://www.bluewin.ch/en/news/france-riots-break-out-again-during-social-protests-li.3682238",
+          "says": "The Interior Ministry counted 82,500 demonstrators nationwide, 21,500 of them in Paris, and turnout declined."
+        },
+        {
+          "source": "The Sun",
+          "url": "https://www.thesun.co.uk/news/41101164/french-riots-cities-torched-clashes/",
+          "says": "More than 150,000 protesters reportedly took to the streets across the country."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,524 @@
+{
+  "status": "success",
+  "totalResults": 299,
+  "results": [
+    {
+      "article_id": "a9a8bfed219e2cd755f01eec34635f16",
+      "link": "https://www.newindianexpress.com/business/2026/Nov/22/whats-behind-the-barrage-of-tech-outages",
+      "title": "What's behind the barrage of tech outages?",
+      "description": "Governments dismiss high-profile digital disturbances as unrelated events, but one can\u2019t help wondering whether they really are isolated instances or part of a broader pattern.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "business",
+        "microsoft outage",
+        "us flight disruption",
+        "cyberattacks"
+      ],
+      "creator": [
+        "sunitha natti"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-22 03:10:14",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-22 03:33:56",
+      "image_url": "https://cf-images.assettype.com/newindianexpress/2026-11-22/2gepy0p1/New-Project-2026-11-22T083803.442.jpg",
+      "video_url": null,
+      "source_id": "newindianexpress",
+      "source_name": "The New Indian Express",
+      "source_priority": 15406,
+      "source_url": "https://www.newindianexpress.com/nation",
+      "source_icon": "https://i.newsdata.io/newindianexpress.jpg",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 1.1,
+        "neutral": 98.19,
+        "positive": 0.71
+      },
+      "ai_tag": [
+        "social media and internet",
+        "telecom"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "e1ce1b7b111acd499e29c38fee146cc3",
+      "link": "https://www.winknews.com/news/national/fbi-crime-database-hack-could-affect-law-enforcement/article_e3472462-7534-4b6b-b541-bd7ebe6ccbb7.html",
+      "title": "FBI crime database hack could affect law enforcement",
+      "description": "The FBI\u2019s National Crime Information Center was hacked Friday, and the bureau had not said by Saturday who was responsible.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "florida",
+        "federal bureau of investigation",
+        "criminal records",
+        "fort myers",
+        "law enforcement",
+        "fbi\u2019s national crime information center",
+        "fbi law enforcement bulletin",
+        "law enforcement in the united states"
+      ],
+      "creator": [
+        "brendan brown"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "domestic"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-22 03:03:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-22 04:06:36",
+      "image_url": "https://bloximages.chicago2.vip.townnews.com/winknews.com/content/tncms/assets/v3/editorial/3/90/390cbe46-f0dd-44cb-bd58-4115ddbd4386/6b0265dc6abaf.image.png?resize=300%2C169",
+      "video_url": null,
+      "source_id": "winknews",
+      "source_name": "Wink News",
+      "source_priority": 43368,
+      "source_url": "https://www.winknews.com",
+      "source_icon": "https://i.newsdata.io/winknews.jpg",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 14.06,
+        "neutral": 84.82,
+        "positive": 1.12
+      },
+      "ai_tag": [
+        "law and justice",
+        "crime"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "95e624079391a69105c8441ce283f1bc",
+      "link": "https://www.zerohedge.com/ai/watch-ex-nsa-hacker-says-ai-agent-swarm-gutted-company-14-minutes-and-nobody-noticed-hours",
+      "title": "Watch: Ex-NSA Hacker Says AI 'Agent Swarm' Gutted A Company In 14 Minutes - And Nobody Noticed For Hours",
+      "description": "Watch: Ex-NSA Hacker Says AI 'Agent Swarm' Gutted A Company In 14 Minutes - And Nobody Noticed For Hours In an interview that's both alarming and possibly more narrative shaping surrounding the dastardly dangers of AI (why not both?), former NSA hacker David Kennedy says an AI \"agent swarm\" broke into one of his clients, slipped past its two-factor authentication, stole data and encrypted its entire file system in 14 minutes - and he was still cleaning up the mess when he went on air Friday. \"This all took 14 minutes. 14 minutes. Never seen anything that fast before,\" Kennedy, founder of cybersecurity firm TrustedSec, told CNN's Erin Burnett, adding that the company \"didn't even detect it for about four and a half hours.\" Kennedy said the victim called TrustedSec Friday morning - \"not one of the customers that we monitor 24-7\" - and agreed to let him describe the basics without naming it \"because they've never seen anything kind of ripped through their systems this fast.\" He said he almost canceled his appearance because he expected to spend the whole day on the incident. Kennedy said the attack began with valid credentials. \"We saw over 30 different types of agents probing their infrastructure at the exact same time,\" he said. The agents \"logged in with their usernames and passwords, and were able to find a flaw in their application on how they use what's called two-factor authentication.\" \"It bypassed that. They got access to the system. They exfiltrated a substantial amount of data, and then they had a ransomware event,\" he said. According to Kennedy, ransomware crews split the work: some groups \"phish and harvest credentials, usernames and passwords from companies,\" then sell them to \"more sophisticated groups that can actually launch attacks against the system.\" \"The overall message here is that, hey, this stuff is happening, and it's happening quicker than we can typically respond to it,\" he said. Fourteen minutes is breakneck speed vs. what security firms were publishing only weeks ago. In September, Palo Alto Networks' Unit 42 described an intruder using AI agents to work through an enterprise network in roughly 10 hours or less, a job it estimated would take coordinated human red teams about two weeks. On Nov. 13, the FBI warned that ARTEX, a Chinese-built AI hacking framework, lets attackers go from first targeting to privileged access in under three hours, as we reported Thursday. Kennedy's account comes as the FBI investigates a suspected breach of its own National Crime Information Center, the latest in a run of outages and disruptions at critical systems from the FAA to large US banks. In the case Kennedy is working, the company only found out when its encrypted system fell over. \"The system was still running, and eventually it errored out. The system restarted, and then they noticed they had an outage,\" he said. By the time it worked out what had hit it, about four and a half hours in, the attackers \"were already gone for, you know, over four hours.\" Tyler Durden Sat, 11/21/2026 - 21:30",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "tyler durden"
+      ],
+      "language": "english",
+      "country": [
+        "bulgaria"
+      ],
+      "category": [
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-22 02:30:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-22 02:35:55",
+      "image_url": "https://cms.zerohedge.com/sites/default/files/styles/16_9_max_700/public/2026-11/still-23177390-149841-827-still-20261120005456170_80.jpg?itok=9Pk1fVtG",
+      "video_url": null,
+      "source_id": "zerohedge",
+      "source_name": "Zerohedge",
+      "source_priority": 29647,
+      "source_url": "https://www.zerohedge.com",
+      "source_icon": "https://i.newsdata.io/zerohedge.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 70.59,
+        "neutral": 27.32,
+        "positive": 2.09
+      },
+      "ai_tag": [
+        "cybercrime and cybersecurity",
+        "artificial intelligence"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "7042d3e716404f72300a4e0c58386aef",
+      "link": "https://www.nationthailand.com/news/world/40073776",
+      "title": "FBI probes crime database intrusion as Trump fires US cyber chief",
+      "description": "The FBI is investigating a suspected intrusion into a national crime database as the USDA battles a cyber threat and Donald Trump removes the US cyber chief.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "thai",
+        "king",
+        "thailand news",
+        "thai news",
+        "crown prince",
+        "samui",
+        "travel news",
+        "pattaya",
+        "chiang mai",
+        "asean",
+        "phuket",
+        "nation news thailand",
+        "king bhumibol",
+        "the nation",
+        "aec",
+        "bangkok",
+        "koh lanta"
+      ],
+      "creator": [
+        "the nation editorial team"
+      ],
+      "language": "english",
+      "country": [
+        "thailand"
+      ],
+      "category": [
+        "top",
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-22 01:42:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-22 02:05:05",
+      "image_url": "https://media.nationthailand.com/2026/11/7pzYDupjdrq2p6mGDYO3.webp",
+      "video_url": null,
+      "source_id": "nationthailand",
+      "source_name": "Nation Thailand",
+      "source_priority": 25350,
+      "source_url": "https://www.nationthailand.com",
+      "source_icon": "https://i.newsdata.io/nationthailand.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 32.11,
+        "neutral": 66.94,
+        "positive": 0.95
+      },
+      "ai_tag": [
+        "cybercrime and cybersecurity"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "493d9c02cd932a9d3cb2a4971b9804ca",
+      "link": "https://www.foxnews.com/politics/17-major-federal-agencies-flagged-cybersecurity-gaps-watchdog-warns-increased-attack-risk",
+      "title": "17 major federal agencies flagged over cybersecurity gaps as watchdog warns of increased attack risk",
+      "description": "A new Government Accountability Office report found 17 of 22 federal agencies, including HHS and DHS, failed to fully address zero trust guidance, raising cyberattack risks.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "fox-news/health/orthopedics/technology",
+        "fox-news/politics/executive/national-security",
+        "018cd818-8a30-50b8-90cd-f406864becfe",
+        "article",
+        "fox-news/us/education/administration",
+        "fox-news/tech/topics/security",
+        "fnc",
+        "fox-news/politics",
+        "fox-news/us/economy/public-sector",
+        "fox-news/tech/topics/cybercrime",
+        "fox news"
+      ],
+      "creator": [
+        "jasmine baehr"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "politics",
+        "technology"
+      ],
+      "datatype": "multimedia",
+      "pubDate": "2026-11-22 01:36:18",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-22 02:02:25",
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/internet-scammer-presents-cybersecurity-threat.jpg?ve=1&tl=1",
+      "video_url": "https://www.foxnews.com/video/6408671908112",
+      "source_id": "foxnews",
+      "source_name": "Fox News",
+      "source_priority": 394,
+      "source_url": "https://www.foxnews.com",
+      "source_icon": "https://i.newsdata.io/foxnews.jpg",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 88.49,
+        "neutral": 10.55,
+        "positive": 0.96
+      },
+      "ai_tag": [
+        "cybercrime and cybersecurity",
+        "government"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "28c23c7ed8a0412c7e95eb5c9e85d3ab",
+      "link": "https://growmudra.com/news/details/d863690159f6d64c4f5e2ef37466aae6/when-supermarket-fridges-become-cyber-weapons:-the-new-risk",
+      "title": "When Supermarket Fridges Become Cyber Weapons: The New Risk",
+      "description": "France summons Iran over a bizarre supermarket fridge cyberattack. Discover why connected everyday appliances are becoming the new frontier for geopolitical war",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "supermarket fridge hack",
+        "supply chain cybersecurity",
+        "france iran cyberattack",
+        "geopolitical tech risk",
+        "growmudra world news",
+        "global markets",
+        "iot security risks"
+      ],
+      "creator": [
+        "growmudra com"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "business",
+        "world"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-22 01:32:30",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-22 01:48:11",
+      "image_url": "https://growmudra.com/uploads/Blog/b1ad89b6539dc2f886a11cd8d000343e.jpg",
+      "video_url": null,
+      "source_id": "growmudra",
+      "source_name": "Growmudra",
+      "source_priority": 459507,
+      "source_url": "https://growmudra.com",
+      "source_icon": "https://i.newsdata.io/growmudra.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 13.94,
+        "neutral": 80.25,
+        "positive": 5.81
+      },
+      "ai_tag": [
+        "cybercrime and cybersecurity",
+        "e-commerce"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "a2b3df3faf1a428be853845bce009ccc",
+      "link": "https://www.financialexpress.com/world-news/us-news/was-fbis-crime-database-hacked-trump-puts-a-positive-spin-on-reports-all-we-know/4390913/",
+      "title": "Was FBI\u2019s crime database hacked? Trump puts a \u2018positive spin\u2019 on reports \u2013 All we know",
+      "description": "US President Donald Trump downplayed a reported breach of the FBI's National Crime Information Centre, amid investigations and recent tech outages affecting government agencies. This is a developing story.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "national security",
+        "donald trump",
+        "nsa",
+        "fbi breach",
+        "ncic hack",
+        "tech outages",
+        "us government",
+        "cyber security",
+        "cyberattack",
+        "sean cairncross"
+      ],
+      "creator": [
+        "ashima grover"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-22 01:29:20",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-22 01:56:55",
+      "image_url": "https://images.financialexpressdigital.com/2026/11/fbi-breach.jpg",
+      "video_url": null,
+      "source_id": "financialexpress",
+      "source_name": "Financial Express , Read To Lead",
+      "source_priority": 26531,
+      "source_url": "https://www.financialexpress.com",
+      "source_icon": "https://i.newsdata.io/financialexpress.jpg",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 3.81,
+        "neutral": 68.66,
+        "positive": 27.53
+      },
+      "ai_tag": [
+        "law and justice",
+        "crime"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "f1c76ca2bd871467e9af27754194eb7f",
+      "link": "https://7news.com.au/news/world/fbi-suffers-apparent-hack-of-its-national-crime-information-center-database-housing-records-on-fugitives-and-missing-persons-c-23196241",
+      "title": "FBI suffers apparent hack of its National Crime Information Center database housing records on fugitives and missing persons",
+      "description": null,
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "vic news",
+        "world news",
+        "politics",
+        "victorian election 2026",
+        "news",
+        "technology"
+      ],
+      "creator": [
+        "the extent of the incident remains unclear"
+      ],
+      "language": "english",
+      "country": [
+        "australia"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-22 01:26:19",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-22 01:34:31",
+      "image_url": "https://images.7news.com.au/publication/C-23196241/9461630d0ea58cbb9a6a05cfd99d525fcc2b222b-16x9-x0y0w1280h720.png",
+      "video_url": null,
+      "source_id": "7news",
+      "source_name": "7news",
+      "source_priority": 23845,
+      "source_url": "https://7news.com.au",
+      "source_icon": "https://i.newsdata.io/7news.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 87.15,
+        "neutral": 12.12,
+        "positive": 0.73
+      },
+      "ai_tag": [
+        "law and justice",
+        "crime"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "7fb730072dead71f5e5a619e3f85d52e",
+      "link": "https://www.theepochtimes.com/us/trump-reacts-to-reports-that-fbis-records-system-was-hacked-6127835",
+      "title": "Trump Reacts to Reports That FBI\u2019s Records System Was Hacked",
+      "description": "The FBI headquarters in Washington on Aug. 4, 2026. (Madalina Kilroy/The Epoch Times)",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "us politics",
+        "us",
+        "executive branch",
+        "us news"
+      ],
+      "creator": [
+        "jacki thrapp"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-22 00:53:21",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-22 01:02:41",
+      "image_url": "https://img.theepochtimes.com/assets/uploads/2026/08/04/id6071301-DSC03938-FBI-headquarters-1080x720.jpg",
+      "video_url": null,
+      "source_id": "theepochtimes",
+      "source_name": "The Epoch Times",
+      "source_priority": 10731,
+      "source_url": "https://www.theepochtimes.com",
+      "source_icon": "https://i.newsdata.io/theepochtimes.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 3.69,
+        "neutral": 95.11,
+        "positive": 1.2
+      },
+      "ai_tag": [
+        "cybercrime and cybersecurity",
+        "government"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "5108a9d3925c3ab17a1876b88b1b5d73",
+      "link": "https://www.1news.co.nz/2026/11/22/fbi-law-enforcement-database-becomes-the-latest-target-of-hackers/",
+      "title": "FBI law enforcement database becomes the latest target of hackers",
+      "description": "The National Crime Information Center is a computerised database of criminal justice information that includes records on fugitives, missing persons, criminal history data and stolen property.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "technology",
+        "crime and justice",
+        "us politics"
+      ],
+      "creator": [
+        "1 news"
+      ],
+      "language": "english",
+      "country": [
+        "new zealand"
+      ],
+      "category": [
+        "crime",
+        "top",
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-22 00:16:59",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-22 00:42:21",
+      "image_url": "https://www.1news.co.nz/resizer/v2/7H3YYSHPRJCBBM3YIEG5PDGOEM.jpg?auth=4bfd240cb2b29909d08c659cb418a267f1073ef866ff38e62bcf7ed2bd039ad6&smart=true&width=5390&height=3032",
+      "video_url": null,
+      "source_id": "onenews_co_nz",
+      "source_name": "1news",
+      "source_priority": 136874,
+      "source_url": "https://www.1news.co.nz",
+      "source_icon": "https://i.newsdata.io/onenews_co_nz.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 87.84,
+        "neutral": 11.41,
+        "positive": 0.75
+      },
+      "ai_tag": [
+        "cybercrime and cybersecurity",
+        "law and justice"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    }
+  ],
+  "nextPage": "1795306619913232975"
+}

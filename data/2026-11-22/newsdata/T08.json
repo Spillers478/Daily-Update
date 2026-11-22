@@ -1,0 +1,54 @@
+{
+  "status": "success",
+  "totalResults": 1,
+  "results": [
+    {
+      "article_id": "7b66b3bcf93f02f45c1b12ffafdbf18f",
+      "link": "https://www.israelnationalnews.com/news/436730",
+      "title": "Terrorist behind 2024 bombing that wounded two Israelis surrenders to IDF",
+      "description": "Ahmad Yaqoub, who led the terrorist cell behind a 2024 bombing near the Gilboa security barrier, surrenders following weeks of IDF operations to capture him.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "idf",
+        "terrorist arrest"
+      ],
+      "creator": [
+        "israel national news"
+      ],
+      "language": "english",
+      "country": [
+        "israel"
+      ],
+      "category": [
+        "crime",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-20 20:03:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-20 20:33:42",
+      "image_url": "https://www.israelnationalnews.com/files/pictures/0/1226169.jpg",
+      "video_url": null,
+      "source_id": "israelnationalnews",
+      "source_name": "Israelnationalnews",
+      "source_priority": 10196,
+      "source_url": "https://www.israelnationalnews.com",
+      "source_icon": "https://i.newsdata.io/israelnationalnews.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 42.14,
+        "neutral": 37.48,
+        "positive": 20.38
+      },
+      "ai_tag": [
+        "terrorism",
+        "accidents"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    }
+  ],
+  "nextPage": null
+}
