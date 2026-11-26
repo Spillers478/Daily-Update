@@ -1,0 +1,53 @@
+{
+  "groups": {
+    "https://www.thenation.com/article/world/spain-election-explainer-pedro-sanchez/": "a",
+    "https://punchng.com/video-tinubu-arrives-in-maiduguri-for-apc-rally/": "b",
+    "https://www.breitbart.com/europe/2026/11/24/burnham-killing-brexit-could-destroy-democracy-in-britain-warns-farage/": "c",
+    "https://www.breitbart.com/europe/2026/11/24/ceuta-govt-head-slams-spains-pm-sanchez-says-he-represents-submission-to-morocco/": "d",
+    "https://www.wsws.org/en/articles/2026/11/26/kogh-n26.html": "e",
+    "https://www.chron.com/news/article/texas-election-lawsuit-dismissed-22549631.php": "f",
+    "https://www.israelnationalnews.com/news/437130": "g",
+    "https://www.israelnationalnews.com/flashes/698567": "g",
+    "https://www.nzherald.co.nz/nz/nz-needs-faster-election-results-without-sacrificing-accuracy-editorial/premium/4BGLAZ6WIJF5TMSEFITFKBDJN4/": "h",
+    "https://biztoc.com/x/a7b16eb779894298": "i",
+    "https://newrepublic.com/article/218199/abolish-electoral-college-interstate-compact": "j",
+    "https://newrepublic.com/article/217700/democrats-ice-hearings-2026-investigations": "k",
+    "https://www.cbc.ca/news/politics/most-byelections-this-soon-after-general-election-9.7434875": "l",
+    "https://punchng.com/kwankwasiyya-supporters-carry-sticks-but-harm-no-one-obi/": "m",
+    "https://biztoc.com/x/203764337eb16e82": "n",
+    "https://punchng.com/2027-election-delta-killings-heighten-fears-of-poll-violence/": "o",
+    "https://slashdot.org/firehose.pl?op=view&id=186856767": "p",
+    "https://newrepublic.com/post/218347/judge-donald-trump-department-justice-election-interference-hunter-biden-laptop": "q",
+    "https://newrepublic.com/post/218339/donald-trump-turkey-pardon-speech-election-fraud": "r",
+    "https://abcnews.com/Politics/wireStory/democrats-clinch-historic-house-majority-259-seats-largest-138418247": "p",
+    "https://time.com/article/2026/11/24/trump-awards-rudy-giuliani-presidential-medal-of-freedom/": "s",
+    "https://biztoc.com/x/23b943b9c1d5ef7f": "s",
+    "https://biztoc.com/x/8682be087f11fa13": "s",
+    "https://www.huffpost.com/entry/trump-presidential-medal-freedom-rudy-giuliani_n_6b05b292e4b0cf294a14d976": "s",
+    "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6e49e93b-3ddb-42c7-ae7b-6628d4d37f7e": "p"
+  },
+  "contradictions": [
+    {
+      "group": "p",
+      "claim_type": "figures",
+      "summary": "Sources disagree on the year since which 259 seats is the largest Democratic House majority (1990 vs 1992).",
+      "sources": [
+        {
+          "source": "Slashdot.org",
+          "url": "https://slashdot.org/firehose.pl?op=view&id=186856767",
+          "says": "The 259-seat majority is the largest since 1990."
+        },
+        {
+          "source": "Abcnews.com",
+          "url": "https://abcnews.com/Politics/wireStory/democrats-clinch-historic-house-majority-259-seats-largest-138418247",
+          "says": "The 259-seat majority is the largest since 1990."
+        },
+        {
+          "source": "Yahoo Entertainment",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6e49e93b-3ddb-42c7-ae7b-6628d4d37f7e",
+          "says": "The 259-seat majority is the party's largest since 1992."
+        }
+      ]
+    }
+  ]
+}
