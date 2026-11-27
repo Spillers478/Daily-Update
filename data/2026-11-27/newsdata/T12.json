@@ -1,0 +1,511 @@
+{
+  "status": "success",
+  "totalResults": 225,
+  "results": [
+    {
+      "article_id": "ce4540195cbb55cfcaab155bb8bc4bad",
+      "link": "https://www.politico.eu/newsletter/brussels-playbook/eu-leaders-boycott-their-own-summit/",
+      "title": "EU leaders boycott their own summit",
+      "description": "GOOD MORNING. This is Sebastian Starcevic, coming to you after a heavily caffeinated night at the European Council. Keep reading for the blow-by-blow. In today\u2019s Playbook: \u2014 The EU\u2019s interpreters fear AI could harm their profession. \u2014 Europe\u2019s left faces a wipeout after elections in Spain and Sweden. \u2014 Faces in the crowd: Andris Kulbergs, [\u2026]",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "sebastian starcevic"
+      ],
+      "language": "english",
+      "country": [
+        "united kingdom",
+        "czech republic",
+        "denmark",
+        "hungary",
+        "switzerland",
+        "germany",
+        "netherland",
+        "austria",
+        "finland",
+        "portugal",
+        "sweden",
+        "belgium",
+        "spain",
+        "romania",
+        "greece",
+        "france",
+        "poland",
+        "ireland",
+        "norway",
+        "italy"
+      ],
+      "category": [
+        "politics"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-27 05:24:48",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-27 05:39:53",
+      "image_url": "https://www.politico.eu/wp-content/uploads/2025/02/04/Brussels-Playbook.png",
+      "video_url": null,
+      "source_id": "politico_eu",
+      "source_name": "Politico Europe",
+      "source_priority": 84594,
+      "source_url": "https://www.politico.eu",
+      "source_icon": "https://i.newsdata.io/politico_eu.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 95.74,
+        "neutral": 3.51,
+        "positive": 0.75
+      },
+      "ai_tag": [
+        "government",
+        "elections"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "e13ec3cd590f73fd7fddd97951fee80e",
+      "link": "https://www.theregister.com/off-prem/2026/11/27/aws-adds-virtual-iphones-to-its-cloud/5312457",
+      "title": "AWS adds virtual iPhones to its cloud",
+      "description": "Emulating Android, too, but offers just two handsets and one tablet",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "off-prem"
+      ],
+      "creator": [
+        "simon sharwood"
+      ],
+      "language": "english",
+      "country": [
+        "nigeria"
+      ],
+      "category": [
+        "technology",
+        "science"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-27 05:13:32",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-27 06:05:39",
+      "image_url": "https://image.theregister.com/5312462.webp?width=1200",
+      "video_url": null,
+      "source_id": "theregister",
+      "source_name": "The Register",
+      "source_priority": 27110,
+      "source_url": "https://www.theregister.com",
+      "source_icon": "https://i.newsdata.io/theregister.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 0.84,
+        "neutral": 67.85,
+        "positive": 31.31
+      },
+      "ai_tag": [
+        "technology",
+        "social media and internet"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "90dc6e344b74c6cccf5b7e1f193432cb",
+      "link": "https://www.itsecuritynews.info/it-security-news-roundup-2026-11-27-overnight-sap-github-token-theft-fincen-intrusion-and-check-point-attacks/",
+      "title": "IT Security News Roundup: 2026-11-27 Overnight \u2013 SAP GitHub Token Theft, FinCEN Intrusion and Check Point Attacks",
+      "description": "The most consequential thread this period was attacks on trust and the software supply chain. SAP confirmed that attackers used stolen employee tokens to\u2026 Read more \u2192 The post IT Security News Roundup: 2026-11-27 Overnight \u2013 SAP GitHub Token Theft, FinCEN Intrusion and Check Point Attacks appeared first on IT Security News.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "daily roundup",
+        "ai synthesis",
+        "2026-11-27"
+      ],
+      "creator": [
+        "it security news bot"
+      ],
+      "language": "english",
+      "country": [
+        "united states of america"
+      ],
+      "category": [
+        "top",
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-27 05:05:58",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-27 05:29:32",
+      "image_url": null,
+      "video_url": null,
+      "source_id": "itsecuritynews_info",
+      "source_name": "It Security News",
+      "source_priority": 99999999,
+      "source_url": "https://www.itsecuritynews.info",
+      "source_icon": "https://i.newsdata.io/itsecuritynews_info.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 6.18,
+        "neutral": 92.58,
+        "positive": 1.24
+      },
+      "ai_tag": [
+        "cybercrime and cybersecurity",
+        "telecom"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "1ee26f1ce9f1b0d43c6c82f286a3fa88",
+      "link": "https://www.bwhealthcareworld.com/article/health-data-in-india-faces-increasing-risk-of-cyberattacks-breaches-485303",
+      "title": "Health Data In India Faces Increasing Risk Of Cyberattacks, Breaches - BW Healthcare World",
+      "description": "Last year, responding to reports of breaches of data from India's CoWIN vaccine portal, the head of the National Health Authority, RS Sharma, said that it had \"state-of-the-art security infrastructure and has never faced a security breach.\"Last month, Sharma's own personal data was exposed in a massive leak of CoWIN data via the Telegram app. Officials first denied a breach had taken place, then days later, Delhi police said they had arrested two individuals in relation to the leak. The data leak - including names, Aadhaar national IDs, mobile numbers, voter IDs, passports and COVID vaccination status of millions of individuals - was one of the largest in India, and came on the heels of other breaches of CoWIN and Aadhaar data, and the records of a leading hospital in Delhi. The recent breaches of health data are particularly concerning, digital experts said, as they leave individuals vulnerable to scams, harassment and discrimination without remedy in the absence of a data protection law in the country. They warned it also undermines India's aim to develop and export to Asian and African countries its digital public infrastructure model comprising Aadhaar, mobile payment system UPI and the National Health Stack data platform, that authorities say will improve access and efficiency. But in pushing its digital public infrastructure \"India is putting people at risk from data collection and data overreach,\" said Raman Jit Singh Chima, Asia policy director at digital rights group Access Now. \"It's a bad model.\"\"The push for greater digitisation of health data is happening without discussion or adequate data protection. India is seeing an increase in cyberattacks, and the refusal to acknowledge breaches and to hold institutions accountable is a reckless approach,\" he said. The ministry of electronics and information technology did not respond to a request for comment. The health ministry, in a June 12 statement, said that the CoWIN portal \"is completely safe with adequate safeguards for data privacy. All steps have been taken and are being taken to ensure security of the data.\"The federal Computer Emergency Response Team was investigating the incident, it added. No details have since been released. Junior IT minister Rajeev Chandrasekhar said at the time that the leaked CoWIN data was accessed by a bot \"from a threat actor database, which seems to have been populated with previously breached/stolen data.\"\"It does not appear that CoWIN app or database has been directly breached,\" he said on Twitter. Under the ambitious Digital India programme, there is increasing digitisation of data and services in the country. The national digital health mission that aims to link individual health records to a unique ID similar to the Aadhaar ID, has raised concerns about data security and the potential for misuse. In the rush to build out the digital public infrastructure, \"the very suitability of these technologies has gone unchallenged,\" said Aarushi Gupta at Digital Futures Lab, a research collective.\"Given the vast amounts of data collection, processing, and exchange ... citizens are at considerable risk of their data being leaked and their privacy rights being compromised, as seen with the recent leak,\" she added. India was the biggest target for cyberattacks after the United States in 2021 and 2022, with nearly 500 attacks last year, an increase of nearly a fourth, according to cybersecurity firm CloudSEK. A separate study by NordVPN, a virtual private network service provider, last year showed India was the worst hit by data breaches, with some 600,000 people having had their data stolen and sold on bot markets by hackers. Last year, India took aim at VPNs that provide users with anonymity online, with new legislation that it said would improve cybersecurity, including requiring firms to report data breaches within six hours of noticing them. But India's national cybersecurity policy hasn't been updated since 2013, leaving the country's expanding digital infrastructure vulnerable to new threats, said Prateek Waghre, policy director at Internet Freedom Foundation, a non-profit. It is also not clear if a long-delayed data protection bill that is expected to be passed soon, will protect sensitive health data, he told the Thomson Reuters Foundation.\"There is a question of how effective the bill will be, and whether government agencies will be exempt from accountability in case of a breach,\" Waghre added.\"The more data there is, the more it can be abused. If you can access the entire medical history of individuals, imagine how valuable that is for the private sector; how will it be protected from misuse?,\" he said. Healthcare institutions worldwide are increasingly victims of hacks and cyberattacks, with vaccination records and the personal information of patients and healthcare workers most frequently targeted, according to a study by CloudSEK.In November, the All India Institute of Medical Sciences (AIIMS), a federal government hospital that caters to ministers, politicians and the general public, was hit by a cyberattack that shut down its servers and disrupted patient care for weeks. The attack, which officials said had come from a foreign country, is reported to have compromised the records of up to 40 million patients. Earlier, the data of millions of pregnant women was exposed online by a government agency, local media reported.\"Any data leak is harmful, and there are no protocols for confidentiality of sensitive data such as pregnancy, HIV treatment or vaccinations,\" said Amulya Nidhi, founder of Jan Swasthya Abhiyan, or People's Health Movement, a non-profit. \"With leaks of such sensitive data, people can be badly affected. Our entire social framework can be affected,\" Nidhi added.(Reuters)",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "home technology health data",
+        "breaches"
+      ],
+      "language": "english",
+      "country": [
+        "united kingdom"
+      ],
+      "category": [
+        "top",
+        "health",
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-27 04:58:07",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-27 16:39:49",
+      "image_url": "https://static.businessworld.in/1595317818_kTYuvN_Cybersecurity_FINAL.jpg",
+      "video_url": null,
+      "source_id": "bwhealthcareworld",
+      "source_name": "Businessworld Healthcare World",
+      "source_priority": 99999999,
+      "source_url": "https://www.bwhealthcareworld.com",
+      "source_icon": "https://i.newsdata.io/bwhealthcareworld.png",
+      "sentiment": "negative",
+      "sentiment_stats": {
+        "negative": 96.78,
+        "neutral": 2.4,
+        "positive": 0.82
+      },
+      "ai_tag": [
+        "pharma and healthcare",
+        "telecom"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "a2adc0f0618974c8c13b142d3c73c19a",
+      "link": "https://express-press-release.net/news/2026/11/26/1787813",
+      "title": "Consumer Network Attached Storage Market Outlook: USD 18.78 Billion by 2034 at 9.40% CAGR",
+      "description": "According to Polaris Market Research, the global Consumer Network Attached Storage (NAS) Market was valued at USD 6.07 billion in 2024 and is estimated at [read full press release...]",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "consumer network attached storage market",
+        "technology"
+      ],
+      "creator": [
+        "polarismarketresearch"
+      ],
+      "language": "english",
+      "country": [
+        "united kingdom"
+      ],
+      "category": [
+        "top",
+        "science",
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-27 04:57:52",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-27 05:29:24",
+      "image_url": "https://express-press-release.net/news/wp-content/uploads/2026/11/logo-6.jpg",
+      "video_url": null,
+      "source_id": "express_press_release_net",
+      "source_name": "Express-press-release",
+      "source_priority": 99999999,
+      "source_url": "https://express-press-release.net",
+      "source_icon": "https://i.newsdata.io/express_press_release_net.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.81,
+        "neutral": 4.92,
+        "positive": 94.27
+      },
+      "ai_tag": [
+        "research",
+        "telecom"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "b9376f420f34dbd1a48b37d85c52e115",
+      "link": "https://cedarnews.net/newstasks/1202193/town-bernalillo-updates-residents-cyberattack-recovery/",
+      "title": "Town of Bernalillo updates residents on cyberattack recovery",
+      "description": "\u0646\u064f\u0634\u0631 \u0647\u0630\u0627 \u0627\u0644\u0645\u0642\u0627\u0644 \u0623\u0648\u0644\u0627\u064b \u0639\u0628\u0631 Cedarnews.net. \u0644\u0645\u062a\u0627\u0628\u0639\u0629 \u0627\u0644\u0645\u0632\u064a\u062f \u0645\u0646 \u0627\u0644\u0623\u062e\u0628\u0627\u0631 \u0648\u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u062d\u0635\u0631\u064a\u0629\u060c \u0632\u0648\u0631\u0648\u0646\u0627 \u0639\u0644\u0649 \u0645\u0648\u0642\u0639\u0646\u0627. Town Bernalillo updates: Following a cyberattack in October which crippled the town\u2019s technology infrastructure, the Town of Bernalillo has worked hard to. \u062a\u0645 \u0646\u0634\u0631 \u0647\u0630\u0627 \u0627\u0644\u062e\u0628\u0631 \u0639\u0628\u0631 \u0645\u0648\u0642\u0639 Cedarnews \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a. \u0644\u0644\u0627\u0637\u0644\u0627\u0639 \u0639\u0644\u0649 \u0645\u0632\u064a\u062f \u0645\u0646 \u0627\u0644\u0623\u062e\u0628\u0627\u0631 \u0627\u0644\u0639\u0627\u062c\u0644\u0629 \u0648\u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u062d\u0635\u0631\u064a\u0629\u060c \u0632\u0648\u0631\u0648\u0627 \u0645\u0648\u0642\u0639\u0646\u0627 \u0627\u0644\u0631\u0633\u0645\u064a.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "english"
+      ],
+      "creator": [
+        "cedar news editorial team"
+      ],
+      "language": "english",
+      "country": [
+        "lebanon"
+      ],
+      "category": [
+        "top",
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-27 04:29:21",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-27 04:47:05",
+      "image_url": "https://cedarnews.net/wp-content/uploads/2026/09/cedarnews-1.png",
+      "video_url": null,
+      "source_id": "cedarnews_net",
+      "source_name": "Cedar News",
+      "source_priority": 506805,
+      "source_url": "https://cedarnews.net",
+      "source_icon": "https://i.newsdata.io/cedarnews_net.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 1.1,
+        "neutral": 71.07,
+        "positive": 27.83
+      },
+      "ai_tag": [
+        "cybercrime and cybersecurity",
+        "social media and internet"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "f263ad6b3f3aa5cc46d434b465174e30",
+      "link": "https://www.krctimes.com/guest-column/the-war-beneath-the-war/",
+      "title": "\u201cTHE WAR BENEATH THE WAR\u201d",
+      "description": "How Drones, Cyber Warfare, Artificial Intelligence and Intelligence Superiority Are Reshaping Global Power, Strategic Imperatives for India",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "guest column"
+      ],
+      "creator": [
+        "krc times desk"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "politics",
+        "technology"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-27 04:22:36",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-27 04:59:06",
+      "image_url": "https://www.krctimes.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-27-at-9.06.17-AM.jpeg",
+      "video_url": null,
+      "source_id": "krctimes",
+      "source_name": "Krc Times",
+      "source_priority": 99999999,
+      "source_url": "https://www.krctimes.com",
+      "source_icon": "https://i.newsdata.io/krctimes.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 1.58,
+        "neutral": 40.18,
+        "positive": 58.24
+      },
+      "ai_tag": [
+        "cybercrime and cybersecurity",
+        "government"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "8e88a191e34955e62c241818a0a2b518",
+      "link": "https://www.mykhel.com/news/sports-bulletin-november-27-brar-makes-test-debut-india-a-exit-rising-stars-asia-cup-gukesh-conti-460201.html",
+      "title": "Sports Bulletin November 27: Brar makes Test debut, India A exit Rising Stars Asia Cup, Gukesh continues stale",
+      "description": "India A exit the Rising Stars Asia Cup, Gurnoor Brar debuts against New Zealand, and Gukesh draws Game 3 as major sports stories headline November 27.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "syed mushtaq ali trophy",
+        "gurnoor brar test debut",
+        "uber cup 2028",
+        "shubman gill",
+        "sports bulletin november 27",
+        "thangboi singto",
+        "kerala blasters",
+        "india a vs sri lanka a",
+        "fifa cyberattack",
+        "fide world championship 2026",
+        "rising stars asia cup 2026",
+        "india medal tally",
+        "gukesh vs sindarov",
+        "ind vs nz 2nd test",
+        "smat 2026 super league",
+        "pv sindhu",
+        "india 2036 olympics bid",
+        "ahmedabad olympics",
+        "bimstec u23 athletics"
+      ],
+      "creator": [
+        "mykhel staff"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "sports"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-27 04:04:40",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-27 04:08:01",
+      "image_url": "https://images.mykhel.com/webp/img/2026/11/india-a-rising-stars-54671795732360.jpg",
+      "video_url": null,
+      "source_id": "mykhel",
+      "source_name": "Mykhel",
+      "source_priority": 45299,
+      "source_url": "https://www.mykhel.com",
+      "source_icon": "https://i.newsdata.io/mykhel.png",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 20.69,
+        "neutral": 78.07,
+        "positive": 1.24
+      },
+      "ai_tag": [
+        "cricket"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "1e467c1fd78343be71ce5bc19c65d25f",
+      "link": "https://growmudra.com/news/details/e55cd172d1b96493a80f62c60439fce2/microsoft-outage-resolved:-cyberattack-ruled-out",
+      "title": "Microsoft Outage Resolved: Cyberattack Ruled Out",
+      "description": "Microsoft confirms its global outage was caused by a network upgrade, not a hack. Here is what this means for tech investors and digital businesses.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "cloud infrastructure",
+        "cyberattack",
+        "tech stocks",
+        "business continuity",
+        "network capacity",
+        "digital economy",
+        "microsoft outage"
+      ],
+      "creator": [
+        "growmudra com"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "world",
+        "business"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-11-27 03:17:18",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-27 03:36:23",
+      "image_url": "https://growmudra.com/uploads/Blog/678f8624f1fb9e47ab7af797d38b643f.jpg",
+      "video_url": null,
+      "source_id": "growmudra",
+      "source_name": "Growmudra",
+      "source_priority": 459507,
+      "source_url": "https://growmudra.com",
+      "source_icon": "https://i.newsdata.io/growmudra.png",
+      "sentiment": "positive",
+      "sentiment_stats": {
+        "negative": 0.92,
+        "neutral": 30.25,
+        "positive": 68.83
+      },
+      "ai_tag": [
+        "telecom",
+        "social media and internet"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "b02b8c6a57bab5c16a82140596f5289f",
+      "link": "https://cxotoday.com/research/beyond-mega-cartel-dominance-navigating-a-fragmented-ransomware-ecosystem-of-117-active-brands/",
+      "title": "Beyond Mega-Cartel Dominance: Navigating a Fragmented Ransomware Ecosystem of 117 Active Brands",
+      "description": "The State of Ransomware Q3 2026 reveals a combination the ransomware market has not seen before: record victim numbers alongside record-low concentration among its leading groups. More ransomware brands claimed victims, the top ten fell below half of observed activity, and several high-profile organizations rejected major extortion demands. Together, these shifts reveal a ransomware ecosystem growing in [\u2026] The post Beyond Mega-Cartel Dominance: Navigating a Fragmented Ransomware Ecosystem of 117 Active Brands appeared first on CXOToday.com.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": [
+        "ransomware",
+        "research",
+        "cybersecurity"
+      ],
+      "creator": [
+        "cxotoday news desk"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top",
+        "technology"
+      ],
+      "datatype": "research",
+      "pubDate": "2026-11-27 02:44:20",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-11-27 02:49:00",
+      "image_url": "https://cxotoday.com/wp-content/uploads/2020/10/ransomware-pay.jpg",
+      "video_url": null,
+      "source_id": "cxotoday",
+      "source_name": "Cxotoday",
+      "source_priority": 670685,
+      "source_url": "https://cxotoday.com",
+      "source_icon": "https://i.newsdata.io/cxotoday.jpg",
+      "sentiment": "neutral",
+      "sentiment_stats": {
+        "negative": 3.4,
+        "neutral": 64.11,
+        "positive": 32.49
+      },
+      "ai_tag": [
+        "cybercrime and cybersecurity"
+      ],
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    }
+  ],
+  "nextPage": "1795747460001870217"
+}
